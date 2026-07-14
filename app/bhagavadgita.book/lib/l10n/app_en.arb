@@ -1,0 +1,45 @@
+{
+  "@@locale": "en",
+  "settingsTitle": "Settings",
+  "settingsSectionLanguages": "LANGUAGES",
+  "settingsSectionDisplay": "DISPLAY",
+  "settingsSectionAudio": "AUDIO",
+  "settingsSectionInterpretations": "INTERPRETATIONS",
+
+  "settingsContentLanguagesTitle": "Content languages",
+  "settingsContentLanguagesChooseTitle": "Choose content languages",
+  "settingsContentLanguagesAtLeastOne": "You must keep at least one content language.",
+
+  "settingsAppLanguageTitle": "App language",
+  "settingsAppLanguageChooseTitle": "App language",
+  "settingsAppLanguageSystemDefault": "System default",
+
+  "settingsShowSanskrit": "Show Sanskrit",
+  "settingsShowTransliteration": "Show transliteration",
+  "settingsShowTranslation": "Show translation",
+  "settingsShowComment": "Show comments",
+  "settingsShowVocabulary": "Show vocabulary",
+
+  "settingsAudioTranslation": "Translation audio",
+  "settingsAudioSanskrit": "Sanskrit audio",
+  "settingsAudioAutoPlay": "Auto-play next",
+
+  "confirmDownloadTitle": "Download",
+  "confirmDeleteTitle": "Delete",
+  "confirmCancel": "Cancel",
+  "confirmOk": "OK",
+  "confirmYes": "Yes",
+
+  "confirmDownloadAudioTranslation": "Would you like to download audio translation?",
+  "confirmDownloadAudioSanskrit": "Would you like to download audio sanskrit?",
+  "confirmDeleteAudioTranslation": "Would you like to delete audio translation?",
+  "confirmDeleteAudioSanskrit": "Would you like to delete audio sanskrit?",
+
+  "loadingEllipsis": "Loading…",
+
+  "languageName_en": "English",
+  "languageName_ru": "Русский",
+  "languageName_de": "Deutsch",
+  "languageName_spa": "Español"
+}
+

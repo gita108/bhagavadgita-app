@@ -1,0 +1,308 @@
+{
+  "vocabulary": {
+    "(bhūtānām) vistāram": {
+      "meaning": "すべての存在の展開",
+      "transliteration": "ヴィスターラム"
+    },
+    "(he) bharatarṣabha": {
+      "meaning": "バーラタ族の最勝者よ",
+      "transliteration": "バラタルシャバ"
+    },
+    "(he) bhārata": {
+      "meaning": "バーラタの子孫よ",
+      "transliteration": "バーラタ"
+    },
+    "(he) kaunteya": {
+      "meaning": "クンティーの息子よ",
+      "transliteration": "カウンテーヤ"
+    },
+    "(tat)": {
+      "meaning": "場と場を知る者についてのその知識",
+      "transliteration": "タット"
+    },
+    "(ṛṣibhiḥ)": {
+      "meaning": "賢者たちによって",
+      "transliteration": "リシビヒ"
+    },
+    "akṣi-śiraḥ-mukham": {
+      "meaning": "眼、頭、口",
+      "transliteration": "アクシ・シラ・ムカム"
+    },
+    "amānitvam": {
+      "meaning": "名誉を欲しない性質",
+      "transliteration": "アマニトヴァム"
+    },
+    "amṛtam": {
+      "meaning": "生命の甘露",
+      "transliteration": "アムリタム"
+    },
+    "anabhiṣu-aṅgaḥ": {
+      "meaning": "執着しない",
+      "transliteration": "アナビシュ・アンガ"
+    },
+    "anahaṅkāraḥ eva cha": {
+      "meaning": "エゴイズムの不在",
+      "transliteration": "アナンカーラ・エヴァ・チャ"
+    },
+    "anāditvāt": {
+      "meaning": "永遠性ゆえに",
+      "transliteration": "アーナディトヴァート"
+    },
+    "asya": {
+      "meaning": "その人の",
+      "transliteration": "アシャ"
+    },
+    "avijñeyam": {
+      "meaning": "理解しがたい",
+      "transliteration": "アヴィジュネイヤム"
+    },
+    "avinaśyantam": {
+      "meaning": "不滅なるものとして",
+      "transliteration": "アヴィナシャヤンタム"
+    },
+    "bhoktṛtve": {
+      "meaning": "享受者または受苦者としての状態",
+      "transliteration": "ボクトリトヴェ"
+    },
+    "bhūta-prakṛti-mokṣam": {
+      "meaning": "存在の物質自然からの解脱の道",
+      "transliteration": "ブータ・プラクリティ・モークシャム"
+    },
+    "bhūta-pṛthak-bhāvam": {
+      "meaning": "さまざまな種類の存在",
+      "transliteration": "ブータ・プリタク・バーヴァム"
+    },
+    "bhūteṣu": {
+      "meaning": "存在たちの中に",
+      "transliteration": "ブテーシュ"
+    },
+    "brahma sampadyate": {
+      "meaning": "梵の境地に達する",
+      "transliteration": "ブラフマ・サンパディヤテ"
+    },
+    "brahma-sūtra-padaiḥ": {
+      "meaning": "ヴェーダーンタの経典によって",
+      "transliteration": "ブラフマ・スートラ・パダイヒ"
+    },
+    "daśa indriyāṇi": {
+      "meaning": "十の感覚器官（五つの行為器官——声、手、足、肛門、生殖器；五つの知覚器官——眼、舌、皮膚、鼻、耳）",
+      "transliteration": "ダシャ・インドリヤーニ"
+    },
+    "dhiṣṭhitam": {
+      "meaning": "超霊として住まう",
+      "transliteration": "ディシュティタム"
+    },
+    "duḥkha-doṣa-anudarśanam": {
+      "meaning": "苦しみへの気づき",
+      "transliteration": "ドゥフカ・ドーシャ・アヌダルシャナム"
+    },
+    "dveṣaḥ": {
+      "meaning": "憎悪",
+      "transliteration": "ドヴェーシャ"
+    },
+    "eka-stham": {
+      "meaning": "一つの本性に位置する",
+      "transliteration": "エーカ・スタム"
+    },
+    "ekam cha": {
+      "meaning": "そして心",
+      "transliteration": "エーカム・チャ"
+    },
+    "grasiṣṇu cha": {
+      "meaning": "そして呑み尽くす者",
+      "transliteration": "グラシシュ・チャ"
+    },
+    "guṇa-bhoktṛ eva": {
+      "meaning": "すべての性質の主である",
+      "transliteration": "グナ・ボクトリ・エヴァ"
+    },
+    "guṇa-saṅgaḥ": {
+      "meaning": "様相への執着（身体、感覚など）",
+      "transliteration": "グナ・サンガ"
+    },
+    "guṇān eva cha": {
+      "meaning": "そして自然の様相の変容、すなわち喜び、苦しみ、悲しみ、迷妄など",
+      "transliteration": "グナーン・エヴァ・チャ"
+    },
+    "hṛdi": {
+      "meaning": "心の中に",
+      "transliteration": "フリディ"
+    },
+    "indriya-artheṣu vairāgyam": {
+      "meaning": "感覚対象への執着のなさ",
+      "transliteration": "インドリヤ・アルテシュ・ヴァーラギャム"
+    },
+    "indriya-gocharāḥ": {
+      "meaning": "対応する感覚対象（形、味、触覚、匂い、音）",
+      "transliteration": "インドリヤ・ゴチャーラー"
+    },
+    "janma-mṛtyu-jarā-vyādhi": {
+      "meaning": "生・死・老い・病",
+      "transliteration": "ジャンマ・ムリトゥ・ジャー・ヴャーディ"
+    },
+    "jyotiṣām api": {
+      "meaning": "すべての光の",
+      "transliteration": "ジョーティシャーム・アピ"
+    },
+    "jñeyam": {
+      "meaning": "知らるべき対象",
+      "transliteration": "ジュネイヤム"
+    },
+    "jñeyam cha": {
+      "meaning": "そして知らるべき対象（梵、超霊、バガヴァーンとしての主）",
+      "transliteration": "ジュネイヤム・チャ"
+    },
+    "jñāna-chakṣuṣā": {
+      "meaning": "知識の目を通じて",
+      "transliteration": "ジュナーナ・チャクシュシャー"
+    },
+    "kārya-kāraṇa-kartṛtve": {
+      "meaning": "感覚の主宰神々を通じて、結果（身体など）と原因（感覚など）の生産において",
+      "transliteration": "カーリヤ・カーラナ・カルトリトヴェ"
+    },
+    "kṣetra-jñam": {
+      "meaning": "場を知る者として",
+      "transliteration": "クシェートラ・ジュナム"
+    },
+    "kṣetra-jñam eva cha": {
+      "meaning": "そして場を知る者",
+      "transliteration": "クシェートラ・ジュナム・エヴァ・チャ"
+    },
+    "kṣetra-jñaḥ iti": {
+      "meaning": "場を知る者として",
+      "transliteration": "クシェートラ・ジュナ・イティ"
+    },
+    "kṣetra-kṣetrajña-saṁyogāt": {
+      "meaning": "場と場を知る者の結合から生まれたものとして",
+      "transliteration": "クシェートラ・クシェートラジュニャ・サンヨーガート"
+    },
+    "kṣetra-kṣetrajñayoḥ": {
+      "meaning": "場と場を知る者の間の",
+      "transliteration": "クシェートラ・クシェートラジュニョー"
+    },
+    "kṣetram": {
+      "meaning": "場として",
+      "transliteration": "クシェートラム"
+    },
+    "kṣetrī": {
+      "meaning": "場の占有者",
+      "transliteration": "クシェートリー"
+    },
+    "loke": {
+      "meaning": "宇宙に",
+      "transliteration": "ローケ"
+    },
+    "mat-bhāvāya": {
+      "meaning": "我への愛",
+      "transliteration": "マット・バーヴァーヤ"
+    },
+    "na asat": {
+      "meaning": "そして非存在を超え、物質的原因を超える",
+      "transliteration": "ナ・アサット"
+    },
+    "na lipyate": {
+      "meaning": "いかなる行為にも影響されない",
+      "transliteration": "ナ・リプヤテ"
+    },
+    "na sat": {
+      "meaning": "存在を超え、物質的結果を超える",
+      "transliteration": "ナ・サット"
+    },
+    "na upalipyate": {
+      "meaning": "何ものにも汚されず、触れられない",
+      "transliteration": "ナ・ウパリプヤテ"
+    },
+    "nirguṇam cha": {
+      "meaning": "（にもかかわらず）自然の様相を超絶して",
+      "transliteration": "ニルグナム・チャ"
+    },
+    "nirguṇatvāt": {
+      "meaning": "そして物質自然の様相を超絶しているがゆえに",
+      "transliteration": "ニルグナトヴァート"
+    },
+    "paramātmā": {
+      "meaning": "超霊、至高の霊魂",
+      "transliteration": "パールマートマー"
+    },
+    "pañcha cha": {
+      "meaning": "そして五つ",
+      "transliteration": "パンチャ・チャ"
+    },
+    "prabhaviṣṇu": {
+      "meaning": "創造する者",
+      "transliteration": "プラバヴィシュ"
+    },
+    "prakṛti": {
+      "meaning": "物質自然",
+      "transliteration": "プラクリティ"
+    },
+    "prakṛti-sthaḥ": {
+      "meaning": "物質自然の中に位置する",
+      "transliteration": "プラクリティ・スタ"
+    },
+    "puruṣa": {
+      "meaning": "霊我、享受者",
+      "transliteration": "プルシャ"
+    },
+    "puruṣaḥ": {
+      "meaning": "霊我",
+      "transliteration": "プルシャ"
+    },
+    "sarva": {
+      "meaning": "すべての",
+      "transliteration": "サルヴァ"
+    },
+    "sarva-kṣetreṣu": {
+      "meaning": "すべての場において",
+      "transliteration": "サルヴァ・クシェトレーシュ"
+    },
+    "sarva-loka": {
+      "meaning": "すべての世界に",
+      "transliteration": "サルヴァ・ローカ"
+    },
+    "sarvataḥ": {
+      "meaning": "至る所に",
+      "transliteration": "サルヴァタ"
+    },
+    "śarīram": {
+      "meaning": "身体",
+      "transliteration": "シャーイーラム"
+    },
+    "śrī bhagavān": {
+      "meaning": "至高なる主",
+      "transliteration": "シュリー・バガヴァーン"
+    },
+    "sthitaḥ": {
+      "meaning": "住まう",
+      "transliteration": "スティタ"
+    },
+    "tattva-jñāna": {
+      "meaning": "真理の知識",
+      "transliteration": "タットヴァ・ジュナーナ"
+    },
+    "tri-guṇa": {
+      "meaning": "物質自然の三様相",
+      "transliteration": "トリ・グナ"
+    },
+    "upādhi": {
+      "meaning": "制限的な付帯物",
+      "transliteration": "ウパーディ"
+    },
+    "vairāgyam": {
+      "meaning": "超然",
+      "transliteration": "ヴァーラギャム"
+    },
+    "vedānta": {
+      "meaning": "ヴェーダの結論",
+      "transliteration": "ヴェーダーンタ"
+    },
+    "vijñāna": {
+      "meaning": "覚りの知識",
+      "transliteration": "ヴィジュナーナ"
+    },
+    "yoga": {
+      "meaning": "神との結びつき",
+      "transliteration": "ヨーガ"
+    }
+  }
+}

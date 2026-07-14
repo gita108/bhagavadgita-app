@@ -1,0 +1,70 @@
+name: bhagavadgita_book
+description: "A beautiful Bhagavad Gita book app in Flutter."
+publish_to: 'none'
+
+version: 1.0.0+2
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  flutter_versegrid:
+    flutter_versegrid: ^0.1.0
+
+  cupertino_icons: ^1.0.8
+
+  # Local persistence (offline-first)
+  drift: ^2.28.0
+  drift_flutter: ^0.2.4
+  sqlite3_flutter_libs: ^0.5.32
+  path: ^1.9.1
+  path_provider: ^2.1.5
+
+  # UI & Media
+  dio: ^5.9.0
+  shared_preferences: ^2.5.5
+  google_fonts: ^6.3.0
+  intl: ^0.20.2
+  just_audio: ^0.10.5
+  audio_service: ^0.18.17
+  flutter_slidable: ^3.1.2
+  flutter_animate: ^4.5.2
+  flutter_dotenv: ^5.2.1
+  share_plus: ^13.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.5.4
+  drift_dev: ^2.28.0
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - .env
+    - assets/seed/seed_v1_minimal.json
+    - assets/audio/ru/chapter_1_ru.mp3
+    - assets/audio/sanskrit/chapter_1_sanskrit.mp3
+    - assets/icons/icn_guide_1.png
+    - assets/icons/icn_guide_2.png
+    - assets/icons/icn_guide_3.png
+
+  fonts:
+    - family: PTSans
+      fonts:
+        - asset: assets/fonts/PT_Sans-Web-Regular.ttf
+        - asset: assets/fonts/PT_Sans-Web-Italic.ttf
+          style: italic
+        - asset: assets/fonts/PT_Sans-Web-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/PT_Sans-Web-BoldItalic.ttf
+          weight: 700
+          style: italic

@@ -1,0 +1,2936 @@
+{
+  "chapter": 5,
+  "meta": {
+    "source": "/Users/anton/proj/gita/data/chapters/ch-05/vocabulary-source.json",
+    "generated": "2026-03-27",
+    "languages": [
+      "he",
+      "ar",
+      "tr",
+      "sw"
+    ],
+    "approved": false
+  },
+  "vocabulary": {
+    "18497": {
+      "meaning": {
+        "he": "O best of the valiant",
+        "ar": "O best of the valiant",
+        "tr": "O best of the valiant",
+        "sw": "O best of the valiant"
+      }
+    },
+    "18629": {
+      "meaning": {
+        "he": "such seers are to be known as",
+        "ar": "such seers are to be known as",
+        "tr": "such seers are to be known as",
+        "sw": "such seers are to be known as"
+      }
+    },
+    "18712": {
+      "meaning": {
+        "he": "which enter the mind",
+        "ar": "which enter the mind",
+        "tr": "which enter the mind",
+        "sw": "which enter the mind"
+      }
+    },
+    "18506": {
+      "meaning": {
+        "he": "is able to attain to",
+        "ar": "is able to attain to",
+        "tr": "is able to attain to",
+        "sw": "is able to attain to"
+      }
+    },
+    "18601": {
+      "meaning": {
+        "he": "by בורות – by the Lord’s external potency avidyā-śakti to fulfill the living being’s תשוקה to enjoy the חומרי world",
+        "ar": "by الجهل – by the Lord’s external potency avidyā-śakti to fulfill the living being’s الرغبة to enjoy the مادي world",
+        "tr": "by cehalet – by the Lord’s external potency avidyā-śakti to fulfill the living being’s arzu to enjoy the maddi world",
+        "sw": "by ujinga – by the Lord’s external potency avidyā-śakti to fulfill the living being’s tamaa to enjoy the ya kimwili world"
+      }
+    },
+    "18690": {
+      "meaning": {
+        "he": "sees the illumination within",
+        "ar": "sees the illumination within",
+        "tr": "sees the illumination within",
+        "sw": "sees the illumination within"
+      }
+    },
+    "18686": {
+      "meaning": {
+        "he": "experiences the joy of the self within",
+        "ar": "experiences the joy of the self within",
+        "tr": "experiences the joy of the self within",
+        "sw": "experiences the joy of the self within"
+      }
+    },
+    "18687": {
+      "meaning": {
+        "he": "who delights in the self within",
+        "ar": "who delights in the self within",
+        "tr": "who delights in the self within",
+        "sw": "who delights in the self within"
+      }
+    },
+    "18516": {
+      "meaning": {
+        "he": "athough engaged in the functions of",
+        "ar": "athough engaged in the functions of",
+        "tr": "athough engaged in the functions of",
+        "sw": "athough engaged in the functions of"
+      }
+    },
+    "18560": {
+      "meaning": {
+        "he": "and even by the senses",
+        "ar": "and even by the senses",
+        "tr": "and even by the senses",
+        "sw": "and even by the senses"
+      }
+    },
+    "18652": {
+      "meaning": {
+        "he": "The person with mind detached",
+        "ar": "The person with mind detached",
+        "tr": "The person with mind detached",
+        "sw": "The person with mind detached"
+      }
+    },
+    "18646": {
+      "meaning": {
+        "he": "devoid of the delusion of considering one’s body and its attachments as ‘me’ and ‘mine’",
+        "ar": "devoid of the delusion of considering one’s body and its attachments as ‘me’ and ‘mine’",
+        "tr": "devoid of the delusion of considering one’s body and its attachments as ‘me’ and ‘mine’",
+        "sw": "devoid of the delusion of considering one’s body and its attachments as ‘me’ and ‘mine’"
+      }
+    },
+    "18733": {
+      "meaning": {
+        "he": "as the maintainer or worshippable objective",
+        "ar": "as the maintainer or worshippable objective",
+        "tr": "as the maintainer or worshippable objective",
+        "sw": "as the maintainer or worshippable objective"
+      }
+    },
+    "18692": {
+      "meaning": {
+        "he": "attaining the transcendental state",
+        "ar": "attaining the transcendental state",
+        "tr": "attaining the transcendental state",
+        "sw": "attaining the transcendental state"
+      }
+    },
+    "18701": {
+      "meaning": {
+        "he": "שחרור from the mundane plane",
+        "ar": "التحرر from the mundane plane",
+        "tr": "kurtuluş from the mundane plane",
+        "sw": "ukombozi from the mundane plane"
+      }
+    },
+    "18647": {
+      "meaning": {
+        "he": "one in ידע of Brahma",
+        "ar": "one in المعرفة of Brahma",
+        "tr": "one in bilgi of Brahma",
+        "sw": "one in ujuzi of Brahma"
+      }
+    },
+    "18659": {
+      "meaning": {
+        "he": "absorbing himself in מדיטציה on the Absolute",
+        "ar": "absorbing himself in التأمل on the Absolute",
+        "tr": "absorbing himself in meditasyon on the Absolute",
+        "sw": "absorbing himself in kutafakari on the Absolute"
+      }
+    },
+    "18543": {
+      "meaning": {
+        "he": "unto the Supreme Lord",
+        "ar": "unto the Supreme Lord",
+        "tr": "unto the Supreme Lord",
+        "sw": "unto the Supreme Lord"
+      }
+    },
+    "18559": {
+      "meaning": {
+        "he": "by the intelligence",
+        "ar": "by the intelligence",
+        "tr": "by the intelligence",
+        "sw": "by the intelligence"
+      }
+    },
+    "18711": {
+      "meaning": {
+        "he": "external sense objects of sound etc",
+        "ar": "external sense objects of sound etc",
+        "tr": "external sense objects of sound etc",
+        "sw": "external sense objects of sound etc"
+      }
+    },
+    "18473": {
+      "meaning": {
+        "he": "The childish the unwise",
+        "ar": "The childish the unwise",
+        "tr": "The childish the unwise",
+        "sw": "The childish the unwise"
+      }
+    },
+    "18501": {
+      "meaning": {
+        "he": "the cause of sorrow",
+        "ar": "the cause of sorrow",
+        "tr": "the cause of sorrow",
+        "sw": "the cause of sorrow"
+      }
+    },
+    "18450": {
+      "meaning": {
+        "he": "of the two",
+        "ar": "of the two",
+        "tr": "of the two",
+        "sw": "of the two"
+      }
+    },
+    "18527": {
+      "meaning": {
+        "he": "grasping objects in the hands",
+        "ar": "grasping objects in the hands",
+        "tr": "grasping objects in the hands",
+        "sw": "grasping objects in the hands"
+      }
+    },
+    "18534": {
+      "meaning": {
+        "he": "in relation to their respective sense objects of form etc",
+        "ar": "in relation to their respective sense objects of form etc",
+        "tr": "in relation to their respective sense objects of form etc",
+        "sw": "in relation to their respective sense objects of form etc"
+      }
+    },
+    "18511": {
+      "meaning": {
+        "he": "who has mastery over the senses",
+        "ar": "who has mastery over the senses",
+        "tr": "who has mastery over the senses",
+        "sw": "who has mastery over the senses"
+      }
+    },
+    "18462": {
+      "meaning": {
+        "he": "it is to be known that",
+        "ar": "it is to be known that",
+        "tr": "it is to be known that",
+        "sw": "it is to be known that"
+      }
+    },
+    "18564": {
+      "meaning": {
+        "he": "the fruits of פעולה",
+        "ar": "the fruits of العمل",
+        "tr": "the fruits of eylem",
+        "sw": "the fruits of kitendo"
+      }
+    },
+    "18460": {
+      "meaning": {
+        "he": "to ויתור of פעולה",
+        "ar": "to الزهد of العمل",
+        "tr": "to feragat of eylem",
+        "sw": "to kujitoa of kitendo"
+      }
+    },
+    "18458": {
+      "meaning": {
+        "he": "the path of selfless פעולה",
+        "ar": "the path of selfless العمل",
+        "tr": "the path of selfless eylem",
+        "sw": "the path of selfless kitendo"
+      }
+    },
+    "18587": {
+      "meaning": {
+        "he": "ego of considering themselves ‘the doer’",
+        "ar": "ego of considering themselves ‘the doer’",
+        "tr": "ego of considering themselves ‘the doer’",
+        "sw": "ego of considering themselves ‘the doer’"
+      }
+    },
+    "18677": {
+      "meaning": {
+        "he": "the impulses of תשוקה and כעס",
+        "ar": "the impulses of الرغبة and الغضب",
+        "tr": "the impulses of arzu and öfke",
+        "sw": "the impulses of tamaa and hasira"
+      }
+    },
+    "18705": {
+      "meaning": {
+        "he": "and free from תשוקה and כעס",
+        "ar": "and free from الرغبة and الغضب",
+        "tr": "and free from arzu and öfke",
+        "sw": "and free from tamaa and hasira"
+      }
+    },
+    "18557": {
+      "meaning": {
+        "he": "by the body",
+        "ar": "by the body",
+        "tr": "by the body",
+        "sw": "by the body"
+      }
+    },
+    "18558": {
+      "meaning": {
+        "he": "by the mind",
+        "ar": "by the mind",
+        "tr": "by the mind",
+        "sw": "by the mind"
+      }
+    },
+    "18722": {
+      "meaning": {
+        "he": "dedicated to שחרור",
+        "ar": "dedicated to التحرر",
+        "tr": "dedicated to kurtuluş",
+        "sw": "dedicated to ukombozi"
+      }
+    },
+    "23804": {
+      "meaning": {
+        "he": "are deluded thinking the body to be the self",
+        "ar": "are deluded thinking the body to be the self",
+        "tr": "are deluded thinking the body to be the self",
+        "sw": "are deluded thinking the body to be the self"
+      }
+    },
+    "18724": {
+      "meaning": {
+        "he": "a contemplative seeker of the self",
+        "ar": "a contemplative seeker of the self",
+        "tr": "a contemplative seeker of the self",
+        "sw": "a contemplative seeker of the self"
+      }
+    },
+    "18504": {
+      "meaning": {
+        "he": "being a man of ידע",
+        "ar": "being a man of المعرفة",
+        "tr": "being a man of bilgi",
+        "sw": "being a man of ujuzi"
+      }
+    },
+    "18589": {
+      "meaning": {
+        "he": "nor their association with the fruits of actions",
+        "ar": "nor their association with the fruits of actions",
+        "tr": "nor their association with the fruits of actions",
+        "sw": "nor their association with the fruits of actions"
+      }
+    },
+    "18583": {
+      "meaning": {
+        "he": "nor causing work for others",
+        "ar": "nor causing work for others",
+        "tr": "nor causing work for others",
+        "sw": "nor causing work for others"
+      }
+    },
+    "18595": {
+      "meaning": {
+        "he": "neither the sin",
+        "ar": "neither the sin",
+        "tr": "neither the sin",
+        "sw": "neither the sin"
+      }
+    },
+    "18581": {
+      "meaning": {
+        "he": "in the city of nine gates",
+        "ar": "in the city of nine gates",
+        "tr": "in the city of nine gates",
+        "sw": "in the city of nine gates"
+      }
+    },
+    "18529": {
+      "meaning": {
+        "he": "and closing the eyes or blinking",
+        "ar": "and closing the eyes or blinking",
+        "tr": "and closing the eyes or blinking",
+        "sw": "and closing the eyes or blinking"
+      }
+    },
+    "18640": {
+      "meaning": {
+        "he": "and being faultless free from היצמדות and hatred",
+        "ar": "and being faultless free from التعلق and hatred",
+        "tr": "and being faultless free from bağlılık and hatred",
+        "sw": "and being faultless free from ambatanisho and hatred"
+      }
+    },
+    "18469": {
+      "meaning": {
+        "he": "one who is free from duality",
+        "ar": "one who is free from duality",
+        "tr": "one who is free from duality",
+        "sw": "one who is free from duality"
+      }
+    },
+    "18719": {
+      "meaning": {
+        "he": "flowing through the nostrils",
+        "ar": "flowing through the nostrils",
+        "tr": "flowing through the nostrils",
+        "sw": "flowing through the nostrils"
+      }
+    },
+    "18572": {
+      "meaning": {
+        "he": "to the fruits of פעולה",
+        "ar": "to the fruits of العمل",
+        "tr": "to the fruits of eylem",
+        "sw": "to the fruits of kitendo"
+      }
+    },
+    "18718": {
+      "meaning": {
+        "he": "inhalation and exhalation",
+        "ar": "inhalation and exhalation",
+        "tr": "inhalation and exhalation",
+        "sw": "inhalation and exhalation"
+      }
+    },
+    "18622": {
+      "meaning": {
+        "he": "Those who see with equanimity who see Brahma transcendence",
+        "ar": "Those who see with equanimity who see Brahma transcendence",
+        "tr": "Those who see with equanimity who see Brahma transcendence",
+        "sw": "Those who see with equanimity who see Brahma transcendence"
+      }
+    },
+    "18454": {
+      "meaning": {
+        "he": "ויתור of פעולה and the path of selfless פעולה",
+        "ar": "الزهد of العمل and the path of selfless العمل",
+        "tr": "feragat of eylem and the path of selfless eylem",
+        "sw": "kujitoa of kitendo and the path of selfless kitendo"
+      }
+    },
+    "18635": {
+      "meaning": {
+        "he": "the cycle of birth and death",
+        "ar": "the cycle of birth and death",
+        "tr": "the cycle of birth and death",
+        "sw": "the cycle of birth and death"
+      }
+    },
+    "18699": {
+      "meaning": {
+        "he": "dedicated to the welfare of all",
+        "ar": "dedicated to the welfare of all",
+        "tr": "dedicated to the welfare of all",
+        "sw": "dedicated to the welfare of all"
+      }
+    },
+    "18514": {
+      "meaning": {
+        "he": "having reached the state in which his whole being is pervaded with affection and compassion for all beings",
+        "ar": "having reached the state in which his whole being is pervaded with affection and compassion for all beings",
+        "tr": "having reached the state in which his whole being is pervaded with affection and compassion for all beings",
+        "sw": "having reached the state in which his whole being is pervaded with affection and compassion for all beings"
+      }
+    },
+    "23805": {
+      "meaning": {
+        "he": "the worshippable Supreme Lord of all planes Lord Nārāyaṇ",
+        "ar": "the worshippable Supreme Lord of all planes Lord Nārāyaṇ",
+        "tr": "the worshippable Supreme Lord of all planes Lord Nārāyaṇ",
+        "sw": "the worshippable Supreme Lord of all planes Lord Nārāyaṇ"
+      }
+    },
+    "18691": {
+      "meaning": {
+        "he": "such a niṣkām קרמה yogī follower of the יוגה of selfless פעולה",
+        "ar": "such a niṣkām الكرمة yogī follower of the اليوغا of selfless العمل",
+        "tr": "such a niṣkām karma yogī follower of the yoga of selfless eylem",
+        "sw": "such a niṣkām karma yogī follower of the yoga of selfless kitendo"
+      }
+    },
+    "18666": {
+      "meaning": {
+        "he": "born of the senses contacting their objects",
+        "ar": "born of the senses contacting their objects",
+        "tr": "born of the senses contacting their objects",
+        "sw": "born of the senses contacting their objects"
+      }
+    },
+    "18553": {
+      "meaning": {
+        "he": "היצמדות to the fruits of פעולה",
+        "ar": "التعلق to the fruits of العمل",
+        "tr": "bağlılık to the fruits of eylem",
+        "sw": "ambatanisho to the fruits of kitendo"
+      }
+    },
+    "18645": {
+      "meaning": {
+        "he": "endowed with steady intelligence",
+        "ar": "endowed with steady intelligence",
+        "tr": "endowed with steady intelligence",
+        "sw": "endowed with steady intelligence"
+      }
+    },
+    "23806": {
+      "meaning": {
+        "he": "and the benefactor of all living beings by mercifully teaching pure devotion to Me through My devotees since I am the adorable friend of the devotees Lord Kṛṣṇa",
+        "ar": "and the benefactor of all living beings by mercifully teaching pure devotion to Me through My devotees since I am the adorable friend of the devotees Lord Kṛṣṇa",
+        "tr": "and the benefactor of all living beings by mercifully teaching pure devotion to Me through My devotees since I am the adorable friend of the devotees Lord Kṛṣṇa",
+        "sw": "and the benefactor of all living beings by mercifully teaching pure devotion to Me through My devotees since I am the adorable friend of the devotees Lord Kṛṣṇa"
+      }
+    },
+    "18596": {
+      "meaning": {
+        "he": "nor the peity",
+        "ar": "nor the peity",
+        "tr": "nor the peity",
+        "sw": "nor the peity"
+      }
+    },
+    "18475": {
+      "meaning": {
+        "he": "the paths of ויתור and קרמה יוגה",
+        "ar": "the paths of الزهد and الكرمة اليوغا",
+        "tr": "the paths of feragat and karma yoga",
+        "sw": "the paths of kujitoa and karma yoga"
+      }
+    },
+    "18494": {
+      "meaning": {
+        "he": "both sannyās and karma-yoga",
+        "ar": "both sannyās and karma-yoga",
+        "tr": "both sannyās and karma-yoga",
+        "sw": "both sannyās and karma-yoga"
+      }
+    },
+    "18615": {
+      "meaning": {
+        "he": "who think constantly of the Supreme Lord",
+        "ar": "who think constantly of the Supreme Lord",
+        "tr": "who think constantly of the Supreme Lord",
+        "sw": "who think constantly of the Supreme Lord"
+      }
+    },
+    "18618": {
+      "meaning": {
+        "he": "and who are devoted to hearing and singing His glories",
+        "ar": "and who are devoted to hearing and singing His glories",
+        "tr": "and who are devoted to hearing and singing His glories",
+        "sw": "and who are devoted to hearing and singing His glories"
+      }
+    },
+    "18667": {
+      "meaning": {
+        "he": "are the origin of misery",
+        "ar": "are the origin of misery",
+        "tr": "are the origin of misery",
+        "sw": "are the origin of misery"
+      }
+    },
+    "18704": {
+      "meaning": {
+        "he": "who are knowers of the element tvam the soul",
+        "ar": "who are knowers of the element tvam the soul",
+        "tr": "who are knowers of the element tvam the soul",
+        "sw": "who are knowers of the element tvam the soul"
+      }
+    },
+    "18623": {
+      "meaning": {
+        "he": "in a learned and humble",
+        "ar": "in a learned and humble",
+        "tr": "in a learned and humble",
+        "sw": "in a learned and humble"
+      }
+    },
+    "18723": {
+      "meaning": {
+        "he": "free from תשוקה fear and כעס",
+        "ar": "free from الرغبة fear and الغضب",
+        "tr": "free from arzu fear and öfke",
+        "sw": "free from tamaa fear and hasira"
+      }
+    },
+    "18734": {
+      "meaning": {
+        "he": "of the karmīs’ sacrifices and the jñānīs’ austerities",
+        "ar": "of the karmīs’ sacrifices and the jñānīs’ austerities",
+        "tr": "of the karmīs’ sacrifices and the jñānīs’ austerities",
+        "sw": "of the karmīs’ sacrifices and the jñānīs’ austerities"
+      }
+    },
+    "18657": {
+      "meaning": {
+        "he": "which is experienced in self-realisation",
+        "ar": "which is experienced in self-realisation",
+        "tr": "which is experienced in self-realisation",
+        "sw": "which is experienced in self-realisation"
+      }
+    },
+    "18703": {
+      "meaning": {
+        "he": "who have controlled their thoughts conquered the subtle body",
+        "ar": "who have controlled their thoughts conquered the subtle body",
+        "tr": "who have controlled their thoughts conquered the subtle body",
+        "sw": "who have controlled their thoughts conquered the subtle body"
+      }
+    },
+    "18721": {
+      "meaning": {
+        "he": "is a controller of the senses mind and intelligence",
+        "ar": "is a controller of the senses mind and intelligence",
+        "tr": "is a controller of the senses mind and intelligence",
+        "sw": "is a controller of the senses mind and intelligence"
+      }
+    },
+    "18702": {
+      "meaning": {
+        "he": "Of the sannyāsīs",
+        "ar": "Of the sannyāsīs",
+        "tr": "Of the sannyāsīs",
+        "sw": "Of the sannyāsīs"
+      }
+    },
+    "18605": {
+      "meaning": {
+        "he": "of those for whom",
+        "ar": "of those for whom",
+        "tr": "of those for whom",
+        "sw": "of those for whom"
+      }
+    },
+    "18562": {
+      "meaning": {
+        "he": "A niṣkām karma-yogī one engaged in the יוגה of selfless פעולה",
+        "ar": "A niṣkām karma-yogī one engaged in the اليوغا of selfless العمل",
+        "tr": "A niṣkām karma-yogī one engaged in the yoga of selfless eylem",
+        "sw": "A niṣkām karma-yogī one engaged in the yoga of selfless kitendo"
+      }
+    },
+    "18669": {
+      "meaning": {
+        "he": "they begin and end",
+        "ar": "they begin and end",
+        "tr": "they begin and end",
+        "sw": "they begin and end"
+      }
+    },
+    "18613": {
+      "meaning": {
+        "he": "like the sun that dispels darkness",
+        "ar": "like the sun that dispels darkness",
+        "tr": "like the sun that dispels darkness",
+        "sw": "like the sun that dispels darkness"
+      }
+    },
+    "18561": {
+      "meaning": {
+        "he": "for purification of the heart self-purification",
+        "ar": "for purification of the heart self-purification",
+        "tr": "for purification of the heart self-purification",
+        "sw": "for purification of the heart self-purification"
+      }
+    },
+    "18608": {
+      "meaning": {
+        "he": "by self-knowledge by the Lord’s superior potency",
+        "ar": "by self-knowledge by the Lord’s superior potency",
+        "tr": "by self-knowledge by the Lord’s superior potency",
+        "sw": "by self-knowledge by the Lord’s superior potency"
+      }
+    },
+    "18675": {
+      "meaning": {
+        "he": "is able by the יוגה of selfless פעולה",
+        "ar": "is able by the اليوغا of selfless العمل",
+        "tr": "is able by the yoga of selfless eylem",
+        "sw": "is able by the yoga of selfless kitendo"
+      }
+    },
+    "18680": {
+      "meaning": {
+        "he": "leaving the body",
+        "ar": "leaving the body",
+        "tr": "leaving the body",
+        "sw": "leaving the body"
+      }
+    },
+    "18730": {
+      "meaning": {
+        "he": "the joy of his original divine identity",
+        "ar": "the joy of his original divine identity",
+        "tr": "the joy of his original divine identity",
+        "sw": "the joy of his original divine identity"
+      }
+    },
+    "2811": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2690": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2767": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2894": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2877": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2884": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2879": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2812": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2803": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2903": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2825": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2734": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2765": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2689": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2776": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2663": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2758": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2952": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2823": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2886": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2948": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2820": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2695": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2934": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2746": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2959": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2926": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2928": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2925": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2752": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2835": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2613": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2718": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2895": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2657": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2883": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2955": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2652": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2842": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2890": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2933": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2880": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2949": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2881": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2628": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2969": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2749": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2908": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2974": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2899": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2981": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2960": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2701": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2988": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2730": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2950": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2778": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2918": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2810": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2641": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2972": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2698": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2951": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2839": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2945": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2840": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2666": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2885": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2723": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2697": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2843": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2675": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2719": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2834": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2724": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2780": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2782": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2816": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2717": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2699": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2855": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2836": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2826": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2817": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2989": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2642": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2900": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2688": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2732": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2745": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2967": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2729": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2728": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2751": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2731": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2852": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2910": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2973": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2982": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2887": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2966": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2940": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2947": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2946": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2976": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2896": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2857": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2891": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2696": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2673": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2679": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2655": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2753": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2892": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2920": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2747": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2943": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2768": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2787": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2838": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2789": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2796": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2640": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2639": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2791": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2616": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2709": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2738": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2804": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2904": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2750": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2708": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2963": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2954": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2617": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2944": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2975": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2785": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2755": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2938": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2935": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2740": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2792": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2990": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2774": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2968": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2712": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2687": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2985": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2627": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2971": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2978": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2970": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2815": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2905": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2646": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2647": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2694": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2964": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2822": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2779": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2766": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2923": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2771": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2726": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2861": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2837": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2644": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2648": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2635": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2805": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2743": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2744": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2850": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2829": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2714": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2684": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2656": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2670": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2658": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2801": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2827": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2653": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2870": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2913": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2961": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2875": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2794": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2722": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2871": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2618": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2781": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2797": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2762": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2769": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2992": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2937": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2907": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2858": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2654": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2669": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2677": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2977": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2770": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2775": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2798": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2898": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2851": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2863": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2962": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2664": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2841": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2756": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2615": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2685": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2987": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2941": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2700": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2984": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2856": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2980": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2931": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2799": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2848": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2720": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2912": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2953": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2716": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2793": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2671": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2878": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2868": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2859": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2882": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2809": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2893": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2922": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2629": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2986": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2854": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2637": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2983": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2865": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2828": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2831": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2830": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2832": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2833": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2713": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2927": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2902": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2814": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2824": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2906": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2763": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2818": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2665": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2636": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2631": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2874": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2917": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2725": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2844": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2897": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2942": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2957": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2965": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2956": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2939": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2991": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2909": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2621": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2914": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2721": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2715": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2623": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2630": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2759": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2845": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2979": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2676": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2624": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    }
+  }
+}

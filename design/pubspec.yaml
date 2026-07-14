@@ -1,0 +1,54 @@
+name: bhagavadgita_book
+description: "Bhagavad Gita reader — Flutter implementation."
+publish_to: 'none'
+version: 1.0.0+2
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Local persistence
+  drift: ^2.28.0
+  drift_flutter: ^0.2.4
+  sqlite3_flutter_libs: ^0.5.32
+  path: ^1.9.1
+  path_provider: ^2.1.5
+
+  # Networking
+  dio: ^5.9.0
+  shared_preferences: ^2.5.5
+
+  # UI / UX
+  google_fonts: ^6.2.1   # used only for Noto Sans Devanagari fallback
+  flutter_slidable: ^3.1.1
+  just_audio: ^0.9.40
+  audio_service: ^0.18.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.5.4
+  drift_dev: ^2.28.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/app_icon/
+
+  fonts:
+    - family: PTSans
+      fonts:
+        - asset: assets/fonts/PT_Sans-Web-Regular.ttf
+        - asset: assets/fonts/PT_Sans-Web-Italic.ttf
+          style: italic
+        - asset: assets/fonts/PT_Sans-Web-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/PT_Sans-Web-BoldItalic.ttf
+          weight: 700
+          style: italic

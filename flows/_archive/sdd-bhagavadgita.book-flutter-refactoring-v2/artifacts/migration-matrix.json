@@ -1,0 +1,98 @@
+{
+  "version": "1.0",
+  "date": "2026-04-29",
+  "sourceSystems": [
+    "legacy/legacy_bhagavadgita.book_java",
+    "legacy/legacy_bhagavadgita.book_swift",
+    "legacy/legacy_bhagavadgita.book_db"
+  ],
+  "targetSystem": "app/bhagavadgita.book",
+  "entities": [
+    {
+      "name": "Language",
+      "java": "model/Language.java",
+      "swift": "DataClasses/Language.swift",
+      "legacyDb": "db_languages.csv",
+      "flutter": {
+        "table": "languages",
+        "dto": "LanguageDto"
+      }
+    },
+    {
+      "name": "Book",
+      "java": "model/Book.java",
+      "swift": "DataClasses/Book.swift",
+      "legacyDb": "db_books.csv",
+      "flutter": {
+        "table": "books",
+        "dto": "BookDto"
+      }
+    },
+    {
+      "name": "Chapter",
+      "java": "model/Chapter.java",
+      "swift": "DataClasses/Chapter.swift",
+      "legacyDb": "db_chapters.csv",
+      "flutter": {
+        "table": "chapters",
+        "dto": "ChapterDto"
+      }
+    },
+    {
+      "name": "Shloka",
+      "java": "model/Sloka.java",
+      "swift": "DataClasses/Shloka.swift",
+      "legacyDb": "Gita_Slokas.csv",
+      "flutter": {
+        "table": "slokas",
+        "dto": "SlokaDto"
+      }
+    },
+    {
+      "name": "Vocabulary",
+      "java": "model/Vocabulary.java",
+      "swift": "DataClasses/Vocabulary.swift",
+      "legacyDb": "Gita_Vocabularies.csv",
+      "flutter": {
+        "table": "vocabularies",
+        "dto": "VocabularyDto"
+      }
+    },
+    {
+      "name": "Quote",
+      "java": "model/Quote.java",
+      "swift": "DataClasses/Quote.swift",
+      "legacyDb": "db_quoutes.csv",
+      "flutter": {
+        "table": null,
+        "dto": "QuoteDto"
+      }
+    },
+    {
+      "name": "Bookmark",
+      "java": "bookmark flags/table",
+      "swift": "BookmarkModel.swift",
+      "legacyDb": null,
+      "flutter": {
+        "table": "bookmarks",
+        "dto": null
+      }
+    },
+    {
+      "name": "Note",
+      "java": "Sloka.note",
+      "swift": "UserComment",
+      "legacyDb": null,
+      "flutter": {
+        "table": "notes",
+        "dto": null
+      }
+    }
+  ],
+  "rules": [
+    "Keep Data/* endpoint compatibility",
+    "Replace content snapshot atomically",
+    "Never mutate user tables during snapshot replace",
+    "Skip invalid list rows instead of crashing parser"
+  ]
+}

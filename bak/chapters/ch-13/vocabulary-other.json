@@ -1,0 +1,1271 @@
+{
+  "chapter": 13,
+  "meta": {
+    "source": "/Users/anton/proj/gita/data/chapters/ch-13/vocabulary-source.json",
+    "generated": "2026-03-27",
+    "languages": ["he", "ar", "tr", "sw"],
+    "approved": false
+  },
+  "vocabulary": {
+    "21908": {
+      "meaning": {
+        "he": "ההקרנה של כל היצורים",
+        "ar": "إسقاط جميع الكائنات",
+        "tr": "tüm varlıkların yansıması",
+        "sw": "utokeaji wa viumbe vyote"
+      },
+      "transliteration": {
+        "he": "בהוטאנאם ויסטארם",
+        "ar": "بوتانام فيستارام",
+        "tr": "bhūtānām vistāram",
+        "sw": "bhūtānām vistāram"
+      }
+    },
+    "21859": {
+      "meaning": {
+        "he": "הו הטוב ביותר בשושלת בּהארַתַה",
+        "ar": "يا أفضل سلالة بهاراتا",
+        "tr": "Ey Bhārata soyunun en iyisi",
+        "sw": "Ewe bora wa nasaba ya Bhārata"
+      },
+      "transliteration": {
+        "he": "בּהארַתַרשַׁבּה",
+        "ar": "بهاراتارشابا",
+        "tr": "bharatarṣabha",
+        "sw": "bharatarṣabha"
+      }
+    },
+    "21630": {
+      "meaning": {
+        "he": "הו צאצא של שושלת בּהארַתַה",
+        "ar": "يا نسل بهاراتا",
+        "tr": "Ey Bhārata soyundan gelen",
+        "sw": "Ewe mzao wa Bhārata"
+      },
+      "transliteration": {
+        "he": "בּהארַתַה",
+        "ar": "بهاراتا",
+        "tr": "bhārata",
+        "sw": "bhārata"
+      }
+    },
+    "21912": {
+      "meaning": {
+        "he": "הו בנה של קוּנְטִי",
+        "ar": "يا ابن كونتي",
+        "tr": "Ey Kuntī'nin oğlu",
+        "sw": "Ewe mwana wa Kuntī"
+      },
+      "transliteration": {
+        "he": "קוּנְטֵיַה",
+        "ar": "كونتيا",
+        "tr": "kaunteya",
+        "sw": "kaunteya"
+      }
+    },
+    "21657": {
+      "meaning": {
+        "he": "הידע הזה של קְשֵׁתְרַה וקְשֵׁתְרַגְ'נְיַה",
+        "ar": "تلك المعرفة بالك्षेत्र والक्षेत्रज्ञ",
+        "tr": "Kṣetra ve kṣetrajña bilgisi",
+        "sw": "maarifa hayo ya kṣetra na kṣetrajña"
+      },
+      "transliteration": {
+        "he": "טַת",
+        "ar": "تات",
+        "tr": "tat",
+        "sw": "tat"
+      }
+    },
+    "21716": {
+      "meaning": {
+        "he": "על ידי החכמים",
+        "ar": "من قبل الحكماء",
+        "tr": "bilgeler tarafından",
+        "sw": "na wataalamu"
+      },
+      "transliteration": {
+        "he": "רְשִׁיבּיהִ",
+        "ar": "ريشيبهيه",
+        "tr": "ṛṣibhiḥ",
+        "sw": "ṛṣibhiḥ"
+      }
+    },
+    "21737": {
+      "meaning": {
+        "he": "עיניים, ראשים ופיות",
+        "ar": "عيون ورؤوس وأفواه",
+        "tr": "gözler, başlar ve ağızlar",
+        "sw": "macho, vichwa na midomo"
+      },
+      "transliteration": {
+        "he": "אַקְשִׁי-שִׁירַהִּ-מוּקַהם",
+        "ar": "أكشي-شيرا-موكام",
+        "tr": "akṣi-śiraḥ-mukham",
+        "sw": "akṣi-śiraḥ-mukham"
+      }
+    },
+    "21686": {
+      "meaning": {
+        "he": "האיכות של חוסר רצון לכבוד",
+        "ar": "صفة عدم الرغبة في الشرف",
+        "tr": "onur için isteksizlik niteliği",
+        "sw": "sifa ya kutotaka heshima"
+      },
+      "transliteration": {
+        "he": "אַמָאנִיתְוַם",
+        "ar": "أمانيتفام",
+        "tr": "amānitvam",
+        "sw": "amānitvam"
+      }
+    },
+    "21727": {
+      "meaning": {
+        "he": "צוף החיים",
+        "ar": "رحيق الحياة",
+        "tr": "hayatın özü",
+        "sw": "asali ya uzima"
+      },
+      "transliteration": {
+        "he": "אַמְרְתַם",
+        "ar": "أمريتام",
+        "tr": "amṛtam",
+        "sw": "amṛtam"
+      }
+    },
+    "21700": {
+      "meaning": {
+        "he": "לא להיצמד",
+        "ar": "عدم التعلق",
+        "tr": "bağlanmamak",
+        "sw": "kutoshikamana"
+      },
+      "transliteration": {
+        "he": "אַנַבּהִישׁוּ-אַנְגַה",
+        "ar": "أنابهيشو-أنغا",
+        "tr": "anabhiṣu-aṅgaḥ",
+        "sw": "anabhiṣu-aṅgaḥ"
+      }
+    },
+    "21696": {
+      "meaning": {
+        "he": "היעדר אנוכיות",
+        "ar": "غياب الأنانية",
+        "tr": "bencillik yokluğu",
+        "sw": "kutokuwa na ubinafsi"
+      },
+      "transliteration": {
+        "he": "אַנַהַנְכָּארַה אֵוַה צַ'ה",
+        "ar": "أناهاكارا إيفا تشا",
+        "tr": "anahaṅkāraḥ eva cha",
+        "sw": "anahaṅkāraḥ eva cha"
+      }
+    },
+    "21913": {
+      "meaning": {
+        "he": "בגלל הנצחיות",
+        "ar": "بسبب الخلود",
+        "tr": "ebedilik nedeniyle",
+        "sw": "kwa sababu ya uzima wa milele"
+      },
+      "transliteration": {
+        "he": "אַנָאדִיתְוָאת",
+        "ar": "أناديتفات",
+        "tr": "anāditvāt",
+        "sw": "anāditvāt"
+      }
+    },
+    "21817": {
+      "meaning": {
+        "he": "של אותו אדם",
+        "ar": "من ذلك الشخص",
+        "tr": "o kişinin",
+        "sw": "wa mtu huyo"
+      },
+      "transliteration": {
+        "he": "אַסְיַה",
+        "ar": "أسيا",
+        "tr": "asya",
+        "sw": "asya"
+      }
+    },
+    "21760": {
+      "meaning": {
+        "he": "קשה להבנה",
+        "ar": "صعب الفهم",
+        "tr": "anlaşılması zor",
+        "sw": "ni vigumu kuelewa"
+      },
+      "transliteration": {
+        "he": "אַוִיגְ'נֵייַם",
+        "ar": "أفيجنيام",
+        "tr": "avijñeyam",
+        "sw": "avijñeyam"
+      }
+    },
+    "21873": {
+      "meaning": {
+        "he": "כבלה-כלה",
+        "ar": "كالذي لا يفنى",
+        "tr": "yok olmayan olarak",
+        "sw": "kama isiyoharibika"
+      },
+      "transliteration": {
+        "he": "אַוִינַשְׁיַנְתַם",
+        "ar": "أفيناشيانتام",
+        "tr": "avinaśyantam",
+        "sw": "avinaśyantam"
+      }
+    },
+    "21808": {
+      "meaning": {
+        "he": "במצב של להיות נהנה או סובל",
+        "ar": "في حالة كونك متمتعاً أو متألماً",
+        "tr": "keyif çeken veya acı çeken olma durumu",
+        "sw": "katika hali ya kuwa mfurahishwaji au mtesekaji"
+      },
+      "transliteration": {
+        "he": "בּהוֹקְטְרְתְוֵה",
+        "ar": "بهوكريتفي",
+        "tr": "bhoktṛtve",
+        "sw": "bhoktṛtve"
+      }
+    },
+    "21951": {
+      "meaning": {
+        "he": "דרך השחרור של היצורים החיים מהטבע החומרי",
+        "ar": "طريق تحرير الكائنات الحية من الطبيعة المادية",
+        "tr": "canlı varlıkların maddi doğadan kurtuluş yolu",
+        "sw": "njia ya ukombozi wa viumbe vilivyo hai kutoka asili ya kimaumbile"
+      },
+      "transliteration": {
+        "he": "בּהוּתַה-פְּרַקְרְתִי-מוֹקְשַׁם",
+        "ar": "بهوتا-براكريتي-موكشام",
+        "tr": "bhūta-prakṛti-mokṣam",
+        "sw": "bhūta-prakṛti-mokṣam"
+      }
+    },
+    "21905": {
+      "meaning": {
+        "he": "הסוגים השונים של היצורים",
+        "ar": "الأنواع المختلفة من الكائنات",
+        "tr": "çeşitli varlık türleri",
+        "sw": "aina mbalimbali za viumbe"
+      },
+      "transliteration": {
+        "he": "בּהוּתַה-פְּרְתַק-בּהָאוַם",
+        "ar": "بهوتا-بريتاك-بهافام",
+        "tr": "bhūta-pṛthak-bhāvam",
+        "sw": "bhūta-pṛthak-bhāvam"
+      }
+    },
+    "21766": {
+      "meaning": {
+        "he": "ביצורים החיים",
+        "ar": "في الكائنات الحية",
+        "tr": "canlı varlıklarda",
+        "sw": "katika viumbe vilivyo hai"
+      },
+      "transliteration": {
+        "he": "בּהוּתֵשׁוּ",
+        "ar": "بهوتيشو",
+        "tr": "bhūteṣu",
+        "sw": "bhūteṣu"
+      }
+    },
+    "21911": {
+      "meaning": {
+        "he": "מושגת מדינת הבראהמן",
+        "ar": "يتم الوصول إلى حالة البراهمان",
+        "tr": "Brahma durumu elde edilir",
+        "sw": "hali ya Brahma hupatikana"
+      },
+      "transliteration": {
+        "he": "בְּרַהְמַה סַמְפַּדְיַתֵה",
+        "ar": "براهما سامبادياتي",
+        "tr": "brahma sampadyate",
+        "sw": "brahma sampadyate"
+      }
+    },
+    "21662": {
+      "meaning": {
+        "he": "ועל ידי האפוריזמים של וֵדַאנְתַה",
+        "ar": "وبواسطة أقوال فيدانتا",
+        "tr": "ve Vedānta'nın özdeyişleriyle",
+        "sw": "na kwa methali za Vedānta"
+      },
+      "transliteration": {
+        "he": "בְּרַהְמַה-סוּתְרַה-פַּדַאיִהּ",
+        "ar": "براهما-سوترا-بادايه",
+        "tr": "brahma-sūtra-padaiḥ",
+        "sw": "brahma-sūtra-padaiḥ"
+      }
+    },
+    "21669": {
+      "meaning": {
+        "he": "עשר החושים (חמשת חושי הפעולה - קול, ידיים, רגליים, פי הטבעת ואיבר המין; וחמשת חושי התפיסה - עין, לשון, עור, אף ואוזן)",
+        "ar": "الحواس العشر (حواس الفعل الخمسة - الصوت، اليدين، الرجلين، الشرج، والأعضاء التناسلية؛ وحواس الإدراك الخمسة - العين، اللسان، الجلد، الأنف، والأذن)",
+        "tr": "on duyular (beş eylem duyusu - ses, eller, bacaklar, anüs ve üreme organı; ve beş algı duyusu - göz, dil, deri, burun ve kulak)",
+        "sw": "hisia kumi (hisia tano za vitendo - sauti, mikono, miguu, mkundu, na viungo vya uzazi; na hisia tano za utambuzi - jicho, ulimi, ngozi, pua, na sikio)"
+      },
+      "transliteration": {
+        "he": "דַשַׁא אִינְדְרִייַאנִי",
+        "ar": "داشا إيندرياني",
+        "tr": "daśa indriyāṇi",
+        "sw": "daśa indriyāṇi"
+      }
+    },
+    "21781": {
+      "meaning": {
+        "he": "יושב בתוך הלבבות",
+        "ar": "مقيم داخل القلوب",
+        "tr": "kalplerde ikamet eden",
+        "sw": "anayekaa ndani ya mioyo"
+      },
+      "transliteration": {
+        "he": "דְהִישְׁתִּיתַם",
+        "ar": "ديشثيتام",
+        "tr": "dhiṣṭhitam",
+        "sw": "dhiṣṭhitam"
+      }
+    },
+    "21697": {
+      "meaning": {
+        "he": "מודעות לסבל",
+        "ar": "الوعي بالمصائب",
+        "tr": "ızdırapların farkındalığı",
+        "sw": "utambuzi wa mateso"
+      },
+      "transliteration": {
+        "he": "דוּקְהַה-דוֹשַׁה-אַנֻדַרְשַׁנַם",
+        "ar": "دوكها-دوشا-أنودارشنام",
+        "tr": "duḥkha-doṣa-anudarśanam",
+        "sw": "duḥkha-doṣa-anudarśanam"
+      }
+    },
+    "23975": {
+      "meaning": {
+        "he": "האגרגט, הגוף הגס",
+        "ar": "المجموع، الجسد الغليظ",
+        "tr": "toplam, kaba beden",
+        "sw": "jumla, mwili mnono"
+      },
+      "transliteration": {
+        "he": "דְוֵשַׁה",
+        "ar": "دفيشا",
+        "tr": "dveṣaḥ",
+        "sw": "dveṣaḥ"
+      }
+    },
+    "21906": {
+      "meaning": {
+        "he": "יושב בטבע האחד",
+        "ar": "مقيم في الطبيعة الواحدة",
+        "tr": "tek doğada yerleşmiş",
+        "sw": "umekaa katika asili moja"
+      },
+      "transliteration": {
+        "he": "אֵקַה-סְתַהם",
+        "ar": "إيكا-ستام",
+        "tr": "eka-stham",
+        "sw": "eka-stham"
+      }
+    },
+    "21672": {
+      "meaning": {
+        "he": "והנפש",
+        "ar": "والعقل",
+        "tr": "ve zihin",
+        "sw": "na akili"
+      },
+      "transliteration": {
+        "he": "אֵקַם צַ'ה",
+        "ar": "إيكام تشا",
+        "tr": "ekam cha",
+        "sw": "ekam cha"
+      }
+    },
+    "21771": {
+      "meaning": {
+        "he": "והבולע",
+        "ar": "والآكل",
+        "tr": "ve yutan",
+        "sw": "na kumeza"
+      },
+      "transliteration": {
+        "he": "גְרַסִישְׁנוּ צַ'ה",
+        "ar": "غراسيشنو تشا",
+        "tr": "grasiṣṇu cha",
+        "sw": "grasiṣṇu cha"
+      }
+    },
+    "21751": {
+      "meaning": {
+        "he": "(הוא) אדון כל התכונות",
+        "ar": "(هو) رب جميع الصفات",
+        "tr": "(O) tüm niteliklerin efendisi",
+        "sw": "(Yeye) ni Bwana wa sifa zote"
+      },
+      "transliteration": {
+        "he": "גוּנַה-בּהוֹקְטְרְ אֵוַה",
+        "ar": "غونا-بهوكتر إيفا",
+        "tr": "guṇa-bhoktṛ eva",
+        "sw": "guṇa-bhoktṛ eva"
+      }
+    },
+    "21814": {
+      "meaning": {
+        "he": "היצמדות למצבי הטבע (כגוף, חושים וכו')",
+        "ar": "التعلق بأحوال الطبيعة (كالجسد والحواس وغيرها)",
+        "tr": "doğa modlarına bağlılık (beden, duyular vb.)",
+        "sw": "kushikamana na hali za asili (kama mwili, hisia, n.k)"
+      },
+      "transliteration": {
+        "he": "גוּנַה-סַנְגַה",
+        "ar": "غونا-سانغا",
+        "tr": "guṇa-saṅgaḥ",
+        "sw": "guṇa-saṅgaḥ"
+      }
+    },
+    "23840": {
+      "meaning": {
+        "he": "והתמורות של מצבי הטבע, כמו אושר, אי-אושר, צער ואשליה וכו'",
+        "ar": "وتحولات أحوال الطبيعة، مثل السعادة، التعاسة، الحزن، والوهم، إلخ",
+        "tr": "doğa modlarının dönüşümleri, mutluluk, mutsuzluk, keder ve yanılsama gibi",
+        "sw": "na mabadiliko ya hali za asili, kama furaha, huzuni, masikitiko, na udanganyifu, n.k"
+      },
+      "transliteration": {
+        "he": "גוּנָאן אֵוַה צַ'ה",
+        "ar": "غونان إيفا تشا",
+        "tr": "guṇān eva cha",
+        "sw": "guṇān eva cha"
+      }
+    },
+    "21782": {
+      "meaning": {
+        "he": "בתוך הלבבות",
+        "ar": "داخل القلوب",
+        "tr": "kalplerde",
+        "sw": "ndani ya mioyo"
+      },
+      "transliteration": {
+        "he": "הְרְדִי",
+        "ar": "هردي",
+        "tr": "hṛdi",
+        "sw": "hṛdi"
+      }
+    },
+    "21695": {
+      "meaning": {
+        "he": "הינתקות מאובייקטי החושים",
+        "ar": "الانفصال عن موضوعات الحواس",
+        "tr": "duyusal nesnelerden uzaklaşma",
+        "sw": "kutenguka na vitu vya hisia"
+      },
+      "transliteration": {
+        "he": "אִינְדְרִייַה-אַרְתֵּשׁוּ וַיירָגְיַם",
+        "ar": "إيندريا-أرتيشو فايرagyam",
+        "tr": "indriya-artheṣu vairāgyam",
+        "sw": "indriya-artheṣu vairāgyam"
+      }
+    },
+    "21674": {
+      "meaning": {
+        "he": "אובייקטי החושים המתאימים (צורה, טעם, מגע, ריח וצליל)",
+        "ar": "موضوعات الحواس المقابلة (الشكل، الطعم، اللمس، الرائحة، والصوت)",
+        "tr": "ilgili duyusal nesneler (şekil, tat, dokunuş, koku ve ses)",
+        "sw": "vitu vinavyofaa vya hisia (umbo, ladha, kugusa, harufu, na sauti)"
+      },
+      "transliteration": {
+        "he": "אִינְדְרִייַה-גוֹצַ'ארָה",
+        "ar": "إيندريا-غوتشاراه",
+        "tr": "indriya-gocharāḥ",
+        "sw": "indriya-gocharāḥ"
+      }
+    },
+    "21698": {
+      "meaning": {
+        "he": "לידה, מוות, חולשה ומחלה",
+        "ar": "الولادة، الموت، الضعف، والمرض",
+        "tr": "doğum, ölüm, zayıflık ve hastalık",
+        "sw": "kuzaliwa, kufa, udhaifu, na ugonjwa"
+      },
+      "transliteration": {
+        "he": "גַ'נְמַה-מְרְתְיוּ-גַ'רָא-וְיָאדְהִי",
+        "ar": "جانما-مريتيو-جارا-فيادهي",
+        "tr": "janma-mṛtyu-jarā-vyādhi",
+        "sw": "janma-mṛtyu-jarā-vyādhi"
+      }
+    },
+    "21775": {
+      "meaning": {
+        "he": "של הגופים המאירים",
+        "ar": "من الأجرام المضيئة",
+        "tr": "aydınlatıcıların",
+        "sw": "wa vya mwanga"
+      },
+      "transliteration": {
+        "he": "גְ'יוֹתִישָׁאם אַפִּי",
+        "ar": "جيوتيشام أبي",
+        "tr": "jyotiṣām api",
+        "sw": "jyotiṣām api"
+      }
+    },
+    "21780": {
+      "meaning": {
+        "he": "מושא הידע",
+        "ar": "موضوع المعرفة",
+        "tr": "bilginin nesnesi",
+        "sw": "kitu cha maarifa"
+      },
+      "transliteration": {
+        "he": "גְ'נֵייַם",
+        "ar": "جنيام",
+        "tr": "jñeyam",
+        "sw": "jñeyam"
+      }
+    },
+    "21787": {
+      "meaning": {
+        "he": "ומושא הידע (האל בהיבטיו כברהמה, פרמאטמה ובהגאואן)",
+        "ar": "وموضوع المعرفة (الرب في جوانبه كبراهما، بارماتما، وبهاغافان)",
+        "tr": "ve bilginin nesnesi (Brahma, Paramātmā ve Bhagavān yönleriyle Rab)",
+        "sw": "na kitu cha maarifa (Bwana katika vipengele vyake kama Brahma, Paramātmā, na Bhagavān)"
+      },
+      "transliteration": {
+        "he": "גְ'נֵייַם צַ'ה",
+        "ar": "جنيام تشا",
+        "tr": "jñeyam cha",
+        "sw": "jñeyam cha"
+      }
+    },
+    "21946": {
+      "meaning": {
+        "he": "דרך עיני הידע",
+        "ar": "من خلال عيون المعرفة",
+        "tr": "bilgi gözüyle",
+        "sw": "kupitia jicho la maarifa"
+      },
+      "transliteration": {
+        "he": "גְ'נָאנַה-צַ'קְשׁוּשָׁא",
+        "ar": "جنانا-تشاكشوشا",
+        "tr": "jñāna-cakṣuṣā",
+        "sw": "jñāna-cakṣuṣā"
+      }
+    },
+    "21804": {
+      "meaning": {
+        "he": "דרך האלים הממונים על החושים, של יצירת התוצאה, כמו הגוף, ושל הסיבה, כמו החושים",
+        "ar": "عبر الآلهة الرائدة على الحواس، لإنتاج الأثر، كالجسد، والسبب، كالحواس",
+        "tr": "duyuların başındaki ilahlar aracılığıyla, beden gibi etkinin ve duyular gibi nedenin üretimi",
+        "sw": "kupitia miungu inayoongoza hisia, kwa uzalishaji wa athari, kama mwili, na chanzo, kama hisia"
+      },
+      "transliteration": {
+        "he": "קָארְיַה-קָארַנַה-קַרְטְרְתְוֵה",
+        "ar": "كاريا-كارانا-كارتريتفي",
+        "tr": "kārya-kāraṇa-kartṛtve",
+        "sw": "kārya-kāraṇa-kartṛtve"
+      }
+    },
+    "21636": {
+      "meaning": {
+        "he": "כקְשֵׁתְרַגְ'נְיַה, יודע השדה",
+        "ar": "كक्षेत्रज्ञ، عارف المجال",
+        "tr": "kṣetrajña olarak, alanı bilen",
+        "sw": "kama kṣetrajña, anayejua uwanja"
+      },
+      "transliteration": {
+        "he": "קְשֵׁתְרַה-גְ'נַם",
+        "ar": "كشيترا-جنام",
+        "tr": "kṣetra-jñam",
+        "sw": "kṣetra-jñam"
+      }
+    },
+    "21616": {
+      "meaning": {
+        "he": "ויודע השדה",
+        "ar": "وعارف المجال",
+        "tr": "ve alanı bilen",
+        "sw": "na anayejua uwanja"
+      },
+      "transliteration": {
+        "he": "קְשֵׁתְרַה-גְ'נַם אֵוַה צַ'ה",
+        "ar": "كشيترا-جنام إيفا تشا",
+        "tr": "kṣetra-jñam eva cha",
+        "sw": "kṣetra-jñam eva cha"
+      }
+    },
+    "21629": {
+      "meaning": {
+        "he": "כקְשֵׁתְרַגְ'נְיַה, יודע השדה",
+        "ar": "كक्षेत्रज्ञ، عارف المجال",
+        "tr": "kṣetrajña olarak, alanı bilen",
+        "sw": "kama kṣetrajña, anayejua uwanja"
+      },
+      "transliteration": {
+        "he": "קְשֵׁתְרַה-גְ'נְיַה אִיתִי",
+        "ar": "كشيترا-جنيا إيتي",
+        "tr": "kṣetra-jñaḥ iti",
+        "sw": "kṣetra-jñaḥ iti"
+      }
+    },
+    "21866": {
+      "meaning": {
+        "he": "כנולד מהשילוב בין השדה ליודעו",
+        "ar": "كمولود من اتحاد المجال مع عارفه",
+        "tr": "alan ile bileninin birleşiminden doğmuş olarak",
+        "sw": "kama iliyozaliwa kutoka muungano wa uwanja na anayejua"
+      },
+      "transliteration": {
+        "he": "קְשֵׁתְרַה-קְשֵׁתְרַגְ'נְיַה-סַנְיוֹגָאת",
+        "ar": "كشيترا-كشيتراجنيا-سانيوغات",
+        "tr": "kṣetra-kṣetrajña-saṁyogāt",
+        "sw": "kṣetra-kṣetrajña-saṁyogāt"
+      }
+    },
+    "21949": {
+      "meaning": {
+        "he": "בין השדה ליודעו",
+        "ar": "بين المجال وعارفه",
+        "tr": "alan ile bilen arasında",
+        "sw": "kati ya uwanja na anayejua"
+      },
+      "transliteration": {
+        "he": "קְשֵׁתְרַה-קְשֵׁתְרַגְ'נְיוֹה",
+        "ar": "كشيترا-كشيتراجنيوه",
+        "tr": "kṣetra-kṣetrajñayoḥ",
+        "sw": "kṣetra-kṣetrajñayoḥ"
+      }
+    },
+    "23838": {
+      "meaning": {
+        "he": "כשדה",
+        "ar": "كمجال",
+        "tr": "alan olarak",
+        "sw": "kama uwanja"
+      },
+      "transliteration": {
+        "he": "קְשֵׁתְרַם",
+        "ar": "كشيترام",
+        "tr": "kṣetram",
+        "sw": "kṣetram"
+      }
+    },
+    "21941": {
+      "meaning": {
+        "he": "בעל השדה",
+        "ar": "مالك المجال",
+        "tr": "alanın sahibi",
+        "sw": "mmiliki wa uwanja"
+      },
+      "transliteration": {
+        "he": "קְשֵׁתְרִי",
+        "ar": "كشيتري",
+        "tr": "kṣetrī",
+        "sw": "kṣetrī"
+      }
+    },
+    "21744": {
+      "meaning": {
+        "he": "ביקום",
+        "ar": "في الكون",
+        "tr": "evrende",
+        "sw": "katika ulimwengu"
+      },
+      "transliteration": {
+        "he": "לוֹקֵה",
+        "ar": "لوكي",
+        "tr": "loke",
+        "sw": "loke"
+      }
+    },
+    "21793": {
+      "meaning": {
+        "he": "אהבה אליי",
+        "ar": "الحب لي",
+        "tr": "bana sevgi",
+        "sw": "upendo kwangu"
+      },
+      "transliteration": {
+        "he": "מַת-בּהָאוָאיַה",
+        "ar": "مات-بهافايا",
+        "tr": "mat-bhāvāya",
+        "sw": "mat-bhāvāya"
+      }
+    },
+    "21733": {
+      "meaning": {
+        "he": "ומעבר לאי-הוויה, מעבר לסיבה החומרית",
+        "ar": "وفوق عدم الوجود، فوق السبب المادي",
+        "tr": "ve var olmayanlığın ötesinde, maddi nedenin ötesinde",
+        "sw": "na zaidi ya kutokuwepo, zaidi ya chanzo cha kimaumbile"
+      },
+      "transliteration": {
+        "he": "נַה אַסַת",
+        "ar": "نا أسات",
+        "tr": "na asat",
+        "sw": "na asat"
+      }
+    },
+    "21920": {
+      "meaning": {
+        "he": "וגם לא מושפע משום פעולה",
+        "ar": "ولا يتأثر بأي فعل",
+        "tr": "hiçbir eylemden etkilenmez",
+        "sw": "wala haathiriwi na kitendo chochote"
+      },
+      "transliteration": {
+        "he": "נַה לִיפְּיַתֵה",
+        "ar": "نا ليبياتي",
+        "tr": "na lipyate",
+        "sw": "na lipyate"
+      }
+    },
+    "21732": {
+      "meaning": {
+        "he": "מעבר להוויה, מעבר לתוצאה החומרית",
+        "ar": "فوق الوجود، فوق الأثر المادي",
+        "tr": "varlığın ötesinde, maddi etkinin ötesinde",
+        "sw": "zaidi ya uwepo, zaidi ya athari ya kimaumbile"
+      },
+      "transliteration": {
+        "he": "נַה סַת",
+        "ar": "نا سات",
+        "tr": "na sat",
+        "sw": "na sat"
+      }
+    },
+    "21924": {
+      "meaning": {
+        "he": "לא מוכתם בשום דבר, לא נוגע",
+        "ar": "لا يتلوث بأي شيء، غير ملموس",
+        "tr": "hiçbir şeyle lekelenmez, dokunulmaz",
+        "sw": "hauchafuzwi na chochote, haigusiwi"
+      },
+      "transliteration": {
+        "he": "נַה אוּפַּלִיפְּיַתֵה",
+        "ar": "نا أوباليبياتي",
+        "tr": "na upalipyate",
+        "sw": "na upalipyate"
+      }
+    },
+    "21750": {
+      "meaning": {
+        "he": "(אם כי) טרנסצנדנטלי למצבי הטבע",
+        "ar": "(رغم) كونه متعالياً على أحوال الطبيعة",
+        "tr": "(doğa modlarının ötesinde olmasına rağmen)",
+        "sw": "(ingawa) zaidi ya hali za asili"
+      },
+      "transliteration": {
+        "he": "נִירְגוּנַם צַ'ה",
+        "ar": "نيرغونام تشا",
+        "tr": "nirguṇam cha",
+        "sw": "nirguṇam cha"
+      }
+    },
+    "21914": {
+      "meaning": {
+        "he": "ובהיותו טרנסצנדנטלי למצבים החומריים",
+        "ar": "وبكونه متعالياً على الأحوال المادية",
+        "tr": "ve maddi modların ötesinde olarak",
+        "sw": "na kwa kuwa zaidi ya hali za kimaumbile"
+      },
+      "transliteration": {
+        "he": "נִירְגוּנַתְוָאת",
+        "ar": "نيرغوناتفات",
+        "tr": "nirguṇatvāt",
+        "sw": "nirguṇatvāt"
+      }
+    },
+    "21828": {
+      "meaning": {
+        "he": "פרמאטמה, הנשמה העליונה",
+        "ar": "بارماتما، الروح العليا",
+        "tr": "Paramātmā, Yüce Ruh",
+        "sw": "Paramātmā, Roho ya Juu"
+      },
+      "transliteration": {
+        "he": "פַּרַמָאתְמָא",
+        "ar": "بارماتما",
+        "tr": "paramātmā",
+        "sw": "paramātmā"
+      }
+    },
+    "21673": {
+      "meaning": {
+        "he": "וחמשת",
+        "ar": "والخمسة",
+        "tr": "ve beş",
+        "sw": "na tano"
+      },
+      "transliteration": {
+        "he": "פַּאנְצַ'ה צַ'ה",
+        "ar": "بانشا تشا",
+        "tr": "pañcha cha",
+        "sw": "pañcha cha"
+      }
+    },
+    "21769": {
+      "meaning": {
+        "he": "כמגלה",
+        "ar": "كالمظهر",
+        "tr": "gösteren olarak",
+        "sw": "kama anayeonesha"
+      },
+      "transliteration": {
+        "he": "פְּרַבּהָה-וִישְׁנוּ צַ'ה",
+        "ar": "برابها-فيشنو تشا",
+        "tr": "prabha-viṣṇu cha",
+        "sw": "prabha-viṣṇu cha"
+      }
+    },
+    "21813": {
+      "meaning": {
+        "he": "נולד מהטבע החומרי",
+        "ar": "مولود من الطاقة المادية",
+        "tr": "maddi doğadan doğmuş",
+        "sw": "imezaliwa kutoka asili ya kimaumbile"
+      },
+      "transliteration": {
+        "he": "פְּרַקְרְתִי-גָ'אן",
+        "ar": "براكريتي-جان",
+        "tr": "prakṛti-jān",
+        "sw": "prakṛti-jān"
+      }
+    },
+    "23841": {
+      "meaning": {
+        "he": "כנולד מהטבע החומרי",
+        "ar": "كمولود من الطاقة المادية",
+        "tr": "maddi doğadan doğmuş olarak",
+        "sw": "kama iliyozaliwa kutoka asili ya kimaumbile"
+      },
+      "transliteration": {
+        "he": "פְּרַקְרְתִי-סַמְבּהָאוָאן",
+        "ar": "براكريتي-سامبهافان",
+        "tr": "prakṛti-sambhavān",
+        "sw": "prakṛti-sambhavān"
+      }
+    },
+    "21809": {
+      "meaning": {
+        "he": "יושב בתוך (הגוף שהוא תוצאה של) הטבע החומרי",
+        "ar": "مقيم داخل (الجسد الذي هو أثر) الطاقة المادية",
+        "tr": "(maddi doğanın etkisi olan beden) içinde yerleşmiş",
+        "sw": "umekaa ndani ya (mwili ambao ni athari ya) asili ya kimaumbile"
+      },
+      "transliteration": {
+        "he": "פְּרַקְרְתִי-סְתַה",
+        "ar": "براكريتي-ستا",
+        "tr": "prakṛti-sthaḥ",
+        "sw": "prakṛti-sthaḥ"
+      }
+    },
+    "21801": {
+      "meaning": {
+        "he": "הטבע החומרי (עם נוכחות הפורוש)",
+        "ar": "الطاقة المادية (مع وجود بوروش)",
+        "tr": "Maddi enerji (puruṣ'un varlığıyla)",
+        "sw": "Asili ya kimaumbile (pamoja na uwepo wa puruṣ)"
+      },
+      "transliteration": {
+        "he": "פְּרַקְרְתִי",
+        "ar": "براكريتي",
+        "tr": "prakṛtiḥ",
+        "sw": "prakṛtiḥ"
+      }
+    },
+    "21797": {
+      "meaning": {
+        "he": "והג'יוָאתְמַה, הנשמה האינדיבידואלית, המתוארת כ'יודע השדה'",
+        "ar": "وجيفاتما، الروح الفردية، الموصوفة بأنها 'عارف المجال'",
+        "tr": "ve jīvātma, 'alanı bilen' olarak tanımlanan bireysel ruh",
+        "sw": "na jīvātma, roho ya mtu binafsi, inayoelezewa kama 'anayejua uwanja'"
+      },
+      "transliteration": {
+        "he": "פּוּרוּשַׁם צַ'ה",
+        "ar": "بوروشام تشا",
+        "tr": "puruṣam cha",
+        "sw": "puruṣam cha"
+      }
+    },
+    "21614": {
+      "meaning": {
+        "he": "והאדם",
+        "ar": "والشخص",
+        "tr": "ve kişi",
+        "sw": "na mtu"
+      },
+      "transliteration": {
+        "he": "פּוּרוּשַׁם צַ'ה אֵוַה",
+        "ar": "بوروشام تشا إيفا",
+        "tr": "puruṣam cha eva",
+        "sw": "puruṣam cha eva"
+      }
+    },
+    "21735": {
+      "meaning": {
+        "he": "ידיים ורגליים",
+        "ar": "يدان ورجلان",
+        "tr": "eller ve ayaklar",
+        "sw": "mikononi na miguu"
+      },
+      "transliteration": {
+        "he": "פָּאנִי-פָּאדַם",
+        "ar": "باني-بادام",
+        "tr": "pāṇi-pādam",
+        "sw": "pāṇi-pādam"
+      }
+    },
+    "21661": {
+      "meaning": {
+        "he": "על ידי הוודות השונות",
+        "ar": "بالفيدا المختلفة",
+        "tr": "farklı Vedalar tarafından",
+        "sw": "na Veda mbalimbali"
+      },
+      "transliteration": {
+        "he": "פְּרְתַק צַ'הַנְדוֹבּהִי",
+        "ar": "بريتاك تشاندوبيه",
+        "tr": "pṛthak chhandobhiḥ",
+        "sw": "pṛthak chhandobhiḥ"
+      }
+    },
+    "21749": {
+      "meaning": {
+        "he": "(הוא) התומך בכל",
+        "ar": "(هو) الحافظ للجميع",
+        "tr": "(O) tümünün destekleyicisi",
+        "sw": "(Yeye) ni msaada wa wote"
+      },
+      "transliteration": {
+        "he": "סַרְוַה-בּהְרְת צַ'ה",
+        "ar": "سارفا-بهريتا تشا",
+        "tr": "sarva-bhṛt cha",
+        "sw": "sarva-bhṛt cha"
+      }
+    },
+    "21745": {
+      "meaning": {
+        "he": "(הוא) מאיר את כל החושים ואת תפקודיהם",
+        "ar": "(هو) ينير جميع الحواس ووظائفها",
+        "tr": "(O) tüm duyuları ve işlevlerini aydınlatır",
+        "sw": "(Yeye) huang'aza hisia zote na kazi zake"
+      },
+      "transliteration": {
+        "he": "סַרְוַה-אִינְדְרִייַה-גוּנַה-אָבּהָאסַם",
+        "ar": "سارفا-إيندريا-غونا-أبهاسام",
+        "tr": "sarva-indriya-guṇa-ābhāsam",
+        "sw": "sarva-indriya-guṇa-ābhāsam"
+      }
+    },
+    "21818": {
+      "meaning": {
+        "he": "לידות במינים גבוהים ונמוכים יותר",
+        "ar": "ولادات في أنواع أعلى وأدنى",
+        "tr": "yüksek ve düşük türlerde doğumlar",
+        "sw": "kuzaliwa katika spishi za juu na za chini"
+      },
+      "transliteration": {
+        "he": "סַת-אַסַת-יוֹנִי-גַ'נְמַסוּ",
+        "ar": "سات-أسات-يوني-جانماسو",
+        "tr": "sat-asat-yoni-janmasu",
+        "sw": "sat-asat-yoni-janmasu"
+      }
+    },
+    "21925": {
+      "meaning": {
+        "he": "בגלל עדינותו",
+        "ar": "بسبب دقته",
+        "tr": "inceliği nedeniyle",
+        "sw": "kwa sababu ya unyevunyevu wake"
+      },
+      "transliteration": {
+        "he": "סַאוּקְשְׁמְיָאת",
+        "ar": "ساوكشميات",
+        "tr": "saukṣmyāt",
+        "sw": "saukṣmyāt"
+      }
+    },
+    "21654": {
+      "meaning": {
+        "he": "יודע השדה הזה",
+        "ar": "عارف المجال ذلك",
+        "tr": "o alanı bilen",
+        "sw": "yule anayejua uwanja huo"
+      },
+      "transliteration": {
+        "he": "סַה",
+        "ar": "ساه",
+        "tr": "saḥ",
+        "sw": "saḥ"
+      }
+    },
+    "23842": {
+      "meaning": {
+        "he": "של אושר ואי-אושר",
+        "ar": "من السعادة والتعاسة",
+        "tr": "mutluluk ve mutsuzluğun",
+        "sw": "wa furaha na huzuni"
+      },
+      "transliteration": {
+        "he": "סוּקְהַה-דוּקְהָאנָאם",
+        "ar": "سوكها-دوكهانام",
+        "tr": "sukha-duḥkhānām",
+        "sw": "sukha-duḥkhānām"
+      }
+    },
+    "21758": {
+      "meaning": {
+        "he": "בגלל עדינות",
+        "ar": "بسبب الدقة",
+        "tr": "incelik nedeniyle",
+        "sw": "kwa sababu ya unyevunyevu"
+      },
+      "transliteration": {
+        "he": "סוּקְשְׁמַתְוָאת",
+        "ar": "سوكشماتفات",
+        "tr": "sūkṣmatvāt",
+        "sw": "sūkṣmatvāt"
+      }
+    },
+    "21740": {
+      "meaning": {
+        "he": "מושא הידע הזה",
+        "ar": "موضوع المعرفة ذلك",
+        "tr": "o bilginin nesnesi",
+        "sw": "kitu hicho cha maarifa"
+      },
+      "transliteration": {
+        "he": "טַת",
+        "ar": "تات",
+        "tr": "tat",
+        "sw": "tat"
+      }
+    },
+    "21729": {
+      "meaning": {
+        "he": "זה ידוע כברהמה",
+        "ar": "ذلك معروف كبراهما",
+        "tr": "bu Brahma olarak bilinir",
+        "sw": "hii inajulikana kama Brahma"
+      },
+      "transliteration": {
+        "he": "טַת בְּרַהְמַה אוּצְ'יַתֵה",
+        "ar": "تات براهما أوتشياتي",
+        "tr": "tat brahma uchyate",
+        "sw": "tat brahma uchyate"
+      }
+    },
+    "21909": {
+      "meaning": {
+        "he": "מאותו טבע",
+        "ar": "من تلك الطبيعة",
+        "tr": "o doğadan",
+        "sw": "kutoka asili hiyo"
+      },
+      "transliteration": {
+        "he": "טַתַה אֵוַה",
+        "ar": "تاتا إيفا",
+        "tr": "tataḥ eva",
+        "sw": "tataḥ eva"
+      }
+    },
+    "21713": {
+      "meaning": {
+        "he": "והחזון של מטרת הידע האמיתי",
+        "ar": "ورؤية هدف المعرفة الحقيقية",
+        "tr": "ve gerçek bilginin amacının vizyonu",
+        "sw": "na maono ya lengo la maarifa ya kweli"
+      },
+      "transliteration": {
+        "he": "טַתְוַה-גְ'נָאנַה-אַרְתַּה-דַרְשַׁנַם",
+        "ar": "تاتفا-جنانا-أرتا-دارشانام",
+        "tr": "tattva-jñāna-artha-darśanam",
+        "sw": "tattva-jñāna-artha-darśanam"
+      }
+    },
+    "21806": {
+      "meaning": {
+        "he": "נאמר להיות",
+        "ar": "يُقال أنه",
+        "tr": "denilir ki",
+        "sw": "inasemekana kuwa"
+      },
+      "transliteration": {
+        "he": "אוּצְ'יַתֵה",
+        "ar": "أوتشياتي",
+        "tr": "uchyate",
+        "sw": "uchyate"
+      }
+    },
+    "21800": {
+      "meaning": {
+        "he": "התמורות - גוף, חושים ותפקודיהם",
+        "ar": "التحولات - الجسد، الحواس، ووظائفها",
+        "tr": "dönüşümler - beden, duyular ve işlevleri",
+        "sw": "mabadiliko - mwili, hisia, na kazi zake"
+      },
+      "transliteration": {
+        "he": "וִיקָארָאן צַ'ה",
+        "ar": "فيكاران تشا",
+        "tr": "vikārān cha",
+        "sw": "vikārān cha"
+      }
+    },
+    "21874": {
+      "meaning": {
+        "he": "בתוך הכלה",
+        "ar": "داخل الفاني",
+        "tr": "yok olanın içinde",
+        "sw": "ndani ya kinachoharibika"
+      },
+      "transliteration": {
+        "he": "וִינַשְׁיַתְסוּ",
+        "ar": "فيناشياتسو",
+        "tr": "vinaśyatsu",
+        "sw": "vinaśyatsu"
+      }
+    },
+    "21659": {
+      "meaning": {
+        "he": "על ידי סוגים רבים של חכמים",
+        "ar": "من قبل أنواع كثيرة من الحكماء",
+        "tr": "birçok bilge türü tarafından",
+        "sw": "na aina nyingi za wataalamu"
+      },
+      "transliteration": {
+        "he": "וִיוִידּהָאִי רְשִׁיבּהִי",
+        "ar": "فيفيدهاي ريشيبهي",
+        "tr": "vividhaiḥ ṛṣibhiḥ",
+        "sw": "vividhaiḥ ṛṣibhiḥ"
+      }
+    },
+    "21644": {
+      "meaning": {
+        "he": "מהו השדה הזה",
+        "ar": "ما هو هذا المجال",
+        "tr": "o alan nedir",
+        "sw": "uwanja huo ni nini"
+      },
+      "transliteration": {
+        "he": "יַת טַת קְשֵׁתְרַם",
+        "ar": "يات تات كشيترام",
+        "tr": "yat tat kṣetram",
+        "sw": "yat tat kṣetram"
+      }
+    },
+    "21646": {
+      "meaning": {
+        "he": "איך הוא מורכב",
+        "ar": "كيف هو تكوينه",
+        "tr": "nasıl yapılandırılmıştır",
+        "sw": "umeundwaje"
+      },
+      "transliteration": {
+        "he": "יָאדְרְק",
+        "ar": "يادريك",
+        "tr": "yādṛk",
+        "sw": "yādṛk"
+      }
+    },
+    "21691": {
+      "meaning": {
+        "he": "שירות למורה הרוחני",
+        "ar": "خدمة المعلم الروحي",
+        "tr": "manevi öğretmene hizmet",
+        "sw": "kutumia mwalimu wa kiroho"
+      },
+      "transliteration": {
+        "he": "אַצָ'ארְיַה-אוּפָּאסַנַם",
+        "ar": "أتشاريا-أوباسانام",
+        "tr": "ācārya-upāsanam",
+        "sw": "ācārya-upāsanam"
+      }
+    },
+    "21690": {
+      "meaning": {
+        "he": "יושר ופשטות",
+        "ar": "الاستقامة والبساطة",
+        "tr": "dürüstlük ve sadelik",
+        "sw": "uadilifu na urahisi"
+      },
+      "transliteration": {
+        "he": "אַארְגַ'וַם",
+        "ar": "أارجافام",
+        "tr": "ārjavam",
+        "sw": "ārjavam"
+      }
+    },
+    "21844": {
+      "meaning": {
+        "he": "בתוך הלב",
+        "ar": "داخل القلب",
+        "tr": "kalbin içinde",
+        "sw": "ndani ya moyo"
+      },
+      "transliteration": {
+        "he": "אַאתְמַנִי",
+        "ar": "أتماني",
+        "tr": "ātmani",
+        "sw": "ātmani"
+      }
+    },
+    "21842": {
+      "meaning": {
+        "he": "על ידי התודעה הטהורה",
+        "ar": "بالوعي النقي",
+        "tr": "saf bilinçle",
+        "sw": "kwa ufahamu safi"
+      },
+      "transliteration": {
+        "he": "אַאתְמַנָא",
+        "ar": "أتمانا",
+        "tr": "ātmanā",
+        "sw": "ātmanā"
+      }
+    },
+    "21927": {
+      "meaning": {
+        "he": "אַאתְמַה, הנשמה",
+        "ar": "آتما، الروح",
+        "tr": "ātma, ruh",
+        "sw": "ātma, roho"
+      },
+      "transliteration": {
+        "he": "אַאתְמָא",
+        "ar": "آتما",
+        "tr": "ātmā",
+        "sw": "ātmā"
+      }
+    },
+    "21918": {
+      "meaning": {
+        "he": "אף על פי שנמצא בתוך השדה",
+        "ar": "رغم وجوده داخل المجال",
+        "tr": "alanın içinde bulunmasına rağmen",
+        "sw": "ingawa yuko ndani ya uwanja"
+      },
+      "transliteration": {
+        "he": "שַׁרִירַה-סְתַה אַפִּי",
+        "ar": "شاريرا-ستا أبي",
+        "tr": "śarīra-sthaḥ api",
+        "sw": "śarīra-sthaḥ api"
+      }
+    },
+    "21856": {
+      "meaning": {
+        "he": "כשאמונתם מתעמקת על ידי שמיעה",
+        "ar": "عندما يتعمق إيمانهم بالسماع",
+        "tr": "inançları dinlemekle derinleştiğinde",
+        "sw": "wakati imani yao inapoongezeka kwa kusikiliza"
+      },
+      "transliteration": {
+        "he": "שְׁרוּתִי-פַּארָאיַנָאה (סַנְתַה)",
+        "ar": "شروتي-باراياناه (سانتاه)",
+        "tr": "śruti-parāyaṇāḥ (santaḥ)",
+        "sw": "śruti-parāyaṇāḥ (santaḥ)"
+      }
+    }
+  }
+}

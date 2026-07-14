@@ -1,0 +1,472 @@
+{
+  "vocabulary": {
+    "22992": {
+      "meaning": "바라타족 중 가장 뛰어난 이여",
+      "transliteration": "바라타 - 사타마"
+    },
+    "23309": {
+      "meaning": "바라타족 중 가장 뛰어난 이여",
+      "transliteration": "바라타 - 리샤바"
+    },
+    "22964": {
+      "meaning": "감각의 주님이여",
+      "transliteration": "흐리시케샤"
+    },
+    "23550": {
+      "meaning": "쿤티의 아들이여",
+      "transliteration": "쿤타야"
+    },
+    "22965": {
+      "meaning": "케시 악마를 물리친 이여",
+      "transliteration": "케시니수다나"
+    },
+    "23357": {
+      "meaning": "적의 정복자여",
+      "transliteration": "파란타파"
+    },
+    "22998": {
+      "meaning": "사람들 중 가장 뛰어난 이여",
+      "transliteration": "푸루샤 - 뱌그라"
+    },
+    "23695": {
+      "meaning": "파르타여 (쿤티의 아들)",
+      "transliteration": "파르타"
+    },
+    "23347": {
+      "meaning": "인간 등 중에서",
+      "transliteration": "마누샤디슈"
+    },
+    "23646": {
+      "meaning": "찬미를 노래하다",
+      "transliteration": "아비다샤야티"
+    },
+    "23074": {
+      "meaning": "헌신",
+      "transliteration": "박티"
+    },
+    "23101": {
+      "meaning": "기반, 육체",
+      "transliteration": "아디슈타남"
+    },
+    "23440": {
+      "meaning": "불이 덮인 것처럼",
+      "transliteration": "아그니 이바"
+    },
+    "23331": {
+      "meaning": "처음에",
+      "transliteration": "아그레"
+    },
+    "23340": {
+      "meaning": "처음에",
+      "transliteration": "아그레 차"
+    },
+    "23534": {
+      "meaning": "교만에서",
+      "transliteration": "아항카라트"
+    },
+    "23859": {
+      "meaning": "무지와 환각",
+      "transliteration": "아즈냐나 산모하"
+    },
+    "23127": {
+      "meaning": "순수하지 않은 지성 때문에",
+      "transliteration": "아크리타 붓디트바트"
+    },
+    "23441": {
+      "meaning": "마지막에",
+      "transliteration": "아누반데 차"
+    },
+    "22988": {
+      "meaning": "그리고 다른 사람들 (일반적으로 미맘사카)",
+      "transliteration": "아파레 차"
+    },
+    "23195": {
+      "meaning": "사랑과 미움의 편견 없이",
+      "transliteration": "아라가 드베샤타"
+    },
+    "23442": {
+      "meaning": "초탈의 지혜를 가진 자",
+      "transliteration": "아삭타 붓디"
+    },
+    "23639": {
+      "meaning": "고행이 없는 자에게",
+      "transliteration": "아타파스카야"
+    },
+    "23187": {
+      "meaning": "진리를 구하지 않음 - 영적 또는 경전의 개념 없음",
+      "transliteration": "아타트바 아르타바트"
+    },
+    "23109": {
+      "meaning": "다섯 번째 요인",
+      "transliteration": "아트라 판차맘"
+    },
+    "23001": {
+      "meaning": "헌신 (산냐사)",
+      "transliteration": "산냐사"
+    },
+    "23002": {
+      "meaning": "초연함 (티야가)",
+      "transliteration": "티야가"
+    },
+    "23003": {
+      "meaning": "물질적인 활동",
+      "transliteration": "카미야남"
+    },
+    "23004": {
+      "meaning": "행위의",
+      "transliteration": "카르마남"
+    },
+    "23005": {
+      "meaning": "포기",
+      "transliteration": "냐삼"
+    },
+    "23006": {
+      "meaning": "지혜로운 자",
+      "transliteration": "카바야"
+    },
+    "23007": {
+      "meaning": "안다",
+      "transliteration": "비드"
+    },
+    "23008": {
+      "meaning": "모든",
+      "transliteration": "사르바"
+    },
+    "23009": {
+      "meaning": "행위",
+      "transliteration": "카르마"
+    },
+    "23010": {
+      "meaning": "결과",
+      "transliteration": "팔라"
+    },
+    "23011": {
+      "meaning": "깨달은 사람",
+      "transliteration": "비차크샤나"
+    },
+    "23012": {
+      "meaning": "포기해야 할",
+      "transliteration": "티야갬"
+    },
+    "23013": {
+      "meaning": "불완전한",
+      "transliteration": "도샤바트"
+    },
+    "23014": {
+      "meaning": "이렇게",
+      "transliteration": "이티"
+    },
+    "23015": {
+      "meaning": "어떤",
+      "transliteration": "에케"
+    },
+    "23016": {
+      "meaning": "철학자",
+      "transliteration": "마니시나"
+    },
+    "23017": {
+      "meaning": "제사",
+      "transliteration": "야즈냐"
+    },
+    "23018": {
+      "meaning": "자선",
+      "transliteration": "다나"
+    },
+    "23019": {
+      "meaning": "고행",
+      "transliteration": "타파스"
+    },
+    "23020": {
+      "meaning": "않",
+      "transliteration": "나"
+    },
+    "23021": {
+      "meaning": "다른",
+      "transliteration": "아파레"
+    },
+    "23022": {
+      "meaning": "결론",
+      "transliteration": "니슈차얌"
+    },
+    "23023": {
+      "meaning": "들으라",
+      "transliteration": "슈루누"
+    },
+    "23024": {
+      "meaning": "나의",
+      "transliteration": "메"
+    },
+    "23025": {
+      "meaning": "그것에 대해",
+      "transliteration": "타트라"
+    },
+    "23026": {
+      "meaning": "왜냐하면",
+      "transliteration": "히"
+    },
+    "23027": {
+      "meaning": "세 가지 유형",
+      "transliteration": "트리 비다"
+    },
+    "23028": {
+      "meaning": "선언되다",
+      "transliteration": "삼프라키르타"
+    },
+    "23029": {
+      "meaning": "수행되어야 함",
+      "transliteration": "카르야"
+    },
+    "23030": {
+      "meaning": "확실히",
+      "transliteration": "에바"
+    },
+    "23031": {
+      "meaning": "그것들",
+      "transliteration": "타트"
+    },
+    "23032": {
+      "meaning": "정화하는 것",
+      "transliteration": "파바나니"
+    },
+    "23033": {
+      "meaning": "지혜로운 자의",
+      "transliteration": "마니시남"
+    },
+    "23034": {
+      "meaning": "집착",
+      "transliteration": "상가"
+    },
+    "23035": {
+      "meaning": "결과",
+      "transliteration": "팔라"
+    },
+    "23036": {
+      "meaning": "선의 성질",
+      "transliteration": "사트바"
+    },
+    "23037": {
+      "meaning": "정열의 성질",
+      "transliteration": "라자스"
+    },
+    "23038": {
+      "meaning": "무명의 성질",
+      "transliteration": "타마스"
+    },
+    "23039": {
+      "meaning": "육체",
+      "transliteration": "데하"
+    },
+    "23040": {
+      "meaning": "행위자",
+      "transliteration": "카르타"
+    },
+    "23041": {
+      "meaning": "지식",
+      "transliteration": "즈냐나"
+    },
+    "23042": {
+      "meaning": "행위",
+      "transliteration": "카르마"
+    },
+    "23043": {
+      "meaning": "지성",
+      "transliteration": "붓디"
+    },
+    "23044": {
+      "meaning": "결의",
+      "transliteration": "드리티"
+    },
+    "23045": {
+      "meaning": "기쁨",
+      "transliteration": "수카"
+    },
+    "23046": {
+      "meaning": "브라만",
+      "transliteration": "브라마나"
+    },
+    "23047": {
+      "meaning": "크샤트리야",
+      "transliteration": "크샤트리야"
+    },
+    "23048": {
+      "meaning": "바이샤",
+      "transliteration": "바이샤"
+    },
+    "23049": {
+      "meaning": "슈드라",
+      "transliteration": "슈드라"
+    },
+    "23050": {
+      "meaning": "본성",
+      "transliteration": "스와바바"
+    },
+    "23051": {
+      "meaning": "성질",
+      "transliteration": "구나"
+    },
+    "23052": {
+      "meaning": "의무",
+      "transliteration": "카르마"
+    },
+    "23053": {
+      "meaning": "평정",
+      "transliteration": "샤마"
+    },
+    "23054": {
+      "meaning": "자제",
+      "transliteration": "다마"
+    },
+    "23055": {
+      "meaning": "순결",
+      "transliteration": "샤우차"
+    },
+    "23056": {
+      "meaning": "관용",
+      "transliteration": "크샨티"
+    },
+    "23057": {
+      "meaning": "정직",
+      "transliteration": "아르자바"
+    },
+    "23058": {
+      "meaning": "신에 대한 신앙",
+      "transliteration": "아스티크야"
+    },
+    "23059": {
+      "meaning": "용기",
+      "transliteration": "샤우차르야"
+    },
+    "23060": {
+      "meaning": "빛남",
+      "transliteration": "테자스"
+    },
+    "23061": {
+      "meaning": "결단력",
+      "transliteration": "드리티"
+    },
+    "23062": {
+      "meaning": "기지",
+      "transliteration": "다크샤야"
+    },
+    "23063": {
+      "meaning": "후퇴하지 않음",
+      "transliteration": "아팔라야남"
+    },
+    "23064": {
+      "meaning": "관대함",
+      "transliteration": "다나"
+    },
+    "23065": {
+      "meaning": "지도력",
+      "transliteration": "이슈바라바바"
+    },
+    "23066": {
+      "meaning": "농업",
+      "transliteration": "크리시"
+    },
+    "23067": {
+      "meaning": "소의 보호",
+      "transliteration": "고락샤"
+    },
+    "23068": {
+      "meaning": "상업",
+      "transliteration": "바니자야"
+    },
+    "23069": {
+      "meaning": "봉사",
+      "transliteration": "파리차르야"
+    },
+    "23070": {
+      "meaning": "완벽",
+      "transliteration": "시디"
+    },
+    "23071": {
+      "meaning": "주",
+      "transliteration": "주"
+    },
+    "23072": {
+      "meaning": "만물의 기원",
+      "transliteration": "부타요니"
+    },
+    "23073": {
+      "meaning": "편재하는 자",
+      "transliteration": "사르바부타"
+    },
+    "23075": {
+      "meaning": "은총",
+      "transliteration": "프라사다"
+    },
+    "23076": {
+      "meaning": "영원한 거처",
+      "transliteration": "스타나"
+    },
+    "23077": {
+      "meaning": "불변의",
+      "transliteration": "아비야야"
+    },
+    "23078": {
+      "meaning": "브라흐만",
+      "transliteration": "브라흐만"
+    },
+    "23079": {
+      "meaning": "해탈",
+      "transliteration": "목샤"
+    },
+    "23080": {
+      "meaning": "요가",
+      "transliteration": "요가"
+    },
+    "23081": {
+      "meaning": "환의 힘",
+      "transliteration": "마야"
+    },
+    "23082": {
+      "meaning": "귀의",
+      "transliteration": "샤라나"
+    },
+    "23083": {
+      "meaning": "다르마/종교",
+      "transliteration": "다르마"
+    },
+    "23084": {
+      "meaning": "죄",
+      "transliteration": "파파"
+    },
+    "23085": {
+      "meaning": "슬픔",
+      "transliteration": "수차"
+    },
+    "23086": {
+      "meaning": "비밀",
+      "transliteration": "구햐"
+    },
+    "23087": {
+      "meaning": "신앙",
+      "transliteration": "슈라다"
+    },
+    "23088": {
+      "meaning": "크리슈나",
+      "transliteration": "크리슈나"
+    },
+    "23089": {
+      "meaning": "아르주나",
+      "transliteration": "아르주나"
+    },
+    "23090": {
+      "meaning": "부",
+      "transliteration": "슈리"
+    },
+    "23091": {
+      "meaning": "승리",
+      "transliteration": "비자야"
+    },
+    "23092": {
+      "meaning": "번영",
+      "transliteration": "부티"
+    },
+    "23093": {
+      "meaning": "정의",
+      "transliteration": "니티"
+    }
+  }
+}

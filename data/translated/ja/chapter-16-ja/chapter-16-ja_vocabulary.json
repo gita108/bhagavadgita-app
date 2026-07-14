@@ -1,0 +1,596 @@
+{
+  "vocabulary": {
+    "abhayam": {
+      "meaning": "無畏",
+      "transliteration": "アバヤム"
+    },
+    "sattva-samshuddhih": {
+      "meaning": "純粋さの浄化",
+      "transliteration": "サットヴァ・サムシュッディ"
+    },
+    "jnana-yoga": {
+      "meaning": "智慧のヨガ",
+      "transliteration": "ジュニャーナ・ヨーガ"
+    },
+    "vyavasthitih": {
+      "meaning": "確立、決心",
+      "transliteration": "ヴィヤヴァスティティ"
+    },
+    "danam": {
+      "meaning": "施し",
+      "transliteration": "ダーナム"
+    },
+    "damah": {
+      "meaning": "自制",
+      "transliteration": "ダマ"
+    },
+    "yajnah": {
+      "meaning": "犠牲、祭祀",
+      "transliteration": "ヤジュニャ"
+    },
+    "svadhyayah": {
+      "meaning": "聖典の学習",
+      "transliteration": "スヴァードヤーヤ"
+    },
+    "tapah": {
+      "meaning": "苦行",
+      "transliteration": "タパス"
+    },
+    "arjavam": {
+      "meaning": "正直",
+      "transliteration": "アルジャヴァム"
+    },
+    "ahimsa": {
+      "meaning": "非暴力",
+      "transliteration": "アヒンサー"
+    },
+    "satyam": {
+      "meaning": "真実",
+      "transliteration": "サティヤム"
+    },
+    "akrodhah": {
+      "meaning": "怒らないこと",
+      "transliteration": "アクローダ"
+    },
+    "tyagah": {
+      "meaning": "放棄",
+      "transliteration": "テャーガ"
+    },
+    "shantih": {
+      "meaning": "平静",
+      "transliteration": "シャンティ"
+    },
+    "apaishunam": {
+      "meaning": "他人の欠点を探さない",
+      "transliteration": "アパイシュナム"
+    },
+    "daya": {
+      "meaning": "慈悲",
+      "transliteration": "ダヤー"
+    },
+    "bhuteshu": {
+      "meaning": "生き物",
+      "transliteration": "ブーテシュ"
+    },
+    "aloluptvam": {
+      "meaning": "貪らないこと",
+      "transliteration": "アロールプトヴァム"
+    },
+    "mardavam": {
+      "meaning": "柔和",
+      "transliteration": "マルダヴァム"
+    },
+    "hrih": {
+      "meaning": "恥じらい",
+      "transliteration": "フリ"
+    },
+    "achapalam": {
+      "meaning": "揺るぎなさ",
+      "transliteration": "アチャパラム"
+    },
+    "tejah": {
+      "meaning": "活力",
+      "transliteration": "テージャ"
+    },
+    "kshama": {
+      "meaning": "寛容",
+      "transliteration": "クシャマー"
+    },
+    "dhritih": {
+      "meaning": "忍耐",
+      "transliteration": "ドゥリティ"
+    },
+    "shaucham": {
+      "meaning": "清浄",
+      "transliteration": "シャウチャ"
+    },
+    "adrohah": {
+      "meaning": "嫉妬しないこと",
+      "transliteration": "アドローハ"
+    },
+    "atimanita": {
+      "meaning": "傲慢でないこと",
+      "transliteration": "アティマニター"
+    },
+    "daivi": {
+      "meaning": "神性",
+      "transliteration": "ダイヴィー"
+    },
+    "sampad": {
+      "meaning": "性質、徳",
+      "transliteration": "サンパド"
+    },
+    "abhijata": {
+      "meaning": "生まれた",
+      "transliteration": "アビジャータ"
+    },
+    "bharata": {
+      "meaning": "バーラタ",
+      "transliteration": "バーラタ"
+    },
+    "dambhah": {
+      "meaning": "偽善",
+      "transliteration": "ダンバ"
+    },
+    "darpa": {
+      "meaning": "高慢",
+      "transliteration": "ダルパ"
+    },
+    "abhimana": {
+      "meaning": "自尊心",
+      "transliteration": "アビマーナ"
+    },
+    "krodha": {
+      "meaning": "怒り",
+      "transliteration": "クローダ"
+    },
+    "parushyam": {
+      "meaning": "残酷さ",
+      "transliteration": "パールシュヤム"
+    },
+    "ajnanam": {
+      "meaning": "無知",
+      "transliteration": "アジュニャーナ"
+    },
+    "asuri": {
+      "meaning": "悪魔の",
+      "transliteration": "アスリー"
+    },
+    "partha": {
+      "meaning": "パールタ",
+      "transliteration": "パールタ"
+    },
+    "vimokshaya": {
+      "meaning": "解脱のために",
+      "transliteration": "ヴィモークシャヤ"
+    },
+    "nibandhaya": {
+      "meaning": "束縛のために",
+      "transliteration": "ニバンダヤ"
+    },
+    "pandava": {
+      "meaning": "パーンダヴァ",
+      "transliteration": "パーンダヴァ"
+    },
+    "bhuta-sarga": {
+      "meaning": "生き物の性質",
+      "transliteration": "ブータ・サルガ"
+    },
+    "loka": {
+      "meaning": "世界",
+      "transliteration": "ローカ"
+    },
+    "pravritti": {
+      "meaning": "なすべき行為",
+      "transliteration": "プラヴリッティ"
+    },
+    "nivritti": {
+      "meaning": "なすべきでない行為",
+      "transliteration": "ニヴリッティ"
+    },
+    "achara": {
+      "meaning": "善い行い",
+      "transliteration": "アーチャラ"
+    },
+    "asatyam": {
+      "meaning": "真実でない",
+      "transliteration": "アサティヤム"
+    },
+    "apratishtam": {
+      "meaning": "基盤がない",
+      "transliteration": "アプラティシュタム"
+    },
+    "jagat": {
+      "meaning": "世界",
+      "transliteration": "ジャガット"
+    },
+    "ishvara": {
+      "meaning": "神、主宰者",
+      "transliteration": "イーシュヴァラ"
+    },
+    "aparaspara": {
+      "meaning": "原因のない",
+      "transliteration": "アパラスパラ"
+    },
+    "sambhutam": {
+      "meaning": "生まれた",
+      "transliteration": "サンブータム"
+    },
+    "kama": {
+      "meaning": "欲望",
+      "transliteration": "カーマ"
+    },
+    "drishti": {
+      "meaning": "見解、視点",
+      "transliteration": "ドゥリシュティ"
+    },
+    "nashta-atma": {
+      "meaning": "自己を喪失した",
+      "transliteration": "ナシュタートマ"
+    },
+    "alpa-buddhi": {
+      "meaning": "知性の低い",
+      "transliteration": "アルパ・ブッディ"
+    },
+    "ugra-karma": {
+      "meaning": "苛烈な行い",
+      "transliteration": "ウグラ・カルマ"
+    },
+    "kshaya": {
+      "meaning": "破滅",
+      "transliteration": "クシャヤ"
+    },
+    "ahita": {
+      "meaning": "有害な",
+      "transliteration": "アヒタ"
+    },
+    "durapuram": {
+      "meaning": "満たすことのない",
+      "transliteration": "ドゥラプラム"
+    },
+    "mada": {
+      "meaning": "驕り",
+      "transliteration": "マダ"
+    },
+    "moha": {
+      "meaning": "愚痴、迷妄",
+      "transliteration": "モーハ"
+    },
+    "asat-graha": {
+      "meaning": "虚偽を掴む",
+      "transliteration": "アサット・グラハ"
+    },
+    "ashuchi-vrata": {
+      "meaning": "不浄な誓い",
+      "transliteration": "アシュチ・ヴラタ"
+    },
+    "chinta": {
+      "meaning": "心配事",
+      "transliteration": "チンター"
+    },
+    "aprameyam": {
+      "meaning": "計り知れない",
+      "transliteration": "アプラメーヤム"
+    },
+    "pralaya-anta": {
+      "meaning": "死に至るまで",
+      "transliteration": "プララヤ・アンタ"
+    },
+    "asha-pasha": {
+      "meaning": "希望の縄",
+      "transliteration": "アーシャー・パーシャ"
+    },
+    "shata": {
+      "meaning": "百",
+      "transliteration": "シャタ"
+    },
+    "baddha": {
+      "meaning": "縛られた",
+      "transliteration": "バッダ"
+    },
+    "kamopabhoga": {
+      "meaning": "感覚の快楽",
+      "transliteration": "カーマ・ウパボーガ"
+    },
+    "artha": {
+      "meaning": "富、目的",
+      "transliteration": "アルタ"
+    },
+    "anyayena": {
+      "meaning": "不正な方法で",
+      "transliteration": "アニャーエナ"
+    },
+    "sanchayan": {
+      "meaning": "蓄積",
+      "transliteration": "サンチャヤン"
+    },
+    "adya": {
+      "meaning": "今日",
+      "transliteration": "アディヤ"
+    },
+    "labdham": {
+      "meaning": "手にした",
+      "transliteration": "ラブダム"
+    },
+    "prapsye": {
+      "meaning": "得るだろう",
+      "transliteration": "プラープシェ"
+    },
+    "manoratha": {
+      "meaning": "望み",
+      "transliteration": "マノーラタ"
+    },
+    "bhavishyati": {
+      "meaning": "未来にあるだろう",
+      "transliteration": "バヴィシャヤティ"
+    },
+    "dhanam": {
+      "meaning": "富",
+      "transliteration": "ダナム"
+    },
+    "asau": {
+      "meaning": "あの",
+      "transliteration": "アサウ"
+    },
+    "hatah": {
+      "meaning": "殺された",
+      "transliteration": "ハタ"
+    },
+    "shatru": {
+      "meaning": "敵",
+      "transliteration": "シャトル"
+    },
+    "hanishye": {
+      "meaning": "倒すだろう",
+      "transliteration": "ハニシェ"
+    },
+    "aparan": {
+      "meaning": "他の",
+      "transliteration": "アパラ"
+    },
+    "bhogi": {
+      "meaning": "享受者",
+      "transliteration": "ボーギー"
+    },
+    "siddha": {
+      "meaning": "成就者",
+      "transliteration": "シッダ"
+    },
+    "balavan": {
+      "meaning": "強い",
+      "transliteration": "バーラヴァン"
+    },
+    "sukhi": {
+      "meaning": "幸せな",
+      "transliteration": "スキー"
+    },
+    "adhyah": {
+      "meaning": "富んだ",
+      "transliteration": "アーディヤ"
+    },
+    "abhijanavan": {
+      "meaning": "高貴な生まれの",
+      "transliteration": "アビジャーナヴァン"
+    },
+    "kah": {
+      "meaning": "誰",
+      "transliteration": "カ"
+    },
+    "anyah": {
+      "meaning": "他の",
+      "transliteration": "アニャ"
+    },
+    "sadrisa": {
+      "meaning": "似た",
+      "transliteration": "サードリシャ"
+    },
+    "yakshye": {
+      "meaning": "祭祀を行う",
+      "transliteration": "ヤクシェ"
+    },
+    "dasyami": {
+      "meaning": "施しをする",
+      "transliteration": "ダーシャーミ"
+    },
+    "modishye": {
+      "meaning": "楽しむ",
+      "transliteration": "モーディシェ"
+    },
+    "vimohitah": {
+      "meaning": "惑わされた",
+      "transliteration": "ヴィモーヒタ"
+    },
+    "aneka-chitta": {
+      "meaning": "心が混乱した",
+      "transliteration": "アネーカ・チッタ"
+    },
+    "vibhranta": {
+      "meaning": "混乱した",
+      "transliteration": "ヴィブランタ"
+    },
+    "jala": {
+      "meaning": "網",
+      "transliteration": "ジャーラ"
+    },
+    "samavrita": {
+      "meaning": "覆われた",
+      "transliteration": "サーマヴリタ"
+    },
+    "prasakta": {
+      "meaning": "没頭した",
+      "transliteration": "プラサクタ"
+    },
+    "patanti": {
+      "meaning": "堕ちる",
+      "transliteration": "パタンティ"
+    },
+    "naraka": {
+      "meaning": "地獄",
+      "transliteration": "ナラカ"
+    },
+    "atma-sambhavita": {
+      "meaning": "自己を誇る",
+      "transliteration": "アートマ・サンバヴィタ"
+    },
+    "stabdha": {
+      "meaning": "頑固な",
+      "transliteration": "スタブダ"
+    },
+    "nama-yajna": {
+      "meaning": "名目のみの祭祀",
+      "transliteration": "ナーマ・ヤジュニャ"
+    },
+    "dambhena": {
+      "meaning": "偽善的に",
+      "transliteration": "ダンベナ"
+    },
+    "avidhi-purvakam": {
+      "meaning": "規範を無視して",
+      "transliteration": "アヴィディ・プールヴァカム"
+    },
+    "asura-yoni": {
+      "meaning": "悪魔の胎",
+      "transliteration": "アスラ・ヨニ"
+    },
+    "apanna": {
+      "meaning": "到達した",
+      "transliteration": "アープンナー"
+    },
+    "mudha": {
+      "meaning": "愚かな者",
+      "transliteration": "ムーダ"
+    },
+    "janmani": {
+      "meaning": "生まれにおいて",
+      "transliteration": "ジャナニ"
+    },
+    "aprapya": {
+      "meaning": "到達できない",
+      "transliteration": "アプラープヤ"
+    },
+    "kaunteya": {
+      "meaning": "クンティーの子",
+      "transliteration": "カウンテーヤ"
+    },
+    "adhamam": {
+      "meaning": "低い",
+      "transliteration": "アダマム"
+    },
+    "gatim": {
+      "meaning": "目的地",
+      "transliteration": "ガティ"
+    },
+    "tri-vidham": {
+      "meaning": "三つの種類",
+      "transliteration": "トリ・ヴィドゥム"
+    },
+    "naraka-dvaram": {
+      "meaning": "地獄の門",
+      "transliteration": "ナラカ・ドヴァーラム"
+    },
+    "nasanam": {
+      "meaning": "破滅",
+      "transliteration": "ナーシャナム"
+    },
+    "lobha": {
+      "meaning": "貪欲",
+      "transliteration": "ローバ"
+    },
+    "tasmad": {
+      "meaning": "それゆえに",
+      "transliteration": "タスマード"
+    },
+    "trayam": {
+      "meaning": "三つ",
+      "transliteration": "トラヤム"
+    },
+    "tyajet": {
+      "meaning": "捨てるべき",
+      "transliteration": "テャジェート"
+    },
+    "vimukta": {
+      "meaning": "解放された",
+      "transliteration": "ヴィムクタ"
+    },
+    "tamah": {
+      "meaning": "闇",
+      "transliteration": "タマ"
+    },
+    "tribhih": {
+      "meaning": "三つの",
+      "transliteration": "トリビ"
+    },
+    "naray": {
+      "meaning": "人",
+      "transliteration": "ナラ"
+    },
+    "acharati": {
+      "meaning": "行動する",
+      "transliteration": "アーチャラティ"
+    },
+    "shreyas": {
+      "meaning": "福祉",
+      "transliteration": "シュレーヤス"
+    },
+    "shasta": {
+      "meaning": "経典",
+      "transliteration": "シャーストラ"
+    },
+    "vidhim": {
+      "meaning": "規範",
+      "transliteration": "ヴィディム"
+    },
+    "utsrijya": {
+      "meaning": "捨てる",
+      "transliteration": "ウツスリヤ"
+    },
+    "vartate": {
+      "meaning": "行動する",
+      "transliteration": "ヴァルタテ"
+    },
+    "kama-charatah": {
+      "meaning": "欲望のままに",
+      "transliteration": "カーマ・チャラタ"
+    },
+    "siddhim": {
+      "meaning": "成就",
+      "transliteration": "シッディ"
+    },
+    "avapnoti": {
+      "meaning": "得る",
+      "transliteration": "アヴァープノティ"
+    },
+    "sukham": {
+      "meaning": "幸福",
+      "transliteration": "スクハム"
+    },
+    "pramanam": {
+      "meaning": "権威",
+      "transliteration": "プラマーナム"
+    },
+    "karya": {
+      "meaning": "なすべきこと",
+      "transliteration": "カルヤ"
+    },
+    "akarya": {
+      "meaning": "なすべきでないこと",
+      "transliteration": "アカルヤ"
+    },
+    "jnativa": {
+      "meaning": "知って",
+      "transliteration": "ジュニャートヴァ"
+    },
+    "kartum": {
+      "meaning": "行うために",
+      "transliteration": "カルトゥム"
+    },
+    "iha": {
+      "meaning": "この世界で",
+      "transliteration": "イハ"
+    },
+    "arhasi": {
+      "meaning": "すべき",
+      "transliteration": "アルハシ"
+    }
+  }
+}

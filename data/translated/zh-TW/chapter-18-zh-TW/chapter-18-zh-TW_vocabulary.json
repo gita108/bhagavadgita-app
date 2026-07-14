@@ -1,0 +1,472 @@
+{
+  "vocabulary": {
+    "22992": {
+      "meaning": "婆羅多族中最優秀的人啊",
+      "transliteration": "巴拉塔-薩特塔瑪"
+    },
+    "23309": {
+      "meaning": "婆羅多族中最優秀的人啊",
+      "transliteration": "巴拉塔 - 瑞沙巴"
+    },
+    "22964": {
+      "meaning": "感官之主啊",
+      "transliteration": "赫瑞希凱夏"
+    },
+    "23550": {
+      "meaning": "昆蒂之子啊",
+      "transliteration": "昆提亞"
+    },
+    "22965": {
+      "meaning": "凱西惡魔的毀滅者啊",
+      "transliteration": "凱西尼蘇達納"
+    },
+    "23357": {
+      "meaning": "敵人的征服者啊",
+      "transliteration": "帕蘭塔帕"
+    },
+    "22998": {
+      "meaning": "人中最優秀者啊",
+      "transliteration": "普魯沙 - 維亞घ拉"
+    },
+    "23695": {
+      "meaning": "帕爾塔啊（昆蒂之子）",
+      "transliteration": "帕爾塔"
+    },
+    "23347": {
+      "meaning": "在人類等之中",
+      "transliteration": "馬努夏迪舒"
+    },
+    "23646": {
+      "meaning": "歌頌",
+      "transliteration": "阿毗達夏亞提"
+    },
+    "23074": {
+      "meaning": "奉獻",
+      "transliteration": "巴克提"
+    },
+    "23101": {
+      "meaning": "基礎，身體",
+      "transliteration": "阿地施塔納姆"
+    },
+    "23440": {
+      "meaning": "如火被覆蓋",
+      "transliteration": "阿格尼 伊瓦"
+    },
+    "23331": {
+      "meaning": "在開始時",
+      "transliteration": "阿格瑞"
+    },
+    "23340": {
+      "meaning": "在開始時",
+      "transliteration": "阿格瑞 查"
+    },
+    "23534": {
+      "meaning": "出於傲慢",
+      "transliteration": "阿漢卡拉特"
+    },
+    "23859": {
+      "meaning": "無知和迷惑",
+      "transliteration": "阿知納 - 桑莫哈"
+    },
+    "23127": {
+      "meaning": "由於智力不純潔",
+      "transliteration": "阿克里塔 - 布提瓦特"
+    },
+    "23441": {
+      "meaning": "在結束時",
+      "transliteration": "阿努班德 查"
+    },
+    "22988": {
+      "meaning": "和其他人（通常是彌曼差派）",
+      "transliteration": "阿帕瑞 查"
+    },
+    "23195": {
+      "meaning": "沒有愛憎的偏見",
+      "transliteration": "阿拉卡 - 德韋沙塔"
+    },
+    "23442": {
+      "meaning": "具有超脫智慧的人",
+      "transliteration": "阿薩克塔 - 布提"
+    },
+    "23639": {
+      "meaning": "對沒有苦行的人",
+      "transliteration": "阿塔帕斯卡亞"
+    },
+    "23187": {
+      "meaning": "不尋求真理 - 沒有靈性或經典的概念",
+      "transliteration": "阿塔特瓦 - 阿塔瓦特"
+    },
+    "23109": {
+      "meaning": "第五個因素",
+      "transliteration": "阿特拉 潘查曼"
+    },
+    "23001": {
+      "meaning": "棄絕",
+      "transliteration": "桑尼亞薩"
+    },
+    "23002": {
+      "meaning": "超脫",
+      "transliteration": "提亞加"
+    },
+    "23003": {
+      "meaning": "功利性活動",
+      "transliteration": "卡米亞納姆"
+    },
+    "23004": {
+      "meaning": "活動的",
+      "transliteration": "卡爾馬納姆"
+    },
+    "23005": {
+      "meaning": "放棄",
+      "transliteration": "尼亞薩姆"
+    },
+    "23006": {
+      "meaning": "智者",
+      "transliteration": "卡瓦亞"
+    },
+    "23007": {
+      "meaning": "知道",
+      "transliteration": "維杜"
+    },
+    "23008": {
+      "meaning": "所有",
+      "transliteration": "薩爾瓦"
+    },
+    "23009": {
+      "meaning": "活動",
+      "transliteration": "卡爾馬"
+    },
+    "23010": {
+      "meaning": "果報",
+      "transliteration": "帕拉"
+    },
+    "23011": {
+      "meaning": "覺悟的人",
+      "transliteration": "維查克沙納"
+    },
+    "23012": {
+      "meaning": "應該放棄",
+      "transliteration": "提亞佳姆"
+    },
+    "23013": {
+      "meaning": "有缺陷的",
+      "transliteration": "多夏瓦特"
+    },
+    "23014": {
+      "meaning": "如此",
+      "transliteration": "伊提"
+    },
+    "23015": {
+      "meaning": "一些",
+      "transliteration": "埃克"
+    },
+    "23016": {
+      "meaning": "哲學家",
+      "transliteration": "馬尼希納"
+    },
+    "23017": {
+      "meaning": "祭祀",
+      "transliteration": "雅吉納"
+    },
+    "23018": {
+      "meaning": "布施",
+      "transliteration": "達納"
+    },
+    "23019": {
+      "meaning": "苦行",
+      "transliteration": "塔帕"
+    },
+    "23020": {
+      "meaning": "不",
+      "transliteration": "納"
+    },
+    "23021": {
+      "meaning": "其他",
+      "transliteration": "阿帕瑞"
+    },
+    "23022": {
+      "meaning": "結論",
+      "transliteration": "尼什恰揚"
+    },
+    "23023": {
+      "meaning": "聽",
+      "transliteration": "什魯努"
+    },
+    "23024": {
+      "meaning": "我的",
+      "transliteration": "梅"
+    },
+    "23025": {
+      "meaning": "關於那個",
+      "transliteration": "塔特拉"
+    },
+    "23026": {
+      "meaning": "因為",
+      "transliteration": "希"
+    },
+    "23027": {
+      "meaning": "三種類型",
+      "transliteration": "特里 - 維達"
+    },
+    "23028": {
+      "meaning": "被宣告",
+      "transliteration": "桑普拉基爾提塔"
+    },
+    "23029": {
+      "meaning": "必須執行",
+      "transliteration": "卡爾揚"
+    },
+    "23030": {
+      "meaning": "確實",
+      "transliteration": "埃瓦"
+    },
+    "23031": {
+      "meaning": "那些",
+      "transliteration": "塔特"
+    },
+    "23032": {
+      "meaning": "淨化者",
+      "transliteration": "帕瓦納尼"
+    },
+    "23033": {
+      "meaning": "智者的",
+      "transliteration": "馬尼希納姆"
+    },
+    "23034": {
+      "meaning": "執著",
+      "transliteration": "桑加"
+    },
+    "23035": {
+      "meaning": "果報",
+      "transliteration": "帕拉"
+    },
+    "23036": {
+      "meaning": "善良形態",
+      "transliteration": "薩特瓦"
+    },
+    "23037": {
+      "meaning": "激情形態",
+      "transliteration": "拉賈斯"
+    },
+    "23038": {
+      "meaning": "愚昧形態",
+      "transliteration": "塔瑪斯"
+    },
+    "23039": {
+      "meaning": "身體",
+      "transliteration": "德哈"
+    },
+    "23040": {
+      "meaning": "行為者",
+      "transliteration": "卡爾塔"
+    },
+    "23041": {
+      "meaning": "知識",
+      "transliteration": "知納"
+    },
+    "23042": {
+      "meaning": "行為",
+      "transliteration": "卡爾馬"
+    },
+    "23043": {
+      "meaning": "智力",
+      "transliteration": "布提"
+    },
+    "23044": {
+      "meaning": "決心",
+      "transliteration": "提"
+    },
+    "23045": {
+      "meaning": "快樂",
+      "transliteration": "蘇卡"
+    },
+    "23046": {
+      "meaning": "婆羅門",
+      "transliteration": "布拉馬納"
+    },
+    "23047": {
+      "meaning": "剎帝利",
+      "transliteration": "剎特里亞"
+    },
+    "23048": {
+      "meaning": "吠舍",
+      "transliteration": "瓦伊夏"
+    },
+    "23049": {
+      "meaning": "首陀羅",
+      "transliteration": "舒拉"
+    },
+    "23050": {
+      "meaning": "本性",
+      "transliteration": "斯瓦巴瓦"
+    },
+    "23051": {
+      "meaning": "品質",
+      "transliteration": "古納"
+    },
+    "23052": {
+      "meaning": "職責",
+      "transliteration": "卡爾馬"
+    },
+    "23053": {
+      "meaning": "平靜",
+      "transliteration": "沙馬"
+    },
+    "23054": {
+      "meaning": "自制",
+      "transliteration": "達馬"
+    },
+    "23055": {
+      "meaning": "純潔",
+      "transliteration": "邵查"
+    },
+    "23056": {
+      "meaning": "寬恕",
+      "transliteration": "克山提"
+    },
+    "23057": {
+      "meaning": "正直",
+      "transliteration": "阿爾賈瓦"
+    },
+    "23058": {
+      "meaning": "對神的信仰",
+      "transliteration": "阿斯提克亞"
+    },
+    "23059": {
+      "meaning": "英勇",
+      "transliteration": "紹查爾揚"
+    },
+    "23060": {
+      "meaning": "光輝",
+      "transliteration": "特賈"
+    },
+    "23061": {
+      "meaning": "堅決",
+      "transliteration": "提"
+    },
+    "23062": {
+      "meaning": "機智",
+      "transliteration": "達克夏揚"
+    },
+    "23063": {
+      "meaning": "不退縮",
+      "transliteration": "阿帕拉亞納姆"
+    },
+    "23064": {
+      "meaning": "慷慨",
+      "transliteration": "達納"
+    },
+    "23065": {
+      "meaning": "領導能力",
+      "transliteration": "伊施瓦拉巴瓦"
+    },
+    "23066": {
+      "meaning": "農業",
+      "transliteration": "克里希"
+    },
+    "23067": {
+      "meaning": "保護牛隻",
+      "transliteration": "戈拉克夏"
+    },
+    "23068": {
+      "meaning": "商業",
+      "transliteration": "瓦尼佳揚"
+    },
+    "23069": {
+      "meaning": "服務",
+      "transliteration": "帕里查爾亞"
+    },
+    "23070": {
+      "meaning": "完美",
+      "transliteration": "悉地"
+    },
+    "23071": {
+      "meaning": "主",
+      "transliteration": "主"
+    },
+    "23072": {
+      "meaning": "萬物的起源",
+      "transliteration": "布塔約尼"
+    },
+    "23073": {
+      "meaning": "遍在者",
+      "transliteration": "薩爾瓦布塔"
+    },
+    "23075": {
+      "meaning": "恩典",
+      "transliteration": "普拉薩達"
+    },
+    "23076": {
+      "meaning": "永恆的住所",
+      "transliteration": "斯塔納"
+    },
+    "23077": {
+      "meaning": "不變的",
+      "transliteration": "阿維亞亞"
+    },
+    "23078": {
+      "meaning": "梵",
+      "transliteration": "布拉馬"
+    },
+    "23079": {
+      "meaning": "解脫",
+      "transliteration": "莫克夏"
+    },
+    "23080": {
+      "meaning": "瑜伽",
+      "transliteration": "瑜伽"
+    },
+    "23081": {
+      "meaning": "幻力",
+      "transliteration": "瑪亞"
+    },
+    "23082": {
+      "meaning": "歸依",
+      "transliteration": "沙拉納"
+    },
+    "23083": {
+      "meaning": "宗教/法",
+      "transliteration": "達爾馬"
+    },
+    "23084": {
+      "meaning": "罪惡",
+      "transliteration": "帕帕"
+    },
+    "23085": {
+      "meaning": "悲傷",
+      "transliteration": "蘇查"
+    },
+    "23086": {
+      "meaning": "秘密",
+      "transliteration": "古哈"
+    },
+    "23087": {
+      "meaning": "信心",
+      "transliteration": "什拉達"
+    },
+    "23088": {
+      "meaning": "克里希納",
+      "transliteration": "克里希納"
+    },
+    "23089": {
+      "meaning": "阿爾朱那",
+      "transliteration": "阿爾朱那"
+    },
+    "23090": {
+      "meaning": "財富",
+      "transliteration": "斯里"
+    },
+    "23091": {
+      "meaning": "勝利",
+      "transliteration": "維賈亞"
+    },
+    "23092": {
+      "meaning": "繁榮",
+      "transliteration": "布提"
+    },
+    "23093": {
+      "meaning": "正義",
+      "transliteration": "尼提"
+    }
+  }
+}

@@ -1,0 +1,7315 @@
+{
+  "generatedAt": "2026-04-28T10:16:44+00:00",
+  "repoRoot": "/Users/anton/proj/bhagavadgita_book",
+  "sources": [
+    "data",
+    "bak",
+    "legacy_bhagavadgitabook_db"
+  ],
+  "contentTypes": [
+    "sloka",
+    "translit",
+    "comment",
+    "vocabulary",
+    "meta",
+    "audioRefs",
+    "quotes"
+  ],
+  "v1LanguagePolicy": {
+    "sanskrit": "seed_ok",
+    "ru": "full",
+    "de": "full",
+    "es": "full",
+    "en": "full",
+    "he": "full",
+    "hy": "seed_ok",
+    "ja": "partial",
+    "el": "seed_ok",
+    "zh-CN": "seed_ok",
+    "zh-TW": "full",
+    "ar": "full",
+    "ka": "seed_ok",
+    "ko": "full",
+    "th": "full"
+  },
+  "data": {
+    "data": {
+      "source": "data",
+      "languages": {
+        "sanskrit": {
+          "chapters": {
+            "09": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "08": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "03": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "02": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "14": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "15": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "18": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "13": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "12": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "04": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "05": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "17": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "16": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "01": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "07": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "06": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "10": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            },
+            "11": {
+              "present": [
+                "meta",
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ]
+            }
+          }
+        },
+        "ru": {
+          "chapters": {
+            "07": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "03": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "13": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "02": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "12": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "09": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "18": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "11": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "05": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "15": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "04": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "10": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            }
+          }
+        },
+        "de": {
+          "chapters": {
+            "15": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "05": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "11": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "10": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "04": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "09": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "18": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "03": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "07": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "12": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "02": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            }
+          }
+        },
+        "es": {
+          "chapters": {
+            "14": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "04": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "10": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "11": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "15": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "05": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "12": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "02": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "07": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "03": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "18": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "09": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            }
+          }
+        },
+        "en": {
+          "chapters": {
+            "10": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "04": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "05": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "15": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "11": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "02": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "12": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "03": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "07": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "08": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "18": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            },
+            "09": {
+              "present": [
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "quotes"
+              ],
+              "group": "original"
+            }
+          }
+        },
+        "he": {
+          "chapters": {
+            "09": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "18": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "07": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "03": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "02": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "12": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "11": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "05": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "15": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "04": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "10": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            }
+          }
+        },
+        "hy": {
+          "chapters": {
+            "09": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "18": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "07": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "03": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "12": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "02": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "11": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "15": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "05": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "04": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "10": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            }
+          }
+        },
+        "ja": {
+          "chapters": {
+            "12": {
+              "present": [
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "02": {
+              "present": [
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "sloka"
+              ],
+              "group": "translated"
+            },
+            "16": {
+              "present": [
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "06": {
+              "present": [
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "sloka"
+              ],
+              "group": "translated"
+            },
+            "17": {
+              "present": [
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "07": {
+              "present": [
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "13": {
+              "present": [
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "03": {
+              "present": [
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "sloka"
+              ],
+              "group": "translated"
+            },
+            "18": {
+              "present": [
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "08": {
+              "present": [
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "09": {
+              "present": [
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "14": {
+              "present": [
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "04": {
+              "present": [
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "sloka"
+              ],
+              "group": "translated"
+            },
+            "10": {
+              "present": [
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "11": {
+              "present": [
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "01": {
+              "present": [
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "sloka"
+              ],
+              "group": "translated"
+            },
+            "15": {
+              "present": [
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "05": {
+              "present": [
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "sloka"
+              ],
+              "group": "translated"
+            }
+          }
+        },
+        "el": {
+          "chapters": {
+            "12": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "02": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "07": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "03": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "18": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "09": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "04": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "10": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "11": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "15": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "05": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            }
+          }
+        },
+        "zh-CN": {
+          "chapters": {
+            "04": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "02": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "07": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "05": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "18": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "03": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "10": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "09": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "12": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "15": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "11": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            }
+          }
+        },
+        "zh-TW": {
+          "chapters": {
+            "02": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "04": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "18": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "03": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "07": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "05": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "09": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "10": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "12": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "11": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "15": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            }
+          }
+        },
+        "ar": {
+          "chapters": {
+            "11": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "15": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "05": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "04": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "10": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "09": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "18": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "07": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "03": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "12": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "02": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            }
+          }
+        },
+        "ka": {
+          "chapters": {
+            "15": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "05": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "11": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "10": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "04": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "09": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "18": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "03": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "07": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "12": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "02": {
+              "present": [
+                "meta",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "sloka",
+                "vocabulary"
+              ],
+              "group": "translated"
+            }
+          }
+        },
+        "ko": {
+          "chapters": {
+            "15": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "05": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "11": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "10": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "04": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "09": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "18": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "03": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "07": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "12": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "02": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            }
+          }
+        },
+        "th": {
+          "chapters": {
+            "11": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "01": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes"
+              ],
+              "group": "translated"
+            },
+            "15": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "05": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "14": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "04": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "10": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "17": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "07": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "13": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "03": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "12": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "02": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "16": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "06": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "09": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "18": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            },
+            "08": {
+              "present": [
+                "meta",
+                "sloka",
+                "translit"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "quotes",
+                "vocabulary"
+              ],
+              "group": "translated"
+            }
+          }
+        }
+      },
+      "notes": [
+        {
+          "type": "meta_languages_extra",
+          "path": "/Users/anton/proj/bhagavadgita_book/data/meta/languages.json",
+          "languages": [
+            "sw",
+            "tr"
+          ]
+        }
+      ]
+    },
+    "bak": {
+      "source": "bak",
+      "languages": {
+        "zh-CN": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            }
+          }
+        },
+        "zh-TW": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            }
+          }
+        },
+        "es": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "07": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "08": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "09": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "10": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "11": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "12": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "13": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "14": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "15": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "16": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "17": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "18": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            }
+          }
+        },
+        "en": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "07": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "09": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "10": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "11": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "12": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "13": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "14": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "15": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "17": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "18": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            }
+          }
+        },
+        "de": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "07": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "08": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "09": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "10": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "11": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "12": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "13": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "14": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "15": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "16": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "17": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "18": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            }
+          }
+        },
+        "th": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "16": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "18": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "10": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "12": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "09": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "07": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "11": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "17": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "14": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "13": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "08": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "15": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            }
+          }
+        },
+        "ko": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            }
+          }
+        },
+        "ru": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "07": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "08": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "09": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "10": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "11": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "12": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "13": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "14": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "15": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "16": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "17": {
+              "present": [
+                "audioRefs",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            },
+            "18": {
+              "present": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "quotes"
+              ],
+              "group": "bak/chapters/original"
+            }
+          }
+        },
+        "he": {
+          "chapters": {
+            "16": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "18": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "10": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "06": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "12": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "09": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "03": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "07": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "11": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "01": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "17": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "14": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "13": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "05": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "02": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "04": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "08": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "15": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            }
+          }
+        },
+        "zhcn": {
+          "chapters": {
+            "16": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "18": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "10": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "06": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "12": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "09": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "03": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "07": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "11": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "01": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "17": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "14": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "13": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "05": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "02": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "04": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "08": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            },
+            "15": {
+              "present": [
+                "sloka"
+              ],
+              "missing": [
+                "audioRefs",
+                "comment",
+                "meta",
+                "quotes",
+                "translit",
+                "vocabulary"
+              ],
+              "group": "bak/chapters/generated"
+            }
+          }
+        }
+      },
+      "chapter_json": {
+        "path": "bak/chapters/original",
+        "chapters": {
+          "01": {
+            "present": [
+              "audioRefs",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "comment",
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ko",
+              "ru",
+              "th",
+              "zh-CN",
+              "zh-TW"
+            ]
+          },
+          "02": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ko",
+              "ru",
+              "th",
+              "zh-CN",
+              "zh-TW"
+            ]
+          },
+          "03": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ko",
+              "ru",
+              "th",
+              "zh-CN",
+              "zh-TW"
+            ]
+          },
+          "04": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ko",
+              "ru",
+              "th",
+              "zh-CN",
+              "zh-TW"
+            ]
+          },
+          "05": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ko",
+              "ru",
+              "th",
+              "zh-CN",
+              "zh-TW"
+            ]
+          },
+          "06": {
+            "present": [
+              "audioRefs",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "comment",
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ko",
+              "ru",
+              "th",
+              "zh-CN",
+              "zh-TW"
+            ]
+          },
+          "07": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ru"
+            ]
+          },
+          "08": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "es",
+              "ru"
+            ]
+          },
+          "09": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ru"
+            ]
+          },
+          "10": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ru"
+            ]
+          },
+          "11": {
+            "present": [
+              "audioRefs",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "comment",
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ru"
+            ]
+          },
+          "12": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ru"
+            ]
+          },
+          "13": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ru"
+            ]
+          },
+          "14": {
+            "present": [
+              "audioRefs",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "comment",
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ru"
+            ]
+          },
+          "15": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ru"
+            ]
+          },
+          "16": {
+            "present": [
+              "audioRefs",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "comment",
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "es",
+              "ru"
+            ]
+          },
+          "17": {
+            "present": [
+              "audioRefs",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "comment",
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ru"
+            ]
+          },
+          "18": {
+            "present": [
+              "audioRefs",
+              "comment",
+              "meta",
+              "sloka",
+              "translit",
+              "vocabulary"
+            ],
+            "missing": [
+              "quotes"
+            ],
+            "languages_inferred": [
+              "de",
+              "en",
+              "es",
+              "ru"
+            ]
+          }
+        }
+      },
+      "notes": []
+    },
+    "legacy_bhagavadgitabook_db": {
+      "source": "legacy_bhagavadgitabook_db",
+      "languages": {
+        "en": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "07": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "08": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "09": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "10": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "11": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "12": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "13": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "14": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "15": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "16": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "17": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "18": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            }
+          }
+        },
+        "ru": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "07": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "08": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "09": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "10": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "11": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "12": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "13": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "14": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "15": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "16": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "17": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "18": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            }
+          }
+        },
+        "de": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "07": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "08": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "09": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "10": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "11": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "12": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "13": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "14": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "15": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "16": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "17": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "18": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            }
+          }
+        },
+        "spa": {
+          "chapters": {
+            "01": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "02": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "03": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "04": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "05": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "06": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "07": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "08": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "09": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "10": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "11": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "12": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "13": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "14": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "15": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "16": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "17": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            },
+            "18": {
+              "present": [
+                "audioRefs",
+                "quotes",
+                "sloka",
+                "translit",
+                "vocabulary"
+              ],
+              "missing": [
+                "comment",
+                "meta"
+              ],
+              "group": "legacy_db_csv"
+            }
+          }
+        }
+      },
+      "notes": [],
+      "paths": {
+        "languages_csv": "/Users/anton/proj/bhagavadgita_book/legacy/legacy_bhagavadgitabook_db/Books/db_languages.csv",
+        "books_csv": "/Users/anton/proj/bhagavadgita_book/legacy/legacy_bhagavadgitabook_db/Books/db_books.csv",
+        "chapters_csv": "/Users/anton/proj/bhagavadgita_book/legacy/legacy_bhagavadgitabook_db/Books/db_chapters.csv",
+        "slokas_csv": "/Users/anton/proj/bhagavadgita_book/legacy/legacy_bhagavadgitabook_db/Books/Gita_Slokas.csv",
+        "vocab_csv": "/Users/anton/proj/bhagavadgita_book/legacy/legacy_bhagavadgitabook_db/Books/Gita_Vocabularies.csv",
+        "quotes_csv": "/Users/anton/proj/bhagavadgita_book/legacy/legacy_bhagavadgitabook_db/Books/db_quoutes.csv"
+      }
+    }
+  }
+}

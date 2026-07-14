@@ -1,0 +1,304 @@
+{
+  "vocabulary": {
+    "(guṇa bhedāt)": {
+      "meaning": "وفقاً للصفات الثلاث للطبيعة المادية",
+      "transliteration": "غونا بهيدات"
+    },
+    "(he) bhārata": {
+      "meaning": "يا نسل بهاراتا",
+      "transliteration": "بهاراتا"
+    },
+    "(he) pārtha": {
+      "meaning": "يا ابن كونتي",
+      "transliteration": "بارثا"
+    },
+    "(karśayantaḥ) mām cha eva": {
+      "meaning": "وتعذبني أيضاً، في شكلي كجزيء، الروح، الجيفأتمان",
+      "transliteration": "كارشايانتاه مام شا إيفا"
+    },
+    "adakṣiṇam": {
+      "meaning": "دون عروض مناسبة للكهنة",
+      "transliteration": "أداكشينام"
+    },
+    "adeśa-kāle": {
+      "meaning": "في مكان وزمان غير مناسبين",
+      "transliteration": "أديشا كالي"
+    },
+    "amedhyam cha": {
+      "meaning": "والأطعمة النجسة غير القابلة للتضحية (اللحم، الخمر، البصل، إلخ)",
+      "transliteration": "أميدهيام شا"
+    },
+    "antaḥ śarīra-stham": {
+      "meaning": "في داخل الجسد",
+      "transliteration": "أنتاه شاريرا ستام"
+    },
+    "anupakāriṇe iti": {
+      "meaning": "دون توقع مقابل",
+      "transliteration": "أنوباكاريه إيتي"
+    },
+    "aphala-ākāṅkṣibhiḥ": {
+      "meaning": "من قبل من لا يطمع في ثمار العمل",
+      "transliteration": "أفالا أكانكшибه"
+    },
+    "asṛṣṭa-annam": {
+      "meaning": "دون توزيع الطعام وما شابه",
+      "transliteration": "أسريشتا أنام"
+    },
+    "aśāstra-vihitam": {
+      "meaning": "غير مصرح به من الكتب المقدسة",
+      "transliteration": "أشاسترا فيهيتام"
+    },
+    "brahma-vādinām": {
+      "meaning": "من أتباع الفيدا",
+      "transliteration": "براهما فادينام"
+    },
+    "brahmaṇaḥ": {
+      "meaning": "براهما، الروح الأعلى",
+      "transliteration": "براهماناه"
+    },
+    "dambha-ahaṅkāra-saṁyuktāḥ": {
+      "meaning": "ممتلئون بالكبر والأنانية",
+      "transliteration": "دامبا أهانكارا ساميوكتاه"
+    },
+    "dambha-artham api cha eva": {
+      "meaning": "والذي هو عرض للفخامة والعظمة",
+      "transliteration": "دامبا أرثام أبي شا إيفا"
+    },
+    "dambhena cha eva": {
+      "meaning": "ويُنفذ بكبرياء عظيم",
+      "transliteration": "دامبينا شا إيفا"
+    },
+    "dattam": {
+      "meaning": "الصدقة تُعطى",
+      "transliteration": "داتام"
+    },
+    "dehinām": {
+      "meaning": "للكائنات الحية",
+      "transliteration": "دهينام"
+    },
+    "deva-dvija-guru-prājña-pūjanam": {
+      "meaning": "عبادة الإله، والبراهمي، والمعلم، والروح المستنيرة",
+      "transliteration": "ديفا دفيجا جورو براجنا بوجانام"
+    },
+    "devān": {
+      "meaning": "أنصاف الآلهة من طبيعة الخير",
+      "transliteration": "ديفان"
+    },
+    "dāna-kriyāḥ cha": {
+      "meaning": "وأعمال الصدقة",
+      "transliteration": "دانا كرياه شا"
+    },
+    "dātavyam cha": {
+      "meaning": "ومع القناعة بأنه يجب إعطاؤها",
+      "transliteration": "داتافيام شا"
+    },
+    "hutam": {
+      "meaning": "التضحية تُقدّم",
+      "transliteration": "هوتام"
+    },
+    "kaṭu-amla-lavaṇa-ati-uṣṇa-tīkṣṇa-rukṣa-vidāhinaḥ": {
+      "meaning": "الذي هو مر جداً، حامض جداً، مالح جداً، حار جداً، لاذع جداً، جاف جداً ومسبب للحرارة",
+      "transliteration": "كاتو أملا لافنا أتي أوشنا تيكشنا روكشا فيداهيناه"
+    },
+    "kāma-rāga-bala-anvitāḥ": {
+      "meaning": "ومدفوع بالشهوة والتعلق والقوة",
+      "transliteration": "كاما راغا بالا أنفيتاه"
+    },
+    "kṛtam": {
+      "meaning": "الفعل يُنفذ",
+      "transliteration": "كريتام"
+    },
+    "manaḥ samādhāya": {
+      "meaning": "مع القناعة الراسخة",
+      "transliteration": "ماناه سامادهايا"
+    },
+    "mokṣa-kāṅkṣibhiḥ": {
+      "meaning": "الأشخاص الذين يتطلعون إلى التحرر",
+      "transliteration": "موكشا كانكشيبه"
+    },
+    "na cha pretya": {
+      "meaning": "ولا في الآخرة",
+      "transliteration": "نا شا بريتا"
+    },
+    "niṣṭhā": {
+      "meaning": "هو الموقف",
+      "transliteration": "نيشتا"
+    },
+    "om iti": {
+      "meaning": "مقطع أوم، الذي يمثل براهما، المطلق",
+      "transliteration": "أوم إيتي"
+    },
+    "phalam": {
+      "meaning": "من أجل الثمار",
+      "transliteration": "فالام"
+    },
+    "phalam uddiśya": {
+      "meaning": "لغرض الحصول على مكافأة",
+      "transliteration": "فالام أوديشيا"
+    },
+    "prati-upakāra-artham": {
+      "meaning": "مع توقع المقابل",
+      "transliteration": "براتي أوباكارا أرثام"
+    },
+    "pretān bhūta-gaṇān cha": {
+      "meaning": "الأشباح والأرواح من طبيعة الجهل",
+      "transliteration": "بريتان بهوتا غانان شا"
+    },
+    "priya-hitam cha": {
+      "meaning": "وسار لكنه مفيد",
+      "transliteration": "بريا هيتام شا"
+    },
+    "purā": {
+      "meaning": "في الأزمنة القديمة، عند الخلق الكوني",
+      "transliteration": "بورا"
+    },
+    "rājasam": {
+      "meaning": "أن يكون من طبيعة الشغف",
+      "transliteration": "راجاسام"
+    },
+    "rājasasya": {
+      "meaning": "لأهل الشغف",
+      "transliteration": "راجاساسيا"
+    },
+    "rājasāḥ": {
+      "meaning": "أولئك ذوو إيمان طبيعة الشغف",
+      "transliteration": "راجاساه"
+    },
+    "sat iti": {
+      "meaning": "كلمة سات، التي تمثل براهما، المطلق",
+      "transliteration": "سات إيتي"
+    },
+    "sat iti eva": {
+      "meaning": "بكلمة سات",
+      "transliteration": "سات إيتي إيفا"
+    },
+    "sat-bhāve": {
+      "meaning": "للدلالة على الحقيقة، طبيعة براهما",
+      "transliteration": "سات بهاف"
+    },
+    "satkāra-māna-pūja-artham": {
+      "meaning": "من أجل المكسب، العبادة، والشهرة",
+      "transliteration": "ساتكارا مانا بوجا أرثام"
+    },
+    "sattva-anurūpā": {
+      "meaning": "وفقاً لوعيهم",
+      "transliteration": "ساتفا أنوروبا"
+    },
+    "smṛtaḥ": {
+      "meaning": "معروفون في الكتب المقدسة كـ",
+      "transliteration": "سمريتاه"
+    },
+    "svabhāva-jā": {
+      "meaning": "تولد من الطبيعة الذاتية المكتسبة من آثار الحيات السابقة",
+      "transliteration": "سفابهاجا"
+    },
+    "svādhyāya-abhyasanam cha eva": {
+      "meaning": "وتلاوة منتظمة للفيدا",
+      "transliteration": "سفادهايا أبهياسنام شا إيفا"
+    },
+    "sādhu-bhāve cha": {
+      "meaning": "والأشخاص المكرسون للحقيقة، عارفو براهما",
+      "transliteration": "سادهو بهاف شا"
+    },
+    "sāttvika-priyāḥ": {
+      "meaning": "محبوبة لأهل طبيعة الخير",
+      "transliteration": "ساتفيكا برياه"
+    },
+    "sāttvikam": {
+      "meaning": "أن يكون من طبيعة الخير",
+      "transliteration": "ساتفيكام"
+    },
+    "sāttvikaḥ": {
+      "meaning": "هو تضحية من طبيعة الخير",
+      "transliteration": "ساتفيكاه"
+    },
+    "sāttvikāḥ": {
+      "meaning": "أولئك ذوو إيمان طبيعة الخير",
+      "transliteration": "ساتفيكاه"
+    },
+    "tapaḥ taptam": {
+      "meaning": "الزهد يُتحمل",
+      "transliteration": "تاباه تابتام"
+    },
+    "tat iti": {
+      "meaning": "كلمة تات، التي تمثل براهما، المطلق",
+      "transliteration": "تات إيتي"
+    },
+    "tat-arthīyam": {
+      "meaning": "لإرضاء الرب الأعلى",
+      "transliteration": "تات أرثيام"
+    },
+    "tri-vidham tapaḥ": {
+      "meaning": "زهد ثلاثي (جسدي، لفظي، وعقلي)",
+      "transliteration": "تري فيدهام تاباه"
+    },
+    "tri-vidhaḥ āhāraḥ": {
+      "meaning": "ثلاثة أنواع من الطعام",
+      "transliteration": "تري فيدها أهاراه"
+    },
+    "tām śṛṇu": {
+      "meaning": "اسمع الآن عن ذلك",
+      "transliteration": "تام شرينو"
+    },
+    "tāmasa-priyam": {
+      "meaning": "محبوب للجهلة",
+      "transliteration": "تاماسا بريام"
+    },
+    "tāmasam": {
+      "meaning": "أن يكون من طبيعة الجهل",
+      "transliteration": "تاماسام"
+    },
+    "uchchhiṣṭam api": {
+      "meaning": "البقايا (غير تلك الخاصة بالأشخاص المستحقين للعبادة)",
+      "transliteration": "أوتشيشتام أبي"
+    },
+    "vidhi-diṣṭaḥ": {
+      "meaning": "وفقاً لأوامر الكتب المقدسة",
+      "transliteration": "فيدي ديشتاه"
+    },
+    "vividhāḥ yajña-tapaḥ-kriyāḥ": {
+      "meaning": "أعمال أنواع مختلفة من التضحية والزهد",
+      "transliteration": "فيفيداه ياجنا تاباه كرياه"
+    },
+    "yajña-dāna-tapaḥ-kriyāḥ": {
+      "meaning": "واجبات التضحية والصدقة والزهد",
+      "transliteration": "ياجنا دانا تاباه كرياه"
+    },
+    "yakṣa-rakṣāṁsi": {
+      "meaning": "أنصاف الآلهة ياكشا وشياطين راكشاسا من طبيعة الشغف",
+      "transliteration": "ياكشا راكشامسي"
+    },
+    "yat tu": {
+      "meaning": "وذلك الذي",
+      "transliteration": "يات تو"
+    },
+    "yaḥ ijyate": {
+      "meaning": "التي تُنفذ",
+      "transliteration": "ياه إيجياتي"
+    },
+    "yuktaiḥ": {
+      "meaning": "من قبل المخلصين",
+      "transliteration": "يوكتايه"
+    },
+    "yāta-yāmam": {
+      "meaning": "مطبوخ، لكن تُرك حتى أصبح بارداً",
+      "transliteration": "ياتا يامام"
+    },
+    "āsura-niśchayān": {
+      "meaning": "أن يكونوا من قناعة شيطانية",
+      "transliteration": "أسورا نيشكايان"
+    },
+    "āyuḥ-sattva-bala-ārogya-sukha-prīti-vivardhanāḥ": {
+      "meaning": "التي تزيد العمر، والحيوية، والقوة، والصحة، والسعادة، والرحمة",
+      "transliteration": "أيوه ساتفا بالا أروغيا سوخا بريتي فيفارداناه"
+    },
+    "śarīra-stham": {
+      "meaning": "في الجسد",
+      "transliteration": "شاريرا ستام"
+    },
+    "śaucham": {
+      "meaning": "النقاء الداخلي والخارجي",
+      "transliteration": "شاوتشام"
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "chapter": 12,
+  "title": {
+    "he": {"text": "יוגת המסירות", "approved": false},
+    "ar": {"text": "يوگا المحبة والإخلاص", "approved": false},
+    "tr": {"text": "İbadet ve Teslimiyet Yolu", "approved": false},
+    "sw": {"text": "Njia ya Utiifu na Upendo wa Mungu", "approved": false}
+  },
+  "slokas": {
+    "12.1": {
+      "he": {"text": "אַרְג'וּנָה שָׁאַל: מִבֵּין אוֹתָם מְאַהֲבִים הַעוֹבְדִים אוֹתְךָ בְּמַסְרוּת תְּמִידָה, וּבֵין אוֹתָם הַחוֹקְרִים אֶת הַבְּרַהְמָן חָסַר הַצּוּרָה וְהַנִּצְחִי - מִי הוּא הַיּוֹדֵעַ הַגָּדוֹל בְּיוֹתֵר אֶת סוֹד הַיּוֹגָה?", "approved": false},
+      "ar": {"text": "سأل أرجونا: من هم أكمل العارفين باليوگا - أولئك المتفانون الذين يعبدونك بحب دائم، أم أولئك الذين يتأملون البراهمان اللامتناهي والأبدي الذي يتجاوز العالم المادي؟", "approved": false},
+      "tr": {"text": "Arjuna sordu: Seni sürekli sevgiyle ibadet eden sadık kullar mı, yoksa madde dünyasının ötesindeki şekilsiz ve ölümsüz Brahman'a tapanlar mı yoga'nın en büyük bilginleridir?", "approved": false},
+      "sw": {"text": "Arjuna aliuliza: Kati ya wale waumini wanaokuabudu kwa upendo wa daima, na wale wanaotafakari Brahman isiyobadilika na ya milele ambayo ni ya kimungu - ni nani mwenye maarifa makubwa zaidi ya yoga?", "approved": false}
+    },
+    "12.2": {
+      "he": {"text": "הַשֵּׁם הָעֶלְיוֹן אָמַר: אֵלֶּה הַמְּכַוְּנִים אֶת מַחְשְׁבוֹתֵיהֶם אֵלַי, וְעוֹבְדִים אוֹתִי בֶּאֱמוּנָה שְׁלֵמָה וּבְמַסְרוּת תְּמִידָה - אוֹתָם אֲנִי רוֹאֶה כַּיּוֹגִים הַנִּעֲלִים בְּיוֹתֵר.", "approved": false},
+      "ar": {"text": "قال الرب الأعلى: الذين يركزون عقولهم عليّ ويعبدونني بإيمان كامل وتفانٍ دائم - هؤلاء أراهم أكمل العارفين باليوگا في نظري.", "approved": false},
+      "tr": {"text": "Yüce Rab buyurdu: Zihinlerini Bende yoğunlaştıran, tam bir inanç ve sürekli bağlılıkla Bana ibadet edenleri - bence onlar en üstün yoga bilginleridir.", "approved": false},
+      "sw": {"text": "Bwana Mwenyezi alisema: Wale wanaoelekeza mawazo yao Kwangu, na kuniabudu kwa imani kamili na utii wa daima - hao ndio wanaowaona kuwa wale wanaofahamu yoga vizuri zaidi.", "approved": false}
+    },
+    "12.3-4": {
+      "he": {"text": "וְאוֹתָם הַחוֹקְרִים אֶת הַבְּרַהְמָן - חָסַר הַהַגְדָּרָה, חָסַר הַצּוּרָה, הַנִּמְצָא בְּכָל מָקוֹם, שֶׁאִי אֶפְשָׁר לְהָבִינוֹ, הַקַּיָּם לָעַד וְהַיַּצִּיב - עַל יְדֵי שֶׁיִּשְׁלְטוּ בְּחוּשֵׁיהֶם, יִרְאוּ אֶת כֻּלָּם בְּשִׁוָּיוֹן וְיִפְעֲלוּ לְמַעַן כָּל הַיְּצוּרִים, גַּם הֵם יַגִּיעוּ אֵלַי.", "approved": false},
+      "ar": {"text": "وأما الذين يتأملون البراهمان - الذي لا يُوصف ولا يُحد، الموجود في كل مكان، الذي يتجاوز الفهم، الثابت والأبدي - فبضبط حواسهم، وبالنظر إلى الجميع بالمساواة، وبالسعي لخير كل الكائنات، سيصلون إليّ أيضاً.", "approved": false},
+      "tr": {"text": "Tanımlanamaz, şekilsiz, her yerde olan, anlaşılamaz, değişmez ve ebedi Brahman'a tapanlar - duyularını kontrol ederek, herkese eşit bakarak ve tüm varlıkların iyiliği için çalışarak - onlar da Bana ulaşırlar.", "approved": false},
+      "sw": {"text": "Na wale wanaotafakari Brahman - isiyo na mwisho, isiyoelezeka, iliyopo kila mahali, isiyoweza kufahamika, ya kudumu na ya milele - kwa kudhibiti hisia zao, kwa kuwaona wote sawa, na kwa kutafuta mema ya viumbe wote, nao watafika Kwangu.", "approved": false}
+    },
+    "12.5": {
+      "he": {"text": "גְּדוֹלִים הַמִּכְשׁוֹלִים לְאוֹתָם אֲשֶׁר תּוֹדַעְתָּם מְכֻוֶּנֶת אֶל הַבְּרַהְמָן חָסַר הַצּוּרָה, כִּי הַדֶּרֶךְ לְהַשָּׂגַת הַבְּרַהְמָן קָשָׁה מְאֹד לַנְּשָׁמָה הַכְּרוּכָה בַּגּוּף.", "approved": false},
+      "ar": {"text": "إن الصعوبات أعظم لأولئك الذين تتعلق عقولهم بالبراهمان اللامتناهي، لأن طريق إدراك البراهمان صعب جداً للنفس المقيدة بالجسد المادي.", "approved": false},
+      "tr": {"text": "Zihinleri şekilsiz Brahman'a bağlı olanlar daha büyük çaba göstermelidir, çünkü Brahman'a ulaşma yolu bedenle sınırlı ruh için zordur.", "approved": false},
+      "sw": {"text": "Shida ni kubwa zaidi kwa wale ambao mawazo yao yameambatana na Brahman isiyobadilika, kwa sababu njia ya kufikia Brahman ni ngumu sana kwa roho iliyofungwa na mwili.", "approved": false}
+    },
+    "12.6-7": {
+      "he": {"text": "אוּלָם אוֹתָם הַמַּקְדִּישִׁים אֶת כָּל מַעֲשֵׂיהֶם וּמַחְשְׁבוֹתֵיהֶם לִי, הַפּוֹרְשִׁים מִן הָעוֹלָם לְמַעֲנִי, הַהוֹגִים בִּי תָּמִיד וְעוֹבְדִים אוֹתִי בְּמַסְרוּת שְׁלֵמָה - אוֹתָם נַפְשׁוֹת מוֹסְרוֹת אֲנִי מַצִּיל בִּמְהִירוּת מִמַּחְזוֹר הַלֵּידָה וְהַמָּוֶת, הוֹ פַּארְתָּה.", "approved": false},
+      "ar": {"text": "لكن الذين يكرسون كل أفعالهم وأفكارهم لي، ويتخلون عن العالم من أجلي، ويذكرونني دائماً ويعبدونني بتفانٍ كامل - هؤلاء النفوس المستسلمة أنقذها بسرعة من دورة الولادة والموت، يا بارثا.", "approved": false},
+      "tr": {"text": "Fakat tüm eylemlerini ve düşüncelerini Bana adayan, Benim için dünyadan vazgeçen, sürekli Beni düşünen ve tam teslimiyetle Bana ibadet eden - o teslim olmuş ruhları, ey Partha, doğum ve ölüm döngüsünden hızla kurtarırım.", "approved": false},
+      "sw": {"text": "Lakini wale wanaotumia matendo yao yote na mawazo yao Kwangu, wanaoacha ulimwengu kwa ajili Yangu, wanaonikumbuka daima na kuniabudu kwa utii kamili - hao roho zilizojisalimisha ninawaokoa haraka kutoka kwenye mzunguko wa kuzaliwa na kufa, ewe Partha.", "approved": false}
+    },
+    "12.8": {
+      "he": {"text": "לָכֵן כַּוֵּן אֶת מַחְשְׁבוֹתֶיךָ אֵלַי תָּמִיד, וְהַפְנֵה אֶת בִּינָתְךָ אֵלַי. כָּךְ תִּזְכֶּה לַחֲיוֹת בִּי לְעוֹלָמִים - בָּזֶא אֵין כָּל סָפֵק.", "approved": false},
+      "ar": {"text": "لذلك ركز عقلك عليّ دائماً، ووجّه فكرك نحوي. هكذا ستحيا فيّ إلى الأبد - في هذا لا شكّ.", "approved": false},
+      "tr": {"text": "Bu yüzden zihnini sürekli Bende yoğunlaştır ve aklını Bana yönelt. Böylece Bende ebediyen yaşayacaksın - bunda şüphe yok.", "approved": false},
+      "sw": {"text": "Kwa hiyo elekeza akili yako Kwangu daima, na weka busara yako Kwangu. Hivyo utaishi Munguni milele - katika hili hakuna shaka.", "approved": false}
+    },
+    "12.9": {
+      "he": {"text": "וְאִם לֹא תּוּכַל לְכַוֵּן אֶת מַחְשְׁבוֹתֶיךָ אֵלַי בְּקֶבַע, הוֹ כּוֹבֵשׁ הָעֹשֶׁר, אָז עֲקֹב אַחַר תַּרְגּוּל הַיּוֹגָה בְּהִתְמָדוּת, וּתְגַדֵּל אֶת הָרָצוֹן לִמְצֹא אוֹתִי.", "approved": false},
+      "ar": {"text": "وإن لم تستطع تثبيت عقلك عليّ باستمرار، يا فاتح الثروات، فاتبع ممارسة اليوگا بتكرار، وطوّر الرغبة في الوصول إليّ.", "approved": false},
+      "tr": {"text": "Eğer zihnini Bende sabit tutamazsan, ey servet fatihi, o zaman yoga pratiğini tekrar tekrar yaparak Beni bulma isteğini geliştir.", "approved": false},
+      "sw": {"text": "Na kama hutaweza kurekebishia mawazo yako Kwangu kwa uthabiti, ewe mshindi wa utajiri, basi fuata mazoezi ya yoga kwa mara kwa mara, na ukuze hamu ya kunipata.", "approved": false}
+    },
+    "12.10": {
+      "he": {"text": "וְאִם אֵינְךָ יָכוֹל לַעֲשׂוֹת גַּם זֹאת, הַקְדֵּשׁ לִי אֶת מַעֲשֶׂיךָ. כִּי עַל יְדֵי פְּעֻלּוֹת הַנַּעֲשׂוֹת לְמַעֲנִי תַּגִּיעַ לִשְׁלֵמוּת.", "approved": false},
+      "ar": {"text": "وإن لم تستطع ذلك أيضاً، فكرّس أفعالك لي. فمن خلال الأعمال التي تُعمل من أجلي ستبلغ الكمال.", "approved": false},
+      "tr": {"text": "Eğer bunu da yapamazsan, eylemlerini Bana ad. Benim için yapılan eylemlerle mükemmelliğe ulaşacaksın.", "approved": false},
+      "sw": {"text": "Na kama hawezi kufanya hata hivyo, toa matendo yako Kwangu. Kwa matendo yanayofanywa kwa ajili Yangu utafikia ukamilifu.", "approved": false}
+    },
+    "12.11": {
+      "he": {"text": "וְאִם אֵינְךָ יָכוֹל לַעֲשׂוֹת גַּם זֹאת, הִשָּׁעֵן עָלַי וְוַתֵּר עַל פֵּרוֹת מַעֲשֶׂיךָ, תּוֹךְ כְּדֵי שֶׁתִּשְׁלֹט בְּרוּחֲךָ.", "approved": false},
+      "ar": {"text": "وإن لم تستطع ذلك أيضاً، فاحتمِ بي وتخلَّ عن ثمار أفعالك، مع ضبط عقلك.", "approved": false},
+      "tr": {"text": "Eğer bunu da yapamazsan, Bana sığın ve eylemlerinin meyvelerinden vazgeç, zihnini kontrol ederek.", "approved": false},
+      "sw": {"text": "Na kama hawezi kufanya hata hivyo, jikabidhi Kwangu na uache matunda ya matendo yako, huku ukidhibiti akili yako.", "approved": false}
+    },
+    "12.12": {
+      "he": {"text": "כִּי הַיְדִיעָה אוֹתִי נַעֲלֵית מֵעֶצֶם הַתַּרְגּוּל, וְהַהִתְבּוֹנְנוּת בִּי נַעֲלֵית מֵהַיְדִיעָה; מֵהַהִתְבּוֹנְנוּת בָּאָה הַהִתְנַשְּׁאוּת מִפֵּרוֹת הַמַּעֲשִׂים, וְאַחֲרֶיהָ בָּאָה הַשַּׁלְוָה.", "approved": false},
+      "ar": {"text": "فمعرفتي أفضل من مجرد الممارسة، والتأمل فيّ أفضل من المعرفة وحدها؛ ومن التأمل يأتي التخلي عن ثمار الأفعال من أجلي، وبعد ذلك يأتي السلام.", "approved": false},
+      "tr": {"text": "Çünkü Beni bilmek sadece pratikten üstündür, ve Beni düşünmek bilgiden üstündür; düşünmekten gelir eylemlerin meyvelerinden vazgeçme, ve ardından huzur gelir.", "approved": false},
+      "sw": {"text": "Kwa kuwa kunijua Mimi ni bora kuliko mazoezi tu, na kutafakari Mimi ni bora kuliko maarifa pekee; na kutoka kutafakari kunakuja kuacha matunda ya matendo kwa ajili Yangu, na baada ya hapo kunakuja amani.", "approved": false}
+    },
+    "12.13-14": {
+      "he": {"text": "מִי שֶׁאֵינוֹ שׂוֹנֵא אַף בְּרִיָּה, שֶׁהוּא יָדִיד וְרַחֲמָן לְכֻלָּם, שֶׁהוּא חָפְשִׁי מִקְנָאָה וּמֵאָנֹכִיוּת, שָׂמֵחַ בְּחֶלְקוֹ, שַׁלִּיט בְּעַצְמוֹ, שָׁוֶה בְּשִׂמְחָה וּבִידִידוֹן - בְּהַחְלָטָה אֵיתָנָה וּבְקֶבַע הוֹלֵךְ בְּדֶרֶךְ הַמַּסְרוּת, מְכַוֵּן אֵלַי אֶת מַחְשְׁבוֹתָיו וְאֶת בִּינָתוֹ - יָקָר מְאֹד הוּא לִי.", "approved": false},
+      "ar": {"text": "من لا يبغض أحداً، وهو ودود ورحيم للجميع، حرّ من الطمع والأنا، راضٍ بما لديه، متحكم في نفسه، متوازن في السعادة والحزن - بقرار ثابت وبثبات يسير في طريق التفاني، موجهاً إليّ عقله وفكره - عزيز جداً عليّ.", "approved": false},
+      "tr": {"text": "Kimseyle kin tutmayan, herkese dost ve şefkatli, kıskançlık ve benlikten uzak, sahip olduğundan memnun, kendini kontrol eden, mutluluk ve üzüntüde eşit - sağlam kararlılıkla ve sürekli bağlılık yolunda yürüyen, zihnini ve aklını Bana veren - Bana çok sevimlidir.", "approved": false},
+      "sw": {"text": "Asiyechukia yeyote, ambaye ni rafiki na mwenye huruma kwa wote, ambaye ni huru na wivu na ubinafsi, anaridhika na alichonacho, anayedhibiti nafsi yake, sawa katika furaha na huzuni - kwa uamuzi thabiti na kwa utii wa daima anayeenda njia ya uaminifu, anayeelekeza akili yake na busara yake Kwangu - anapendwa sana Kwangu.", "approved": false}
+    },
+    "12.15": {
+      "he": {"text": "מִי שֶׁאֵינוֹ מֵצִיק לְאַף בְּרִיָּה וְאֵינוֹ מֻטְרָד מֵאַף בְּרִיָּה, שֶׁהוּא חָפְשִׁי מִשִּׂמְחָה חוֹלֶפֶת, מִכַּעַס, מִפַּחַד וּמִדְּאָגָה - יָקָר הוּא לִי.", "approved": false},
+      "ar": {"text": "من لا يزعج أحداً ولا يزعجه أحد، حرّ من الفرح الزائف والغضب والخوف والقلق - هو عزيز عليّ.", "approved": false},
+      "tr": {"text": "Kimseye rahatsızlık vermeyen ve kimseden rahatsız olmayan, geçici sevinç, öfke, korku ve endişeden özgür - o Bana sevimlidir.", "approved": false},
+      "sw": {"text": "Asiyemsumbua yeyote wala asiyemsumbushwa na yeyote, ambaye ni huru na furaha ya kidunia, hasira, hofu na wasiwasi - yeye anapendwa Kwangu.", "approved": false}
+    },
+    "12.16": {
+      "he": {"text": "מִי שֶׁאֵינוֹ מְצַפֶּה לִדְבַר מָה, טָהוֹר לֵב, מֻכְשָׁר, נִטְרָלִי, חָפְשִׁי מִפַּחַד, וּפוֹרֵשׁ מִכָּל יְזִימוֹת אָנֹכִיוֹת - הוּא מְאַהֲבִי, יָקָר לִי.", "approved": false},
+      "ar": {"text": "من لا يتوقع شيئاً، نقي القلب، قادر، محايد، حرّ من الخوف، ومتخلٍّ عن كل المساعي الأنانية - هو مخلصي، عزيز عليّ.", "approved": false},
+      "tr": {"text": "Hiçbir beklentisi olmayan, kalbi temiz, yetenekli, tarafsız, korkusuz ve tüm bencil çabalardan vazgeçen - o Benim sadık kulumdur, Bana sevimlidir.", "approved": false},
+      "sw": {"text": "Asiyetaraji chochote, safu moyoni, mwenye uwezo, asiyeupendelea upande wowote, asiye na hofu, na anayeacha jitihada zote za kibinafsi - yeye ni mtaabu wangu, anapendwa Kwangu.", "approved": false}
+    },
+    "12.17": {
+      "he": {"text": "מִי שֶׁאֵינוֹ שָׂשׂ בְּשִׂמְחָה וְאֵינוֹ מִתְיָאֵשׁ בְּצָרָה, לֹא מִתְאַבֵּל וְלֹא מִתְגַּעְגֵּעַ, שֶׁהוּא פּוֹרֵשׁ מִמַּעֲשִׂים טוֹבִים וְרָעִים גַּם יַחַד, וּמְבֹרָךְ בְּרוּחַ הַמַּסְרוּת - יָקָר הוּא לִי.", "approved": false},
+      "ar": {"text": "من لا يفرح في السعادة ولا يقنط في الشقاء، لا يحزن ولا يطمع، متخلٍّ عن الأعمال الصالحة والطالحة معاً، ومبارك بروح التفاني - هو عزيز عليّ.", "approved": false},
+      "tr": {"text": "Neşe içinde coşmayan ve keder içinde umutsuzluğa kapılmayan, yas tutmayan ve arzulamayan, hem hayırlı hem şerri dünyevi eylemlerden vazgeçen ve teslimiyet ruhuyla kutsanmış - o Bana sevimlidir.", "approved": false},
+      "sw": {"text": "Asiyefurahi sana katika furaha wala kukata tamaa katika huzuni, asiyehuzunika wala kutamani, ambaye ameacha matendo mema na mabaya ya kidunia pamoja, na amebarikiwa na roho ya utii - yeye anapendwa Kwangu.", "approved": false}
+    },
+    "12.18-19": {
+      "he": {"text": "מִי שֶׁמַּבִּיט בְּשִׁוָּיוֹן עַל אוֹיֵב וְעַל יָדִיד, שֶׁאֵינוֹ מִתְרַגֵּשׁ בְּכָבוֹד וּבִקְלוֹנָה, בַּחֹם וּבַקֹּר, בָּעֹנֶג וּבַסֵּבֶל, שֶׁהוּא שָׁוֶה בִּקְבָלַת קְלָלוֹת וּשְׁבָחוֹת, נִמְנָע מִשִּׂיחָה בְּטֵלָה, מְרֻצֶּה בְּכָל נְסִיבָה, לֹא קָשׁוּר לְמִשְׁפָּחָה וּלְבַיִת, מָלֵא בְּהַחְלָטָה אֵיתָנָה וּבְמַסְרוּת - אָדָם כָּזֶה יָקָר לִי מְאֹד.", "approved": false},
+      "ar": {"text": "من ينظر بالمساواة إلى العدو والصديق، لا يتأثر بالكرامة ولا بالإهانة، بالحرّ والبرد، باللذة والألم، سواءً في قبول اللعنات والمدائح، يمتنع عن الكلام الباطل، راضٍ في كل حال، غير مرتبط بالأسرة والبيت، مملوء بقرار ثابت وتفانٍ - هذا الإنسان عزيز جداً عليّ.", "approved": false},
+      "tr": {"text": "Düşmana ve dosta eşit bakan, onur ve aşağılanmada, sıcak ve soğukta, zevk ve acıda sakin kalan, lanet ve övgüleri eşit gören, boş konuşmaktan kaçınan, her durumda memnun, aile ve evine bağlı olmayan, sağlam kararlılık ve teslimiyetle dolu - böyle bir insan Bana çok sevimlidir.", "approved": false},
+      "sw": {"text": "Anayemwangalia adui na rafiki sawa, asiyetikiswa na heshima wala aibu, katika joto na baridi, katika furaha na maumivu, sawa katika kupokea laana na sifa, anayeepuka maneno ya bure, anayeridhika katika kila hali, asiyeambatana na familia na nyumba, amejaa uamuzi thabiti na utii - mtu kama huyo anapendwa sana Kwangu.", "approved": false}
+    },
+    "12.20": {
+      "he": {"text": "אוֹתָם מְאַהֲבִים נֶאֱמָנִים הַיּוֹדְעִים אוֹתִי כַּמַּטָּרָה הָעֶלְיוֹנָה שֶׁל הַחַיִּים, וְהוֹלְכִים בְּכָל לִבָּם אֶת דֶּרֶךְ הַנֶּקְטָר שֶׁתִּאַרְתִּי - יְקָרִים מְאֹד הֵם לִי.", "approved": false},
+      "ar": {"text": "أولئك المتفانون المخلصون الذين يعرفونني كالهدف الأعلى للحياة، ويتبعون من كل قلوبهم الطريق النكتاري الذي وصفته - أعزاء جداً عليّ.", "approved": false},
+      "tr": {"text": "Beni hayatın en yüce amacı olarak bilen ve tüm kalpleriyle Benim tarif ettiğim nektar yolu takip eden o sadık kullar - Bana çok sevimlidir.", "approved": false},
+      "sw": {"text": "Wale waumini waaminifu wanaonijua Mimi kama lengo kuu la maisha, na kufuata kwa moyo wao wote njia ya asali niliyoelezea - wanapendwa sana Kwangu.", "approved": false}
+    }
+  },
+  "comments": {
+    "12.3-4": {
+      "he": {"text": "פירוש: ההצהרה האלוהית 'גם מעריצי הבראהמן מגיעים אלי' לא אמורה להתפרש כאילו חסידי האין-סוף שווים במעמדם למסורים האלוהיים. המפתח כיצד חסידי האין-סוף יכולים גם הם להגיע לקרישנה ניתן בכתבי שרילה בהקטיבינודה תאקור.\nנשמה יכולה להתקדם בנתיב הפעולה ללא אנוכיות עד לרמת המדיטציה, כמתואר בפרקים הראשונים של הגיטה. אז יתקשו מאוד למצוא את אלוהים בנתיב האין-סוף. אך כאשר מתקדמים לרמה של הקדשה לרווחת אחרים (סרווה-בהוטה-היטה ראטה), עשויה להינתן ההזדמנות לשרת מסור טהור.\nלדוגמה, אם מישהו פותח או מנהל בית חולים ומקדיש עצמו לרווחת הציבור, ואם נעשה שירות כלשהו, אפילו בידיעה, למסור של האל, לויישנווה - אז מתחילים הזכויות ההתמסרותיות שלו (אג'נאטה-סוקריטי). דרך החברה עם מסור אלוהי (סאדהו-סנגה) מפתחים אמונה בצורה האישית האלוהית של ה', וממילא נוטשים את הניסיון להשיג את הבראהמן חסר הצורה.\nעם אמונה כזו מוצאים מקלט אצל גורו אמיתי, עוסקים בתרגולי התמסרות המבוססים על שמיעה ושרירת השמות הקדושים ושבחי האל, ומתקדמים בנתיב חזרה הביתה, חזרה לאלוהים. לפיכך מראה כאן שרי קרישנה: 'אני היעד הסופי, והבראהמן הוא רק מצב יחסי. הוא אינו המוחלט הסופי, כי המצב המוחלט הוא שלי. רק אם חסידי האין-סוף משרתים אחרים הם יכולים להגיע אלי - כי הדרך היחידה להגיע אלי היא דרך וישנווה.'", "approved": false},
+      "ar": {"text": "التعليق: إن قول الرب 'إن عباد البراهمان يصلون إليّ أيضاً' لا ينبغي أن يُفهم خطأً على أن أتباع اللاشخصية على نفس مستوى المتفانين الإلهيين. مفتاح كيفية وصول أتباع اللاشخصية أيضاً إلى كريشنا قد أُعطي في كتابات شريلة بهاكتيفينودا ثاكور.\nقد يتقدم المرء في طريق العمل غير الأناني حتى مرحلة التأمل، كما هو موصوف في الفصول الستة الأولى من الغيتا. ثم سيواجه صعوبات كبيرة في إيجاد الله في طريق اللاشخصية. لكن عندما يتقدم إلى مرحلة تكريس نفسه لرفاهية الآخرين (سارفا-بهوتا-هيتا راتا)، قد تتاح له الفرصة لخدمة متفانٍ نقي.\nعلى سبيل المثال، إذا انشغل المرء في الصالح العام بفتح أو إدارة مستشفى، إذا قُدمت أي خدمة، حتى عن غير علم، لمتفانٍ للرب، لفايشنافا - فإن استحقاقاته التفانية تبدأ (أجاناتا-سوكريتي). من خلال صحبة متفانٍ إلهي (سادهو-سانغا)، يطور المرء إيماناً بالشكل الشخصي الإلهي للرب، وبشكل تلقائي يتخلى عن محاولة تحقيق البراهمان اللامتناهي.\nمع مثل هذا الإيمان، يلجأ المرء إلى غورو حقيقي، وينخرط في الممارسات التفانية القائمة على سماع وترديد الأسماء المقدسة وتسبيح أمجاد الرب، ويتقدم في طريق العودة إلى الوطن، العودة إلى الله. وهكذا يوضح هنا شري كريشنا: 'أنا الهدف النهائي، لأن الموقع المطلق لي. فقط إذا خدم أتباع اللاشخصية الآخرين يمكنهم المجيء إليّ، لأن الطريق الوحيد للمجيء إليّ هو عبر فايشنافا.'", "approved": false},
+      "tr": {"text": "Açıklama: Rab'bin 'Brahman'a tapanlar da Bana ulaşır' sözü, kişiliksizlik taraftarlarının ilahi bağlılarla aynı seviyede olduğu şeklinde yanlış anlaşılmamalıdır. Kişiliksizlik taraftarlarının nasıl Krishna'ya ulaşabileceğinin anahtarı, Śrīla Bhaktivinoda Ṭhākur'un yazılarında verilmiştir.\nKişi, Gītā'nın ilk altı bölümünde açıklandığı gibi, meditasyon aşamasına kadar özgecil eylem yolunda ilerleyebilir. Sonra Tanrı'yı kişiliksizlik yolunda bulmakta büyük zorluklar çekecektir. Ancak başkalarının refahına kendini adamaya (sarva-bhūta-hite ratāḥ) ilerlediğinde, saf bir bağlıya hizmet etme fırsatı bulabilir.\nÖrneğin, biri hastane açarak veya işleterek halkın refahına hizmet ederse, ve Rab'bin bir bağlısına, bir Vaiṣṇava'ya, herhangi bir hizmet sunulursa - bilerek veya bilmeyerek - o zaman kişinin bağlılık erdemleri başlar (ajñāta-sukṛti). İlahi bir bağlıyla arkadaşlık (sādhu-saṅga) yoluyla, kişinin Rab'bin ilahi kişisel şekline inancı gelişir ve otomatik olarak kişiliksiz Brahman'ı elde etme girişimini terk eder.\nBöyle bir inançla, gerçek bir guru'ya sığınır, kutsal isimleri dinleme ve ilahi ve Rab'bin ihtişamını dinleme ve ilahi üzerine şarkı söylemeye dayalı bağlılık uygulamalarına girer ve eve, Tanrı'ya dönüş yolunda ilerler. Böylece Śrī Kṛṣṇa burada işaret eder: 'Ben nihai hedefim, çünkü mutlak konum Benimdir. Sadece kişiliksizlik taraftarları başkalarına hizmet ederse Bana gelebilirler, çünkü Bana gelmenin tek yolu bir Vaiṣṇava üzerinden.'", "approved": false},
+      "sw": {"text": "Maelezo: Kauli ya Bwana 'Waabudu wa Brahman pia Wanafika Kwangu' haipaswa kueleweka vibaya kumaanisha kuwa wafuasi wa usio na umbo wako katika kiwango kilekile na waumini wa Mungu. Ufunguo wa jinsi wafuasi wa usio na umbo wanaweza pia kufikia Krishna umetolewa katika maandiko ya Śrīla Bhaktivinoda Ṭhākur.\nMtu anaweza kupiga hatia katika njia ya vitendo visivyo na ubinafsi hadi hatua ya kutafakari, kama ilivyoelezwa katika sura sita za kwanza za Gītā. Kisha atapata shida kubwa katika kutafuta Mungu katika njia ya usio na umbo. Lakini anapoendelea hadi hatua ya kujitolea kwa faida ya wengine (sarva-bhūta-hite ratāḥ), anaweza kupata nafasi ya kutoa huduma kwa muumini safi.\nKwa mfano, kama mtu anajishughulisha katika faida ya umma kwa kufungua au kuendesha hospitali, kama huduma yoyote inatolewa, hata kwa kutambua, kwa muumini wa Bwana, kwa Vaiṣṇava - basi sifa zake za uaminifu zinaanza (ajñāta-sukṛti). Kupitia ushirika na muumini wa Mungu (sādhu-saṅga), mtu hukuza imani katika umbo la kibinafsi la Mungu, na kwa kiasili huacha jaribio la kupata Brahman isiyobadilika.\nKwa imani kama hiyo, mtu hutafuta hifadhi kwa guru wa kweli, anajishughulisha katika mazoezi ya uaminifu yanayotegemea kusikia na kuimba majina matakatifu na kusifu utukufu wa Bwana, na kupiga hatia katika njia ya kurudi nyumbani, kurudi kwa Mungu. Hivyo, Śrī Kṛṣṇa anaonyesha hapa: 'Mimi ndio lengo la mwisho, kwa sababu nafasi kamili ni Yangu. Ni ikiwa tu wafuasi wa usio na umbo wanawahudumia wengine wanaweza wanaweza kuja Kwangu, kwa sababu njia pekee ya kuja Kwangu ni kupitia Vaiṣṇava.'", "approved": false}
+    }
+  },
+  "meta": {
+    "source": "/Users/anton/proj/gita/data/chapters/ch-12/chapter-source.json",
+    "generated": "2026-03-27",
+    "languages": ["he", "ar", "tr", "sw"],
+    "approved": false
+  }
+}

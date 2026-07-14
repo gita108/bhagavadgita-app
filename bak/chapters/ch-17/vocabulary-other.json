@@ -1,0 +1,1061 @@
+{
+  "chapter": 17,
+  "meta": {
+    "source": "/Users/anton/proj/gita/data/chapters/ch-17/vocabulary-source.json",
+    "generated": "2026-03-27",
+    "languages": ["he", "ar", "tr", "sw"],
+    "approved": false
+  },
+  "vocabulary": {
+    "(guṇa bhedāt)": {
+      "meaning": {
+        "he": "לפי שלושת אופני הטבע החומרי",
+        "ar": "وفقاً للصفات الثلاث للطبيعة المادية",
+        "tr": "Maddi doğanın üç niteliğine göre",
+        "sw": "Kulingana na sifa tatu za asili ya kimwili"
+      },
+      "transliteration": {
+        "he": "גוּנָה בְּהֵדָאת",
+        "ar": "غونا بهيدات",
+        "tr": "Guṇa bhedāt",
+        "sw": "Guṇa bhedāt"
+      }
+    },
+    "(he) bhārata": {
+      "meaning": {
+        "he": "הו צאצא של בהאראטה",
+        "ar": "يا نسل بهاراتا",
+        "tr": "Ey Bharata soyundan gelen",
+        "sw": "Ee mzao wa Bharata"
+      },
+      "transliteration": {
+        "he": "בְּהָארַתָה",
+        "ar": "بهاراتا",
+        "tr": "Bhārata",
+        "sw": "Bhārata"
+      }
+    },
+    "(he) pārtha": {
+      "meaning": {
+        "he": "הו בנה של קונטי",
+        "ar": "يا ابن كونتي",
+        "tr": "Ey Kuntī'nin oğlu",
+        "sw": "Ee mwana wa Kuntī"
+      },
+      "transliteration": {
+        "he": "פָּארְתָּה",
+        "ar": "بارثا",
+        "tr": "Pārtha",
+        "sw": "Pārtha"
+      }
+    },
+    "(karśayantaḥ) mām cha eva": {
+      "meaning": {
+        "he": "וגם מענים אותי, בדמות החלקיק שלי, הנשמה הרוחנית, הג'יוואטמן",
+        "ar": "وتعذبني أيضاً، في شكلي كجزيء، الروح، الجيفأتمان",
+        "tr": "ve ayrıca Beni, parçacığım formunda, ruh ruhu, jīvātman olarak eziyet edersiniz",
+        "sw": "na pia mnanitesa Mimi, katika umbo la chembechembe Yangu, roho, jīvātman"
+      },
+      "transliteration": {
+        "he": "קַרְשָׁיַנְתָה מָאם צָ'ה אֵוָה",
+        "ar": "كارشايانتاه مام شا إيفا",
+        "tr": "Karśayantaḥ mām cha eva",
+        "sw": "Karśayantaḥ mām cha eva"
+      }
+    },
+    "adakṣiṇam": {
+      "meaning": {
+        "he": "ללא הצעות מתאימות לכוהנים",
+        "ar": "دون عروض مناسبة للكهنة",
+        "tr": "Rahiplere uygun sunular olmadan",
+        "sw": "Bila matoleo yanayofaa kwa makuhani"
+      },
+      "transliteration": {
+        "he": "אָדַקְשִׁינַם",
+        "ar": "أداكشينام",
+        "tr": "Adakṣiṇam",
+        "sw": "Adakṣiṇam"
+      }
+    },
+    "adeśa-kāle": {
+      "meaning": {
+        "he": "במקום ובזמן הלא נכונים",
+        "ar": "في مكان وزمان غير مناسبين",
+        "tr": "Uygun olmayan yer ve zamanda",
+        "sw": "Mahali na wakati usiofaa"
+      },
+      "transliteration": {
+        "he": "אָדֵשָׁה-קָאלֵה",
+        "ar": "أديشا كالي",
+        "tr": "Adeśa-kāle",
+        "sw": "Adeśa-kāle"
+      }
+    },
+    "amedhyam cha": {
+      "meaning": {
+        "he": "ומזונות טמאים שאינם ראויים לקורבן (בשר, יין, בצלים וכו')",
+        "ar": "والأطعمة النجسة غير القابلة للتضحية (اللحم، الخمر، البصل، إلخ)",
+        "tr": "ve kurban edilemeyen kirli yiyecekler (et, şarap, soğan vb.)",
+        "sw": "na chakula kichafu kisichoweza kutolewa sadaka (nyama, divai, vitunguu, n.k)"
+      },
+      "transliteration": {
+        "he": "אָמֵדְהְיַם צָ'ה",
+        "ar": "أميدهيام شا",
+        "tr": "Amedhyam cha",
+        "sw": "Amedhyam cha"
+      }
+    },
+    "antaḥ śarīra-stham": {
+      "meaning": {
+        "he": "בתוך הגוף",
+        "ar": "في داخل الجسد",
+        "tr": "Bedenin içinde",
+        "sw": "Ndani ya mwili"
+      },
+      "transliteration": {
+        "he": "אַנְטָה שָׁרִירָה-סְתָהם",
+        "ar": "أنتاه شاريرا ستام",
+        "tr": "Antaḥ śarīra-stham",
+        "sw": "Antaḥ śarīra-stham"
+      }
+    },
+    "anupakāriṇe iti": {
+      "meaning": {
+        "he": "ללא ציפייה לתמורה",
+        "ar": "دون توقع مقابل",
+        "tr": "Karşılık beklemeden",
+        "sw": "Bila kutarajia kitu chochote"
+      },
+      "transliteration": {
+        "he": "אָנוּפַּקָארִינֵה אִיטִי",
+        "ar": "أنوباكاريه إيتي",
+        "tr": "Anupakāriṇe iti",
+        "sw": "Anupakāriṇe iti"
+      }
+    },
+    "aphala-ākāṅkṣibhiḥ": {
+      "meaning": {
+        "he": "על ידי מי שאינו מתאוה לפרי המעשה",
+        "ar": "من قبل من لا يطمع في ثمار العمل",
+        "tr": "Eylemin meyvesini arzulamayanlar tarafından",
+        "sw": "Na yeye asiye tamaa matunda ya tendo"
+      },
+      "transliteration": {
+        "he": "אַפָּהלָה-אָקָאנְקְשִׁיבִּיה",
+        "ar": "أفالا أكانكшибه",
+        "tr": "Aphala-ākāṅkṣibhiḥ",
+        "sw": "Aphala-ākāṅkṣibhiḥ"
+      }
+    },
+    "asṛṣṭa-annam": {
+      "meaning": {
+        "he": "ללא חלוקת מזון וכדומה",
+        "ar": "دون توزيع الطعام وما شابه",
+        "tr": "Yiyecek dağıtımı olmadan vb.",
+        "sw": "Bila kugawa chakula, n.k"
+      },
+      "transliteration": {
+        "he": "אַסְרִישְׁטָה-אַנַּם",
+        "ar": "أسريشتا أنام",
+        "tr": "Asṛṣṭa-annam",
+        "sw": "Asṛṣṭa-annam"
+      }
+    },
+    "aśāstra-vihitam": {
+      "meaning": {
+        "he": "ללא אישור הכתבים הקדושים",
+        "ar": "غير مصرح به من الكتب المقدسة",
+        "tr": "Kutsal yazılarca onaylanmamış",
+        "sw": "Isiyoruhusiwa na maandiko matakatifu"
+      },
+      "transliteration": {
+        "he": "אַשָׁאסְטְרָה-וִיהִיתַם",
+        "ar": "أشاسترا فيهيتام",
+        "tr": "Aśāstra-vihitam",
+        "sw": "Aśāstra-vihitam"
+      }
+    },
+    "brahma-vādinām": {
+      "meaning": {
+        "he": "של עוקבי הוודות",
+        "ar": "من أتباع الفيدا",
+        "tr": "Vedaların takipçilerinin",
+        "sw": "Wa wafuasi wa Veda"
+      },
+      "transliteration": {
+        "he": "בְּרָהְמָה-וָואדִינָאם",
+        "ar": "براهما فادينام",
+        "tr": "Brahma-vādinām",
+        "sw": "Brahma-vādinām"
+      }
+    },
+    "brahmaṇaḥ": {
+      "meaning": {
+        "he": "ברהמה, הרוח העליונה",
+        "ar": "براهما، الروح الأعلى",
+        "tr": "Brahma, Yüce Ruh",
+        "sw": "Brahma, Roho Mkuu"
+      },
+      "transliteration": {
+        "he": "בְּרָהְמַנָה",
+        "ar": "براهماناه",
+        "tr": "Brahmaṇaḥ",
+        "sw": "Brahmaṇaḥ"
+      }
+    },
+    "dambha-ahaṅkāra-saṁyuktāḥ": {
+      "meaning": {
+        "he": "מלאים גאווה ואגואיזם",
+        "ar": "ممتلئون بالكبر والأنانية",
+        "tr": "Kibir ve bencillikle dolu",
+        "sw": "Wamejaa kiburi na ubinafsi"
+      },
+      "transliteration": {
+        "he": "דַמְבְּהָה-אַהַנְקָארָה-סַמְיוּקְטָאה",
+        "ar": "دامبا أهانكارا ساميوكتاه",
+        "tr": "Dambha-ahaṅkāra-saṁyuktāḥ",
+        "sw": "Dambha-ahaṅkāra-saṁyuktāḥ"
+      }
+    },
+    "dambha-artham api cha eva": {
+      "meaning": {
+        "he": "ושזהו מופע של ראווה והדר",
+        "ar": "والذي هو عرض للفخامة والعظمة",
+        "tr": "ve gösteriş ve ihtişam için olan",
+        "sw": "Na ambayo ni onyesho la majivuno na ukubwa"
+      },
+      "transliteration": {
+        "he": "דַמְבְּהָה-אַרְתָּם אָפִּי צָ'ה אֵוָה",
+        "ar": "دامبا أرثام أبي شا إيفا",
+        "tr": "Dambha-artham api cha eva",
+        "sw": "Dambha-artham api cha eva"
+      }
+    },
+    "dambhena cha eva": {
+      "meaning": {
+        "he": "ומבוצע בגאווה רבה",
+        "ar": "ويُنفذ بكبرياء عظيم",
+        "tr": "ve büyük gururla gerçekleştirilen",
+        "sw": "Na inayofanywa kwa kiburi kikubwa"
+      },
+      "transliteration": {
+        "he": "דַמְבֵּנָה צָ'ה אֵוָה",
+        "ar": "دامبينا شا إيفا",
+        "tr": "Dambhena cha eva",
+        "sw": "Dambhena cha eva"
+      }
+    },
+    "dattam": {
+      "meaning": {
+        "he": "נדבה ניתנת",
+        "ar": "الصدقة تُعطى",
+        "tr": "Sadaka verilir",
+        "sw": "Sadaka inatolewa"
+      },
+      "transliteration": {
+        "he": "דַתַּם",
+        "ar": "داتام",
+        "tr": "Dattam",
+        "sw": "Dattam"
+      }
+    },
+    "dehinām": {
+      "meaning": {
+        "he": "של היצורים החיים",
+        "ar": "للكائنات الحية",
+        "tr": "Canlı varlıkların",
+        "sw": "Wa viumbe hai"
+      },
+      "transliteration": {
+        "he": "דֵהִינָאם",
+        "ar": "دهينام",
+        "tr": "Dehinām",
+        "sw": "Dehinām"
+      }
+    },
+    "deva-dvija-guru-prājña-pūjanam": {
+      "meaning": {
+        "he": "סגידה לאל, לברהמין, לגורו ולנשמה הנאורה",
+        "ar": "عبادة الإله، والبراهمي، والمعلم، والروح المستنيرة",
+        "tr": "Tanrı'ya, brāhmaṇ'a, guru'ya ve aydınlanmış ruha tapınma",
+        "sw": "Kuabudu Mungu, brāhmaṇ, guru, na roho iliyong'aa"
+      },
+      "transliteration": {
+        "he": "דֵוָה-דְוִיגָ'ה-גוּרוּ-פְּרָאגְ'נָה-פּוּגָ'נַם",
+        "ar": "ديفا دفيجا جورو براجنا بوجانام",
+        "tr": "Deva-dvija-guru-prājña-pūjanam",
+        "sw": "Deva-dvija-guru-prājña-pūjanam"
+      }
+    },
+    "devān": {
+      "meaning": {
+        "he": "חצאי-אלים של טבע הטוב",
+        "ar": "أنصاف الآلهة من طبيعة الخير",
+        "tr": "İyilik doğalı yarı tanrılar",
+        "sw": "Vinyamungu vidogo vya asili njema"
+      },
+      "transliteration": {
+        "he": "דֵוָאן",
+        "ar": "ديفان",
+        "tr": "Devān",
+        "sw": "Devān"
+      }
+    },
+    "dāna-kriyāḥ cha": {
+      "meaning": {
+        "he": "ומעשי צדקה",
+        "ar": "وأعمال الصدقة",
+        "tr": "ve sadaka eylemleri",
+        "sw": "Na matendo ya sadaka"
+      },
+      "transliteration": {
+        "he": "דָּאנָה-קְרִייָאה צָ'ה",
+        "ar": "دانا كرياه شا",
+        "tr": "Dāna-kriyāḥ cha",
+        "sw": "Dāna-kriyāḥ cha"
+      }
+    },
+    "dātavyam cha": {
+      "meaning": {
+        "he": "ועם ההכרה שיש לתת זאת",
+        "ar": "ومع القناعة بأنه يجب إعطاؤها",
+        "tr": "ve verilmesi gerektiği inancıyla",
+        "sw": "Na kwa uhakika kuwa inapaswa kutolewa"
+      },
+      "transliteration": {
+        "he": "דָּאטַוְיַם צָ'ה",
+        "ar": "داتافيام شا",
+        "tr": "Dātavyam cha",
+        "sw": "Dātavyam cha"
+      }
+    },
+    "hutam": {
+      "meaning": {
+        "he": "קורבן מוקרב",
+        "ar": "التضحية تُقدّم",
+        "tr": "Kurban sunulur",
+        "sw": "Sadaka inatolewa"
+      },
+      "transliteration": {
+        "he": "הוּטַם",
+        "ar": "هوتام",
+        "tr": "Hutam",
+        "sw": "Hutam"
+      }
+    },
+    "kaṭu-amla-lavaṇa-ati-uṣṇa-tīkṣṇa-rukṣa-vidāhinaḥ": {
+      "meaning": {
+        "he": "שהוא מר מדי, חמוץ מדי, מלוח מדי, חם מדי, חריף מדי, יבש מדי וגורם לחום",
+        "ar": "الذي هو مر جداً، حامض جداً، مالح جداً، حار جداً، لاذع جداً، جاف جداً ومسبب للحرارة",
+        "tr": "çok acı, çok ekşi, çok tuzlu, çok sıcak, çok yakıcı, çok kuru ve ısıtıcı olan",
+        "sw": "Ambacho ni chungu sana, kitamu sana, chumvi sana, moto sana, kikali sana, kavu sana na kinachotoa joto"
+      },
+      "transliteration": {
+        "he": "קַטוּ-אַמְלָה-לָוַנָה-אַטִי-אוּשְׁנָה-טִיקְשְׁנָה-רוּקְשָׁה-וִידָאהִינָה",
+        "ar": "كاتو أملا لافنا أتي أوشنا تيكشنا روكشا فيداهيناه",
+        "tr": "Kaṭu-amla-lavaṇa-ati-uṣṇa-tīkṣṇa-rukṣa-vidāhinaḥ",
+        "sw": "Kaṭu-amla-lavaṇa-ati-uṣṇa-tīkṣṇa-rukṣa-vidāhinaḥ"
+      }
+    },
+    "kāma-rāga-bala-anvitāḥ": {
+      "meaning": {
+        "he": "ומניעים מתשוקה, היקשרות וכוח",
+        "ar": "ومدفوع بالشهوة والتعلق والقوة",
+        "tr": "ve arzu, bağlanma ve güçle hareket eden",
+        "sw": "Na inaendeshwa na tamaa, ambatanisho, na nguvu"
+      },
+      "transliteration": {
+        "he": "קָאמָה-רָאגָה-בָּלָה-אַנְוִיתָאה",
+        "ar": "كاما راغا بالا أنفيتاه",
+        "tr": "Kāma-rāga-bala-anvitāḥ",
+        "sw": "Kāma-rāga-bala-anvitāḥ"
+      }
+    },
+    "kṛtam": {
+      "meaning": {
+        "he": "פעולה מבוצעת",
+        "ar": "الفعل يُنفذ",
+        "tr": "Eylem gerçekleştirilir",
+        "sw": "Tendo linatendwa"
+      },
+      "transliteration": {
+        "he": "קְרִיתַם",
+        "ar": "كريتام",
+        "tr": "Kṛtam",
+        "sw": "Kṛtam"
+      }
+    },
+    "manaḥ samādhāya": {
+      "meaning": {
+        "he": "עם ההחלטה הנחושה",
+        "ar": "مع القناعة الراسخة",
+        "tr": "Sağlam inançla",
+        "sw": "Kwa uhakika thabiti"
+      },
+      "transliteration": {
+        "he": "מָנָה סָמָאדָהְיָה",
+        "ar": "ماناه سامادهايا",
+        "tr": "Manaḥ samādhāya",
+        "sw": "Manaḥ samādhāya"
+      }
+    },
+    "mokṣa-kāṅkṣibhiḥ": {
+      "meaning": {
+        "he": "אנשים השואפים לשחרור",
+        "ar": "الأشخاص الذين يتطلعون إلى التحرر",
+        "tr": "Kurtuluş için çabalayan kişiler",
+        "sw": "Watu wanaotamani ukombozi"
+      },
+      "transliteration": {
+        "he": "מוֹקְשָׁה-קָאנְקְשִׁיבִּיה",
+        "ar": "موكشا كانكشيبه",
+        "tr": "Mokṣa-kāṅkṣibhiḥ",
+        "sw": "Mokṣa-kāṅkṣibhiḥ"
+      }
+    },
+    "na cha pretya": {
+      "meaning": {
+        "he": "וגם לא בחיים הבאים",
+        "ar": "ولا في الآخرة",
+        "tr": "ve sonraki hayatta da değil",
+        "sw": "Wala katika maisha yajayo"
+      },
+      "transliteration": {
+        "he": "נָה צָ'ה פְּרֵטְיָה",
+        "ar": "نا شا بريتا",
+        "tr": "Na cha pretya",
+        "sw": "Na cha pretya"
+      }
+    },
+    "niṣṭhā": {
+      "meaning": {
+        "he": "הוא המעמד",
+        "ar": "هو الموقف",
+        "tr": "konumdur",
+        "sw": "ni nafasi"
+      },
+      "transliteration": {
+        "he": "נִישְׁטָהא",
+        "ar": "نيشتا",
+        "tr": "Niṣṭhā",
+        "sw": "Niṣṭhā"
+      }
+    },
+    "om iti": {
+      "meaning": {
+        "he": "ההברה אום, המייצגת את ברהמה, המוחלט",
+        "ar": "مقطع أوم، الذي يمثل براهما، المطلق",
+        "tr": "Brahma'yı, Mutlak'ı temsil eden Om hecesi",
+        "sw": "Silozi Om, inayowakilisha Brahma, Ulele"
+      },
+      "transliteration": {
+        "he": "אוֹם אִיטִי",
+        "ar": "أوم إيتي",
+        "tr": "Om iti",
+        "sw": "Om iti"
+      }
+    },
+    "phalam": {
+      "meaning": {
+        "he": "עבור הפירות",
+        "ar": "من أجل الثمار",
+        "tr": "Meyveler için",
+        "sw": "Kwa ajili ya matunda"
+      },
+      "transliteration": {
+        "he": "פָּהלַם",
+        "ar": "فالام",
+        "tr": "Phalam",
+        "sw": "Phalam"
+      }
+    },
+    "phalam uddiśya": {
+      "meaning": {
+        "he": "למטרת קבלת פרס",
+        "ar": "لغرض الحصول على مكافأة",
+        "tr": "Ödül amacıyla",
+        "sw": "Kwa ajili ya kupata malipo"
+      },
+      "transliteration": {
+        "he": "פָּהלַם אוּדִישְׁיָה",
+        "ar": "فالام أوديشيا",
+        "tr": "Phalam uddiśya",
+        "sw": "Phalam uddiśya"
+      }
+    },
+    "prati-upakāra-artham": {
+      "meaning": {
+        "he": "עם ציפייה לתמורה",
+        "ar": "مع توقع المقابل",
+        "tr": "Karşılık beklentisiyle",
+        "sw": "Kwa kutarajia malipo"
+      },
+      "transliteration": {
+        "he": "פְּרָטִי-אוּפַּקָארָה-אַרְתָּם",
+        "ar": "براتي أوباكارا أرثام",
+        "tr": "Prati-upakāra-artham",
+        "sw": "Prati-upakāra-artham"
+      }
+    },
+    "pretān bhūta-gaṇān cha": {
+      "meaning": {
+        "he": "הרוחות והרפאים של טבע הבערות",
+        "ar": "الأشباح والأرواح من طبيعة الجهل",
+        "tr": "Cehalet doğalı hayaletler ve ruhlar",
+        "sw": "Mizimu na roho za asili ya ujinga"
+      },
+      "transliteration": {
+        "he": "פְּרֵטָאן בְּהוּטָה-גַנָאן צָ'ה",
+        "ar": "بريتان بهوتا غانان شا",
+        "tr": "Pretān bhūta-gaṇān cha",
+        "sw": "Pretān bhūta-gaṇān cha"
+      }
+    },
+    "priya-hitam cha": {
+      "meaning": {
+        "he": "ונעים אך מועיל",
+        "ar": "وسار لكنه مفيد",
+        "tr": "ve hoş ama yararlı",
+        "sw": "Na yenye furaha lakini yenye manufaa"
+      },
+      "transliteration": {
+        "he": "פְּרִייָה-הִיתַם צָ'ה",
+        "ar": "بريا هيتام شا",
+        "tr": "Priya-hitam cha",
+        "sw": "Priya-hitam cha"
+      }
+    },
+    "purā": {
+      "meaning": {
+        "he": "בימים קדומים, בהיווצרות היקום",
+        "ar": "في الأزمنة القديمة، عند الخلق الكوني",
+        "tr": "Antik zamanlarda, evrenin yaratılışında",
+        "sw": "Katika nyakati za zamani, katika uumbaji wa ulimwengu"
+      },
+      "transliteration": {
+        "he": "פּוּרָא",
+        "ar": "بورا",
+        "tr": "Purā",
+        "sw": "Purā"
+      }
+    },
+    "rājasam": {
+      "meaning": {
+        "he": "שהוא מטבע התשוקה",
+        "ar": "أن يكون من طبيعة الشغف",
+        "tr": "tutku niteliğinde olan",
+        "sw": "kuwa wa asili ya shauku"
+      },
+      "transliteration": {
+        "he": "רָאגָ'סַם",
+        "ar": "راجاسام",
+        "tr": "Rājasam",
+        "sw": "Rājasam"
+      }
+    },
+    "rājasasya": {
+      "meaning": {
+        "he": "לבעלי התשוקה",
+        "ar": "لأهل الشغف",
+        "tr": "Tutkulu olanlara",
+        "sw": "Kwa wenye shauku"
+      },
+      "transliteration": {
+        "he": "רָאגָ'סַסְיָה",
+        "ar": "راجاساسيا",
+        "tr": "Rājasasya",
+        "sw": "Rājasasya"
+      }
+    },
+    "rājasāḥ": {
+      "meaning": {
+        "he": "אלו בעלי אמונה של טבע התשוקה",
+        "ar": "أولئك ذوو إيمان طبيعة الشغف",
+        "tr": "Tutku doğalı inanca sahip olanlar",
+        "sw": "Wale wenye imani ya asili ya shauku"
+      },
+      "transliteration": {
+        "he": "רָאגָ'סָאה",
+        "ar": "راجاساه",
+        "tr": "Rājasāḥ",
+        "sw": "Rājasāḥ"
+      }
+    },
+    "sat iti": {
+      "meaning": {
+        "he": "המילה סאט, המייצגת את ברהמה, המוחלט",
+        "ar": "كلمة سات، التي تمثل براهما، المطلق",
+        "tr": "Brahma'yı, Mutlak'ı temsil eden Sat sözcüğü",
+        "sw": "Neno Sat, inayowakilisha Brahma, Ulele"
+      },
+      "transliteration": {
+        "he": "סָאט אִיטִי",
+        "ar": "سات إيتي",
+        "tr": "Sat iti",
+        "sw": "Sat iti"
+      }
+    },
+    "sat iti eva": {
+      "meaning": {
+        "he": "על ידי המילה סאט",
+        "ar": "بكلمة سات",
+        "tr": "Sat sözcüğüyle",
+        "sw": "Kwa neno Sat"
+      },
+      "transliteration": {
+        "he": "סָאט אִיטִי אֵוָה",
+        "ar": "سات إيتي إيفا",
+        "tr": "Sat iti eva",
+        "sw": "Sat iti eva"
+      }
+    },
+    "sat-bhāve": {
+      "meaning": {
+        "he": "כדי לציין את האמת, טבעו של ברהמה",
+        "ar": "للدلالة على الحقيقة، طبيعة براهما",
+        "tr": "Gerçeği, Brahma'nın doğasını belirtmek için",
+        "sw": "Kuonyesha kweli, asili ya Brahma"
+      },
+      "transliteration": {
+        "he": "סָאט-בְּהָאוֵה",
+        "ar": "سات بهاف",
+        "tr": "Sat-bhāve",
+        "sw": "Sat-bhāve"
+      }
+    },
+    "satkāra-māna-pūja-artham": {
+      "meaning": {
+        "he": "למען רווח, פולחן ותהילה",
+        "ar": "من أجل المكسب، العبادة، والشهرة",
+        "tr": "Kazanç, tapınma ve şöhret için",
+        "sw": "Kwa ajili ya faida, ibada, na umaarufu"
+      },
+      "transliteration": {
+        "he": "סָאטְקָארָה-מָאנָה-פּוּגָ'ה-אַרְתָּם",
+        "ar": "ساتكارا مانا بوجا أرثام",
+        "tr": "Satkāra-māna-pūja-artham",
+        "sw": "Satkāra-māna-pūja-artham"
+      }
+    },
+    "sattva-anurūpā": {
+      "meaning": {
+        "he": "לפי התודעה שלהם",
+        "ar": "وفقاً لوعيهم",
+        "tr": "Bilinçlerine göre",
+        "sw": "Kulingana na ufahamu wao"
+      },
+      "transliteration": {
+        "he": "סָאטְווָה-אַנוּרוּפָּא",
+        "ar": "ساتفا أنوروبا",
+        "tr": "Sattva-anurūpā",
+        "sw": "Sattva-anurūpā"
+      }
+    },
+    "smṛtaḥ": {
+      "meaning": {
+        "he": "מוכרים בכתבים כ-",
+        "ar": "معروفون في الكتب المقدسة كـ",
+        "tr": "Kutsal yazılarda şöyle bilinirler",
+        "sw": "Wamejulikana katika maandiko matakatifu kama"
+      },
+      "transliteration": {
+        "he": "סְמְרִיתָה",
+        "ar": "سمريتاه",
+        "tr": "Smṛtaḥ",
+        "sw": "Smṛtaḥ"
+      }
+    },
+    "svabhāva-jā": {
+      "meaning": {
+        "he": "נולדת מהטבע העצמי שנרכש מרשמים של חיים קודמים",
+        "ar": "تولد من الطبيعة الذاتية المكتسبة من آثار الحيات السابقة",
+        "tr": "Önceki yaşamların izlenimlerinden kazanılan kendi doğalarından doğan",
+        "sw": "Imezaliwa kutoka kwa asili yake iliyopatikana kutoka kwa alama za maisha ya awali"
+      },
+      "transliteration": {
+        "he": "סְוָובְּהָאוָה-גָ'א",
+        "ar": "سفابهاجا",
+        "tr": "Svabhāva-jā",
+        "sw": "Svabhāva-jā"
+      }
+    },
+    "svādhyāya-abhyasanam cha eva": {
+      "meaning": {
+        "he": "וקריאה סדירה של הוודות",
+        "ar": "وتلاوة منتظمة للفيدا",
+        "tr": "ve Vedaların düzenli olarak okunması",
+        "sw": "Na kusoma Veda kwa kawaida"
+      },
+      "transliteration": {
+        "he": "סְוָואדְהְיָאיה-אַבְּהְיָאסָנַם צָ'ה אֵוָה",
+        "ar": "سفادهايا أبهياسنام شا إيفا",
+        "tr": "Svādhyāya-abhyasanam cha eva",
+        "sw": "Svādhyāya-abhyasanam cha eva"
+      }
+    },
+    "sādhu-bhāve cha": {
+      "meaning": {
+        "he": "ואנשים המסורים לאמת, יודעי ברהמה",
+        "ar": "والأشخاص المكرسون للحقيقة، عارفو براهما",
+        "tr": "ve gerçeğe adanmış kişiler, Brahma'yı bilenler",
+        "sw": "Na watu waliojitolea kwa kweli, wanaojua Brahma"
+      },
+      "transliteration": {
+        "he": "סָאדְהוּ-בְּהָאוֵה צָ'ה",
+        "ar": "سادهو بهاف شا",
+        "tr": "Sādhu-bhāve cha",
+        "sw": "Sādhu-bhāve cha"
+      }
+    },
+    "sāttvika-priyāḥ": {
+      "meaning": {
+        "he": "חביבים על בעלי טבע הטוב",
+        "ar": "محبوبة لأهل طبيعة الخير",
+        "tr": "İyilik doğalıların sevgilisi",
+        "sw": "Vipendwa kwa wenye asili njema"
+      },
+      "transliteration": {
+        "he": "סָאטְוִיקָה-פְּרִייָאה",
+        "ar": "ساتفيكا برياه",
+        "tr": "Sāttvika-priyāḥ",
+        "sw": "Sāttvika-priyāḥ"
+      }
+    },
+    "sāttvikam": {
+      "meaning": {
+        "he": "שהוא מטבע הטוב",
+        "ar": "أن يكون من طبيعة الخير",
+        "tr": "iyilik niteliğinde olan",
+        "sw": "kuwa wa asili ya wema"
+      },
+      "transliteration": {
+        "he": "סָאטְוִיקַם",
+        "ar": "ساتفيكام",
+        "tr": "Sāttvikam",
+        "sw": "Sāttvikam"
+      }
+    },
+    "sāttvikaḥ": {
+      "meaning": {
+        "he": "הוא קורבן של טבע הטוב",
+        "ar": "هو تضحية من طبيعة الخير",
+        "tr": "iyilik doğalı kurban",
+        "sw": "ni sadaka ya asili ya wema"
+      },
+      "transliteration": {
+        "he": "סָאטְוִיקָה",
+        "ar": "ساتفيكاه",
+        "tr": "Sāttvikaḥ",
+        "sw": "Sāttvikaḥ"
+      }
+    },
+    "sāttvikāḥ": {
+      "meaning": {
+        "he": "אלו בעלי אמונה של טבע הטוב",
+        "ar": "أولئك ذوو إيمان طبيعة الخير",
+        "tr": "İyilik doğalı inanca sahip olanlar",
+        "sw": "Wale wenye imani ya asili ya wema"
+      },
+      "transliteration": {
+        "he": "סָאטְוִיקָאה",
+        "ar": "ساتفيكاه",
+        "tr": "Sāttvikāḥ",
+        "sw": "Sāttvikāḥ"
+      }
+    },
+    "tapaḥ taptam": {
+      "meaning": {
+        "he": "סיגוף נסבל",
+        "ar": "الزهد يُتحمل",
+        "tr": "Çileye katlanılır",
+        "sw": "Ibada inavumiliwa"
+      },
+      "transliteration": {
+        "he": "טָפָּהה טָפְּטַם",
+        "ar": "تاباه تابتام",
+        "tr": "Tapaḥ taptam",
+        "sw": "Tapaḥ taptam"
+      }
+    },
+    "tat iti": {
+      "meaning": {
+        "he": "המילה טאט, המייצגת את ברהמה, המוחלט",
+        "ar": "كلمة تات، التي تمثل براهما، المطلق",
+        "tr": "Brahma'yı, Mutlak'ı temsil eden Tat sözcüğü",
+        "sw": "Neno Tat, inayowakilisha Brahma, Ulele"
+      },
+      "transliteration": {
+        "he": "טָאט אִיטִי",
+        "ar": "تات إيتي",
+        "tr": "Tat iti",
+        "sw": "Tat iti"
+      }
+    },
+    "tat-arthīyam": {
+      "meaning": {
+        "he": "לסיפוקו של הריבון העליון",
+        "ar": "لإرضاء الرب الأعلى",
+        "tr": "Yüce Rab'bi memnun etmek için",
+        "sw": "Kwa kuridhisha Bwana Mkuu"
+      },
+      "transliteration": {
+        "he": "טָאט-אַרְתִ'יָּם",
+        "ar": "تات أرثيام",
+        "tr": "Tat-arthīyam",
+        "sw": "Tat-arthīyam"
+      }
+    },
+    "tri-vidham tapaḥ": {
+      "meaning": {
+        "he": "סיגוף משולש (גופני, מילולי ומנטלי)",
+        "ar": "زهد ثلاثي (جسدي، لفظي، وعقلي)",
+        "tr": "Üçlü çile (bedensel, sözlü ve zihinsel)",
+        "sw": "Ibada tatu (za mwili, za ulimi, na za akili)"
+      },
+      "transliteration": {
+        "he": "טְרִי-וִידְהַם טָפָּהה",
+        "ar": "تري فيدهام تاباه",
+        "tr": "Tri-vidham tapaḥ",
+        "sw": "Tri-vidham tapaḥ"
+      }
+    },
+    "tri-vidhaḥ āhāraḥ": {
+      "meaning": {
+        "he": "שלושה סוגי מזון",
+        "ar": "ثلاثة أنواع من الطعام",
+        "tr": "Üç çeşit yiyecek",
+        "sw": "Aina tatu za chakula"
+      },
+      "transliteration": {
+        "he": "טְרִי-וִידְהָה אָהָארָה",
+        "ar": "تري فيدها أهاراه",
+        "tr": "Tri-vidhaḥ āhāraḥ",
+        "sw": "Tri-vidhaḥ āhāraḥ"
+      }
+    },
+    "tām śṛṇu": {
+      "meaning": {
+        "he": "שמע על כך עתה",
+        "ar": "اسمع الآن عن ذلك",
+        "tr": "Şimdi bunu işit",
+        "sw": "Sikia kuhusu hilo sasa"
+      },
+      "transliteration": {
+        "he": "טָאם שְׁרִינוּ",
+        "ar": "تام شرينو",
+        "tr": "Tām śṛṇu",
+        "sw": "Tām śṛṇu"
+      }
+    },
+    "tāmasa-priyam": {
+      "meaning": {
+        "he": "חביב על הבורים",
+        "ar": "محبوب للجهلة",
+        "tr": "Cahillerin sevgilisi",
+        "sw": "Kipendwa kwa wajinga"
+      },
+      "transliteration": {
+        "he": "טָאמַסָה-פְּרִייַם",
+        "ar": "تاماسا بريام",
+        "tr": "Tāmasa-priyam",
+        "sw": "Tāmasa-priyam"
+      }
+    },
+    "tāmasam": {
+      "meaning": {
+        "he": "שהוא מטבע הבערות",
+        "ar": "أن يكون من طبيعة الجهل",
+        "tr": "cehalet niteliğinde olan",
+        "sw": "kuwa wa asili ya ujinga"
+      },
+      "transliteration": {
+        "he": "טָאמַסַם",
+        "ar": "تاماسام",
+        "tr": "Tāmasam",
+        "sw": "Tāmasam"
+      }
+    },
+    "uchchhiṣṭam api": {
+      "meaning": {
+        "he": "שאריות (אחרות מאלו של אנשים הראויים לסגידה)",
+        "ar": "البقايا (غير تلك الخاصة بالأشخاص المستحقين للعبادة)",
+        "tr": "Artıklar (tapınılacak kişilerin dışındakiler)",
+        "sw": "Mabaki (isipokuwa ya watu wanaostahili kuabudiwa)"
+      },
+      "transliteration": {
+        "he": "אוּצְ'צְ'הִישְׁטַם אָפִּי",
+        "ar": "أوتشيشتام أبي",
+        "tr": "Uchchhiṣṭam api",
+        "sw": "Uchchhiṣṭam api"
+      }
+    },
+    "vidhi-diṣṭaḥ": {
+      "meaning": {
+        "he": "לפי הצווים של הכתבים",
+        "ar": "وفقاً لأوامر الكتب المقدسة",
+        "tr": "Kutsal yazıların emirlerine göre",
+        "sw": "Kulingana na maagizo ya maandiko matakatifu"
+      },
+      "transliteration": {
+        "he": "וִידְהִי-דִישְׁטָה",
+        "ar": "فيدي ديشتاه",
+        "tr": "Vidhi-diṣṭaḥ",
+        "sw": "Vidhi-diṣṭaḥ"
+      }
+    },
+    "vividhāḥ yajña-tapaḥ-kriyāḥ": {
+      "meaning": {
+        "he": "מעשים מסוגים שונים של קורבן וסיגוף",
+        "ar": "أعمال أنواع مختلفة من التضحية والزهد",
+        "tr": "Çeşitli kurban ve çile eylemleri",
+        "sw": "Matendo ya aina mbalimbali ya sadaka na ibada"
+      },
+      "transliteration": {
+        "he": "וִיוִידְהָאה יָאגְ'נָ'ה-טָפָּהה-קְרִייָאה",
+        "ar": "فيفيداه ياجنا تاباه كرياه",
+        "tr": "Vividhāḥ yajña-tapaḥ-kriyāḥ",
+        "sw": "Vividhāḥ yajña-tapaḥ-kriyāḥ"
+      }
+    },
+    "yajña-dāna-tapaḥ-kriyāḥ": {
+      "meaning": {
+        "he": "חובות הקורבן, הנדבה והסיגוף",
+        "ar": "واجبات التضحية والصدقة والزهد",
+        "tr": "Kurban, sadaka ve çile görevleri",
+        "sw": "Majukumu ya sadaka, michango, na ibada"
+      },
+      "transliteration": {
+        "he": "יָאגְ'נָ'ה-דָּאנָה-טָפָּהה-קְרִייָאה",
+        "ar": "ياجنا دانا تاباه كرياه",
+        "tr": "Yajña-dāna-tapaḥ-kriyāḥ",
+        "sw": "Yajña-dāna-tapaḥ-kriyāḥ"
+      }
+    },
+    "yakṣa-rakṣāṁsi": {
+      "meaning": {
+        "he": "חצאי-האלים יקשה והשדים ראקשה של טבע התשוקה",
+        "ar": "أنصاف الآلهة ياكشا وشياطين راكشاسا من طبيعة الشغف",
+        "tr": "Tutku doğalı Yakṣa yarı tanrıları ve Rākṣasa iblisleri",
+        "sw": "Vinyamungu vidogo Yakṣa na mashetani Rākṣasa ya asili ya shauku"
+      },
+      "transliteration": {
+        "he": "יָקְשָׁה-רָקְשָׁאמְסִי",
+        "ar": "ياكشا راكشامسي",
+        "tr": "Yakṣa-rakṣāṁsi",
+        "sw": "Yakṣa-rakṣāṁsi"
+      }
+    },
+    "yat tu": {
+      "meaning": {
+        "he": "ואת אשר",
+        "ar": "وذلك الذي",
+        "tr": "ve o ki",
+        "sw": "Na ile ambayo"
+      },
+      "transliteration": {
+        "he": "יָאט טוּ",
+        "ar": "يات تو",
+        "tr": "Yat tu",
+        "sw": "Yat tu"
+      }
+    },
+    "yaḥ ijyate": {
+      "meaning": {
+        "he": "אשר מבוצעת",
+        "ar": "التي تُنفذ",
+        "tr": "gerçekleştirilen",
+        "sw": "Ambayo inatendwa"
+      },
+      "transliteration": {
+        "he": "יָה אִיגְ'יָאטֵה",
+        "ar": "ياه إيجياتي",
+        "tr": "Yaḥ ijyate",
+        "sw": "Yaḥ ijyate"
+      }
+    },
+    "yuktaiḥ": {
+      "meaning": {
+        "he": "על ידי המסורים",
+        "ar": "من قبل المخلصين",
+        "tr": "Adanmışlar tarafından",
+        "sw": "Na wale waliojitolea"
+      },
+      "transliteration": {
+        "he": "יוּקְטָאיְה",
+        "ar": "يوكتايه",
+        "tr": "Yuktaiḥ",
+        "sw": "Yuktaiḥ"
+      }
+    },
+    "yāta-yāmam": {
+      "meaning": {
+        "he": "מבושל, אך הונח עד שנעשה קר",
+        "ar": "مطبوخ، لكن تُرك حتى أصبح بارداً",
+        "tr": "Pişmiş ama soğuyana kadar bırakılmış",
+        "sw": "Imepikwa, lakini imeachwa mpaka imepoa"
+      },
+      "transliteration": {
+        "he": "יָאטָה-יָאמַם",
+        "ar": "ياتا يامام",
+        "tr": "Yāta-yāmam",
+        "sw": "Yāta-yāmam"
+      }
+    },
+    "āsura-niśchayān": {
+      "meaning": {
+        "he": "שהם בעלי שכנוע שדי",
+        "ar": "أن يكونوا من قناعة شيطانية",
+        "tr": "şeytani inançlı olarak",
+        "sw": "kuwa na imani ya shetani"
+      },
+      "transliteration": {
+        "he": "אָסוּרָה-נִישְׁצָ'איָאן",
+        "ar": "أسورا نيشكايان",
+        "tr": "Āsura-niśchayān",
+        "sw": "Āsura-niśchayān"
+      }
+    },
+    "āyuḥ-sattva-bala-ārogya-sukha-prīti-vivardhanāḥ": {
+      "meaning": {
+        "he": "שמגדילים אריכות ימים, חיוניות, כוח, בריאות, אושר ואהבה",
+        "ar": "التي تزيد العمر، والحيوية، والقوة، والصحة، والسعادة، والرحمة",
+        "tr": "ömrü, canlılığı, gücü, sağlığı, mutluluğu ve sevgiyi artıran",
+        "sw": "Ambazo huongeza umri, nguvu, afya, furaha, na upendo"
+      },
+      "transliteration": {
+        "he": "אָיוּה-סָאטְווָה-בָּלָה-אָרוֹגְיָה-סוּקְהָה-פְּרִיטִי-וִיוָרְדְהנָאה",
+        "ar": "أيوه ساتفا بالا أروغيا سوخا بريتي فيفارداناه",
+        "tr": "Āyuḥ-sattva-bala-ārogya-sukha-prīti-vivardhanāḥ",
+        "sw": "Āyuḥ-sattva-bala-ārogya-sukha-prīti-vivardhanāḥ"
+      }
+    },
+    "śarīra-stham": {
+      "meaning": {
+        "he": "בתוך הגוף",
+        "ar": "في الجسد",
+        "tr": "Bedenin içinde",
+        "sw": "Ndani ya mwili"
+      },
+      "transliteration": {
+        "he": "שָׁרִירָה-סְתָהם",
+        "ar": "شاريرا ستام",
+        "tr": "Śarīra-stham",
+        "sw": "Śarīra-stham"
+      }
+    },
+    "śaucham": {
+      "meaning": {
+        "he": "טוהר פנימי וחיצוני",
+        "ar": "النقاء الداخلي والخارجي",
+        "tr": "İç ve dış saflık",
+        "sw": "Usafi wa ndani na wa nje"
+      },
+      "transliteration": {
+        "he": "שָׁאוּצָ'ם",
+        "ar": "شاوتشام",
+        "tr": "Śaucham",
+        "sw": "Śaucham"
+      }
+    }
+  }
+}

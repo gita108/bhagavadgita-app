@@ -1,0 +1,596 @@
+{
+  "vocabulary": {
+    "abhayam": {
+      "meaning": "무외",
+      "transliteration": "아바얌"
+    },
+    "sattva-samshuddhih": {
+      "meaning": "순수성의 정화",
+      "transliteration": "사트바 삼슈디"
+    },
+    "jnana-yoga": {
+      "meaning": "지혜 요가",
+      "transliteration": "즈냐나 요가"
+    },
+    "vyavasthitih": {
+      "meaning": "확고한 결심",
+      "transliteration": "비아바스티티"
+    },
+    "danam": {
+      "meaning": "보시",
+      "transliteration": "다남"
+    },
+    "damah": {
+      "meaning": "자제",
+      "transliteration": "다마"
+    },
+    "yajnah": {
+      "meaning": "제사",
+      "transliteration": "야즈냐"
+    },
+    "svadhyayah": {
+      "meaning": "경전 공부",
+      "transliteration": "스와드야야"
+    },
+    "tapah": {
+      "meaning": "고행",
+      "transliteration": "타파스"
+    },
+    "arjavam": {
+      "meaning": "정직",
+      "transliteration": "아르자밤"
+    },
+    "ahimsa": {
+      "meaning": "불살생",
+      "transliteration": "아힘사"
+    },
+    "satyam": {
+      "meaning": "진실",
+      "transliteration": "사티얌"
+    },
+    "akrodhah": {
+      "meaning": "분노 없음",
+      "transliteration": "아크로다"
+    },
+    "tyagah": {
+      "meaning": "내려놓음",
+      "transliteration": "탸가"
+    },
+    "shantih": {
+      "meaning": "평온",
+      "transliteration": "샨티"
+    },
+    "apaishunam": {
+      "meaning": "남의 흠을 찾지 않음",
+      "transliteration": "아파이슈남"
+    },
+    "daya": {
+      "meaning": "자비",
+      "transliteration": "다야"
+    },
+    "bhuteshu": {
+      "meaning": "중생",
+      "transliteration": "부테슈"
+    },
+    "aloluptvam": {
+      "meaning": "탐욕 없음",
+      "transliteration": "아롭트밤"
+    },
+    "mardavam": {
+      "meaning": "유순함",
+      "transliteration": "마르다밤"
+    },
+    "hrih": {
+      "meaning": "부끄러움",
+      "transliteration": "흐리"
+    },
+    "achapalam": {
+      "meaning": "흔들리지 않음",
+      "transliteration": "아차팔람"
+    },
+    "tejah": {
+      "meaning": "정력",
+      "transliteration": "테자"
+    },
+    "kshama": {
+      "meaning": "관용",
+      "transliteration": "크샤마"
+    },
+    "dhritih": {
+      "meaning": "인내",
+      "transliteration": "드리티"
+    },
+    "shaucham": {
+      "meaning": "청정",
+      "transliteration": "샤우차"
+    },
+    "adrohah": {
+      "meaning": "시기하지 않음",
+      "transliteration": "아드로하"
+    },
+    "atimanita": {
+      "meaning": "교만하지 않음",
+      "transliteration": "아티마니타"
+    },
+    "daivi": {
+      "meaning": "신성",
+      "transliteration": "다이비"
+    },
+    "sampad": {
+      "meaning": "성품",
+      "transliteration": "삼파드"
+    },
+    "abhijata": {
+      "meaning": "태어난",
+      "transliteration": "아비자타"
+    },
+    "bharata": {
+      "meaning": "바라타",
+      "transliteration": "바라타"
+    },
+    "dambhah": {
+      "meaning": "위선",
+      "transliteration": "담바"
+    },
+    "darpa": {
+      "meaning": "오만",
+      "transliteration": "다르파"
+    },
+    "abhimana": {
+      "meaning": "자존심",
+      "transliteration": "아비마나"
+    },
+    "krodha": {
+      "meaning": "분노",
+      "transliteration": "크로다"
+    },
+    "parushyam": {
+      "meaning": "잔인함",
+      "transliteration": "파루샤밤"
+    },
+    "ajnanam": {
+      "meaning": "무지",
+      "transliteration": "아즈냐나"
+    },
+    "asuri": {
+      "meaning": "악마의",
+      "transliteration": "아수리"
+    },
+    "partha": {
+      "meaning": "파르타",
+      "transliteration": "파르타"
+    },
+    "vimokshaya": {
+      "meaning": "해탈을 위해",
+      "transliteration": "비목샤야"
+    },
+    "nibandhaya": {
+      "meaning": "속박을 위해",
+      "transliteration": "니반다야"
+    },
+    "pandava": {
+      "meaning": "판다바",
+      "transliteration": "판다바"
+    },
+    "bhuta-sarga": {
+      "meaning": "중생의 성품",
+      "transliteration": "부타 사르가"
+    },
+    "loka": {
+      "meaning": "세상",
+      "transliteration": "로카"
+    },
+    "pravritti": {
+      "meaning": "해야 할 행위",
+      "transliteration": "프라브리티"
+    },
+    "nivritti": {
+      "meaning": "해서는 안 될 행위",
+      "transliteration": "니브리티"
+    },
+    "achara": {
+      "meaning": "선한 행실",
+      "transliteration": "아차라"
+    },
+    "asatyam": {
+      "meaning": "진실이 아님",
+      "transliteration": "아사티얌"
+    },
+    "apratishtam": {
+      "meaning": "기반이 없음",
+      "transliteration": "아프라티슈탐"
+    },
+    "jagat": {
+      "meaning": "세계",
+      "transliteration": "자가트"
+    },
+    "ishvara": {
+      "meaning": "신, 주재자",
+      "transliteration": "이슈바라"
+    },
+    "aparaspara": {
+      "meaning": "원인 없는",
+      "transliteration": "아파라스파라"
+    },
+    "sambhutam": {
+      "meaning": "태어난",
+      "transliteration": "삼부탐"
+    },
+    "kama": {
+      "meaning": "욕망",
+      "transliteration": "카마"
+    },
+    "drishti": {
+      "meaning": "견해",
+      "transliteration": "드리슈티"
+    },
+    "nashta-atma": {
+      "meaning": "자신을 상실한",
+      "transliteration": "나슈타트마"
+    },
+    "alpa-buddhi": {
+      "meaning": "지성이 낮은",
+      "transliteration": "알파 부디"
+    },
+    "ugra-karma": {
+      "meaning": "가혹한 행위",
+      "transliteration": "우그라 카르마"
+    },
+    "kshaya": {
+      "meaning": "파멸",
+      "transliteration": "크샤야"
+    },
+    "ahita": {
+      "meaning": "해로운",
+      "transliteration": "아히타"
+    },
+    "durapuram": {
+      "meaning": "채울 수 없는",
+      "transliteration": "두라프라ム"
+    },
+    "mada": {
+      "meaning": "교만",
+      "transliteration": "마다"
+    },
+    "moha": {
+      "meaning": "우치, 미혹",
+      "transliteration": "모하"
+    },
+    "asat-graha": {
+      "meaning": "허위를 잡음",
+      "transliteration": "아사트 그라하"
+    },
+    "ashuchi-vrata": {
+      "meaning": "부정한 서약",
+      "transliteration": "아슈치 브라타"
+    },
+    "chinta": {
+      "meaning": "걱정거리",
+      "transliteration": "친타"
+    },
+    "aprameyam": {
+      "meaning": "헤아릴 수 없는",
+      "transliteration": "아프라메얌"
+    },
+    "pralaya-anta": {
+      "meaning": "죽음까지",
+      "transliteration": "프라라야 안타"
+    },
+    "asha-pasha": {
+      "meaning": "희망의 밧줄",
+      "transliteration": "아샤 파샤"
+    },
+    "shata": {
+      "meaning": "백",
+      "transliteration": "샤타"
+    },
+    "baddha": {
+      "meaning": "묶인",
+      "transliteration": "반다"
+    },
+    "kamopabhoga": {
+      "meaning": "감각의 쾌락",
+      "transliteration": "카마 우파보가"
+    },
+    "artha": {
+      "meaning": "부, 목적",
+      "transliteration": "아르타"
+    },
+    "anyayena": {
+      "meaning": "부정한 방법으로",
+      "transliteration": "아냐에나"
+    },
+    "sanchayan": {
+      "meaning": "축적",
+      "transliteration": "산차얀"
+    },
+    "adya": {
+      "meaning": "오늘",
+      "transliteration": "아디야"
+    },
+    "labdham": {
+      "meaning": "얻은",
+      "transliteration": "라브담"
+    },
+    "prapsye": {
+      "meaning": "얻을 것이다",
+      "transliteration": "프라프셰"
+    },
+    "manoratha": {
+      "meaning": "원하는 것",
+      "transliteration": "마노라타"
+    },
+    "bhavishyati": {
+      "meaning": "미래에 있을",
+      "transliteration": "바비샤야티"
+    },
+    "dhanam": {
+      "meaning": "부",
+      "transliteration": "다남"
+    },
+    "asau": {
+      "meaning": "저",
+      "transliteration": "아사우"
+    },
+    "hatah": {
+      "meaning": "죽임을 당한",
+      "transliteration": "하타"
+    },
+    "shatru": {
+      "meaning": "적",
+      "transliteration": "샤트루"
+    },
+    "hanishye": {
+      "meaning": "쓰러뜨릴 것이다",
+      "transliteration": "하니셰"
+    },
+    "aparan": {
+      "meaning": "다른",
+      "transliteration": "아파라"
+    },
+    "bhogi": {
+      "meaning": "享受者",
+      "transliteration": "보기"
+    },
+    "siddha": {
+      "meaning": "성취자",
+      "transliteration": "시다"
+    },
+    "balavan": {
+      "meaning": "강한",
+      "transliteration": "바라반"
+    },
+    "sukhi": {
+      "meaning": "행복한",
+      "transliteration": "수키"
+    },
+    "adhyah": {
+      "meaning": "부유한",
+      "transliteration": "아디야"
+    },
+    "abhijanavan": {
+      "meaning": "고귀한 가문의",
+      "transliteration": "아비냐나반"
+    },
+    "kah": {
+      "meaning": "누구",
+      "transliteration": "카"
+    },
+    "anyah": {
+      "meaning": "다른",
+      "transliteration": "아냐"
+    },
+    "sadrisa": {
+      "meaning": "비슷한",
+      "transliteration": "사드리샤"
+    },
+    "yakshye": {
+      "meaning": "제사를 지내다",
+      "transliteration": "야크셰"
+    },
+    "dasyami": {
+      "meaning": "보시하다",
+      "transliteration": "다샤미"
+    },
+    "modishye": {
+      "meaning": "즐기다",
+      "transliteration": "모디셰"
+    },
+    "vimohitah": {
+      "meaning": "현혹된",
+      "transliteration": "비모히타"
+    },
+    "aneka-chitta": {
+      "meaning": "마음이 혼란한",
+      "transliteration": "아네카 치타"
+    },
+    "vibhranta": {
+      "meaning": "혼란한",
+      "transliteration": "비브란타"
+    },
+    "jala": {
+      "meaning": "그물",
+      "transliteration": "잘라"
+    },
+    "samavrita": {
+      "meaning": "덮인",
+      "transliteration": "사마브리타"
+    },
+    "prasakta": {
+      "meaning": "몰두한",
+      "transliteration": "프라삭타"
+    },
+    "patanti": {
+      "meaning": "떨어지다",
+      "transliteration": "파탄티"
+    },
+    "naraka": {
+      "meaning": "지옥",
+      "transliteration": "나라카"
+    },
+    "atma-sambhavita": {
+      "meaning": "자신을 자랑하는",
+      "transliteration": "아트마 삼바비타"
+    },
+    "stabdha": {
+      "meaning": "완고한",
+      "transliteration": "스타브다"
+    },
+    "nama-yajna": {
+      "meaning": "명목만의 제사",
+      "transliteration": "나마 야즈냐"
+    },
+    "dambhena": {
+      "meaning": "위선적으로",
+      "transliteration": "담베나"
+    },
+    "avidhi-purvakam": {
+      "meaning": "규범을 무시하고",
+      "transliteration": "아비디 푸르바캄"
+    },
+    "asura-yoni": {
+      "meaning": "악마의 태",
+      "transliteration": "아수라 요니"
+    },
+    "apanna": {
+      "meaning": "도달한",
+      "transliteration": "아프나"
+    },
+    "mudha": {
+      "meaning": "어리석은 자",
+      "transliteration": "무다"
+    },
+    "janmani": {
+      "meaning": "태어남에서",
+      "transliteration": "자나니"
+    },
+    "aprapya": {
+      "meaning": "도달하지 못한",
+      "transliteration": "아프라프야"
+    },
+    "kaunteya": {
+      "meaning": "쿤티의 아들",
+      "transliteration": "카운테야"
+    },
+    "adhamam": {
+      "meaning": "낮은",
+      "transliteration": "아다맘"
+    },
+    "gatim": {
+      "meaning": "목적지",
+      "transliteration": "가티"
+    },
+    "tri-vidham": {
+      "meaning": "세 가지 종류",
+      "transliteration": "트리 비담"
+    },
+    "naraka-dvaram": {
+      "meaning": "지옥의 문",
+      "transliteration": "나라카 드바람"
+    },
+    "nasanam": {
+      "meaning": "파멸",
+      "transliteration": "나샤남"
+    },
+    "lobha": {
+      "meaning": "탐욕",
+      "transliteration": "로바"
+    },
+    "tasmad": {
+      "meaning": "그러므로",
+      "transliteration": "타스마드"
+    },
+    "trayam": {
+      "meaning": "세 가지",
+      "transliteration": "트라얌"
+    },
+    "tyajet": {
+      "meaning": "버려야 함",
+      "transliteration": "탸제트"
+    },
+    "vimukta": {
+      "meaning": "해방된",
+      "transliteration": "비무크타"
+    },
+    "tamah": {
+      "meaning": "어둠",
+      "transliteration": "타마"
+    },
+    "tribhih": {
+      "meaning": "세 개의",
+      "transliteration": "트리비"
+    },
+    "naray": {
+      "meaning": "사람",
+      "transliteration": "나라"
+    },
+    "acharati": {
+      "meaning": "행동하다",
+      "transliteration": "아차라티"
+    },
+    "shreyas": {
+      "meaning": "복지",
+      "transliteration": "슈레야스"
+    },
+    "shasta": {
+      "meaning": "경전",
+      "transliteration": "샤스트라"
+    },
+    "vidhim": {
+      "meaning": "규범",
+      "transliteration": "비디ム"
+    },
+    "utsrijya": {
+      "meaning": "버리다",
+      "transliteration": "우츠리야"
+    },
+    "vartate": {
+      "meaning": "행동하다",
+      "transliteration": "바르타테"
+    },
+    "kama-charatah": {
+      "meaning": "욕망대로",
+      "transliteration": "카마 차라타"
+    },
+    "siddhim": {
+      "meaning": "성취",
+      "transliteration": "시디"
+    },
+    "avapnoti": {
+      "meaning": "얻다",
+      "transliteration": "아바프노티"
+    },
+    "sukham": {
+      "meaning": "행복",
+      "transliteration": "수카ム"
+    },
+    "pramanam": {
+      "meaning": "권위",
+      "transliteration": "프라마남"
+    },
+    "karya": {
+      "meaning": "해야 할 일",
+      "transliteration": "카르야"
+    },
+    "akarya": {
+      "meaning": "해서는 안 될 일",
+      "transliteration": "아카르야"
+    },
+    "jnativa": {
+      "meaning": "알고",
+      "transliteration": "즈냐트바"
+    },
+    "kartum": {
+      "meaning": "행하기 위해",
+      "transliteration": "카르툼"
+    },
+    "iha": {
+      "meaning": "이 세상에서",
+      "transliteration": "이하"
+    },
+    "arhasi": {
+      "meaning": "해야 함",
+      "transliteration": "아르하시"
+    }
+  }
+}

@@ -1,0 +1,3296 @@
+{
+  "meta": {
+    "chapter": 5,
+    "language": "ja",
+    "totalWords": 365,
+    "lastUpdated": "2026-04-01",
+    "source": "bak/chapters/ch-05/vocabulary-asian.json"
+  },
+  "slokas": {
+    "sloka_18497": [
+      {
+        "sanskrit": "",
+        "word": "18497",
+        "meaning": "おお best of the valiant",
+        "transliteration": "ハエ) マアハアー-バアーハオ",
+        "order": 0
+      }
+    ],
+    "sloka_18629": [
+      {
+        "sanskrit": "",
+        "word": "18629",
+        "meaning": "such seers are to be known as",
+        "transliteration": "クアタヤアタエ",
+        "order": 0
+      }
+    ],
+    "sloka_18712": [
+      {
+        "sanskrit": "",
+        "word": "18712",
+        "meaning": "which enter the 心",
+        "transliteration": "マアナアハ パラアヴァイシャタアーナ",
+        "order": 0
+      }
+    ],
+    "sloka_18506": [
+      {
+        "sanskrit": "",
+        "word": "18506",
+        "meaning": "is able to attain to",
+        "transliteration": "アダイグアチャチャハアタイ",
+        "order": 0
+      }
+    ],
+    "sloka_18601": [
+      {
+        "sanskrit": "",
+        "word": "18601",
+        "meaning": "by ignorance – by the Lord’s external potency avidyā-śakti to fulfill the living being’s 欲望 to enjoy the 物質 world",
+        "transliteration": "アジャニャアーナエナア",
+        "order": 0
+      }
+    ],
+    "sloka_18690": [
+      {
+        "sanskrit": "",
+        "word": "18690",
+        "meaning": "sees the illumination within",
+        "transliteration": "アナタアハ-ジャヤオタイハ",
+        "order": 0
+      }
+    ],
+    "sloka_18686": [
+      {
+        "sanskrit": "",
+        "word": "18686",
+        "meaning": "experiences the joy of the self within",
+        "transliteration": "アナタアハ-サウクアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18687": [
+      {
+        "sanskrit": "",
+        "word": "18687",
+        "meaning": "who delights in the self within",
+        "transliteration": "アナタアハ-アーラアーマアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18516": [
+      {
+        "sanskrit": "",
+        "word": "18516",
+        "meaning": "athough engaged in the functions of",
+        "transliteration": "アパイ",
+        "order": 0
+      }
+    ],
+    "sloka_18560": [
+      {
+        "sanskrit": "",
+        "word": "18560",
+        "meaning": "and even by the senses",
+        "transliteration": "アパイ イナダライヤアイハ",
+        "order": 0
+      }
+    ],
+    "sloka_18652": [
+      {
+        "sanskrit": "",
+        "word": "18652",
+        "meaning": "The person with 心 detached",
+        "transliteration": "アサアクタア-アータマアー",
+        "order": 0
+      }
+    ],
+    "sloka_18646": [
+      {
+        "sanskrit": "",
+        "word": "18646",
+        "meaning": "devoid of the delusion of considering one’s 身体 and its attachments as ‘me’ and ‘mine’",
+        "transliteration": "アサアママウーダアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18733": [
+      {
+        "sanskrit": "",
+        "word": "18733",
+        "meaning": "as the maintainer or worshippable objective",
+        "transliteration": "バオクタアーラアマ",
+        "order": 0
+      }
+    ],
+    "sloka_18692": [
+      {
+        "sanskrit": "",
+        "word": "18692",
+        "meaning": "attaining the transcendental state",
+        "transliteration": "バラアハマア-バウータアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18701": [
+      {
+        "sanskrit": "",
+        "word": "18701",
+        "meaning": "解脱 from the mundane plane",
+        "transliteration": "バラアハマア-ナイラヴァアーナアマ",
+        "order": 0
+      }
+    ],
+    "sloka_18647": [
+      {
+        "sanskrit": "",
+        "word": "18647",
+        "meaning": "one in 知識 of Brahma",
+        "transliteration": "バラアハマア-ヴァイタ",
+        "order": 0
+      }
+    ],
+    "sloka_18659": [
+      {
+        "sanskrit": "",
+        "word": "18659",
+        "meaning": "absorbing himself in 瞑想 on the Absolute",
+        "transliteration": "バラアハマア-ヤオグア-ヤウクタア-アータマアー",
+        "order": 0
+      }
+    ],
+    "sloka_18543": [
+      {
+        "sanskrit": "",
+        "word": "18543",
+        "meaning": "unto the Supreme Lord",
+        "transliteration": "バラアハマアナイ",
+        "order": 0
+      }
+    ],
+    "sloka_18559": [
+      {
+        "sanskrit": "",
+        "word": "18559",
+        "meaning": "by the intelligence",
+        "transliteration": "バウダダヤアー",
+        "order": 0
+      }
+    ],
+    "sloka_18711": [
+      {
+        "sanskrit": "",
+        "word": "18711",
+        "meaning": "external sense objects of sound etc",
+        "transliteration": "バアーハヤアーナ サパアラシャアーナ",
+        "order": 0
+      }
+    ],
+    "sloka_18473": [
+      {
+        "sanskrit": "",
+        "word": "18473",
+        "meaning": "The childish the unwise",
+        "transliteration": "バアーラアーハ",
+        "order": 0
+      }
+    ],
+    "sloka_18501": [
+      {
+        "sanskrit": "",
+        "word": "18501",
+        "meaning": "the cause of 悲しみ",
+        "transliteration": "ダウハクアマ アーパタウマ",
+        "order": 0
+      }
+    ],
+    "sloka_18450": [
+      {
+        "sanskrit": "",
+        "word": "18450",
+        "meaning": "of the two",
+        "transliteration": "エタアヤオハ",
+        "order": 0
+      }
+    ],
+    "sloka_18527": [
+      {
+        "sanskrit": "",
+        "word": "18527",
+        "meaning": "grasping objects in the hands",
+        "transliteration": "グリハナアナ",
+        "order": 0
+      }
+    ],
+    "sloka_18534": [
+      {
+        "sanskrit": "",
+        "word": "18534",
+        "meaning": "in relation to their respective sense objects of form etc",
+        "transliteration": "イナダライヤア-アラタエシャウ",
+        "order": 0
+      }
+    ],
+    "sloka_18511": [
+      {
+        "sanskrit": "",
+        "word": "18511",
+        "meaning": "who has mastery over the senses",
+        "transliteration": "ジャイタア-イナダライヤアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18462": [
+      {
+        "sanskrit": "",
+        "word": "18462",
+        "meaning": "it is to be known that",
+        "transliteration": "ジャニャエヤアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18564": [
+      {
+        "sanskrit": "",
+        "word": "18564",
+        "meaning": "the fruits of 行為",
+        "transliteration": "クアラマア-パアラアマ",
+        "order": 0
+      }
+    ],
+    "sloka_18460": [
+      {
+        "sanskrit": "",
+        "word": "18460",
+        "meaning": "to renunciation of 行為",
+        "transliteration": "クアラマア-サアナナヤアーサアータ",
+        "order": 0
+      }
+    ],
+    "sloka_18458": [
+      {
+        "sanskrit": "",
+        "word": "18458",
+        "meaning": "the path of selfless 行為",
+        "transliteration": "クアラマア-ヤオグア",
+        "order": 0
+      }
+    ],
+    "sloka_18587": [
+      {
+        "sanskrit": "",
+        "word": "18587",
+        "meaning": "ego of considering themselves ‘the doer’",
+        "transliteration": "クアラタリタヴァアマ",
+        "order": 0
+      }
+    ],
+    "sloka_18677": [
+      {
+        "sanskrit": "",
+        "word": "18677",
+        "meaning": "the impulses of 欲望 and 怒り",
+        "transliteration": "クアーマア-クラオダア-ウダバアヴァアマ ヴァエグアマ",
+        "order": 0
+      }
+    ],
+    "sloka_18705": [
+      {
+        "sanskrit": "",
+        "word": "18705",
+        "meaning": "and free from 欲望 and 怒り",
+        "transliteration": "クアーマア-クラオダア-ヴァイマウクタアーナアーマ",
+        "order": 0
+      }
+    ],
+    "sloka_18557": [
+      {
+        "sanskrit": "",
+        "word": "18557",
+        "meaning": "by the 身体",
+        "transliteration": "クアーヤエナア",
+        "order": 0
+      }
+    ],
+    "sloka_18558": [
+      {
+        "sanskrit": "",
+        "word": "18558",
+        "meaning": "by the 心",
+        "transliteration": "マアナアサアー",
+        "order": 0
+      }
+    ],
+    "sloka_18722": [
+      {
+        "sanskrit": "",
+        "word": "18722",
+        "meaning": "dedicated to 解脱",
+        "transliteration": "マオクシャア-パアラアーヤアナアハ",
+        "order": 0
+      }
+    ],
+    "sloka_23804": [
+      {
+        "sanskrit": "",
+        "word": "23804",
+        "meaning": "are deluded thinking the 身体 to be the self",
+        "transliteration": "マウハヤアナタイ",
+        "order": 0
+      }
+    ],
+    "sloka_18724": [
+      {
+        "sanskrit": "",
+        "word": "18724",
+        "meaning": "a contemplative seeker of the self",
+        "transliteration": "マウナイハ",
+        "order": 0
+      }
+    ],
+    "sloka_18504": [
+      {
+        "sanskrit": "",
+        "word": "18504",
+        "meaning": "being a man of 知識",
+        "transliteration": "マウナイハ (サアナ",
+        "order": 0
+      }
+    ],
+    "sloka_18589": [
+      {
+        "sanskrit": "",
+        "word": "18589",
+        "meaning": "nor their association with the fruits of actions",
+        "transliteration": "ナア クアラマア-パアラア-サアṁヤオグアマ",
+        "order": 0
+      }
+    ],
+    "sloka_18583": [
+      {
+        "sanskrit": "",
+        "word": "18583",
+        "meaning": "nor causing work for others",
+        "transliteration": "ナア クアーラアヤアナ",
+        "order": 0
+      }
+    ],
+    "sloka_18595": [
+      {
+        "sanskrit": "",
+        "word": "18595",
+        "meaning": "neither the sin",
+        "transliteration": "ナア パアーパアマ",
+        "order": 0
+      }
+    ],
+    "sloka_18581": [
+      {
+        "sanskrit": "",
+        "word": "18581",
+        "meaning": "in the city of nine gates",
+        "transliteration": "ナアヴァア-ダヴァアーラエ パウラエ",
+        "order": 0
+      }
+    ],
+    "sloka_18529": [
+      {
+        "sanskrit": "",
+        "word": "18529",
+        "meaning": "and closing the eyes or blinking",
+        "transliteration": "ナイマイシャアナ",
+        "order": 0
+      }
+    ],
+    "sloka_18640": [
+      {
+        "sanskrit": "",
+        "word": "18640",
+        "meaning": "and being faultless free from 執着 and hatred",
+        "transliteration": "ナイラダオシャアマ",
+        "order": 0
+      }
+    ],
+    "sloka_18469": [
+      {
+        "sanskrit": "",
+        "word": "18469",
+        "meaning": "one who is free from duality",
+        "transliteration": "ナイラダヴァアナダヴァアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18719": [
+      {
+        "sanskrit": "",
+        "word": "18719",
+        "meaning": "flowing through the nostrils",
+        "transliteration": "ナアーサアー-アバヤアナタアラア-チャアーライナアウ",
+        "order": 0
+      }
+    ],
+    "sloka_18572": [
+      {
+        "sanskrit": "",
+        "word": "18572",
+        "meaning": "to the fruits of 行為",
+        "transliteration": "パアラエ",
+        "order": 0
+      }
+    ],
+    "sloka_18718": [
+      {
+        "sanskrit": "",
+        "word": "18718",
+        "meaning": "inhalation and exhalation",
+        "transliteration": "パラアーナア-アパアーナアウ",
+        "order": 0
+      }
+    ],
+    "sloka_18622": [
+      {
+        "sanskrit": "",
+        "word": "18622",
+        "meaning": "Those who see with equanimity who see Brahma transcendence",
+        "transliteration": "サアマア-ダアラシャイナアハ エヴァア",
+        "order": 0
+      }
+    ],
+    "sloka_18454": [
+      {
+        "sanskrit": "",
+        "word": "18454",
+        "meaning": "renunciation of 行為 and the path of selfless 行為",
+        "transliteration": "サアナナヤアーサアハ クアラマア-ヤオグアハ チャア",
+        "order": 0
+      }
+    ],
+    "sloka_18635": [
+      {
+        "sanskrit": "",
+        "word": "18635",
+        "meaning": "the cycle of birth and death",
+        "transliteration": "サアラグアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18699": [
+      {
+        "sanskrit": "",
+        "word": "18699",
+        "meaning": "dedicated to the welfare of all",
+        "transliteration": "サアラヴァア-バウータア-ハイタエ-ラアタアーハ",
+        "order": 0
+      }
+    ],
+    "sloka_18514": [
+      {
+        "sanskrit": "",
+        "word": "18514",
+        "meaning": "having reached the state in which his whole being is pervaded with affection and compassion for all beings",
+        "transliteration": "サアラヴァア-バウータア-アータマアバウータア-アータマアー (サアナ",
+        "order": 0
+      }
+    ],
+    "sloka_23805": [
+      {
+        "sanskrit": "",
+        "word": "23805",
+        "meaning": "the worshippable Supreme Lord of all planes Lord Nārāyaṇ",
+        "transliteration": "サアラヴァア-ラオクア-マアハアー-イーシャヴァアラアマ",
+        "order": 0
+      }
+    ],
+    "sloka_18691": [
+      {
+        "sanskrit": "",
+        "word": "18691",
+        "meaning": "such a niṣkām karma yogī follower of the ヨーガ of selfless 行為",
+        "transliteration": "サアハ ヤオグイー",
+        "order": 0
+      }
+    ],
+    "sloka_18666": [
+      {
+        "sanskrit": "",
+        "word": "18666",
+        "meaning": "born of the senses contacting their objects",
+        "transliteration": "サアṁサパアラシャア-ジャアーハ",
+        "order": 0
+      }
+    ],
+    "sloka_18553": [
+      {
+        "sanskrit": "",
+        "word": "18553",
+        "meaning": "執着 to the fruits of 行為",
+        "transliteration": "サアングアマ",
+        "order": 0
+      }
+    ],
+    "sloka_18645": [
+      {
+        "sanskrit": "",
+        "word": "18645",
+        "meaning": "endowed with steady intelligence",
+        "transliteration": "サタイラア-バウダダイハ",
+        "order": 0
+      }
+    ],
+    "sloka_23806": [
+      {
+        "sanskrit": "",
+        "word": "23806",
+        "meaning": "and the benefactor of all living beings by mercifully teaching pure 献身 to Me through My devotees since I am the adorable friend of the devotees Lord Kṛṣṇa",
+        "transliteration": "サウハリダアマ サアラヴァア-バウータアーナアーマ",
+        "order": 0
+      }
+    ],
+    "sloka_18596": [
+      {
+        "sanskrit": "",
+        "word": "18596",
+        "meaning": "nor the peity",
+        "transliteration": "サウクリタアマ チャア ナア エヴァア",
+        "order": 0
+      }
+    ],
+    "sloka_18475": [
+      {
+        "sanskrit": "",
+        "word": "18475",
+        "meaning": "the paths of renunciation and karma ヨーガ",
+        "transliteration": "サアーンクヤア-ヤオグアウ",
+        "order": 0
+      }
+    ],
+    "sloka_18494": [
+      {
+        "sanskrit": "",
+        "word": "18494",
+        "meaning": "both sannyās and karma-yoga",
+        "transliteration": "サアーンクヤアマ チャア ヤオグアマ チャア",
+        "order": 0
+      }
+    ],
+    "sloka_18615": [
+      {
+        "sanskrit": "",
+        "word": "18615",
+        "meaning": "who think constantly of the Supreme Lord",
+        "transliteration": "タアタ-バウダダアヤアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18618": [
+      {
+        "sanskrit": "",
+        "word": "18618",
+        "meaning": "and who are devoted to hearing and singing His glories",
+        "transliteration": "タアタ-パアラアーヤアナアーハ",
+        "order": 0
+      }
+    ],
+    "sloka_18667": [
+      {
+        "sanskrit": "",
+        "word": "18667",
+        "meaning": "are the origin of misery",
+        "transliteration": "タエ ダウハクア-ヤオナアヤアハ エヴァア",
+        "order": 0
+      }
+    ],
+    "sloka_18704": [
+      {
+        "sanskrit": "",
+        "word": "18704",
+        "meaning": "who are knowers of the element tvam the 魂",
+        "transliteration": "ヴァイダイタア-アータマアナアーマ",
+        "order": 0
+      }
+    ],
+    "sloka_18623": [
+      {
+        "sanskrit": "",
+        "word": "18623",
+        "meaning": "in a learned and humble",
+        "transliteration": "ヴァイダヤアー-ヴァイナアヤア-サアマパアナナエ",
+        "order": 0
+      }
+    ],
+    "sloka_18723": [
+      {
+        "sanskrit": "",
+        "word": "18723",
+        "meaning": "free from 欲望 恐れ and 怒り",
+        "transliteration": "ヴァイグアタア-イチャチャハアー-バアヤア-クラオダアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18734": [
+      {
+        "sanskrit": "",
+        "word": "18734",
+        "meaning": "of the karmīs’ sacrifices and the jñānīs’ austerities",
+        "transliteration": "ヤアジャニャア-タアパアサアーマ",
+        "order": 0
+      }
+    ],
+    "sloka_18657": [
+      {
+        "sanskrit": "",
+        "word": "18657",
+        "meaning": "which is experienced in self-realisation",
+        "transliteration": "ヤアタ アータマアナイ (アナウバウーヤアマアーナエ",
+        "order": 0
+      }
+    ],
+    "sloka_18703": [
+      {
+        "sanskrit": "",
+        "word": "18703",
+        "meaning": "who have controlled their thoughts conquered the subtle 身体",
+        "transliteration": "ヤアタア-チャエタアサアーマ",
+        "order": 0
+      }
+    ],
+    "sloka_18721": [
+      {
+        "sanskrit": "",
+        "word": "18721",
+        "meaning": "is a controller of the senses 心 and intelligence",
+        "transliteration": "ヤアタア-イナダライヤア-マアナアハ-バウダダイハ",
+        "order": 0
+      }
+    ],
+    "sloka_18702": [
+      {
+        "sanskrit": "",
+        "word": "18702",
+        "meaning": "Of the sannyāsīs",
+        "transliteration": "ヤアタイーナアーマ",
+        "order": 0
+      }
+    ],
+    "sloka_18605": [
+      {
+        "sanskrit": "",
+        "word": "18605",
+        "meaning": "of those for whom",
+        "transliteration": "ヤエシャアーマ",
+        "order": 0
+      }
+    ],
+    "sloka_18562": [
+      {
+        "sanskrit": "",
+        "word": "18562",
+        "meaning": "A niṣkām karma-yogī one engaged in the ヨーガ of selfless 行為",
+        "transliteration": "ヤウクタアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18669": [
+      {
+        "sanskrit": "",
+        "word": "18669",
+        "meaning": "they begin and end",
+        "transliteration": "アーダイ-アナタアヴァアナタアハ",
+        "order": 0
+      }
+    ],
+    "sloka_18613": [
+      {
+        "sanskrit": "",
+        "word": "18613",
+        "meaning": "like the sun that dispels darkness",
+        "transliteration": "アーダイタヤアヴァアタ",
+        "order": 0
+      }
+    ],
+    "sloka_18561": [
+      {
+        "sanskrit": "",
+        "word": "18561",
+        "meaning": "for purification of the heart self-purification",
+        "transliteration": "アータマア-シャウダダアヤエ",
+        "order": 0
+      }
+    ],
+    "sloka_18608": [
+      {
+        "sanskrit": "",
+        "word": "18608",
+        "meaning": "by self-knowledge by the Lord’s superior potency",
+        "transliteration": "アータマアナアハ ジャニャアーナエナア",
+        "order": 0
+      }
+    ],
+    "sloka_18675": [
+      {
+        "sanskrit": "",
+        "word": "18675",
+        "meaning": "is able by the ヨーガ of selfless 行為",
+        "transliteration": "シャアクナオタイ",
+        "order": 0
+      }
+    ],
+    "sloka_18680": [
+      {
+        "sanskrit": "",
+        "word": "18680",
+        "meaning": "leaving the 身体",
+        "transliteration": "シャアライーラア-ヴァイマオクシャアナアータ",
+        "order": 0
+      }
+    ],
+    "sloka_18730": [
+      {
+        "sanskrit": "",
+        "word": "18730",
+        "meaning": "the joy of his original divine identity",
+        "transliteration": "シャアーナタイマ",
+        "order": 0
+      }
+    ],
+    "sloka_2811": [
+      {
+        "sanskrit": "",
+        "word": "2811",
+        "meaning": "невежеством",
+        "transliteration": "а-джн̃а̄нена",
+        "order": 0
+      }
+    ],
+    "sloka_2690": [
+      {
+        "sanskrit": "",
+        "word": "2690",
+        "meaning": "не действуя бескорыстно",
+        "transliteration": "а-йогатах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2767": [
+      {
+        "sanskrit": "",
+        "word": "2767",
+        "meaning": "действующий ради выгоды",
+        "transliteration": "а-йуктах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2894": [
+      {
+        "sanskrit": "",
+        "word": "2894",
+        "meaning": "бесконечное",
+        "transliteration": "а-кш̣айам",
+        "order": 0
+      }
+    ],
+    "sloka_2877": [
+      {
+        "sanskrit": "",
+        "word": "2877",
+        "meaning": "нежелательное",
+        "transliteration": "а-прийам",
+        "order": 0
+      }
+    ],
+    "sloka_2884": [
+      {
+        "sanskrit": "",
+        "word": "2884",
+        "meaning": "непривязанная душа",
+        "transliteration": "а-сакта-а̄тма",
+        "order": 0
+      }
+    ],
+    "sloka_2879": [
+      {
+        "sanskrit": "",
+        "word": "2879",
+        "meaning": "свободный от заблуждений",
+        "transliteration": "а-сам-м̇ӯд̣хах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2812": [
+      {
+        "sanskrit": "",
+        "word": "2812",
+        "meaning": "покрыто",
+        "transliteration": "а̄вр̣там",
+        "order": 0
+      }
+    ],
+    "sloka_2803": [
+      {
+        "sanskrit": "",
+        "word": "2803",
+        "meaning": "ответственен",
+        "transliteration": "а̄датте",
+        "order": 0
+      }
+    ],
+    "sloka_2903": [
+      {
+        "sanskrit": "",
+        "word": "2903",
+        "meaning": "имеют начало и конец",
+        "transliteration": "а̄ди-анта-вантах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2825": [
+      {
+        "sanskrit": "",
+        "word": "2825",
+        "meaning": "подобно восходящему солнцу",
+        "transliteration": "а̄дитйа-ват",
+        "order": 0
+      }
+    ],
+    "sloka_2734": [
+      {
+        "sanskrit": "",
+        "word": "2734",
+        "meaning": "совершая",
+        "transliteration": "а̄дха̄йа",
+        "order": 0
+      }
+    ],
+    "sloka_2765": [
+      {
+        "sanskrit": "",
+        "word": "2765",
+        "meaning": "обретает",
+        "transliteration": "а̄пноти",
+        "order": 0
+      }
+    ],
+    "sloka_2689": [
+      {
+        "sanskrit": "",
+        "word": "2689",
+        "meaning": "приносит",
+        "transliteration": "а̄птум",
+        "order": 0
+      }
+    ],
+    "sloka_2776": [
+      {
+        "sanskrit": "",
+        "word": "2776",
+        "meaning": "пребывает",
+        "transliteration": "а̄сте",
+        "order": 0
+      }
+    ],
+    "sloka_2663": [
+      {
+        "sanskrit": "",
+        "word": "2663",
+        "meaning": "следующий",
+        "transliteration": "а̄стхитах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2758": [
+      {
+        "sanskrit": "",
+        "word": "2758",
+        "meaning": "сознания",
+        "transliteration": "а̄тма",
+        "order": 0
+      }
+    ],
+    "sloka_2952": [
+      {
+        "sanskrit": "",
+        "word": "2952",
+        "meaning": "свою духовную природу",
+        "transliteration": "а̄тмана̄м",
+        "order": 0
+      }
+    ],
+    "sloka_2823": [
+      {
+        "sanskrit": "",
+        "word": "2823",
+        "meaning": "живого существа",
+        "transliteration": "а̄тманах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2886": [
+      {
+        "sanskrit": "",
+        "word": "2886",
+        "meaning": "в осознании себя душой",
+        "transliteration": "а̄тмани",
+        "order": 0
+      }
+    ],
+    "sloka_2948": [
+      {
+        "sanskrit": "",
+        "word": "2948",
+        "meaning": "в любом случае",
+        "transliteration": "абхитах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2820": [
+      {
+        "sanskrit": "",
+        "word": "2820",
+        "meaning": "невежество",
+        "transliteration": "аджн̃а̄нам",
+        "order": 0
+      }
+    ],
+    "sloka_2695": [
+      {
+        "sanskrit": "",
+        "word": "2695",
+        "meaning": "достигает",
+        "transliteration": "адхи-гаччхати",
+        "order": 0
+      }
+    ],
+    "sloka_2934": [
+      {
+        "sanskrit": "",
+        "word": "2934",
+        "meaning": "обретает",
+        "transliteration": "адхигаччхати",
+        "order": 0
+      }
+    ],
+    "sloka_2746": [
+      {
+        "sanskrit": "",
+        "word": "2746",
+        "meaning": "водой",
+        "transliteration": "амбхаса̄",
+        "order": 0
+      }
+    ],
+    "sloka_2959": [
+      {
+        "sanskrit": "",
+        "word": "2959",
+        "meaning": "между",
+        "transliteration": "антаре",
+        "order": 0
+      }
+    ],
+    "sloka_2926": [
+      {
+        "sanskrit": "",
+        "word": "2926",
+        "meaning": "черпает блаженство в себе",
+        "transliteration": "антах̣-а̄ра̄мах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2928": [
+      {
+        "sanskrit": "",
+        "word": "2928",
+        "meaning": "просветлен изнутри",
+        "transliteration": "антах̣-джйотих̣",
+        "order": 0
+      }
+    ],
+    "sloka_2925": [
+      {
+        "sanskrit": "",
+        "word": "2925",
+        "meaning": "внутренне счастлив",
+        "transliteration": "антах̣-сукхах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2752": [
+      {
+        "sanskrit": "",
+        "word": "2752",
+        "meaning": "также",
+        "transliteration": "апи",
+        "order": 0
+      }
+    ],
+    "sloka_2835": [
+      {
+        "sanskrit": "",
+        "word": "2835",
+        "meaning": "освобождения от рождений и смертей",
+        "transliteration": "апунах̣-а̄вр̣ттим",
+        "order": 0
+      }
+    ],
+    "sloka_2613": [
+      {
+        "sanskrit": "",
+        "word": "2613",
+        "meaning": "Арджуна",
+        "transliteration": "арджунах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2718": [
+      {
+        "sanskrit": "",
+        "word": "2718",
+        "meaning": "потребляет пищу",
+        "transliteration": "аш́нан",
+        "order": 0
+      }
+    ],
+    "sloka_2895": [
+      {
+        "sanskrit": "",
+        "word": "2895",
+        "meaning": "вкушает",
+        "transliteration": "аш́нуте",
+        "order": 0
+      }
+    ],
+    "sloka_2657": [
+      {
+        "sanskrit": "",
+        "word": "2657",
+        "meaning": "глупцы",
+        "transliteration": "ба̄ла̄х̣",
+        "order": 0
+      }
+    ],
+    "sloka_2883": [
+      {
+        "sanskrit": "",
+        "word": "2883",
+        "meaning": "наслаждение внешним миром",
+        "transliteration": "ба̄хйа-спарш́еш̣у",
+        "order": 0
+      }
+    ],
+    "sloka_2955": [
+      {
+        "sanskrit": "",
+        "word": "2955",
+        "meaning": "внешние",
+        "transliteration": "ба̄хйа̄н",
+        "order": 0
+      }
+    ],
+    "sloka_2652": [
+      {
+        "sanskrit": "",
+        "word": "2652",
+        "meaning": "из материального рабства",
+        "transliteration": "бандха̄т",
+        "order": 0
+      }
+    ],
+    "sloka_2842": [
+      {
+        "sanskrit": "",
+        "word": "2842",
+        "meaning": "в бра̄хман̣е",
+        "transliteration": "бра̄хман̣е",
+        "order": 0
+      }
+    ],
+    "sloka_2890": [
+      {
+        "sanskrit": "",
+        "word": "2890",
+        "meaning": "с надмирной Истиной",
+        "transliteration": "брахма",
+        "order": 0
+      }
+    ],
+    "sloka_2933": [
+      {
+        "sanskrit": "",
+        "word": "2933",
+        "meaning": "осознание себя душой",
+        "transliteration": "брахма-бхӯтах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2880": [
+      {
+        "sanskrit": "",
+        "word": "2880",
+        "meaning": "познавший надмирную истину",
+        "transliteration": "брахма-вит",
+        "order": 0
+      }
+    ],
+    "sloka_2949": [
+      {
+        "sanskrit": "",
+        "word": "2949",
+        "meaning": "освобождение",
+        "transliteration": "брахма-нирва̄н̣ам",
+        "order": 0
+      }
+    ],
+    "sloka_2881": [
+      {
+        "sanskrit": "",
+        "word": "2881",
+        "meaning": "в Брахмане",
+        "transliteration": "брахман̣и",
+        "order": 0
+      }
+    ],
+    "sloka_2628": [
+      {
+        "sanskrit": "",
+        "word": "2628",
+        "meaning": "скажи",
+        "transliteration": "брӯхи",
+        "order": 0
+      }
+    ],
+    "sloka_2969": [
+      {
+        "sanskrit": "",
+        "word": "2969",
+        "meaning": "разум",
+        "transliteration": "буддхих̣",
+        "order": 0
+      }
+    ],
+    "sloka_2749": [
+      {
+        "sanskrit": "",
+        "word": "2749",
+        "meaning": "разумом",
+        "transliteration": "буддхйа̄",
+        "order": 0
+      }
+    ],
+    "sloka_2908": [
+      {
+        "sanskrit": "",
+        "word": "2908",
+        "meaning": "истинно мудрый",
+        "transliteration": "будхах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2974": [
+      {
+        "sanskrit": "",
+        "word": "2974",
+        "meaning": "страха",
+        "transliteration": "бхайа",
+        "order": 0
+      }
+    ],
+    "sloka_2899": [
+      {
+        "sanskrit": "",
+        "word": "2899",
+        "meaning": "наслаждения",
+        "transliteration": "бхога̄х̣",
+        "order": 0
+      }
+    ],
+    "sloka_2981": [
+      {
+        "sanskrit": "",
+        "word": "2981",
+        "meaning": "наслаждающийся",
+        "transliteration": "бхокта̄рам",
+        "order": 0
+      }
+    ],
+    "sloka_2960": [
+      {
+        "sanskrit": "",
+        "word": "2960",
+        "meaning": "бровями",
+        "transliteration": "бхрувох̣",
+        "order": 0
+      }
+    ],
+    "sloka_2701": [
+      {
+        "sanskrit": "",
+        "word": "2701",
+        "meaning": "единый душой с ними",
+        "transliteration": "бхӯта-а̄тма",
+        "order": 0
+      }
+    ],
+    "sloka_2988": [
+      {
+        "sanskrit": "",
+        "word": "2988",
+        "meaning": "живых существ",
+        "transliteration": "бхӯта̄на̄м",
+        "order": 0
+      }
+    ],
+    "sloka_2730": [
+      {
+        "sanskrit": "",
+        "word": "2730",
+        "meaning": "взаимодействуют",
+        "transliteration": "вартанте",
+        "order": 0
+      }
+    ],
+    "sloka_2950": [
+      {
+        "sanskrit": "",
+        "word": "2950",
+        "meaning": "происходит",
+        "transliteration": "вартате",
+        "order": 0
+      }
+    ],
+    "sloka_2778": [
+      {
+        "sanskrit": "",
+        "word": "2778",
+        "meaning": "контролирующая чувства",
+        "transliteration": "ваш́ӣ",
+        "order": 0
+      }
+    ],
+    "sloka_2918": [
+      {
+        "sanskrit": "",
+        "word": "2918",
+        "meaning": "побуждения",
+        "transliteration": "вегам",
+        "order": 0
+      }
+    ],
+    "sloka_2810": [
+      {
+        "sanskrit": "",
+        "word": "2810",
+        "meaning": "всемогущий Господь",
+        "transliteration": "ви-бхух̣",
+        "order": 0
+      }
+    ],
+    "sloka_2641": [
+      {
+        "sanskrit": "",
+        "word": "2641",
+        "meaning": "имеет неоспоримое превосходство",
+        "transliteration": "ви-ш́иш̣йате",
+        "order": 0
+      }
+    ],
+    "sloka_2972": [
+      {
+        "sanskrit": "",
+        "word": "2972",
+        "meaning": "свободный от",
+        "transliteration": "вигата",
+        "order": 0
+      }
+    ],
+    "sloka_2698": [
+      {
+        "sanskrit": "",
+        "word": "2698",
+        "meaning": "обуздавший ум",
+        "transliteration": "виджита-а̄тма̄",
+        "order": 0
+      }
+    ],
+    "sloka_2951": [
+      {
+        "sanskrit": "",
+        "word": "2951",
+        "meaning": "осознавшие",
+        "transliteration": "видита",
+        "order": 0
+      }
+    ],
+    "sloka_2839": [
+      {
+        "sanskrit": "",
+        "word": "2839",
+        "meaning": "знанием",
+        "transliteration": "видйа̄",
+        "order": 0
+      }
+    ],
+    "sloka_2945": [
+      {
+        "sanskrit": "",
+        "word": "2945",
+        "meaning": "свободные",
+        "transliteration": "вимукта̄на̄м",
+        "order": 0
+      }
+    ],
+    "sloka_2840": [
+      {
+        "sanskrit": "",
+        "word": "2840",
+        "meaning": "смирением",
+        "transliteration": "винайа",
+        "order": 0
+      }
+    ],
+    "sloka_2666": [
+      {
+        "sanskrit": "",
+        "word": "2666",
+        "meaning": "достигает",
+        "transliteration": "виндате",
+        "order": 0
+      }
+    ],
+    "sloka_2885": [
+      {
+        "sanskrit": "",
+        "word": "2885",
+        "meaning": "достигает",
+        "transliteration": "виндати",
+        "order": 0
+      }
+    ],
+    "sloka_2723": [
+      {
+        "sanskrit": "",
+        "word": "2723",
+        "meaning": "опорожняет кишечник",
+        "transliteration": "виср̣джан",
+        "order": 0
+      }
+    ],
+    "sloka_2697": [
+      {
+        "sanskrit": "",
+        "word": "2697",
+        "meaning": "чистый сердцем",
+        "transliteration": "виш́уддха-а̄тма̄",
+        "order": 0
+      }
+    ],
+    "sloka_2843": [
+      {
+        "sanskrit": "",
+        "word": "2843",
+        "meaning": "в корове",
+        "transliteration": "гави",
+        "order": 0
+      }
+    ],
+    "sloka_2675": [
+      {
+        "sanskrit": "",
+        "word": "2675",
+        "meaning": "достигается",
+        "transliteration": "гамйате",
+        "order": 0
+      }
+    ],
+    "sloka_2719": [
+      {
+        "sanskrit": "",
+        "word": "2719",
+        "meaning": "двигается",
+        "transliteration": "гаччхан",
+        "order": 0
+      }
+    ],
+    "sloka_2834": [
+      {
+        "sanskrit": "",
+        "word": "2834",
+        "meaning": "достигают",
+        "transliteration": "гаччханти",
+        "order": 0
+      }
+    ],
+    "sloka_2724": [
+      {
+        "sanskrit": "",
+        "word": "2724",
+        "meaning": "берет",
+        "transliteration": "гр̣хн̣ан",
+        "order": 0
+      }
+    ],
+    "sloka_2780": [
+      {
+        "sanskrit": "",
+        "word": "2780",
+        "meaning": "вратами",
+        "transliteration": "два̄ре",
+        "order": 0
+      }
+    ],
+    "sloka_2782": [
+      {
+        "sanskrit": "",
+        "word": "2782",
+        "meaning": "воплощенная душа",
+        "transliteration": "дехӣ",
+        "order": 0
+      }
+    ],
+    "sloka_2816": [
+      {
+        "sanskrit": "",
+        "word": "2816",
+        "meaning": "живых существ",
+        "transliteration": "джантавах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2717": [
+      {
+        "sanskrit": "",
+        "word": "2717",
+        "meaning": "обоняет",
+        "transliteration": "джигхран",
+        "order": 0
+      }
+    ],
+    "sloka_2699": [
+      {
+        "sanskrit": "",
+        "word": "2699",
+        "meaning": "подчинивший чувства",
+        "transliteration": "джита-индрийах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2855": [
+      {
+        "sanskrit": "",
+        "word": "2855",
+        "meaning": "побежден",
+        "transliteration": "джитах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2836": [
+      {
+        "sanskrit": "",
+        "word": "2836",
+        "meaning": "благодаря духовному знанию",
+        "transliteration": "джн̃а̄на",
+        "order": 0
+      }
+    ],
+    "sloka_2826": [
+      {
+        "sanskrit": "",
+        "word": "2826",
+        "meaning": "свет истины",
+        "transliteration": "джн̃а̄нам",
+        "order": 0
+      }
+    ],
+    "sloka_2817": [
+      {
+        "sanskrit": "",
+        "word": "2817",
+        "meaning": "духовным знанием",
+        "transliteration": "джн̃а̄нена",
+        "order": 0
+      }
+    ],
+    "sloka_2989": [
+      {
+        "sanskrit": "",
+        "word": "2989",
+        "meaning": "зная",
+        "transliteration": "джн̃а̄тва̄",
+        "order": 0
+      }
+    ],
+    "sloka_2642": [
+      {
+        "sanskrit": "",
+        "word": "2642",
+        "meaning": "следует знать что",
+        "transliteration": "джн̃ейах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2900": [
+      {
+        "sanskrit": "",
+        "word": "2900",
+        "meaning": "источник страданий",
+        "transliteration": "дух̣кха-йонайах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2688": [
+      {
+        "sanskrit": "",
+        "word": "2688",
+        "meaning": "скорбь",
+        "transliteration": "дух̣кхам",
+        "order": 0
+      }
+    ],
+    "sloka_2732": [
+      {
+        "sanskrit": "",
+        "word": "2732",
+        "meaning": "осознает",
+        "transliteration": "дха̄райан",
+        "order": 0
+      }
+    ],
+    "sloka_2745": [
+      {
+        "sanskrit": "",
+        "word": "2745",
+        "meaning": "как",
+        "transliteration": "ива",
+        "order": 0
+      }
+    ],
+    "sloka_2967": [
+      {
+        "sanskrit": "",
+        "word": "2967",
+        "meaning": "свои чувства",
+        "transliteration": "индрийа",
+        "order": 0
+      }
+    ],
+    "sloka_2729": [
+      {
+        "sanskrit": "",
+        "word": "2729",
+        "meaning": "со своими объектами",
+        "transliteration": "индрийа-артхеш̣у",
+        "order": 0
+      }
+    ],
+    "sloka_2728": [
+      {
+        "sanskrit": "",
+        "word": "2728",
+        "meaning": "чувства",
+        "transliteration": "индрийа̄н̣и",
+        "order": 0
+      }
+    ],
+    "sloka_2751": [
+      {
+        "sanskrit": "",
+        "word": "2751",
+        "meaning": "чувствами",
+        "transliteration": "индрийаих̣",
+        "order": 0
+      }
+    ],
+    "sloka_2731": [
+      {
+        "sanskrit": "",
+        "word": "2731",
+        "meaning": "так",
+        "transliteration": "ити",
+        "order": 0
+      }
+    ],
+    "sloka_2852": [
+      {
+        "sanskrit": "",
+        "word": "2852",
+        "meaning": "в этой жизни",
+        "transliteration": "иха",
+        "order": 0
+      }
+    ],
+    "sloka_2910": [
+      {
+        "sanskrit": "",
+        "word": "2910",
+        "meaning": "еще при жизни",
+        "transliteration": "иха эва",
+        "order": 0
+      }
+    ],
+    "sloka_2973": [
+      {
+        "sanskrit": "",
+        "word": "2973",
+        "meaning": "желаний",
+        "transliteration": "иччха̄",
+        "order": 0
+      }
+    ],
+    "sloka_2982": [
+      {
+        "sanskrit": "",
+        "word": "2982",
+        "meaning": "всеми жертвоприношениями",
+        "transliteration": "йаджн̃а",
+        "order": 0
+      }
+    ],
+    "sloka_2887": [
+      {
+        "sanskrit": "",
+        "word": "2887",
+        "meaning": "тот кто",
+        "transliteration": "йат",
+        "order": 0
+      }
+    ],
+    "sloka_2966": [
+      {
+        "sanskrit": "",
+        "word": "2966",
+        "meaning": "контролирующий",
+        "transliteration": "йата",
+        "order": 0
+      }
+    ],
+    "sloka_2940": [
+      {
+        "sanskrit": "",
+        "word": "2940",
+        "meaning": "обуздавшие себя",
+        "transliteration": "йата-а̄тма̄нах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2947": [
+      {
+        "sanskrit": "",
+        "word": "2947",
+        "meaning": "обуздавшие ум",
+        "transliteration": "йата-четаса̄м",
+        "order": 0
+      }
+    ],
+    "sloka_2946": [
+      {
+        "sanskrit": "",
+        "word": "2946",
+        "meaning": "отреченные личности",
+        "transliteration": "йатӣна̄м",
+        "order": 0
+      }
+    ],
+    "sloka_2976": [
+      {
+        "sanskrit": "",
+        "word": "2976",
+        "meaning": "тот кто",
+        "transliteration": "йах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2896": [
+      {
+        "sanskrit": "",
+        "word": "2896",
+        "meaning": "которые",
+        "transliteration": "йе",
+        "order": 0
+      }
+    ],
+    "sloka_2857": [
+      {
+        "sanskrit": "",
+        "word": "2857",
+        "meaning": "для тех кто",
+        "transliteration": "йеш̣а̄м",
+        "order": 0
+      }
+    ],
+    "sloka_2891": [
+      {
+        "sanskrit": "",
+        "word": "2891",
+        "meaning": "связанный",
+        "transliteration": "йога",
+        "order": 0
+      }
+    ],
+    "sloka_2696": [
+      {
+        "sanskrit": "",
+        "word": "2696",
+        "meaning": "занятый в йоге",
+        "transliteration": "йога-йуктах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2673": [
+      {
+        "sanskrit": "",
+        "word": "2673",
+        "meaning": "благодаря карма-йоге пути бескорыстных деяний",
+        "transliteration": "йогаих̣",
+        "order": 0
+      }
+    ],
+    "sloka_2679": [
+      {
+        "sanskrit": "",
+        "word": "2679",
+        "meaning": "карма-йогу",
+        "transliteration": "йогам",
+        "order": 0
+      }
+    ],
+    "sloka_2655": [
+      {
+        "sanskrit": "",
+        "word": "2655",
+        "meaning": "путь бескорыстных деяний",
+        "transliteration": "йогау",
+        "order": 0
+      }
+    ],
+    "sloka_2753": [
+      {
+        "sanskrit": "",
+        "word": "2753",
+        "meaning": "йог",
+        "transliteration": "йогинах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2892": [
+      {
+        "sanskrit": "",
+        "word": "2892",
+        "meaning": "погрузившийся в созерцание",
+        "transliteration": "йукта-а̄тма̄",
+        "order": 0
+      }
+    ],
+    "sloka_2920": [
+      {
+        "sanskrit": "",
+        "word": "2920",
+        "meaning": "практикуя йогу",
+        "transliteration": "йуктах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2747": [
+      {
+        "sanskrit": "",
+        "word": "2747",
+        "meaning": "телом",
+        "transliteration": "ка̄йена",
+        "order": 0
+      }
+    ],
+    "sloka_2943": [
+      {
+        "sanskrit": "",
+        "word": "2943",
+        "meaning": "от мирских желаний",
+        "transliteration": "ка̄ма",
+        "order": 0
+      }
+    ],
+    "sloka_2768": [
+      {
+        "sanskrit": "",
+        "word": "2768",
+        "meaning": "стремящийся исполнить мирские желания",
+        "transliteration": "ка̄ма-ка̄рен̣а",
+        "order": 0
+      }
+    ],
+    "sloka_2787": [
+      {
+        "sanskrit": "",
+        "word": "2787",
+        "meaning": "побуждает к деятельности",
+        "transliteration": "ка̄райан",
+        "order": 0
+      }
+    ],
+    "sloka_2838": [
+      {
+        "sanskrit": "",
+        "word": "2838",
+        "meaning": "всю материальную скверну",
+        "transliteration": "калмаш̣а̄х̣",
+        "order": 0
+      }
+    ],
+    "sloka_2789": [
+      {
+        "sanskrit": "",
+        "word": "2789",
+        "meaning": "желание действовать",
+        "transliteration": "кар-тр̣-твам",
+        "order": 0
+      }
+    ],
+    "sloka_2796": [
+      {
+        "sanskrit": "",
+        "word": "2796",
+        "meaning": "деятельности",
+        "transliteration": "карма",
+        "order": 0
+      }
+    ],
+    "sloka_2640": [
+      {
+        "sanskrit": "",
+        "word": "2640",
+        "meaning": "путь бескорыстных деяний",
+        "transliteration": "карма-йогах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2639": [
+      {
+        "sanskrit": "",
+        "word": "2639",
+        "meaning": "нежели отречение от деятельности",
+        "transliteration": "карма-саннйа̄са̄т",
+        "order": 0
+      }
+    ],
+    "sloka_2791": [
+      {
+        "sanskrit": "",
+        "word": "2791",
+        "meaning": "поступки",
+        "transliteration": "карма̄н̣и",
+        "order": 0
+      }
+    ],
+    "sloka_2616": [
+      {
+        "sanskrit": "",
+        "word": "2616",
+        "meaning": "от деятельности",
+        "transliteration": "карман̣а̄м",
+        "order": 0
+      }
+    ],
+    "sloka_2709": [
+      {
+        "sanskrit": "",
+        "word": "2709",
+        "meaning": "делаю",
+        "transliteration": "кароми",
+        "order": 0
+      }
+    ],
+    "sloka_2738": [
+      {
+        "sanskrit": "",
+        "word": "2738",
+        "meaning": "действует",
+        "transliteration": "кароти",
+        "order": 0
+      }
+    ],
+    "sloka_2804": [
+      {
+        "sanskrit": "",
+        "word": "2804",
+        "meaning": "кого-либо",
+        "transliteration": "касйачит",
+        "order": 0
+      }
+    ],
+    "sloka_2904": [
+      {
+        "sanskrit": "",
+        "word": "2904",
+        "meaning": "Арджуна сын Кунтӣ",
+        "transliteration": "каунтейа",
+        "order": 0
+      }
+    ],
+    "sloka_2750": [
+      {
+        "sanskrit": "",
+        "word": "2750",
+        "meaning": "исключительно",
+        "transliteration": "кевалаих̣",
+        "order": 0
+      }
+    ],
+    "sloka_2708": [
+      {
+        "sanskrit": "",
+        "word": "2708",
+        "meaning": "что-либо",
+        "transliteration": "ким-чит",
+        "order": 0
+      }
+    ],
+    "sloka_2963": [
+      {
+        "sanskrit": "",
+        "word": "2963",
+        "meaning": "приводя",
+        "transliteration": "кр̣тва̄",
+        "order": 0
+      }
+    ],
+    "sloka_2954": [
+      {
+        "sanskrit": "",
+        "word": "2954",
+        "meaning": "изгоняет прочь",
+        "transliteration": "кр̣тва̄ бахих̣",
+        "order": 0
+      }
+    ],
+    "sloka_2617": [
+      {
+        "sanskrit": "",
+        "word": "2617",
+        "meaning": "о Кр̣ш̣н̣а",
+        "transliteration": "кр̣ш̣н̣а",
+        "order": 0
+      }
+    ],
+    "sloka_2944": [
+      {
+        "sanskrit": "",
+        "word": "2944",
+        "meaning": "гнева",
+        "transliteration": "кродха",
+        "order": 0
+      }
+    ],
+    "sloka_2975": [
+      {
+        "sanskrit": "",
+        "word": "2975",
+        "meaning": "гнева",
+        "transliteration": "кродхах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2785": [
+      {
+        "sanskrit": "",
+        "word": "2785",
+        "meaning": "действует",
+        "transliteration": "курван",
+        "order": 0
+      }
+    ],
+    "sloka_2755": [
+      {
+        "sanskrit": "",
+        "word": "2755",
+        "meaning": "совершая",
+        "transliteration": "курванти",
+        "order": 0
+      }
+    ],
+    "sloka_2938": [
+      {
+        "sanskrit": "",
+        "word": "2938",
+        "meaning": "безгрешные",
+        "transliteration": "кш̣ӣн̣а-калмаш̣а̄х̣",
+        "order": 0
+      }
+    ],
+    "sloka_2935": [
+      {
+        "sanskrit": "",
+        "word": "2935",
+        "meaning": "достигают",
+        "transliteration": "лабханте",
+        "order": 0
+      }
+    ],
+    "sloka_2740": [
+      {
+        "sanskrit": "",
+        "word": "2740",
+        "meaning": "затрагивается",
+        "transliteration": "липйате",
+        "order": 0
+      }
+    ],
+    "sloka_2792": [
+      {
+        "sanskrit": "",
+        "word": "2792",
+        "meaning": "людей",
+        "transliteration": "локасйа",
+        "order": 0
+      }
+    ],
+    "sloka_2990": [
+      {
+        "sanskrit": "",
+        "word": "2990",
+        "meaning": "Меня",
+        "transliteration": "ма̄м",
+        "order": 0
+      }
+    ],
+    "sloka_2774": [
+      {
+        "sanskrit": "",
+        "word": "2774",
+        "meaning": "умом",
+        "transliteration": "манаса̄",
+        "order": 0
+      }
+    ],
+    "sloka_2968": [
+      {
+        "sanskrit": "",
+        "word": "2968",
+        "meaning": "ум",
+        "transliteration": "манах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2712": [
+      {
+        "sanskrit": "",
+        "word": "2712",
+        "meaning": "ощущает",
+        "transliteration": "манйета",
+        "order": 0
+      }
+    ],
+    "sloka_2687": [
+      {
+        "sanskrit": "",
+        "word": "2687",
+        "meaning": "сильнорукий Арджуна",
+        "transliteration": "маха̄-ба̄хо",
+        "order": 0
+      }
+    ],
+    "sloka_2985": [
+      {
+        "sanskrit": "",
+        "word": "2985",
+        "meaning": "верховный Владыка",
+        "transliteration": "маха̄-ӣш́варам",
+        "order": 0
+      }
+    ],
+    "sloka_2627": [
+      {
+        "sanskrit": "",
+        "word": "2627",
+        "meaning": "мне",
+        "transliteration": "ме",
+        "order": 0
+      }
+    ],
+    "sloka_2971": [
+      {
+        "sanskrit": "",
+        "word": "2971",
+        "meaning": "стремящийся к достижению освобождения",
+        "transliteration": "мокш̣а-пара̄йан̣ах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2978": [
+      {
+        "sanskrit": "",
+        "word": "2978",
+        "meaning": "свободен",
+        "transliteration": "мукта",
+        "order": 0
+      }
+    ],
+    "sloka_2970": [
+      {
+        "sanskrit": "",
+        "word": "2970",
+        "meaning": "мудрец",
+        "transliteration": "муних̣",
+        "order": 0
+      }
+    ],
+    "sloka_2815": [
+      {
+        "sanskrit": "",
+        "word": "2815",
+        "meaning": "введенных в заблуждение",
+        "transliteration": "мухйанти",
+        "order": 0
+      }
+    ],
+    "sloka_2905": [
+      {
+        "sanskrit": "",
+        "word": "2905",
+        "meaning": "не",
+        "transliteration": "на",
+        "order": 0
+      }
+    ],
+    "sloka_2646": [
+      {
+        "sanskrit": "",
+        "word": "2646",
+        "meaning": "не испытывает неприязни",
+        "transliteration": "на двеш̣т̣и",
+        "order": 0
+      }
+    ],
+    "sloka_2647": [
+      {
+        "sanskrit": "",
+        "word": "2647",
+        "meaning": "не желает",
+        "transliteration": "на ка̄н̇кш̣ати",
+        "order": 0
+      }
+    ],
+    "sloka_2694": [
+      {
+        "sanskrit": "",
+        "word": "2694",
+        "meaning": "незамедлительно",
+        "transliteration": "на чирен̣а",
+        "order": 0
+      }
+    ],
+    "sloka_2964": [
+      {
+        "sanskrit": "",
+        "word": "2964",
+        "meaning": "в ноздрях",
+        "transliteration": "на̄са̄-абхйантара",
+        "order": 0
+      }
+    ],
+    "sloka_2822": [
+      {
+        "sanskrit": "",
+        "word": "2822",
+        "meaning": "разрушено",
+        "transliteration": "на̄ш́итам",
+        "order": 0
+      }
+    ],
+    "sloka_2779": [
+      {
+        "sanskrit": "",
+        "word": "2779",
+        "meaning": "с девятью",
+        "transliteration": "нава",
+        "order": 0
+      }
+    ],
+    "sloka_2766": [
+      {
+        "sanskrit": "",
+        "word": "2766",
+        "meaning": "непрерывное",
+        "transliteration": "наиш̣т̣хикӣм",
+        "order": 0
+      }
+    ],
+    "sloka_2923": [
+      {
+        "sanskrit": "",
+        "word": "2923",
+        "meaning": "этот человек",
+        "transliteration": "нарах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2771": [
+      {
+        "sanskrit": "",
+        "word": "2771",
+        "meaning": "связывается",
+        "transliteration": "нибадхйате",
+        "order": 0
+      }
+    ],
+    "sloka_2726": [
+      {
+        "sanskrit": "",
+        "word": "2726",
+        "meaning": "закрывает глаза",
+        "transliteration": "нимиш̣ан",
+        "order": 0
+      }
+    ],
+    "sloka_2861": [
+      {
+        "sanskrit": "",
+        "word": "2861",
+        "meaning": "не оскверняются",
+        "transliteration": "нир-дош̣ам",
+        "order": 0
+      }
+    ],
+    "sloka_2837": [
+      {
+        "sanskrit": "",
+        "word": "2837",
+        "meaning": "устраняющему",
+        "transliteration": "нирдхӯта",
+        "order": 0
+      }
+    ],
+    "sloka_2644": [
+      {
+        "sanskrit": "",
+        "word": "2644",
+        "meaning": "всегда воистину отрешен",
+        "transliteration": "нитйа-саннйа̄сӣ",
+        "order": 0
+      }
+    ],
+    "sloka_2648": [
+      {
+        "sanskrit": "",
+        "word": "2648",
+        "meaning": "вне двойственности",
+        "transliteration": "них̣-двандвах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2635": [
+      {
+        "sanskrit": "",
+        "word": "2635",
+        "meaning": "даруют великое благо",
+        "transliteration": "них̣ш́рейаса-карау",
+        "order": 0
+      }
+    ],
+    "sloka_2805": [
+      {
+        "sanskrit": "",
+        "word": "2805",
+        "meaning": "греховный поступок",
+        "transliteration": "па̄пам",
+        "order": 0
+      }
+    ],
+    "sloka_2743": [
+      {
+        "sanskrit": "",
+        "word": "2743",
+        "meaning": "грехом",
+        "transliteration": "па̄пена",
+        "order": 0
+      }
+    ],
+    "sloka_2744": [
+      {
+        "sanskrit": "",
+        "word": "2744",
+        "meaning": "цветок лотоса",
+        "transliteration": "падма-патрам",
+        "order": 0
+      }
+    ],
+    "sloka_2850": [
+      {
+        "sanskrit": "",
+        "word": "2850",
+        "meaning": "мудрец",
+        "transliteration": "пан̣д̣ита̄х̣",
+        "order": 0
+      }
+    ],
+    "sloka_2829": [
+      {
+        "sanskrit": "",
+        "word": "2829",
+        "meaning": "Высшую Реальность",
+        "transliteration": "парам",
+        "order": 0
+      }
+    ],
+    "sloka_2714": [
+      {
+        "sanskrit": "",
+        "word": "2714",
+        "meaning": "видит",
+        "transliteration": "паш́йан",
+        "order": 0
+      }
+    ],
+    "sloka_2684": [
+      {
+        "sanskrit": "",
+        "word": "2684",
+        "meaning": "видит истину",
+        "transliteration": "паш́йати",
+        "order": 0
+      }
+    ],
+    "sloka_2656": [
+      {
+        "sanskrit": "",
+        "word": "2656",
+        "meaning": "различны",
+        "transliteration": "пр̣тхак",
+        "order": 0
+      }
+    ],
+    "sloka_2670": [
+      {
+        "sanskrit": "",
+        "word": "2670",
+        "meaning": "достигается",
+        "transliteration": "пра-а̄пйате",
+        "order": 0
+      }
+    ],
+    "sloka_2658": [
+      {
+        "sanskrit": "",
+        "word": "2658",
+        "meaning": "говорят",
+        "transliteration": "пра-ваданти",
+        "order": 0
+      }
+    ],
+    "sloka_2801": [
+      {
+        "sanskrit": "",
+        "word": "2801",
+        "meaning": "приводит в действие",
+        "transliteration": "пра-вартате",
+        "order": 0
+      }
+    ],
+    "sloka_2827": [
+      {
+        "sanskrit": "",
+        "word": "2827",
+        "meaning": "являет",
+        "transliteration": "пра-ка̄ш́айати",
+        "order": 0
+      }
+    ],
+    "sloka_2653": [
+      {
+        "sanskrit": "",
+        "word": "2653",
+        "meaning": "освобождается",
+        "transliteration": "пра-мучйате",
+        "order": 0
+      }
+    ],
+    "sloka_2870": [
+      {
+        "sanskrit": "",
+        "word": "2870",
+        "meaning": "ликует",
+        "transliteration": "пра-хр̣ш̣йет",
+        "order": 0
+      }
+    ],
+    "sloka_2913": [
+      {
+        "sanskrit": "",
+        "word": "2913",
+        "meaning": "прежде",
+        "transliteration": "пра̄к",
+        "order": 0
+      }
+    ],
+    "sloka_2961": [
+      {
+        "sanskrit": "",
+        "word": "2961",
+        "meaning": "вдыхая и выдыхая",
+        "transliteration": "пра̄н̣а-апа̄нау",
+        "order": 0
+      }
+    ],
+    "sloka_2875": [
+      {
+        "sanskrit": "",
+        "word": "2875",
+        "meaning": "обретя",
+        "transliteration": "пра̄пйа",
+        "order": 0
+      }
+    ],
+    "sloka_2794": [
+      {
+        "sanskrit": "",
+        "word": "2794",
+        "meaning": "Господь",
+        "transliteration": "прабхух̣",
+        "order": 0
+      }
+    ],
+    "sloka_2722": [
+      {
+        "sanskrit": "",
+        "word": "2722",
+        "meaning": "говорит",
+        "transliteration": "пралапан",
+        "order": 0
+      }
+    ],
+    "sloka_2871": [
+      {
+        "sanskrit": "",
+        "word": "2871",
+        "meaning": "желаемое",
+        "transliteration": "прийам",
+        "order": 0
+      }
+    ],
+    "sloka_2618": [
+      {
+        "sanskrit": "",
+        "word": "2618",
+        "meaning": "затем снова",
+        "transliteration": "пунах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2781": [
+      {
+        "sanskrit": "",
+        "word": "2781",
+        "meaning": "в городе",
+        "transliteration": "пуре",
+        "order": 0
+      }
+    ],
+    "sloka_2797": [
+      {
+        "sanskrit": "",
+        "word": "2797",
+        "meaning": "плоды",
+        "transliteration": "пхала",
+        "order": 0
+      }
+    ],
+    "sloka_2762": [
+      {
+        "sanskrit": "",
+        "word": "2762",
+        "meaning": "от плодов",
+        "transliteration": "пхалам",
+        "order": 0
+      }
+    ],
+    "sloka_2769": [
+      {
+        "sanskrit": "",
+        "word": "2769",
+        "meaning": "к плодам",
+        "transliteration": "пхале",
+        "order": 0
+      }
+    ],
+    "sloka_2992": [
+      {
+        "sanskrit": "",
+        "word": "2992",
+        "meaning": "достигает",
+        "transliteration": "р̣ччхати",
+        "order": 0
+      }
+    ],
+    "sloka_2937": [
+      {
+        "sanskrit": "",
+        "word": "2937",
+        "meaning": "провидцы истины",
+        "transliteration": "р̣ш̣айах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2907": [
+      {
+        "sanskrit": "",
+        "word": "2907",
+        "meaning": "наслаждается",
+        "transliteration": "рамате",
+        "order": 0
+      }
+    ],
+    "sloka_2858": [
+      {
+        "sanskrit": "",
+        "word": "2858",
+        "meaning": "уравновешен",
+        "transliteration": "са̄мйе",
+        "order": 0
+      }
+    ],
+    "sloka_2654": [
+      {
+        "sanskrit": "",
+        "word": "2654",
+        "meaning": "путь философского познания духа и материи",
+        "transliteration": "са̄н̇кхйа",
+        "order": 0
+      }
+    ],
+    "sloka_2669": [
+      {
+        "sanskrit": "",
+        "word": "2669",
+        "meaning": "благодаря са̄н̇кхйа-йоге пути философского познания духа и материи",
+        "transliteration": "са̄н̇кхйаих̣",
+        "order": 0
+      }
+    ],
+    "sloka_2677": [
+      {
+        "sanskrit": "",
+        "word": "2677",
+        "meaning": "са̄н̇кхйа-йогу",
+        "transliteration": "са̄н̇кхйам",
+        "order": 0
+      }
+    ],
+    "sloka_2977": [
+      {
+        "sanskrit": "",
+        "word": "2977",
+        "meaning": "всегда",
+        "transliteration": "сада̄",
+        "order": 0
+      }
+    ],
+    "sloka_2770": [
+      {
+        "sanskrit": "",
+        "word": "2770",
+        "meaning": "привязанностью",
+        "transliteration": "сактах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2775": [
+      {
+        "sanskrit": "",
+        "word": "2775",
+        "meaning": "полностью отрешенный",
+        "transliteration": "сам-нйа̄сйа",
+        "order": 0
+      }
+    ],
+    "sloka_2798": [
+      {
+        "sanskrit": "",
+        "word": "2798",
+        "meaning": "связан",
+        "transliteration": "сам̇йогам",
+        "order": 0
+      }
+    ],
+    "sloka_2898": [
+      {
+        "sanskrit": "",
+        "word": "2898",
+        "meaning": "рождены из взаимодействия чувств с их объектами",
+        "transliteration": "сам̇спарш́а-джа̄х̣",
+        "order": 0
+      }
+    ],
+    "sloka_2851": [
+      {
+        "sanskrit": "",
+        "word": "2851",
+        "meaning": "видит единую духовную природу",
+        "transliteration": "сама-дарш́инах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2863": [
+      {
+        "sanskrit": "",
+        "word": "2863",
+        "meaning": "невозмутим",
+        "transliteration": "самам",
+        "order": 0
+      }
+    ],
+    "sloka_2962": [
+      {
+        "sanskrit": "",
+        "word": "2962",
+        "meaning": "в равновесие",
+        "transliteration": "самау",
+        "order": 0
+      }
+    ],
+    "sloka_2664": [
+      {
+        "sanskrit": "",
+        "word": "2664",
+        "meaning": "совершенным образом",
+        "transliteration": "самйак",
+        "order": 0
+      }
+    ],
+    "sloka_2841": [
+      {
+        "sanskrit": "",
+        "word": "2841",
+        "meaning": "украшенный",
+        "transliteration": "сампанне",
+        "order": 0
+      }
+    ],
+    "sloka_2756": [
+      {
+        "sanskrit": "",
+        "word": "2756",
+        "meaning": "привязанность",
+        "transliteration": "сан̇гам",
+        "order": 0
+      }
+    ],
+    "sloka_2615": [
+      {
+        "sanskrit": "",
+        "word": "2615",
+        "meaning": "отречение",
+        "transliteration": "саннйа̄сам",
+        "order": 0
+      }
+    ],
+    "sloka_2685": [
+      {
+        "sanskrit": "",
+        "word": "2685",
+        "meaning": "отречение",
+        "transliteration": "саннйа̄сах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2987": [
+      {
+        "sanskrit": "",
+        "word": "2987",
+        "meaning": "всех",
+        "transliteration": "сарва",
+        "order": 0
+      }
+    ],
+    "sloka_2941": [
+      {
+        "sanskrit": "",
+        "word": "2941",
+        "meaning": "всех живых существ",
+        "transliteration": "сарва-бхӯта",
+        "order": 0
+      }
+    ],
+    "sloka_2700": [
+      {
+        "sanskrit": "",
+        "word": "2700",
+        "meaning": "дорог всем живым существам",
+        "transliteration": "сарва-бхӯта-а̄тма",
+        "order": 0
+      }
+    ],
+    "sloka_2984": [
+      {
+        "sanskrit": "",
+        "word": "2984",
+        "meaning": "всех миров с их обитателями",
+        "transliteration": "сарва-лока",
+        "order": 0
+      }
+    ],
+    "sloka_2856": [
+      {
+        "sanskrit": "",
+        "word": "2856",
+        "meaning": "мир рождений и смертей",
+        "transliteration": "саргах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2980": [
+      {
+        "sanskrit": "",
+        "word": "2980",
+        "meaning": "он",
+        "transliteration": "сах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2931": [
+      {
+        "sanskrit": "",
+        "word": "2931",
+        "meaning": "пребывает в йоге",
+        "transliteration": "сах̣ йогӣ",
+        "order": 0
+      }
+    ],
+    "sloka_2799": [
+      {
+        "sanskrit": "",
+        "word": "2799",
+        "meaning": "склонность самих душ",
+        "transliteration": "сва-бха̄вах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2848": [
+      {
+        "sanskrit": "",
+        "word": "2848",
+        "meaning": "собакоеде неприкасаемом",
+        "transliteration": "сва-па̄ке",
+        "order": 0
+      }
+    ],
+    "sloka_2720": [
+      {
+        "sanskrit": "",
+        "word": "2720",
+        "meaning": "спит",
+        "transliteration": "свапан",
+        "order": 0
+      }
+    ],
+    "sloka_2912": [
+      {
+        "sanskrit": "",
+        "word": "2912",
+        "meaning": "обуздывать",
+        "transliteration": "сод̣хум",
+        "order": 0
+      }
+    ],
+    "sloka_2953": [
+      {
+        "sanskrit": "",
+        "word": "2953",
+        "meaning": "объекты чувств",
+        "transliteration": "спарш́а̄н",
+        "order": 0
+      }
+    ],
+    "sloka_2716": [
+      {
+        "sanskrit": "",
+        "word": "2716",
+        "meaning": "осязает",
+        "transliteration": "спр̣ш́ан",
+        "order": 0
+      }
+    ],
+    "sloka_2793": [
+      {
+        "sanskrit": "",
+        "word": "2793",
+        "meaning": "создает",
+        "transliteration": "ср̣джати",
+        "order": 0
+      }
+    ],
+    "sloka_2671": [
+      {
+        "sanskrit": "",
+        "word": "2671",
+        "meaning": "состояние",
+        "transliteration": "стха̄нам",
+        "order": 0
+      }
+    ],
+    "sloka_2878": [
+      {
+        "sanskrit": "",
+        "word": "2878",
+        "meaning": "наделенный непоколебимым разумом",
+        "transliteration": "стхира-буддхих̣",
+        "order": 0
+      }
+    ],
+    "sloka_2868": [
+      {
+        "sanskrit": "",
+        "word": "2868",
+        "meaning": "пребывают",
+        "transliteration": "стхита̄х̣",
+        "order": 0
+      }
+    ],
+    "sloka_2859": [
+      {
+        "sanskrit": "",
+        "word": "2859",
+        "meaning": "пребывает",
+        "transliteration": "стхитам",
+        "order": 0
+      }
+    ],
+    "sloka_2882": [
+      {
+        "sanskrit": "",
+        "word": "2882",
+        "meaning": "пребывает",
+        "transliteration": "стхитах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2809": [
+      {
+        "sanskrit": "",
+        "word": "2809",
+        "meaning": "праведный поступок",
+        "transliteration": "сукр̣там",
+        "order": 0
+      }
+    ],
+    "sloka_2893": [
+      {
+        "sanskrit": "",
+        "word": "2893",
+        "meaning": "блаженство",
+        "transliteration": "сукхам",
+        "order": 0
+      }
+    ],
+    "sloka_2922": [
+      {
+        "sanskrit": "",
+        "word": "2922",
+        "meaning": "испытывает духовное блаженство",
+        "transliteration": "сукхӣ",
+        "order": 0
+      }
+    ],
+    "sloka_2629": [
+      {
+        "sanskrit": "",
+        "word": "2629",
+        "meaning": "определенно",
+        "transliteration": "суниш́читам",
+        "order": 0
+      }
+    ],
+    "sloka_2986": [
+      {
+        "sanskrit": "",
+        "word": "2986",
+        "meaning": "друг",
+        "transliteration": "сухр̣дам",
+        "order": 0
+      }
+    ],
+    "sloka_2854": [
+      {
+        "sanskrit": "",
+        "word": "2854",
+        "meaning": "теми",
+        "transliteration": "таих̣",
+        "order": 0
+      }
+    ],
+    "sloka_2637": [
+      {
+        "sanskrit": "",
+        "word": "2637",
+        "meaning": "из них",
+        "transliteration": "тайох̣",
+        "order": 0
+      }
+    ],
+    "sloka_2983": [
+      {
+        "sanskrit": "",
+        "word": "2983",
+        "meaning": "и аскезами",
+        "transliteration": "тапаса̄м",
+        "order": 0
+      }
+    ],
+    "sloka_2865": [
+      {
+        "sanskrit": "",
+        "word": "2865",
+        "meaning": "поэтому",
+        "transliteration": "тасма̄т",
+        "order": 0
+      }
+    ],
+    "sloka_2828": [
+      {
+        "sanskrit": "",
+        "word": "2828",
+        "meaning": "то",
+        "transliteration": "тат",
+        "order": 0
+      }
+    ],
+    "sloka_2831": [
+      {
+        "sanskrit": "",
+        "word": "2831",
+        "meaning": "обратившие к Господу ум",
+        "transliteration": "тат-а̄тма̄нах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2830": [
+      {
+        "sanskrit": "",
+        "word": "2830",
+        "meaning": "устремившие разум к Всевышнему",
+        "transliteration": "тат-буддхайах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2832": [
+      {
+        "sanskrit": "",
+        "word": "2832",
+        "meaning": "твердо убежденные в истинности пути служения Кришне",
+        "transliteration": "тат-ниш̣т̣ха̄х̣",
+        "order": 0
+      }
+    ],
+    "sloka_2833": [
+      {
+        "sanskrit": "",
+        "word": "2833",
+        "meaning": "во всем уповающие на Бога",
+        "transliteration": "тат-пара̄йан̣а̄х̣",
+        "order": 0
+      }
+    ],
+    "sloka_2713": [
+      {
+        "sanskrit": "",
+        "word": "2713",
+        "meaning": "познавший сущность бытия",
+        "transliteration": "таттва-вит",
+        "order": 0
+      }
+    ],
+    "sloka_2927": [
+      {
+        "sanskrit": "",
+        "word": "2927",
+        "meaning": "и",
+        "transliteration": "татха̄",
+        "order": 0
+      }
+    ],
+    "sloka_2902": [
+      {
+        "sanskrit": "",
+        "word": "2902",
+        "meaning": "они",
+        "transliteration": "те",
+        "order": 0
+      }
+    ],
+    "sloka_2814": [
+      {
+        "sanskrit": "",
+        "word": "2814",
+        "meaning": "ибо",
+        "transliteration": "тена",
+        "order": 0
+      }
+    ],
+    "sloka_2824": [
+      {
+        "sanskrit": "",
+        "word": "2824",
+        "meaning": "им",
+        "transliteration": "теш̣а̄м",
+        "order": 0
+      }
+    ],
+    "sloka_2906": [
+      {
+        "sanskrit": "",
+        "word": "2906",
+        "meaning": "ими",
+        "transliteration": "теш̣у",
+        "order": 0
+      }
+    ],
+    "sloka_2763": [
+      {
+        "sanskrit": "",
+        "word": "2763",
+        "meaning": "отрешаясь",
+        "transliteration": "тйактва̄",
+        "order": 0
+      }
+    ],
+    "sloka_2818": [
+      {
+        "sanskrit": "",
+        "word": "2818",
+        "meaning": "но",
+        "transliteration": "ту",
+        "order": 0
+      }
+    ],
+    "sloka_2665": [
+      {
+        "sanskrit": "",
+        "word": "2665",
+        "meaning": "обоих путей",
+        "transliteration": "убхайох̣",
+        "order": 0
+      }
+    ],
+    "sloka_2636": [
+      {
+        "sanskrit": "",
+        "word": "2636",
+        "meaning": "оба",
+        "transliteration": "убхау",
+        "order": 0
+      }
+    ],
+    "sloka_2631": [
+      {
+        "sanskrit": "",
+        "word": "2631",
+        "meaning": "сказал",
+        "transliteration": "ува̄ча",
+        "order": 0
+      }
+    ],
+    "sloka_2874": [
+      {
+        "sanskrit": "",
+        "word": "2874",
+        "meaning": "скорбит",
+        "transliteration": "уд-виджет",
+        "order": 0
+      }
+    ],
+    "sloka_2917": [
+      {
+        "sanskrit": "",
+        "word": "2917",
+        "meaning": "возникающие",
+        "transliteration": "удбхавам",
+        "order": 0
+      }
+    ],
+    "sloka_2725": [
+      {
+        "sanskrit": "",
+        "word": "2725",
+        "meaning": "открывает",
+        "transliteration": "унмиш̣ан",
+        "order": 0
+      }
+    ],
+    "sloka_2844": [
+      {
+        "sanskrit": "",
+        "word": "2844",
+        "meaning": "в слоне",
+        "transliteration": "хастини",
+        "order": 0
+      }
+    ],
+    "sloka_2897": [
+      {
+        "sanskrit": "",
+        "word": "2897",
+        "meaning": "лишь",
+        "transliteration": "хи",
+        "order": 0
+      }
+    ],
+    "sloka_2942": [
+      {
+        "sanskrit": "",
+        "word": "2942",
+        "meaning": "действующие ради блага",
+        "transliteration": "хите-рата̄х̣",
+        "order": 0
+      }
+    ],
+    "sloka_2957": [
+      {
+        "sanskrit": "",
+        "word": "2957",
+        "meaning": "и",
+        "transliteration": "ча",
+        "order": 0
+      }
+    ],
+    "sloka_2965": [
+      {
+        "sanskrit": "",
+        "word": "2965",
+        "meaning": "происходящее",
+        "transliteration": "ча̄рин̣ау",
+        "order": 0
+      }
+    ],
+    "sloka_2956": [
+      {
+        "sanskrit": "",
+        "word": "2956",
+        "meaning": "взгляд",
+        "transliteration": "чакш̣ух̣",
+        "order": 0
+      }
+    ],
+    "sloka_2939": [
+      {
+        "sanskrit": "",
+        "word": "2939",
+        "meaning": "свободные от двойственности",
+        "transliteration": "чхинна-дваидха̄х̣",
+        "order": 0
+      }
+    ],
+    "sloka_2991": [
+      {
+        "sanskrit": "",
+        "word": "2991",
+        "meaning": "подлинное умиротворение",
+        "transliteration": "ш́а̄нтим",
+        "order": 0
+      }
+    ],
+    "sloka_2909": [
+      {
+        "sanskrit": "",
+        "word": "2909",
+        "meaning": "способен",
+        "transliteration": "ш́акноти",
+        "order": 0
+      }
+    ],
+    "sloka_2621": [
+      {
+        "sanskrit": "",
+        "word": "2621",
+        "meaning": "превозносишь",
+        "transliteration": "ш́ам̇саси",
+        "order": 0
+      }
+    ],
+    "sloka_2914": [
+      {
+        "sanskrit": "",
+        "word": "2914",
+        "meaning": "оставления тела",
+        "transliteration": "ш́арӣра-вимокш̣ан̣а̄т",
+        "order": 0
+      }
+    ],
+    "sloka_2721": [
+      {
+        "sanskrit": "",
+        "word": "2721",
+        "meaning": "дышит",
+        "transliteration": "ш́васан",
+        "order": 0
+      }
+    ],
+    "sloka_2715": [
+      {
+        "sanskrit": "",
+        "word": "2715",
+        "meaning": "слышит",
+        "transliteration": "ш́р̣н̣ван",
+        "order": 0
+      }
+    ],
+    "sloka_2623": [
+      {
+        "sanskrit": "",
+        "word": "2623",
+        "meaning": "наиболее благоприятен",
+        "transliteration": "ш́рейах̣",
+        "order": 0
+      }
+    ],
+    "sloka_2630": [
+      {
+        "sanskrit": "",
+        "word": "2630",
+        "meaning": "Всевышний",
+        "transliteration": "ш́рӣ бхагава̄н",
+        "order": 0
+      }
+    ],
+    "sloka_2759": [
+      {
+        "sanskrit": "",
+        "word": "2759",
+        "meaning": "ради очищения",
+        "transliteration": "ш́уддхайе",
+        "order": 0
+      }
+    ],
+    "sloka_2845": [
+      {
+        "sanskrit": "",
+        "word": "2845",
+        "meaning": "в собаке",
+        "transliteration": "ш́уни",
+        "order": 0
+      }
+    ],
+    "sloka_2979": [
+      {
+        "sanskrit": "",
+        "word": "2979",
+        "meaning": "воистину",
+        "transliteration": "эва",
+        "order": 0
+      }
+    ],
+    "sloka_2676": [
+      {
+        "sanskrit": "",
+        "word": "2676",
+        "meaning": "как одно",
+        "transliteration": "экам",
+        "order": 0
+      }
+    ],
+    "sloka_2624": [
+      {
+        "sanskrit": "",
+        "word": "2624",
+        "meaning": "из этих двух путей",
+        "transliteration": "этайох̣",
+        "order": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  Gita
+
+  Created by mikhail.kulichkov on 24/05/2017.
+  Copyright © 2017 Iron Water Studio. All rights reserved.
+*/
+/* NetworkErrorManager localization messages */
+"NetworkErrorManager.NetworkErrorCheckOrWait"="Соединение с сервером не может быть установлено. Пожалуйста, проверьте настройки интернет-соединения или повторите попытку чуть позже.";
+"NetworkErrorManager.NetworkErrorCheck"="Соединение с сервером не может быть установлено. Пожалуйста, проверьте настройки интернет-соединения.";
+"NetworkErrorManager.NetworkErrorTimedOut"="Превышен лимит времени ожидания ответа от сервера. Пожалуйста, проверьте настройки интернет-соединения.";
+"NetworkErrorManager.NetworkErrorHostIsNotAvailable"="Не удалось установить соединение с сервером, сервер недоступен.";
+"NetworkErrorManager.NetworkErrorWrongRequest"="Сервер не доступен или неправильный запрос. Обратитесь к администрации ресурса.";
+// Buttons localizations
+"NetworkErrorManager.Cancel"="Отмена";
+"NetworkErrorManager.Retry"="Повторить";
+"NetworkErrorManager.Ok"="OK";
+
+"OK"="OK";
+
+"Download.ConfirmAudio" = "Хотите ли вы скачать аудио сейчас? Это можно будет сделать позднее.";
+"Download.Yes" = "Да";
+"Download.No" = "Отмена";
+
+"Guide.Skip" = "Пропустить";
+"Guide.Back" = "Назад";
+"Guide.Forward" = "Вперед";
+
+"Guide1.Title" = "ЧТО ДЕЛАТЬ?";
+"Guide1.Text" = "Ответы на этот вопрос человечество искало еще задолго до Чернышевского. «Бхагавад-гита» — одно из древнейших духовных писаний на Земле — предлагает ответы на него.";
+"Guide2.Title" = "ДРЕВНЕЕ ЗНАНИЕ ДЛЯ СОВРЕМЕННЫХ ЛЮДЕЙ";
+"Guide2.Text" = "Книга представляет собой живой диалог между Кришной и Арджуной. Перед величайшей битвой Кришна дает наставления своему другу, объясняя, что делать, чтобы успешно и счастливо жить в этом мире, а также раскрывает различные аспекты духовной жизни.";
+"Guide3.Text" = "Читайте так, как вам удобно\n
+Сравнивайте трактовки и переводы\n
+Изучайте комментарии\n
+Слушайте\n
+Записывайте заметки\n";
+
+"Bookmarks.Placeholder" = "Поиск";
+"Bookmarks.Navigation.Title" = "Закладки";
+"Bookmarks.Search.NotFound" = "Поиск не дал результатов";
+
+"Settings.Title" = "Настройки";
+"Settings.Interpretations.Download.Title" = "Скачать";
+"Settings.Language.Navigation.Title" = "Выбор языка";
+
+"Settings.Sections.Language.Title" = "Выбор языка";
+"Settings.Sections.Audio.Title" = "Аудио";
+"Settings.Sections.Units.Title" = "Показывать";
+"Settings.Sections.Interpretations.Title" = "Трактовки";
+
+"Settings.Audio.Translation" = "Перевод";
+"Settings.Audio.Sanskrit" = "Санскрит";
+"Settings.Audio.AutoPlay" = "Проигрывать автоматически";
+
+"Settings.Units.Sanskrit.Title" = "Санскрит";
+"Settings.Units.Transcription.Title" = "Транскрипция";
+"Settings.Units.Words.Title" = "Пословный перевод";
+"Settings.Units.Comments.Title" = "Комментарии";
+"Settings.DownloadAudioTranslation" = "Скачать аудио перевод?";
+"Settings.DownloadAudioSanskrit" = "Скачать аудио санскрит?";
+"Settings.Downloading" = "Загрузка...";
+"Settings.DeleteAudioTranslation" = "Удалить аудио перевод?";
+"Settings.DeleteAudioSanskrit" = "Удалить аудио санскрит?";
+"Settings.DownloadBookError" = "Не удалось скачать книгу. Попробуйте позже.";
+"Settings.DownloadAudioError" = "Не удалось скачать аудио. Попробуйте позже.";
+
+"Settings.Language.SingleLanguage" = "Нельзя удалить выбор этого языка, потому что у вас нет загруженных книг на других языках";
+
+"Contents.Navigation.Title" = "Бхагавад Гита";
+"Contents.Chapter.Title" = "Глава";
+"Contents.Quote.Title" = "Цитата дня";
+"Contents.Search.Placeholder" = "Поиск";
+"Contents.Search.NotFound" = "Поиск не дал результатов";
+
+"Shloka.BackButton.Title.Contents" = "К оглавлению";
+"Shloka.BackButton.Title.Bookmarks" = "К закладкам";
+"Shloka.HideButton.Title" = "Свернуть";
+
+"Comment.Title" = "Заметка";
+"Comment.Save" = "Сохранить";

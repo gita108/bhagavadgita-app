@@ -1,0 +1,4000 @@
+{
+  "chapter": 1,
+  "meta": {
+    "source": "/Users/anton/proj/gita/data/chapters/ch-01/vocabulary-source.json",
+    "generated": "2026-03-27",
+    "languages": [
+      "he",
+      "ar",
+      "tr",
+      "sw"
+    ],
+    "approved": false
+  },
+  "vocabulary": {
+    "16438": {
+      "meaning": {
+        "he": "O Droṇāchārya best of the twice-born",
+        "ar": "O Droṇāchārya best of the twice-born",
+        "tr": "O Droṇāchārya best of the twice-born",
+        "sw": "O Droṇāchārya best of the twice-born"
+      }
+    },
+    "16513": {
+      "meaning": {
+        "he": "O lord of the earth Dhṛtarāṣṭra",
+        "ar": "O lord of the earth Dhṛtarāṣṭra",
+        "tr": "O lord of the earth Dhṛtarāṣṭra",
+        "sw": "O lord of the earth Dhṛtarāṣṭra"
+      }
+    },
+    "16715": {
+      "meaning": {
+        "he": "O descendant of the Vṛṣṇi dynasty",
+        "ar": "O descendant of the Vṛṣṇi dynasty",
+        "tr": "O descendant of the Vṛṣṇi dynasty",
+        "sw": "O descendant of the Vṛṣṇi dynasty"
+      }
+    },
+    "16600": {
+      "meaning": {
+        "he": "on the battlefield",
+        "ar": "on the battlefield",
+        "tr": "on the battlefield",
+        "sw": "on the battlefield"
+      }
+    },
+    "16712": {
+      "meaning": {
+        "he": "when the family is overcome by irreligion",
+        "ar": "when the family is overcome by irreligion",
+        "tr": "when the family is overcome by irreligion",
+        "sw": "when the family is overcome by irreligion"
+      }
+    },
+    "16464": {
+      "meaning": {
+        "he": "That strength of our army",
+        "ar": "That strength of our army",
+        "tr": "That strength of our army",
+        "sw": "That strength of our army"
+      }
+    },
+    "16419": {
+      "meaning": {
+        "he": "comparable to Bhīma and Arjuna",
+        "ar": "comparable to Bhīma and Arjuna",
+        "tr": "comparable to Bhīma and Arjuna",
+        "sw": "comparable to Bhīma and Arjuna"
+      }
+    },
+    "16505": {
+      "meaning": {
+        "he": "the performer of mighty tasks Bhīmasen sounded",
+        "ar": "the performer of mighty tasks Bhīmasen sounded",
+        "tr": "the performer of mighty tasks Bhīmasen sounded",
+        "sw": "the performer of mighty tasks Bhīmasen sounded"
+      }
+    },
+    "23920": {
+      "meaning": {
+        "he": "Bhīṣma Droṇa and company",
+        "ar": "Bhīṣma Droṇa and company",
+        "tr": "Bhīṣma Droṇa and company",
+        "sw": "Bhīṣma Droṇa and company"
+      }
+    },
+    "16410": {
+      "meaning": {
+        "he": "army of seven akṣauhiṇīs one akṣauhiṇī is 21,870 chariots 21,870 elephants 65,610 horses and 109,350 foot-soldiers",
+        "ar": "army of seven akṣauhiṇīs one akṣauhiṇī is 21,870 chariots 21,870 elephants 65,610 horses and 109,350 foot-soldiers",
+        "tr": "army of seven akṣauhiṇīs one akṣauhiṇī is 21,870 chariots 21,870 elephants 65,610 horses and 109,350 foot-soldiers",
+        "sw": "army of seven akṣauhiṇīs one akṣauhiṇī is 21,870 chariots 21,870 elephants 65,610 horses and 109,350 foot-soldiers"
+      }
+    },
+    "23774": {
+      "meaning": {
+        "he": "their wealth and lives",
+        "ar": "their wealth and lives",
+        "tr": "their wealth and lives",
+        "sw": "their wealth and lives"
+      }
+    },
+    "16390": {
+      "meaning": {
+        "he": "at the holy land of Kurukṣetra",
+        "ar": "at the holy land of Kurukṣetra",
+        "tr": "at the holy land of Kurukṣetra",
+        "sw": "at the holy land of Kurukṣetra"
+      }
+    },
+    "16683": {
+      "meaning": {
+        "he": "the sons of Dhṛtarāṣṭra",
+        "ar": "the sons of Dhṛtarāṣṭra",
+        "tr": "the sons of Dhṛtarāṣṭra",
+        "sw": "the sons of Dhṛtarāṣṭra"
+      }
+    },
+    "16538": {
+      "meaning": {
+        "he": "having seen the sons of Dhṛtarāṣṭra arrayed before him ready for battle",
+        "ar": "having seen the sons of Dhṛtarāṣṭra arrayed before him ready for battle",
+        "tr": "having seen the sons of Dhṛtarāṣṭra arrayed before him ready for battle",
+        "sw": "having seen the sons of Dhṛtarāṣṭra arrayed before him ready for battle"
+      }
+    },
+    "16747": {
+      "meaning": {
+        "he": "the sons of Dhṛtarāṣṭra",
+        "ar": "the sons of Dhṛtarāṣṭra",
+        "tr": "the sons of Dhṛtarāṣṭra",
+        "sw": "the sons of Dhṛtarāṣṭra"
+      }
+    },
+    "16532": {
+      "meaning": {
+        "he": "of the sons of Dhṛtarāṣṭra",
+        "ar": "of the sons of Dhṛtarāṣṭra",
+        "tr": "of the sons of Dhṛtarāṣṭra",
+        "sw": "of the sons of Dhṛtarāṣṭra"
+      }
+    },
+    "16517": {
+      "meaning": {
+        "he": "Dhṛṣṭadyumna and King Virāṭa",
+        "ar": "Dhṛṣṭadyumna and King Virāṭa",
+        "tr": "Dhṛṣṭadyumna and King Virāṭa",
+        "sw": "Dhṛṣṭadyumna and King Virāṭa"
+      }
+    },
+    "16522": {
+      "meaning": {
+        "he": "the sons of Draupadī",
+        "ar": "the sons of Draupadī",
+        "tr": "the sons of Draupadī",
+        "sw": "the sons of Draupadī"
+      }
+    },
+    "16414": {
+      "meaning": {
+        "he": "Dhṛṣṭadyumna the son of Drupada",
+        "ar": "Dhṛṣṭadyumna the son of Drupada",
+        "tr": "Dhṛṣṭadyumna the son of Drupada",
+        "sw": "Dhṛṣṭadyumna the son of Drupada"
+      }
+    },
+    "16567": {
+      "meaning": {
+        "he": "by Arjuna the conqueror of sleep",
+        "ar": "by Arjuna the conqueror of sleep",
+        "tr": "by Arjuna the conqueror of sleep",
+        "sw": "by Arjuna the conqueror of sleep"
+      }
+    },
+    "16469": {
+      "meaning": {
+        "he": "the strength of this army",
+        "ar": "the strength of this army",
+        "tr": "the strength of this army",
+        "sw": "the strength of this army"
+      }
+    },
+    "16608": {
+      "meaning": {
+        "he": "all these friends and relatives",
+        "ar": "all these friends and relatives",
+        "tr": "all these friends and relatives",
+        "sw": "all these friends and relatives"
+      }
+    },
+    "16537": {
+      "meaning": {
+        "he": "Arjuna of the Hanumān flag",
+        "ar": "Arjuna of the Hanumān flag",
+        "tr": "Arjuna of the Hanumān flag",
+        "sw": "Arjuna of the Hanumān flag"
+      }
+    },
+    "16643": {
+      "meaning": {
+        "he": "of what value is our kingdom",
+        "ar": "of what value is our kingdom",
+        "tr": "of what value is our kingdom",
+        "sw": "of what value is our kingdom"
+      }
+    },
+    "16644": {
+      "meaning": {
+        "he": "and what is the need of its royal pleasures or life itself",
+        "ar": "and what is the need of its royal pleasures or life itself",
+        "tr": "and what is the need of its royal pleasures or life itself",
+        "sw": "and what is the need of its royal pleasures or life itself"
+      }
+    },
+    "16705": {
+      "meaning": {
+        "he": "religious practices of the dynasty",
+        "ar": "religious practices of the dynasty",
+        "tr": "religious practices of the dynasty",
+        "sw": "religious practices of the dynasty"
+      }
+    },
+    "16730": {
+      "meaning": {
+        "he": "familial and socio-religious functions",
+        "ar": "familial and socio-religious functions",
+        "tr": "familial and socio-religious functions",
+        "sw": "familial and socio-religious functions"
+      }
+    },
+    "16727": {
+      "meaning": {
+        "he": "of the destroyers of the dynasty",
+        "ar": "of the destroyers of the dynasty",
+        "tr": "of the destroyers of the dynasty",
+        "sw": "of the destroyers of the dynasty"
+      }
+    },
+    "16702": {
+      "meaning": {
+        "he": "the evil of destroying the dynasty",
+        "ar": "the evil of destroying the dynasty",
+        "tr": "the evil of destroying the dynasty",
+        "sw": "the evil of destroying the dynasty"
+      }
+    },
+    "16703": {
+      "meaning": {
+        "he": "With the decline of the dynasty",
+        "ar": "With the decline of the dynasty",
+        "tr": "With the decline of the dynasty",
+        "sw": "With the decline of the dynasty"
+      }
+    },
+    "16713": {
+      "meaning": {
+        "he": "the women of the family",
+        "ar": "the women of the family",
+        "tr": "the women of the family",
+        "sw": "the women of the family"
+      }
+    },
+    "16721": {
+      "meaning": {
+        "he": "for both the dynasty and its destroyers",
+        "ar": "for both the dynasty and its destroyers",
+        "tr": "for both the dynasty and its destroyers",
+        "sw": "for both the dynasty and its destroyers"
+      }
+    },
+    "16508": {
+      "meaning": {
+        "he": "King Yudhiṣṭhir the son of Kuntī",
+        "ar": "King Yudhiṣṭhir the son of Kuntī",
+        "tr": "King Yudhiṣṭhir the son of Kuntī",
+        "sw": "King Yudhiṣṭhir the son of Kuntī"
+      }
+    },
+    "16514": {
+      "meaning": {
+        "he": "the King of Kāśī",
+        "ar": "the King of Kāśī",
+        "tr": "the King of Kāśī",
+        "sw": "the King of Kāśī"
+      }
+    },
+    "16690": {
+      "meaning": {
+        "he": "their hearts being afflicted with חמדנות",
+        "ar": "their hearts being afflicted with الطمع",
+        "tr": "their hearts being afflicted with açgözlülük",
+        "sw": "their hearts being afflicted with kuzu"
+      }
+    },
+    "16725": {
+      "meaning": {
+        "he": "due to the cessation of obsequial offerings of food and water",
+        "ar": "due to the cessation of obsequial offerings of food and water",
+        "tr": "due to the cessation of obsequial offerings of food and water",
+        "sw": "due to the cessation of obsequial offerings of food and water"
+      }
+    },
+    "16523": {
+      "meaning": {
+        "he": "and the mighty Abhimanyu",
+        "ar": "and the mighty Abhimanyu",
+        "tr": "and the mighty Abhimanyu",
+        "sw": "and the mighty Abhimanyu"
+      }
+    },
+    "16425": {
+      "meaning": {
+        "he": "and the great warrior Drupada",
+        "ar": "and the great warrior Drupada",
+        "tr": "and the great warrior Drupada",
+        "sw": "and the great warrior Drupada"
+      }
+    },
+    "16516": {
+      "meaning": {
+        "he": "and the great warrior Śikhaṇḍī",
+        "ar": "and the great warrior Śikhaṇḍī",
+        "tr": "and the great warrior Śikhaṇḍī",
+        "sw": "and the great warrior Śikhaṇḍī"
+      }
+    },
+    "16671": {
+      "meaning": {
+        "he": "not to speak of ruling the earth",
+        "ar": "not to speak of ruling the earth",
+        "tr": "not to speak of ruling the earth",
+        "sw": "not to speak of ruling the earth"
+      }
+    },
+    "16555": {
+      "meaning": {
+        "he": "I have to fight",
+        "ar": "I have to fight",
+        "tr": "I have to fight",
+        "sw": "I have to fight"
+      }
+    },
+    "16613": {
+      "meaning": {
+        "he": "and my mouth is becoming dry",
+        "ar": "and my mouth is becoming dry",
+        "tr": "and my mouth is becoming dry",
+        "sw": "and my mouth is becoming dry"
+      }
+    },
+    "16493": {
+      "meaning": {
+        "he": "both Śrī Kṛṣṇa and Arjuna",
+        "ar": "both Śrī Kṛṣṇa and Arjuna",
+        "tr": "both Śrī Kṛṣṇa and Arjuna",
+        "sw": "both Śrī Kṛṣṇa and Arjuna"
+      }
+    },
+    "16391": {
+      "meaning": {
+        "he": "Duryodhan and party",
+        "ar": "Duryodhan and party",
+        "tr": "Duryodhan and party",
+        "sw": "Duryodhan and party"
+      }
+    },
+    "16641": {
+      "meaning": {
+        "he": "nor the enjoyment of a kingdom",
+        "ar": "nor the enjoyment of a kingdom",
+        "tr": "nor the enjoyment of a kingdom",
+        "sw": "nor the enjoyment of a kingdom"
+      }
+    },
+    "16511": {
+      "meaning": {
+        "he": "and Nakula and Sahadeva sounded",
+        "ar": "and Nakula and Sahadeva sounded",
+        "tr": "and Nakula and Sahadeva sounded",
+        "sw": "and Nakula and Sahadeva sounded"
+      }
+    },
+    "16431": {
+      "meaning": {
+        "he": "and the noble King Śaibya",
+        "ar": "and the noble King Śaibya",
+        "tr": "and the noble King Śaibya",
+        "sw": "and the noble King Śaibya"
+      }
+    },
+    "16459": {
+      "meaning": {
+        "he": "armed with various weapons",
+        "ar": "armed with various weapons",
+        "tr": "armed with various weapons",
+        "sw": "armed with various weapons"
+      }
+    },
+    "16602": {
+      "meaning": {
+        "he": "overwhelmed with great compassion",
+        "ar": "overwhelmed with great compassion",
+        "tr": "overwhelmed with great compassion",
+        "sw": "overwhelmed with great compassion"
+      }
+    },
+    "16535": {
+      "meaning": {
+        "he": "at the time for commencing",
+        "ar": "at the time for commencing",
+        "tr": "at the time for commencing",
+        "sw": "at the time for commencing"
+      }
+    },
+    "16691": {
+      "meaning": {
+        "he": "do not see the sin",
+        "ar": "do not see the sin",
+        "tr": "do not see the sin",
+        "sw": "do not see the sin"
+      }
+    },
+    "16401": {
+      "meaning": {
+        "he": "the soldiers of the Pāṇḍavas",
+        "ar": "the soldiers of the Pāṇḍavas",
+        "tr": "the soldiers of the Pāṇḍavas",
+        "sw": "the soldiers of the Pāṇḍavas"
+      }
+    },
+    "16392": {
+      "meaning": {
+        "he": "and Yudhiṣṭhir and party",
+        "ar": "and Yudhiṣṭhir and party",
+        "tr": "and Yudhiṣṭhir and party",
+        "sw": "and Yudhiṣṭhir and party"
+      }
+    },
+    "16411": {
+      "meaning": {
+        "he": "of the Pāṇḍavas",
+        "ar": "of the Pāṇḍavas",
+        "tr": "of the Pāṇḍavas",
+        "sw": "of the Pāṇḍavas"
+      }
+    },
+    "16529": {
+      "meaning": {
+        "he": "throughout the land and heavens",
+        "ar": "throughout the land and heavens",
+        "tr": "throughout the land and heavens",
+        "sw": "throughout the land and heavens"
+      }
+    },
+    "16766": {
+      "meaning": {
+        "he": "on the chariot",
+        "ar": "on the chariot",
+        "tr": "on the chariot",
+        "sw": "on the chariot"
+      }
+    },
+    "16647": {
+      "meaning": {
+        "he": "kingdom with its pleasures and enjoyable objects",
+        "ar": "kingdom with its pleasures and enjoyable objects",
+        "tr": "kingdom with its pleasures and enjoyable objects",
+        "sw": "kingdom with its pleasures and enjoyable objects"
+      }
+    },
+    "16452": {
+      "meaning": {
+        "he": "Kṛpa who is victorious in battle",
+        "ar": "Kṛpa who is victorious in battle",
+        "tr": "Kṛpa who is victorious in battle",
+        "sw": "Kṛpa who is victorious in battle"
+      }
+    },
+    "16478": {
+      "meaning": {
+        "he": "at all points of entrance into the formation",
+        "ar": "at all points of entrance into the formation",
+        "tr": "at all points of entrance into the formation",
+        "sw": "at all points of entrance into the formation"
+      }
+    },
+    "23921": {
+      "meaning": {
+        "he": "and all the chieftains",
+        "ar": "and all the chieftains",
+        "tr": "and all the chieftains",
+        "sw": "and all the chieftains"
+      }
+    },
+    "16601": {
+      "meaning": {
+        "he": "that son of Kuntī",
+        "ar": "that son of Kuntī",
+        "tr": "that son of Kuntī",
+        "sw": "that son of Kuntī"
+      }
+    },
+    "16761": {
+      "meaning": {
+        "he": "on the battlefield",
+        "ar": "on the battlefield",
+        "tr": "on the battlefield",
+        "sw": "on the battlefield"
+      }
+    },
+    "16483": {
+      "meaning": {
+        "he": "roaring like the lion",
+        "ar": "roaring like the lion",
+        "tr": "roaring like the lion",
+        "sw": "roaring like the lion"
+      }
+    },
+    "16716": {
+      "meaning": {
+        "he": "when the women of the family become corrupt",
+        "ar": "when the women of the family become corrupt",
+        "tr": "when the women of the family become corrupt",
+        "sw": "when the women of the family become corrupt"
+      }
+    },
+    "16512": {
+      "meaning": {
+        "he": "the conchshells named Sughoṣa and Maṇipuṣpaka",
+        "ar": "the conchshells named Sughoṣa and Maṇipuṣpaka",
+        "tr": "the conchshells named Sughoṣa and Maṇipuṣpaka",
+        "sw": "the conchshells named Sughoṣa and Maṇipuṣpaka"
+      }
+    },
+    "16539": {
+      "meaning": {
+        "he": "at that time",
+        "ar": "at that time",
+        "tr": "at that time",
+        "sw": "at that time"
+      }
+    },
+    "16486": {
+      "meaning": {
+        "he": "for the הנאה of Duryodhan",
+        "ar": "for the المتعة of Duryodhan",
+        "tr": "for the zevk of Duryodhan",
+        "sw": "for the furaha of Duryodhan"
+      }
+    },
+    "16670": {
+      "meaning": {
+        "he": "for the sovereignty of even the three worlds",
+        "ar": "for the sovereignty of even the three worlds",
+        "tr": "for the sovereignty of even the three worlds",
+        "sw": "for the sovereignty of even the three worlds"
+      }
+    },
+    "16442": {
+      "meaning": {
+        "he": "who are the prominent",
+        "ar": "who are the prominent",
+        "tr": "who are the prominent",
+        "sw": "who are the prominent"
+      }
+    },
+    "16462": {
+      "meaning": {
+        "he": "and prepared to sacrifice their lives",
+        "ar": "and prepared to sacrifice their lives",
+        "tr": "and prepared to sacrifice their lives",
+        "sw": "and prepared to sacrifice their lives"
+      }
+    },
+    "16428": {
+      "meaning": {
+        "he": "and the powerful King of Kāśī",
+        "ar": "and the powerful King of Kāśī",
+        "tr": "and the powerful King of Kāśī",
+        "sw": "and the powerful King of Kāśī"
+      }
+    },
+    "16745": {
+      "meaning": {
+        "he": "Out of חמדנות for royal pleasures",
+        "ar": "Out of الطمع for royal pleasures",
+        "tr": "Out of açgözlülük for royal pleasures",
+        "sw": "Out of kuzu for royal pleasures"
+      }
+    },
+    "16645": {
+      "meaning": {
+        "he": "if those for whom",
+        "ar": "if those for whom",
+        "tr": "if those for whom",
+        "sw": "if those for whom"
+      }
+    },
+    "16553": {
+      "meaning": {
+        "he": "these warriors desirous of battle",
+        "ar": "these warriors desirous of battle",
+        "tr": "these warriors desirous of battle",
+        "sw": "these warriors desirous of battle"
+      }
+    },
+    "16660": {
+      "meaning": {
+        "he": "are present on the battlefield",
+        "ar": "are present on the battlefield",
+        "tr": "are present on the battlefield",
+        "sw": "are present on the battlefield"
+      }
+    },
+    "16394": {
+      "meaning": {
+        "he": "desirous of battle",
+        "ar": "desirous of battle",
+        "tr": "desirous of battle",
+        "sw": "desirous of battle"
+      }
+    },
+    "16610": {
+      "meaning": {
+        "he": "and desirous of battle",
+        "ar": "and desirous of battle",
+        "tr": "and desirous of battle",
+        "sw": "and desirous of battle"
+      }
+    },
+    "16748": {
+      "meaning": {
+        "he": "equipped with weapons",
+        "ar": "equipped with weapons",
+        "tr": "equipped with weapons",
+        "sw": "equipped with weapons"
+      }
+    },
+    "16536": {
+      "meaning": {
+        "he": "the casting of weapons",
+        "ar": "the casting of weapons",
+        "tr": "the casting of weapons",
+        "sw": "the casting of weapons"
+      }
+    },
+    "16488": {
+      "meaning": {
+        "he": "conchshells kettledrums hand-drums bugles and other instruments",
+        "ar": "conchshells kettledrums hand-drums bugles and other instruments",
+        "tr": "conchshells kettledrums hand-drums bugles and other instruments",
+        "sw": "conchshells kettledrums hand-drums bugles and other instruments"
+      }
+    },
+    "16767": {
+      "meaning": {
+        "he": "his heart heavy with sorrow",
+        "ar": "his heart heavy with sorrow",
+        "tr": "his heart heavy with sorrow",
+        "sw": "his heart heavy with sorrow"
+      }
+    },
+    "16496": {
+      "meaning": {
+        "he": "yoked with white horses",
+        "ar": "yoked with white horses",
+        "tr": "yoked with white horses",
+        "sw": "yoked with white horses"
+      }
+    },
+    "163": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "481": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "482": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "276": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "384": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "321": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "26": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "254": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "349": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "18": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "380": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "279": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "131": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "181": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "105": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "428": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "425": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "128": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "273": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "102": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "305": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "211": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "344": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "217": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "427": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "424": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "100": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "9": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "151": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "78": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "318": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "465": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "89": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "248": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "399": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "494": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "280": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "337": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "410": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "91": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "381": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "412": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "214": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "220": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "252": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "196": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "218": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "466": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "205": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "74": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "98": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "272": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "467": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "80": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "68": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "231": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "70": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "106": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "463": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "490": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "123": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "341": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "334": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "256": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "306": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "99": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "37": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "149": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "93": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "237": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "103": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "71": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "194": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "433": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "462": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "472": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "450": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "435": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "21": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "292": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "498": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "323": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "75": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "115": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "313": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "40": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "161": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "88": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "58": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "277": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "471": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "183": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "176": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "29": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "15": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "150": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "298": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "289": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "332": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "230": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "364": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "147": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "171": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "62": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "144": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "434": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "453": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "77": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "459": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "409": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "335": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "139": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "447": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "404": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "184": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "165": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "30": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "164": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "42": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "281": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "223": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "16": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "389": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "174": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "484": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "222": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "348": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "145": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "189": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "2": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "421": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "1": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "160": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "43": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "33": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "307": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "278": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "282": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "464": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "363": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "206": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "479": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "473": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "101": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "59": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "219": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "336": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "213": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "210": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "216": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "87": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "345": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "49": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "38": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "154": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "39": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "4": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "285": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "135": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "376": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "338": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "451": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "45": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "157": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "212": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "186": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "72": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "470": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "407": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "270": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "314": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "333": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "371": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "274": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "73": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "423": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "429": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "449": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "457": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "419": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "454": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "403": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "414": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "417": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "431": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "422": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "439": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "47": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "153": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "112": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "245": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "489": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "402": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "475": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "445": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "397": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "138": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "480": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "5": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "502": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "255": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "354": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "82": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "234": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "366": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "288": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "310": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "458": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "169": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "36": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "55": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "148": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "468": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "136": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "27": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "372": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "197": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "239": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "488": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "405": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "290": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "408": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "386": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "322": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "401": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "304": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "63": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "84": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "177": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "155": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "437": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "460": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "375": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "61": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "413": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "461": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "311": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "208": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "373": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "142": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "14": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "6": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "191": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "25": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "411": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "469": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "241": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "250": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "406": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "125": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "275": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "158": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "303": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "291": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "94": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "441": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "146": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "258": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "356": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "242": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "312": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "446": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "253": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "353": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "113": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "442": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "251": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "172": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "167": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "346": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "187": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "141": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "430": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "418": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "415": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "119": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "85": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "225": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "46": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "257": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "351": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "152": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "474": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "340": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "369": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "331": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "215": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "485": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "496": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "236": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "202": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "296": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "499": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "162": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "65": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "259": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "66": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "221": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "286": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "244": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "3": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "358": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "268": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "10": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "491": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "226": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "110": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "436": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "495": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "420": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "53": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "271": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "166": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "107": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "238": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "51": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "168": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "76": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "269": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "173": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "129": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "126": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "390": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "283": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "477": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "264": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "114": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "396": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "299": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "432": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "203": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "235": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "249": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "137": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "156": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "328": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "342": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "395": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "262": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "287": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "267": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "31": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "193": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "109": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "385": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "487": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "132": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "247": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "359": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "352": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "301": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "69": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "343": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "83": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "347": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "368": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "95": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "180": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "265": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "240": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "190": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "478": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "228": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "493": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "497": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "19": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "426": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "452": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "456": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "50": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "116": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "134": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "486": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "476": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "111": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "300": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "394": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "370": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "443": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "175": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "192": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "229": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "440": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "178": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "179": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "500": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "28": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "44": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "455": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "48": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "170": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "117": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "121": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "140": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "294": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "483": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "188": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "261": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "355": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "133": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "159": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "32": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "357": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "501": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "317": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "81": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "35": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "379": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "108": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "492": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "24": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "383": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "448": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "400": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "97": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    },
+    "444": {
+      "meaning": {
+        "he": "",
+        "ar": "",
+        "tr": "",
+        "sw": ""
+      }
+    }
+  }
+}

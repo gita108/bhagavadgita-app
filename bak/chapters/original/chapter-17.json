@@ -1,0 +1,5061 @@
+{
+  "chapter": 17,
+  "title": {
+    "sanskrit": "",
+    "transliteration": "",
+    "ru": {
+      "text": "Три вида веры",
+      "approved": true
+    },
+    "en": {
+      "text": "The Three Types of Faith",
+      "approved": true
+    },
+    "de": {
+      "text": "SIEBZEHNTES KAPITEL Śraddhātraya-Vibhāga-Yoga Die drei Arten von Glauben",
+      "approved": true
+    },
+    "es": {
+      "text": "Shraddhatraya–vibhaga–yoga. Los tres tipos de Fé",
+      "approved": true
+    }
+  },
+  "meta": {
+    "totalSlokas": 27,
+    "lastUpdated": "2026-03-26T05:31:43Z",
+    "version": "1.0",
+    "source": "SM/SCSM/ШМ/ШЧСМ"
+  },
+  "slokas": [
+    {
+      "number": "17.1",
+      "order": 1,
+      "sanskrit": "अर्जुन उवाच ।\nये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः ।\nतेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ॥१॥",
+      "transliteration": "арджуна ува̄ча\nйе ш́а̄стра-видхим утср̣джйа, йаджанте ш́раддхайа̄нвита̄х̣\nтеш̣а̄м̇ ниш̣т̣ха̄ ту ка̄ кр̣ш̣н̣а, саттвам а̄хо раджас тамах̣",
+      "translations": {
+        "ru": {
+          "text": "Арджуна спросил: О Кришна! Каково положение тех, кто поклоняется с верой, но пренебрегает наставлениями писаний? Пребывают ли они в благости, в страсти или в невежестве?",
+          "approved": true
+        },
+        "en": {
+          "text": "Arjuna inquired: O Kṛṣṇa, what is the position of those who worship with faith, but ignore the injunctions of the scriptures? Is their faith in the mode of goodness, passion, or ignorance?",
+          "approved": true
+        },
+        "de": {
+          "text": "1  Arjuna fragte: ‚O Kṛṣṇa, was ist die Stellung derer, die zwar  gläubig ihre Verehrung durchführen, aber die Anweisungen der  Schriften ignorieren? Ist ihr Glaube in der Erscheinungsweise  der Tugend, Leidenschaft oder Unwissenheit?‘",
+          "approved": true
+        },
+        "es": {
+          "text": "Arjuna preguntó: ¡Oh Kṛṣṇa!, ¿cuál es la posición de aquellos que adoran con fe, pero ignoran los principios de las escrituras? ¿Se encuentra su fe en la modalidad de la bondad, de la pasión, o de la ignorancia?",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/3691a137307747538edeffe59a6e6bca.mp3",
+        "sanskrit": ""
+      },
+      "vocabulary": [
+        {
+          "word": "арджуна",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Арджуна",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ува̄ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "сказал",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "йе",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тех, кто",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "ш́а̄стра",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "священных писаний",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "видхим",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "наставления",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "утср̣джйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "отвергнув",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "йаджанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "поклоняются",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "ш́раддхайа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "верой",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "анвита̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "наделенные",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "теш̣а̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "этих людей",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ниш̣т̣ха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "положение",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "ту",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "но",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ка̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "каково",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "кр̣ш̣н̣а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "о Кр̣ш̣н̣а",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "саттвам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "гун̣а благости",
+              "approved": true
+            }
+          },
+          "order": 15
+        },
+        {
+          "word": "а̄хо",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "или же",
+              "approved": true
+            }
+          },
+          "order": 16
+        },
+        {
+          "word": "раджах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "гун̣а страсти",
+              "approved": true
+            }
+          },
+          "order": 17
+        },
+        {
+          "word": "тамах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "гун̣а невежества",
+              "approved": true
+            }
+          },
+          "order": 18
+        }
+      ]
+    },
+    {
+      "number": "17.2",
+      "order": 2,
+      "sanskrit": "श्रीभगवानुवाच ।\nत्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा ।\nसात्त्विकी राजसी चैव तामसी चेति तां शृणु ॥२॥",
+      "transliteration": "ш́рӣ бхагава̄н ува̄ча\nтри-видха̄ бхавати ш́раддха̄, дехина̄м̇ са̄ свабха̄ва-джа̄\nса̄ттвикӣ ра̄джасӣ чаива, та̄масӣ чети та̄м̇ ш́р̣н̣у",
+      "translations": {
+        "ru": {
+          "text": "Всевышний ответил: Вера может быть трех видов в зависимости от склонностей воплощенной в теле души — благостной, страстной или невежественной. Услышь же об этом!",
+          "approved": true
+        },
+        "en": {
+          "text": "The Supreme Lord said: Faith is of three types, born of the embodied soul’s acquired nature, whether good, passionate, or ignorant. Now hear of this:",
+          "approved": true
+        },
+        "de": {
+          "text": "2  Der Höchste Herr sagte: ‚Der Glaube der Lebewesen ist von  dreierlei Art – tugendhaft, leidenschaftlich oder unwissend – und  entspricht dem von der verkörperten Seele in vorangegangenen  Leben erworbenen Naturell. Höre nun darüber.",
+          "approved": true
+        },
+        "es": {
+          "text": "El Supremo Señor dijo: la fe es de tres clases, nacida de la naturaleza que ha adquirido el alma, bien sea en la modalidad de la bondad, en la modalidad de la pasión, o en la modalidad de la ignorancia. Oye ahora acerca de esto.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/0480f4823b2b40f6be53665d180c223e.mp3",
+        "sanskrit": "/Files/9f59bb8304cf46709faaa63ce529309b.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "ш́рӣ бхагава̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Всевышний",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ува̄ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "сказал",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "три-видха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "трех видов",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "бхавати",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "бывает",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ш́раддха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вера",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "дехина̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "воплощенных живых существ",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "са̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "она",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "сва-бха̄ва-джа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "рожденная из склонностей",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "са̄ттвикӣ",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в гун̣е благости",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ра̄джасӣ",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в гун̣е страсти",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ча эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и также",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "та̄масӣ",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в гун̣е невежества",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "таким образом",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "та̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "об этом",
+              "approved": true
+            }
+          },
+          "order": 15
+        },
+        {
+          "word": "ш́р̣н̣у",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "услышь",
+              "approved": true
+            }
+          },
+          "order": 16
+        }
+      ]
+    },
+    {
+      "number": "17.3",
+      "order": 3,
+      "sanskrit": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत ।\nश्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ॥३॥",
+      "transliteration": "саттва̄нурӯпа̄ сарвасйа, ш́раддха̄ бхавати бха̄рата\nш́раддха̄майо ’йам̇ пуруш̣о, йо йач чхраддхах̣ са эва сах̣",
+      "translations": {
+        "ru": {
+          "text": "Бхарата! Глубина постижения истины человеком определяет его тип веры. Вера — основа бытия каждого, какова вера — таков и человек.",
+          "approved": true
+        },
+        "en": {
+          "text": "O Bhārata, the faith of all living beings is governed by their consciousness. The living being possesses faith by constitution. He is that which his faith is.",
+          "approved": true
+        },
+        "de": {
+          "text": "3  O Bhārata, der Glaube aller Lebewesen wird von ihrem Be-wusstsein bestimmt. Seiner Beschaffenheit nach besitzt das Le-bewesen Glauben. Das Lebewesen ist das, was sein Glaube ist.",
+          "approved": true
+        },
+        "es": {
+          "text": "¡Oh Bāratha!, la fe de todas las entidades vivientes está gobernada por su conciencia. La entidad viviente posee fe por constitución. Él es de acuerdo a como es su fe.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/e5ac64dfc34f46879120f9640c0ef711.mp3",
+        "sanskrit": "/Files/c8411d6d16c648019b4f4691261f61ac.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "саттва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "истина",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ану-рӯпа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "форма понимания",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "сарвасйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "каждого",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "ш́раддха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вера",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "бхавати",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "определяется",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "бха̄рата",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "потомок Бха̄раты",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ш́раддха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вера",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "майах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "наполняет",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "айам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "это",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "пуруш̣ах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "живое существо",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "йах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "у кого",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "йат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "какая",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ш́раддхах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вера",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "сах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "он",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "именно",
+              "approved": true
+            }
+          },
+          "order": 15
+        },
+        {
+          "word": "сах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "таков",
+              "approved": true
+            }
+          },
+          "order": 16
+        }
+      ]
+    },
+    {
+      "number": "17.4",
+      "order": 4,
+      "sanskrit": "यजन्ते सात्त्विका देवान् यक्षरक्षांसि राजसाः ।\nप्रेतान् भूतगणांश्चान्ये यजन्ते तामसा जनाः ॥४॥",
+      "transliteration": "йаджанте са̄ттвика̄ дева̄н, йакш̣а-йакш̣а̄м̇си ра̄джаса̄х̣\nпрета̄н бхӯта-ган̣а̄м̇ш́ ча̄нйе, йаджанте та̄маса̄ джана̄х̣",
+      "translations": {
+        "ru": {
+          "text": "Люди благостной природы поклоняются богам. Пребывающие в страсти служат нечисти и демонам. Те же, чья вера невежественна, почитают духов и привидений.",
+          "approved": true
+        },
+        "en": {
+          "text": "Persons with faith of the nature of goodness worship the demigods, persons with faith of a passionate nature worship the Yakṣa demigods and Rākṣasa demons, while those with faith of the nature of ignorance worship the ghosts and spirits.",
+          "approved": true
+        },
+        "de": {
+          "text": "4  Personen mit tugendhaftem Glauben verehren die Halb-götter, Personen mit leidenschaftlichem Glauben verehren die Yakṣa-Halbgötter und Rākṣasa-Dämonen, während diejenigen mit unwissendem Glauben die Gespenster und Geister verehren.",
+          "approved": true
+        },
+        "es": {
+          "text": "Las personas cuya fe se encuentra en la modalidad de la bondad adoran a los semidioses, las personas cuya fe se encuentra en la modalidad de la pasión adoran a los semidioses Yakṣa y a los demonios Rākṣasa, mientras que aquellos cuya fe se encuentra en la modalidad de la ignorancia adoran a los fantasmas y a los espíritus.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/15a07ffb9f4b4f0a910cafb8cd9d4de9.mp3",
+        "sanskrit": "/Files/ba4637926f3f4bcb91c74c201f3712a0.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "йаджанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "поклоняются",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "са̄ттвика̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "благостной природы",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "дева̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "богам",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "йакш̣а-ракш̣а̄м̇си",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "нечисти и демонам",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ра̄джаса̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "страстной природы",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "прета̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "привидениям",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "бхӯта-ган̣а̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "духам",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "анйе",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "другие",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "йаджанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "поклоняются",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "та̄маса̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "невежественной природы",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "джана̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "люди",
+              "approved": true
+            }
+          },
+          "order": 12
+        }
+      ]
+    },
+    {
+      "number": "17.5-6",
+      "order": 5,
+      "sanskrit": "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः ।\nदम्भाहङ्कारसंयुक्ताः कामरागबलान्विताः ॥५॥\nकर्षयन्तः शरीरस्थं भूतग्राममचेतसः ।\nमां चैवान्तः शरीरस्थं तान्विद्ध्यासुरनिश्चयान् ॥६॥",
+      "transliteration": "аш́а̄стра-вихитам̇ гхорам̇, тапйанте йе тапо джана̄х̣\nдамбха̄хан̇ка̄ра-сам̇йукта̄х̣, ка̄ма-ра̄га-бала̄нвита̄х̣ карш́айантах̣ ш́арӣра-стхам̇, бхӯта-гра̄мам ачетасах̣\nма̄м̇ чаива̄нтах̣ ш́арӣра-стхам̇, та̄н виддхй а̄сура-ниш́чайа̄н",
+      "translations": {
+        "ru": {
+          "text": "Кто совершает суровые аскезы, не упомянутые в писаниях; кто творит это, побуждаемый гордостью и эгоизмом, ведомый вожделением, мирскими привязанностями и жаждой власти; кто, не обладая разумом, истязает свое физическое тело, состоящее из пяти материальных элементов, и Меня, находящегося внутри него в образе Высшей Души, несомненно, является демоном.",
+          "approved": true
+        },
+        "de": {
+          "text": "5, 6  Erfüllt von Stolz und Egoismus, angetrieben von Ehrgeiz, Anhaftung und Macht unterziehen sich unwissende Personen schweren, von den Schriften nicht gutgeheißenen Härten und quälen damit die natürlichen Elemente des Körpers sowie die darin befindliche Seele. Wisse, dass sie eine dämonische Über-zeugung haben.",
+          "approved": true
+        },
+        "es": {
+          "text": "Llenos de orgullo y egoísmo, motivados por la ambición, y apegados a los deseos y al poder, estas personas ignorantes ejecutan severas austeridades que no se recomiendan en las escrituras y torturan así a los elementos naturales del cuerpo y al alma dentro de él. Conócelos a ellos como personas de fe demoníaca.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/ad925b6f3f924ecfad9c633abfd33661.mp3",
+        "sanskrit": "/Files/0a2ee0f0fc4b4839b457309888bb8883.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "а-ш́а̄стра вихитам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не согласующимся с наставлениями священных писаний",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "гхорам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "суровым",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "тапйанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "подвергают себя",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "йе",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которые",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскезам",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "джана̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "люди",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "дамбха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "гордостью",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "ахан̇ка̄ра",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "эгоизмом",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "сам-йукта̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "связанные",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ка̄ма",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вожделением",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ра̄га",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "привязанностями",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "бала",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "силой",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "анвита̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "движимый",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "карш́айантах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "истязает",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "ш́арӣра-стхам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тело, состоящее из",
+              "approved": true
+            }
+          },
+          "order": 15
+        },
+        {
+          "word": "бхӯта-гра̄мам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "совокупности материальных элементов",
+              "approved": true
+            }
+          },
+          "order": 16
+        },
+        {
+          "word": "а-четасах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не обладая разумом",
+              "approved": true
+            }
+          },
+          "order": 17
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Меня",
+              "approved": true
+            }
+          },
+          "order": 18
+        },
+        {
+          "word": "ча эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и также",
+              "approved": true
+            }
+          },
+          "order": 19
+        },
+        {
+          "word": "антах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "внутри",
+              "approved": true
+            }
+          },
+          "order": 20
+        },
+        {
+          "word": "ш́арӣра-стхам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "находящегося в теле",
+              "approved": true
+            }
+          },
+          "order": 21
+        },
+        {
+          "word": "та̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тех",
+              "approved": true
+            }
+          },
+          "order": 22
+        },
+        {
+          "word": "виддхи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знай как",
+              "approved": true
+            }
+          },
+          "order": 23
+        },
+        {
+          "word": "а̄сура",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "демонов",
+              "approved": true
+            }
+          },
+          "order": 24
+        },
+        {
+          "word": "ниш́чайа̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "убежденных",
+              "approved": true
+            }
+          },
+          "order": 25
+        }
+      ]
+    },
+    {
+      "number": "17.7",
+      "order": 6,
+      "sanskrit": "आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः ।\nयज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु ॥७॥",
+      "transliteration": "а̄ха̄рас тв апи сарвасйа, три-видхо бхавати прийах̣\nйаджн̃ас тапас татха̄ да̄нам̇, теш̣а̄м̇ бхедам имам̇ ш́р̣н̣у",
+      "translations": {
+        "ru": {
+          "text": "В соответствии с тремя качествами материальной природы различают три вида предпочтений в пище. Также существуют три вида жертвоприношений, три вида аскез и три вида благотворительности. Выслушай же об этом!",
+          "approved": true
+        },
+        "en": {
+          "text": "According to the three modes of material nature, there are also three kinds of food preference. In the same way, there are three kinds of sacrifice, three kinds of austerity, and three kinds of charity. Now hear of these:",
+          "approved": true
+        },
+        "de": {
+          "text": "7  Den drei Erscheinungsweisen der materiellen Natur entspre-chend gibt es auch drei Arten von Nahrungsvorlieben. Auf die gleiche Weise gibt es drei Arten von Opfer, drei Arten von Härten und drei Arten von Mildtätigkeit. Höre nun darüber.",
+          "approved": true
+        },
+        "es": {
+          "text": "De acuerdo a las tres modalidades de la naturaleza material, existen también tres preferencias de alimentos. De la misma manera, existen tres tipos de sacrificios, tres tipos de austeridades y tres tipos de caridades. Oye ahora acerca de esto.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/4ebd32d98b034172aed1f7adbaf17b3f.mp3",
+        "sanskrit": "/Files/b8183049b8a741d5917bcd2bb63e390c.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "а̄ха̄рах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "пищи",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ту",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "конечно же",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "апи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "сарвасйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "всей",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "три-видхах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "три вида",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "бхавати",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "есть",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "прийах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "предпочтений",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "йаджн̃ах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "жертвоприношения",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскезы",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "татха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также есть",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "да̄нам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и благотворительности",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "теш̣а̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "об их",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "бхедам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "различии",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "имам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "таким образом",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "ш́р̣н̣у",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "услышь",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "17.8",
+      "order": 7,
+      "sanskrit": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः ।\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ॥८॥",
+      "transliteration": "а̄йух̣-саттва-бала̄рогйа-сукха-прӣти-вивардхана̄х̣\nрасйа̄х̣ снигдха̄х̣ стхира̄ хр̣дйа̄, а̄ха̄ра̄х̣ са̄ттвика-прийа̄х̣",
+      "translations": {
+        "ru": {
+          "text": "Пища, увеличивающая продолжительность жизни, дарующая добродетель, силу, здоровье, радость и удовлетворенность, вкусная, сочная, маслянистая, питательная, обладающая приятным видом и запахом, нравится тем, кто пребывает в благости.",
+          "approved": true
+        },
+        "en": {
+          "text": "Foods that increase longevity, vitality, strength, health, happiness, and loving kindness, and which are tasty, succulent, wholesome, and pleasant, are dear to persons of the nature of goodness.",
+          "approved": true
+        },
+        "de": {
+          "text": "8  Nahrungsmittel, die die Lebensdauer verlängern, die Vitalität, Kraft, Gesundheit, Lebensfreude und Herzlichkeit verleihen und die schmackhaft, saftig, bekömmlich und angenehm sind, werden von Personen mit tugendhaftem Wesen bevorzugt.",
+          "approved": true
+        },
+        "es": {
+          "text": "Los alimentos que aumentan la duración de la vida, la vitalidad, la fuerza, la salud, la felicidad y la satisfacción, y que son jugosos, suculentos, nutritivos, agradables y deliciosos, son del agrado de las personas cuya naturaleza se encuentra en la modalidad de la bondad.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/4f94b2d21a7d42f2a4371adbd69c455a.mp3",
+        "sanskrit": "/Files/48ec68f0a57c4bdfabf58beb2b0e68d0.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "а̄йух̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "продлевающая жизнь",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "саттва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "добродетель",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "бала",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "силу",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "а̄рогйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "здоровье",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "сукха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "радость",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "прӣти",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "удовлетворенность",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "вивардхана̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "увеличивающая",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "расйа̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вкусная и сочная",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "снигдха̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "маслянистая",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "стхира̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "питательная",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "хр̣дйа̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "приятная сердцу",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "а̄ха̄ра̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "пища",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "са̄ттвика",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "благостным людям",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "прийа̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "нравится",
+              "approved": true
+            }
+          },
+          "order": 14
+        }
+      ]
+    },
+    {
+      "number": "17.9",
+      "order": 8,
+      "sanskrit": "कट्वम्ललवणात्युष्णतीक्ष्णरुक्षविदाहिनः ।\nआहारा राजसस्येष्टा दुःखशोकामयप्रदाः ॥९॥",
+      "transliteration": "кат̣в-амла-лаван̣а̄тй-уш̣н̣а-тӣкш̣н̣а-рукш̣а-вида̄хинах̣\nа̄ха̄ра̄ ра̄джасасйеш̣т̣а̄, дух̣кха-ш́ока̄майа-прада̄х̣",
+      "translations": {
+        "ru": {
+          "text": "Те, кто обладает страстной природой, любят чрезмерно горькую, кислую, соленую, пряную, острую, сухую и горячую пищу. Такая пища приводит к несчастью, печали и болезням.",
+          "approved": true
+        },
+        "en": {
+          "text": "Foods dear to persons of passionate nature are too bitter (nimba, etc.), too sour, too salty, too hot, too pungent (chilli pepper, etc.), too dry (dry-roasted chickpeas, etc.), and too heating (mustard seed, etc.). Such foods cause pain, sorrow, and illness.",
+          "approved": true
+        },
+        "de": {
+          "text": "9  Personen von leidenschaftlicher Natur mögen Nahrungsmit-tel, die zu bitter, zu sauer, zu salzig, zu heiß, zu scharf, zu trocken und zu erwärmend sind. Solche Nahrungsmittel verursachen Schmerzen, Kummer und Krankheit.",
+          "approved": true
+        },
+        "es": {
+          "text": "Los alimentos que le agradan a las personas de naturaleza apasionada son muy amargos (como nimba, etc.), muy ácidos, muy salados, muy calientes, muy picantes (como chile, pimienta, etc.), muy secos (como garbanzos secos y tostados, etc.), y muy calientes (como semillas de mostaza, etc.). Tales comidas causan dolor, pena y enfermedad.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/ecaf307c34a84055b5180227d12fa4d2.mp3",
+        "sanskrit": "/Files/41b60f4fe9404506ad186ae2b5932a19.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "кат̣у",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "горькая",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "амла",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "кислая",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "лаван̣а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "соленая",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "ати",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "слишком",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "уш̣н̣а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "пряная",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "тӣкш̣н̣а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "острая",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "рукш̣а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "сухая",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "вида̄хинах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "горячая",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "а̄ха̄ра̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "пища",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ра̄джасасйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тем, кто в страсти",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "иш̣т̣а̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "дорога",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "дух̣кха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "несчастью",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ш́ока",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "горю",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "а̄майа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "болезням",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "прада̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "приводящая",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "17.10",
+      "order": 9,
+      "sanskrit": "यातयामं गतरसं पूति पर्युषितं च यत् ।\nउच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम् ॥१०॥",
+      "transliteration": "йа̄та-йа̄мам̇ гата-расам̇, пӯти парйуш̣итам̇ ча йат\nуччхиш̣т̣ам апи ча̄медхйам̇, бходжанам̇ та̄маса-прийам",
+      "translations": {
+        "ru": {
+          "text": "Пища несвежая, безвкусная, дурно пахнущая, испортившаяся, состоящая из остатков пищи других и нечистая (такая, как мясо и вино) дорога тем, кто пребывает в невежестве.",
+          "approved": true
+        },
+        "en": {
+          "text": "Dear to the ignorant are foods that are stale, tasteless, foul-smelling or were cooked the day before, remnants (other than that of worshippable persons), and impure foods (such as meat, wine, and onions).",
+          "approved": true
+        },
+        "de": {
+          "text": "10  Den Unwissenden sind Nahrungsmittel lieb, die abgestanden, geschmacklos und übelriechend sind oder am Vortag gekocht wurden sowie Essensreste (andere als die von verehrungswür-digen Personen) und unreine Nahrungsmittel (wie z.B. Fleisch, Wein und Zwiebeln).",
+          "approved": true
+        },
+        "es": {
+          "text": "Queridas para el ignorante son las comidas rancias, insípidas, descompuestas o cocinadas el día anterior, remanentes (otros que no sean los de la persona adorable), y comidas impuras (como carne, vino y cebollas).",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/96983a2f65ee4f859f443122ff0904b8.mp3",
+        "sanskrit": "/Files/2a5cecb993b1484fa9ec39d843efbc84.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "йа̄та-йа̄мам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "несвежая",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "гата-расам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "безвкусная",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "пӯти",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "дурно пахнущая",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "пари-уш̣итам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "испортившаяся",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "йат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которая",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "уччхиш̣т̣ам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "оставшаяся после других",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "апи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "а-медхйам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "нечистая",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "бходжанам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "пища",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "та̄маса",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тем, кто в невежестве",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "прийам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "дорога",
+              "approved": true
+            }
+          },
+          "order": 13
+        }
+      ]
+    },
+    {
+      "number": "17.11",
+      "order": 10,
+      "sanskrit": "अफलाकाङ्क्षिभिर्यज्ञो विधिदिष्टो य इज्यते ।\nयष्टव्यमेवेति मनः समाधाय स सात्त्विकः ॥११॥",
+      "transliteration": "апхала̄ка̄н̇кш̣ибхир йаджн̃о, видхи-диш̣т̣о йа иджйате\nйаш̣т̣авйам эвети манах̣, сама̄дха̄йа са са̄ттвиках̣",
+      "translations": {
+        "ru": {
+          "text": "Жертвоприношение в благости совершается согласно указаниям писаний, из чувства долга, без желания личной выгоды.",
+          "approved": true
+        },
+        "en": {
+          "text": "That sacrifice which is in accordance with scriptural injunctions and faithfully performed by a person free from fruitive desire, is sacrifice of the nature of goodness.",
+          "approved": true
+        },
+        "de": {
+          "text": "11  Das Opfer, das in Übereinstimmung mit den Anweisungen der Schriften und mit festem Glauben von einer Person, die frei ist von dem Wunsch, die Früchte des Opfers zu genießen, aus-geführt wird, ist ein Opfer von tugendhafter Natur.",
+          "approved": true
+        },
+        "es": {
+          "text": "El sacrificio que está de acuerdo con los principios de las escrituras y es devotamente ejecutado por una persona libre de deseos fruitivos, es un sacrificio en la modalidad de la bondad.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/3262f57afc7c44aca6eecf100dca4eb6.mp3",
+        "sanskrit": "/Files/fd8a520e04924e49b3ceee26ea44c948.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "а-пхала-а̄ка̄н̇кш̣ибхих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "без стремления насладиться плодами",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "йаджн̃ах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "жертвоприношение",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "видхи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "согласно наставлениям писаний",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "диш̣т̣ах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в согласии",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "йах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которое",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "иджйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "совершается",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "йаш̣т̣авйам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "из чувства долга",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "несомненно",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в таком",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "манах̣-сама̄дха̄йа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "умонастроении",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "сах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "оно",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "са̄ттвиках̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в гун̣е благости",
+              "approved": true
+            }
+          },
+          "order": 12
+        }
+      ]
+    },
+    {
+      "number": "17.12",
+      "order": 11,
+      "sanskrit": "अभिसंधाय तु फलं दम्भार्थमपि चैव यत् ।\nइज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ॥१२॥",
+      "transliteration": "абхисандха̄йа ту пхалам̇, дамбха̄ртхам апи чаива йат\nиджйате бхарата-ш́реш̣т̣ха, там̇ йаджн̃ам̇ виддхи ра̄джасам",
+      "translations": {
+        "ru": {
+          "text": "Лучший из потомков Бхараты! Знай, что жертвоприношение, совершаемое ради стремления к результатам или из гордости, с желанием продемонстрировать свое богатство, обладает природой страсти.",
+          "approved": true
+        },
+        "en": {
+          "text": "But, O Bhārat, know that sacrifice which is performed in fruitive expectation and as a display of pomp and grandeur, is sacrifice of the nature of passion.",
+          "approved": true
+        },
+        "de": {
+          "text": "12  O Bhārata, betrachte jedoch das Opfer, das mit Gewinnab-sicht und als eine Zurschaustellung von Pomp und Vornehmheit durchgeführt wird, als ein Opfer von leidenschaftlicher Natur.",
+          "approved": true
+        },
+        "es": {
+          "text": "Pero, ¡oh Bhārata!, entiende que el sacrificio que es ejecutado con expectativas fruitivas y como una muestra de lujo y esplendor es un sacrificio en la modalidad de la pasión.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/6c1119361e814caca5bc11d83f9b2e34.mp3",
+        "sanskrit": "/Files/6a4a849ba0f24b35823a814d1608f7de.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "абхи-сам-дха̄йа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "со стремлением",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ту",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "но",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "пхалам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "к результатам",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "дамбха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "гордыни или лицемерия",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "артхам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "по причине",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "апи ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "а также",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "просто",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "йат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которое",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "иджйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "совершается",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "бхарата",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "из потомков Бха̄раты",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ш́реш̣т̣ха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "лучший",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "там",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "то",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "йаджн̃ам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "жертвоприношение",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "виддхи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знай",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "ра̄джасам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в гун̣е страсти",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "17.13",
+      "order": 12,
+      "sanskrit": "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् ।\nश्रद्धाविरहितं यज्ञं तामसं परिचक्षते ॥१३॥",
+      "transliteration": "видхи-хӣнам аср̣ш̣т̣а̄ннам̇, мантра-хӣнам адакш̣ин̣ам\nш́раддха̄-вирахитам̇ йаджн̃ам̇, та̄масам̇ паричакш̣ате",
+      "translations": {
+        "ru": {
+          "text": "А жертвоприношение, не соответствующее указаниям писаний, совершаемое без раздачи освященной пищи, цитирования мантр, подношений священнослужителям и без веры, известно как жертвоприношение в духе невежества.",
+          "approved": true
+        },
+        "en": {
+          "text": "And that sacrifice which ignores the injunctions of the scriptures, which is performed without the distribution of foodstuffs, without uttering the appropriate mantras, without offerings to the priests, and without faith, is known as sacrifice in ignorance.",
+          "approved": true
+        },
+        "de": {
+          "text": "13  Und das Opfer, das die Anweisungen der Schriften ignoriert, bei dem kein Essen verteilt wird, bei dem nicht die dazugehörigen Mantras intoniert werden, bei dem die Priester nicht angemessen entlohnt werden und das ohne Glauben durchgeführt wird, ist als ein Opfer in Unwissenheit bekannt.",
+          "approved": true
+        },
+        "es": {
+          "text": "Y ese sacrificio que ignora los principios de las escrituras, que es realizado sin la distribución de alimentos, sin pronunciar los mantras adecuados, sin ofrendas para los sacerdotes y sin fe, es conocido como un sacrificio en la modalidad de la ignorancia.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/04a92bd25b384769bce4faff2515097c.mp3",
+        "sanskrit": "/Files/1d3e8303f6914854a7bda0c9d720ee79.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "видхи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "наставлениям писаний",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "хӣнам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не соответствующее",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "а-ср̣ш̣т̣а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "без раздачи",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "аннам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "пищи",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "мантра-хӣнам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "без должных мантр",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "а-дакш̣ин̣ам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "без вознаграждения жрецов",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ш́раддха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "веры",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "вирахитам̇",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "лишенное",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "йаджн̃ам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "жертвоприношение",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "та̄масам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в гун̣е невежества",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "пари-чакш̣ате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "известно как",
+              "approved": true
+            }
+          },
+          "order": 11
+        }
+      ]
+    },
+    {
+      "number": "17.14",
+      "order": 13,
+      "sanskrit": "देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् ।\nब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ॥१४॥",
+      "transliteration": "дева-двиджа-гуру-пра̄джн̃а-, пӯджанам̇ ш́аучам а̄рджавам\nбрахмачарйам ахим̇са̄ ча, ш́а̄рӣрам̇ тапа учйате",
+      "translations": {
+        "ru": {
+          "text": "Аскетизм тела состоит в поклонении Божеству, брахманам, духовному наставнику и просветленным личностям, в чистоте, простоте, целомудрии и ненасилии.",
+          "approved": true
+        },
+        "en": {
+          "text": "Worship of the deity, the brāhmaṇ, the spiritual master, and the enlightened soul, purity, simplicity, celibacy, and nonviolence—these all constitute austerity of the body.",
+          "approved": true
+        },
+        "de": {
+          "text": "14  Die Verehrung der Bildgestalt, des Brāhmaṇen, des spirituel-len Meisters und der erleuchteten Seele, Reinheit, Einfachheit, Zölibat und Gewaltlosigkeit – all diese bilden Härten des Körpers.",
+          "approved": true
+        },
+        "es": {
+          "text": "Adorar a la deidad, al brāhmaṇa, al maestro espiritual y al alma iluminada; la pureza, la simplicidad, el celibato y la no violencia, todas estas constituyen austeridades del cuerpo.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/0f02725ab74140e7a3677f202fc33404.mp3",
+        "sanskrit": "/Files/7f2a42ac674d4a849d72ecc0d52c1089.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "дева",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Божеству",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "двиджа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "бра̄хман̣ам",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "гуру",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "духовному учителю",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "пра̄джн̃а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "просветленным душам",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "пӯджанам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "поклонение",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "ш́аучам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "внутренняя и внешняя чистота",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "а̄рджавам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "простота",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "брахмачарйам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "целомудрие или безбрачие",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ахим̇са̄ ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и ненасилие",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ш́а̄рӣрам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тела",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскетизмом",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "учйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "зовется",
+              "approved": true
+            }
+          },
+          "order": 12
+        }
+      ]
+    },
+    {
+      "number": "17.15",
+      "order": 14,
+      "sanskrit": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् ।\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ॥१५॥",
+      "transliteration": "анудвега-карам̇ ва̄кйам̇, сатйам̇ прийа-хитам̇ ча йат\nсва̄дхйа̄йа̄бхйасанам̇ чаива, ва̄н̇майам̇ тапа учйате",
+      "translations": {
+        "ru": {
+          "text": "Речь, не приносящая беспокойств, правдивая, приятная и благотворная, а также изучение и надлежащее цитирование священных писаний известны как аскетизм речи.",
+          "approved": true
+        },
+        "en": {
+          "text": "Speech which does not disturb others, which is truthful, pleasing yet beneficial, as well as regular recitation of the Vedas—all these are known as verbal austerity.",
+          "approved": true
+        },
+        "de": {
+          "text": "15  Die Rede, die niemanden stört, die wahr, erfreulich und auch vorteilhaft ist sowie das regelmäßige Rezitieren der Veden – all diese sind als Härten der Sprache bekannt.",
+          "approved": true
+        },
+        "es": {
+          "text": "Hablar de manera que no perturbemos a los demás,de aquello que sea cierto, agradable pero benéfico, así como recitar regularmente los Vedas, todas estas son conocidas como austeridades verbales.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/c164dc0bc84b45c98c6b2840eecc50d9.mp3",
+        "sanskrit": "/Files/c997df33d7a144cfae2bd4ce2101ef2d.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "ан-удвега-карам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не приносящие беспокойств",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ва̄кйам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "слова",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "сатйам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "правдивые",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "прийа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "приятные",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "хитам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "благотворные",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "йат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которые",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "сва̄дхйа̄йа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "регулярного чтения и декламации Вед",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "абхйасанам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "практика",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ча эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и также",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ва̄к-майам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "речи",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскетизмом",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "учйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "зовется",
+              "approved": true
+            }
+          },
+          "order": 13
+        }
+      ]
+    },
+    {
+      "number": "17.16",
+      "order": 15,
+      "sanskrit": "मनः प्रसादः सौम्यत्वं मौनमात्मविनिग्रहः ।\nभावसंशुद्धिरित्येतत्तपो मानसमुच्यते ॥१६॥",
+      "transliteration": "манах̣ праса̄дах̣ саумйатвам̇, маунам а̄тма-виниграхах̣\nбха̄ва-сам̇ш́уддхир итй этат, тапо ма̄насам учйате",
+      "translations": {
+        "ru": {
+          "text": "Умиротворенность, доброжелательность, умение молчать, владение собой, стремление к внешней и внутренней чистоте известны как аскетизм ума.",
+          "approved": true
+        },
+        "en": {
+          "text": "Self-satisfaction, benevolence, stability, mental control, and pure-heartedness are all known as mental austerity.",
+          "approved": true
+        },
+        "de": {
+          "text": "16  Selbstzufriedenheit, Gütigkeit, Beständigkeit, Geistesbe-herrschung und Herzensreinheit sind alle als Härten für den Geist bekannt.",
+          "approved": true
+        },
+        "es": {
+          "text": "La satisfacción, la benevolencia, la estabilidad, elcontrol mental y la pureza de corazón son todos conocidos como austeridades mentales.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/7ba5f3464f0343d8bc188e956cb0c5b8.mp3",
+        "sanskrit": "/Files/0a41d952d4554aa8b07c5b946cbf0f5d.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "манах̣-праса̄дах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "умиротворенность ума",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "саумйа-твам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "доброжелательность",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "маунам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "умение молчать",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "а̄тма-виниграхах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "самоконтроль",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "бха̄ва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "своей природы",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "сам-ш́уддхих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "стремление к очищению",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ити этат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "все это",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскетизмом",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ма̄насам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "ума",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "учйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "зовется",
+              "approved": true
+            }
+          },
+          "order": 10
+        }
+      ]
+    },
+    {
+      "number": "17.17",
+      "order": 16,
+      "sanskrit": "श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः ।\nअफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते ॥१७॥",
+      "transliteration": "ш́раддхайа̄ парайа̄ таптам̇, тапас тат три-видхам̇ нараих̣\nапхала̄ка̄н̇кш̣ибхир йуктаих̣, са̄ттвикам̇ паричакш̣ате",
+      "translations": {
+        "ru": {
+          "text": "Когда эти три вида аскез (в мыслях, словах и делах) совершаются с глубокой верой и без ожидания личной выгоды, ради удовлетворения Всевышнего — это известно как аскетизм в благости.",
+          "approved": true
+        },
+        "en": {
+          "text": "When performed by a desireless, devout soul with deep faith in the Supreme Lord, this threefold austerity of thought, word, and deed is of the nature of goodness.",
+          "approved": true
+        },
+        "de": {
+          "text": "17  Wenn sie von einer wunschlosen, andächtigen Seele mit festem Glauben an den Höchsten Herrn ausgeführt wird, ist diese dreifältige Härte der Gedanken, Worte und Taten von der Natur der Tugend.",
+          "approved": true
+        },
+        "es": {
+          "text": "Cuando es realizada sin deseos, devotamente y con profunda fe en el Supremo Señor, esta austeridad triple de pensamientos, acciones y palabras se encuentra en la modalidad de la bondad.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/ecce1f75d222485dad8b0f2783f08576.mp3",
+        "sanskrit": "/Files/908944fb0626486c807d6416609e4874.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "ш́раддхайа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "с верой",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "парайа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "глубокой",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "таптам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "совершаемые",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскетизма",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "эти",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "три-видхам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "три вида",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "нараих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "человеком",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "апхала-а̄ка̄н̇кш̣ибхих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "без желания выгоды",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "йуктаих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в связи с Богом",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "са̄ттвикам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "гун̣у благости",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "паричакш̣ате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "указывает на",
+              "approved": true
+            }
+          },
+          "order": 11
+        }
+      ]
+    },
+    {
+      "number": "17.18",
+      "order": 17,
+      "sanskrit": "सत्कारमानपूजार्थं तपो दम्भेन चैव यत् ।\nक्रियते तदिह प्रोक्तं राजसं चलमध्रुवम् ॥१८॥",
+      "transliteration": "сатка̄ра-ма̄на-пӯджа̄ртхам̇, тапо дамбхена чаива йат\nкрийате тад иха проктам̇, ра̄джасам̇ чалам адхрувам",
+      "translations": {
+        "ru": {
+          "text": "Подвижничество, совершаемое ради признания, почестей и поклонения, под влиянием гордыни, известно как аскетизм в страсти. Оно недолговечно и неустойчиво.",
+          "approved": true
+        },
+        "en": {
+          "text": "That unenduring, transitory austerity which is proudly performed for the sake of gain, worship, name, and fame, is known as austerity of the nature of passion.",
+          "approved": true
+        },
+        "de": {
+          "text": "18  Jene kurzlebige, flüchtige Härte, der sich jemand hochmütig um des Gewinns, des Ansehens, des Namens und des Ruhmes wil-len unterzieht, ist als Härte von leidenschaftlicher Natur bekannt.",
+          "approved": true
+        },
+        "es": {
+          "text": "Esa inconstante y transitoria austeridad que es orgullosamente ejecutada con el fin de obtener ganancias, adoración, nombre y fama, es conocida como una austeridad en la modalidad de la pasión.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/20e09d92962f4d47954016a72aed8aa3.mp3",
+        "sanskrit": "/Files/61aefcbbdf9641a6b3bf1ff2538b5506.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "сатка̄ра",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "признания",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ма̄на",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "почета",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "пӯджа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "поклонения",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "артхам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "ради",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскеза",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "дамбхена",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "из гордыни",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ча эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и также",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "йат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которая",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "крийате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "совершается",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "та",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "иха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в этом мире",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "пра-уктам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "определяется как",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ра̄джасам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в гун̣е страсти",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "чалам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "неустойчивая",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "а-дхрувам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "непродолжительная",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "17.19",
+      "order": 18,
+      "sanskrit": "मूढग्राहेणात्मनो यत् पीडया क्रियते तपः ।\nपरस्योत्सादनार्थं वा तत्तामसमुदाहृतम् ॥१९॥",
+      "transliteration": "мӯд̣ха-гра̄хен̣а̄тмано йат, пӣд̣айа̄ крийате тапах̣\nпарасйотса̄дана̄ртхам̇ ва̄, тат та̄масам уда̄хр̣там",
+      "translations": {
+        "ru": {
+          "text": "Подвижничество, совершаемое из глупости, с причинением страданий самому себе или для того, чтобы навредить другим, известно как аскетизм в невежестве.",
+          "approved": true
+        },
+        "en": {
+          "text": "That austerity which is performed with dubious intent, causing self-torture, or meant to harm others, is known as austerity of the nature of ignorance.",
+          "approved": true
+        },
+        "de": {
+          "text": "19  Jene Härte, die jemand mit zweifelhafter Absicht auf sich nimmt, die Selbsttortur ist oder dazu bestimmt, anderen zu schaden, ist als Härte von der Natur der Unwissenheit bekannt.",
+          "approved": true
+        },
+        "es": {
+          "text": "Esa austeridad que es ejecutada por necedad, causando la tortura de uno mismo o para hacerle daño a otros, es conocida como una austeridad en la modalidad de la ignorancia.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/f099ff831e35446fa7c2e65a22d357f9.mp3",
+        "sanskrit": "/Files/f94fd609d6534c5e89196a5b787db2ee.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "мӯд̣ха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "из глупости",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "гра̄хен̣а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "предпринимаемое",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "а̄тманах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "самому себе",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "йат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которая",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "пӣд̣айа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "причиняя боль",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "крийате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "совершается",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскеза",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "парасйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "других",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "утса̄дана",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "уничтожения",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "артхам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "ради",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ва̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "или",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "та",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "та̄масам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в гун̣е невежества",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "уд-а̄хр̣там",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "считается",
+              "approved": true
+            }
+          },
+          "order": 14
+        }
+      ]
+    },
+    {
+      "number": "17.20",
+      "order": 19,
+      "sanskrit": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे ।\nदेशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम् ॥२०॥",
+      "transliteration": "да̄тавйам ити йад да̄нам̇, дӣйате ’нупака̄рин̣е\nдеш́е ка̄ле ча па̄тре ча, тад да̄нам̇ са̄ттвикам̇ смр̣там",
+      "translations": {
+        "ru": {
+          "text": "Пожертвование, сделанное из чувства долга, без желания получить что-либо взамен, в надлежащем месте, в благоприятное время и достойному человеку, именуется благотворительностью в благости.",
+          "approved": true
+        },
+        "en": {
+          "text": "The gift which is given without expectation of return, with the conviction that it ought to be given, at an appropriate place and time, and to an appropriate recipient, is considered to be of the nature of goodness.",
+          "approved": true
+        },
+        "de": {
+          "text": "20  Das Geschenk, das ohne Erwartung einer Gegenleistung an einem angemessenen Ort zu einer angemessenen Zeit einem angemessenen Empfänger mit der Überzeugung, dass es ge-geben werden muss, gegeben wird, ist eine Mildtätigkeit von tugendhafter Natur.",
+          "approved": true
+        },
+        "es": {
+          "text": "La caridad que es dada sin esperar retribución, con la convicción de que debe ser dada, en el momento y lugar adecuado, y al recipiente apropiado, es considerada que está en la modalidad de la bondad.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/f78fcce2d91142e9a5c1e4983e6321ad.mp3",
+        "sanskrit": "/Files/279af329fa2646c09bd2a0709dc8d29f.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "да̄тавйам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "из чувства долга",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "так",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "йат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которое",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "да̄нам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "пожертвование",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "дӣйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "дается",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "ан-упа-ка̄рин̣е",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "без желания чего-либо взамен",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "деш́е",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в надлежащем или святом месте",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "ка̄ле",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в благоприятное время",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "па̄тре",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "достойной личности",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "такая",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "да̄нам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "благотворительность",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "са̄ттвикам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в гун̣е благости",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "смр̣там",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "известна",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "17.21",
+      "order": 20,
+      "sanskrit": "यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः ।\nदीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम् ॥२१॥",
+      "transliteration": "йат ту пратй-упака̄ра̄ртхам̇, пхалам уддиш́йа ва̄ пунах̣\nдӣйате ча париклиш̣т̣ам̇, тад да̄нам̇ ра̄джасам̇ смр̣там",
+      "translations": {
+        "ru": {
+          "text": "Благотворительность, совершаемая человеком со стремлением к выгоде или вознаграждению, а также с сожалениями, считается благотворительностью в страсти.",
+          "approved": true
+        },
+        "en": {
+          "text": "Otherwise, the gift begrudgingly given in expectation of gaining something in return, or with a desire for a reward (such as the attainment of heaven), is considered to be of the nature of passion.",
+          "approved": true
+        },
+        "de": {
+          "text": "21  Andererseits ist das Geschenk, das in der Erwartung, etwas im Gegenzuge zu gewinnen oder das mit einem Wunsch nach Belohnung (wie z.B. das Erreichen des Himmels) gemacht wird, von der Natur der Leidenschaft.",
+          "approved": true
+        },
+        "es": {
+          "text": "Pero, la caridad que se hace con la expectativa de obtener retribución, o con el deseo de una recompensa (como llegar al cielo), es considerada que está en la modalidad de la pasión.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/e05b71e3408e4889b118ce5bf9d28238.mp3",
+        "sanskrit": "/Files/c3750c9eed3e4c85b0944eb47ab43a57.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "йат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которая",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ту",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "но",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "прати-упака̄ра-артхам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "с целью получить вознаграждение",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "пхалам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "выгоду",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "уддиш́йа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "ожидая",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "ва̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "или",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "пунах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "кроме того",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "дӣйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "дается",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "пари-клиш̣т̣ам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "неохотно, с сожалениями",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "такая",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "да̄нам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "благотворительность",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ра̄джасам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в гун̣е страсти",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "смр̣там",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "считается",
+              "approved": true
+            }
+          },
+          "order": 14
+        }
+      ]
+    },
+    {
+      "number": "17.22",
+      "order": 21,
+      "sanskrit": "अदेशकाले यद्दानमपात्रेभ्यश्च दीयते ।\nअसत्कृतमवज्ञातं तत्तामसमुदाहृतम् ॥२२॥",
+      "transliteration": "адеш́а-ка̄ле йад да̄нам, апа̄требхйаш́ ча дӣйате\nасаткр̣там аваджн̃а̄там̇, тат та̄масам уда̄хр̣там",
+      "translations": {
+        "ru": {
+          "text": "Если пожертвование дано в нечистом месте, в неподходящее время, недостойному человеку или без должного внимания и уважения, — это благотворительность в невежестве.",
+          "approved": true
+        },
+        "en": {
+          "text": "The gift given disrespectfully and scornfully to an unworthy recipient at an improper place and time is considered to be of the nature of ignorance.",
+          "approved": true
+        },
+        "de": {
+          "text": "22  Das respektlos und verächtlich einem unwürdigen Empfänger an einem ungeeigneten Ort zu einer unangebrachten Zeit gege-bene Geschenk wird als Mildtätigkeit in der Erscheinungsweise der Unwissenheit betrachtet.",
+          "approved": true
+        },
+        "es": {
+          "text": "La caridad dada de manera irrespetuosa y con des- precio a un recipiente indigno y en un momento y lugar indebido es considerada que está en la modalidad de la ignorancia.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/84ce8e43cca048488c810aaada40ae9a.mp3",
+        "sanskrit": "/Files/14c7808dd9f2499093d96dadbc5eeb5b.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "а-деш́а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в неподходящем месте",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ка̄ле",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и в неподходящее время",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "йат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которое",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "да̄нам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "пожертвование",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "а-па̄требхйах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "недостойному",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "дӣйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "дается",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "а-сат-кр̣там",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "без должного обращения",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ава-джн̃а̄там",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "пренебрежительно",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "та",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "та̄масам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в гун̣е невежества",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "уд-а̄хр̣там",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "описывается как",
+              "approved": true
+            }
+          },
+          "order": 12
+        }
+      ]
+    },
+    {
+      "number": "17.23",
+      "order": 22,
+      "sanskrit": "ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः ।\nब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा ॥२३॥",
+      "transliteration": "ом̇-тат-сад ити нирдеш́о, брахман̣ас три-видхах̣ смр̣тах̣\nбра̄хман̣а̄с тена веда̄ш́ ча, йаджн̃а̄ш́ ча вихита̄х̣ пура̄",
+      "translations": {
+        "ru": {
+          "text": "Ведические писания используют выражение «Ом Тат Сат» для обозначения духовной Реальности (Брахмáна) за пределами материального мира. Во время творения вселенной вместе с произнесением этих трех слов были явлены священнослужители (брáхманы), Веды и жертвоприношения.",
+          "approved": true
+        },
+        "en": {
+          "text": "The scriptures say that the wordsindicate Brahma, the Supreme Spirit. At the time of the universal manifestation, the brāhmaṇs, the Vedas, and sacrifices were manifested by these three words.",
+          "approved": true
+        },
+        "de": {
+          "text": "23  Die Schriften sagen, dass die Worte Oṁ Tat Sat auf das Brah-man, den Höchsten Geist hindeuten. Durch diese drei Worte traten zum Zeitpunkt des Entstehens des Universums die Brāhmaṇen, die Veden und die Opferzeremonie hervor.",
+          "approved": true
+        },
+        "es": {
+          "text": "Las escrituras señalan que las palabras Oṁ Tat Sat indican al Brahman, el Supremo Espíritu. En el momento de la manifestación universal, los brāhmaṇas, los Vedas y los sacrificios fueron manifestados por estas tres palabras.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/9aa9b3e0ca224ccea1bba27d7510015a.mp3",
+        "sanskrit": "/Files/cc2db8a873cd4cf6a3868db17c37155a.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "ом",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "«Ом», звуковое олицетворение надмирной Реальности",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "«Тат», то",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "сат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "«Сат», истинное, вечное, сущее",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "так",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "нирдеш́ах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "обозначается",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "брахман̣ах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Брахман, трансцендентная Реальность",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "три-видхах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тремя словами",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "смр̣тах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "считается",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "бра̄хман̣а̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "бра̄хман̣ы",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "тена",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "этими",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "веда̄х̣ ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и Веды",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "йаджн̃а̄х̣ ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и жертвоприношения",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "вихита̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "были явлены",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "пура̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в древности",
+              "approved": true
+            }
+          },
+          "order": 14
+        }
+      ]
+    },
+    {
+      "number": "17.24",
+      "order": 23,
+      "sanskrit": "तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः ।\nप्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम् ॥२४॥",
+      "transliteration": "тасма̄д ом итй уда̄хр̣тйа, йаджн̃а-да̄на-тапах̣-крийа̄х̣\nправартанте видха̄нокта̄х̣, сататам̇ брахма-ва̄дина̄м",
+      "translations": {
+        "ru": {
+          "text": "Поэтому, совершая жертвоприношения и аскезы, а также подношение даров, духовные искатели, следуя наставлениям Вед, всегда произносят слог «Ом», звуковое олицетворение надмирной Истины.",
+          "approved": true
+        },
+        "en": {
+          "text": "Thus the followers of the Vedas always utter the syllablerepresenting Brahma, the Absolute, to initiate their prescribed duties of sacrifice, charity, and austerity.",
+          "approved": true
+        },
+        "de": {
+          "text": "24  Deshalb sprechen die Befolger der Veden stets die das Brah-man, den Absoluten, repräsentierende Silbe Oṁ aus, um ihre schriftmäßig vorgeschriebenen Pflichten der Opferung, der Mild-tätigkeit und der Härten zu beginnen.",
+          "approved": true
+        },
+        "es": {
+          "text": "Así el seguidor de los Vedas siempre recita la sílaba Oṁ representando el Brahman, el Absoluto, para iniciar los deberes prescritos de los sacrificios, de la caridad y de la austeridad.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/86218a69ae8a435aa2763bee32cb288d.mp3",
+        "sanskrit": "/Files/d1b6a214546b49fca22338cbed203d48.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "тасма̄т",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "поэтому",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ом",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "слога «Ом»",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "так",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "уд-а̄-хр̣тйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "с произнесением",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "йаджн̃а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "жертвоприношения",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "да̄на",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "благотворительность",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскетизм",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "крийа̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "исполнять",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "пра-вартанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "начинают",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "видха̄на-укта̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "предписанные в Ведах",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "са-татам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "всегда",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "брахма",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "духовной истины",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ва̄дина̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "приверженцы",
+              "approved": true
+            }
+          },
+          "order": 13
+        }
+      ]
+    },
+    {
+      "number": "17.25",
+      "order": 24,
+      "sanskrit": "तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः ।\nदानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ॥२५॥",
+      "transliteration": "тад итй анабхисандха̄йа, пхалам̇ йаджн̃а-тапах̣-крийа̄х̣\nда̄на-крийа̄ш́ ча вивидха̄х̣, крийанте мокш̣а-ка̄н̇кш̣ибхих̣",
+      "translations": {
+        "ru": {
+          "text": "Произнося слово «Тат», они без ожидания выгоды совершают жертвоприношения, аскезы и занимаются благотворительностью, продвигаясь по пути освобождения из мира смерти.",
+          "approved": true
+        },
+        "en": {
+          "text": "Persons aspiring for liberation utter the word, representing Brahma, the Absolute, to invoke the performance of various acts of sacrifice, charity, and austerity without motivation for the results.",
+          "approved": true
+        },
+        "de": {
+          "text": "25  Auf Erlösung hoffende Personen sprechen das Wort Tat aus, das das Brahman, den Absoluten, repräsentiert, um die Ausfüh-rung von verschiedenen Opferhandlungen, Mildtätigkeiten und auferlegte Härten ohne Motivation für die Ergebnisse einzuleiten.",
+          "approved": true
+        },
+        "es": {
+          "text": "Las personas que aspiran a la liberación recitan la palabra Tat, representando al Brahman, el Absoluto, para invocar la ejecución de varios sacrificios, actos de caridad y austeridad sin la motivación por los resultados",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/fd242955cb11430cb602f7729b0a47c5.mp3",
+        "sanskrit": "/Files/a20466e0bbd044c6a89ed0a7d99f1d13.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "слово «Тат»",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "так",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "анабхисандха̄йа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не желая",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "пхалам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "выгоды",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "йаджн̃а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "жертвоприношения",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскезы",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "крийа̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "совершают",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "да̄на",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "благотворительности",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "крийа̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "акты",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ви-видха̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "различные",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "крийанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "совершаемые",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "мокш̣а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "к освобождению",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "ка̄н̇кш̣ибхих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "стремящиеся",
+              "approved": true
+            }
+          },
+          "order": 14
+        }
+      ]
+    },
+    {
+      "number": "17.26",
+      "order": 25,
+      "sanskrit": "सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते ।\nप्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते ॥२६॥",
+      "transliteration": "сад-бха̄ве са̄дху-бха̄ве ча, сад итй этат прайуджйате\nпраш́асте карман̣и татха̄, сач-чхабдах̣ па̄ртха йуджйате",
+      "translations": {
+        "ru": {
+          "text": "Партха! Деятельность, приносящая подлинное благо всем живым существам, пребывает в измерении истины и вечности, обозначаемых словом «Сат». Человек, занятый подобной деятельностью, именуется садху.",
+          "approved": true
+        },
+        "en": {
+          "text": "O Pārtha, the word, representing Brahma, the Absolute, indicates the truth and persons dedicated to the truth. Therefore, the wordis uttered to invoke the performance of auspicious activities.",
+          "approved": true
+        },
+        "de": {
+          "text": "26  O Pārtha, das Wort Sat, das das Brahman, den Absoluten reprä-sentiert, deutet auf die Wahrheit und der Wahrheit verschriebene Personen hin. Deshalb wird das Wort Sat ausgesprochen, um die Ausführung von glückbringenden Aktivitäten einzuleiten.",
+          "approved": true
+        },
+        "es": {
+          "text": "¡Oh Pārtha!, la palabra Sat representa el Brahman, el Absoluto, indicando la verdad y las personas dedicadas a la verdad. Por lo tanto, la palabra Sat es recitada para invocar la ejecución de actividades piadosas.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/b0f49190d7d94e80916d36e293183420.mp3",
+        "sanskrit": "/Files/34118fdb094344a3a8f3d657b7af38b5.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "сат-бхаве",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "природа истины и вечности",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "са̄дху-бха̄ве",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "природа са̄дху, подвижников",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "сат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "слово «Сат», означающее «истинное, вечное, сущее»",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "так",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "этат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "это",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "пра-йуджйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "используется",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "праш́асте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в определении благоприятной",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "карман̣и",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "деятельности",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "татха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "сат-ш́абдах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "слово «Сат»",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "па̄ртха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "сын Кунтӣ",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "йуджйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "применяется",
+              "approved": true
+            }
+          },
+          "order": 13
+        }
+      ]
+    },
+    {
+      "number": "17.27",
+      "order": 26,
+      "sanskrit": "यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते ।\nकर्म चैव तदर्थीयं सदित्येवाभिधीयते ॥२७॥",
+      "transliteration": "йаджн̃е тапаси да̄не ча, стхитих̣ сад ити чочйате\nкарма чаива тад-артхӣйам̇, сад итй эва̄бхидхӣйате",
+      "translations": {
+        "ru": {
+          "text": "Слово «Сат» указывает на вечность результатов, обретаемых посредством жертвоприношений, благотворительности и подвижничества ради познания надмирной Истины. Деятельность, цель которой — движение от смерти к бессмертию, также именуют «Сат».",
+          "approved": true
+        },
+        "en": {
+          "text": "The wordis said to indicate the eternality of sacrifice, austerity, and charity. And action for the satisfaction of the Supreme Lord is called—truth.",
+          "approved": true
+        },
+        "de": {
+          "text": "27  Das Wort Sat soll auf die Unvergänglichkeit von Opferhand-lungen, Härten und Mildtätigkeiten hinweisen. Auch die Hand-lung für die Zufriedenstellung des Höchsten Herrn wird Sat, Wahrheit, genannt.",
+          "approved": true
+        },
+        "es": {
+          "text": "Se dice que la palabra Sat es la eternidad de los sacrificios, austeridad y caridad. Y la actividad realizada para la satisfacción del Supremo Señor es llamada Sat –verdad.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/1e9dbb872f6b46e6a2bdad127dcc3a42.mp3",
+        "sanskrit": "/Files/e6d108fbe328499ca0058fd839eeefa0.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "йаджн̃е",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "жертвоприношения",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "тапаси",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскетизма",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "да̄не ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и благотворительности",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "стхитих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "положение",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "сат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "словом «Сат»",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "таким образом",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "учйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "именуется",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "карма",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "деятельность",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ча эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "а также",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "тат-артхӣйам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "ради той же (надмирной) цели",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "сат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "словом «Сат»",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "так",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "безусловно",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "абхи-дхӣйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "обозначается",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "17.28",
+      "order": 27,
+      "sanskrit": "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् ।\nअसदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ॥२८॥",
+      "transliteration": "аш́раддхайа̄ хутам̇ даттам̇, тапас таптам̇ кр̣там̇ ча йат\nасад итй учйате па̄ртха, на ча тат претйа но иха",
+      "translations": {
+        "ru": {
+          "text": "Сын Притхи! Жертвоприношения, благотворительность и аскезы, совершаемые без веры в духовную Реальность, именуются асат — «не существующее», ибо их результаты преходящи. Они не приносят блага человеку ни при жизни, ни после смерти.",
+          "approved": true
+        },
+        "en": {
+          "text": "O Pārtha, sacrifice, charity, and austerity or any action performed without faith in the Supreme is known as asat, or untruth. Such works cannot bring an auspicious result, either in this world or the next.",
+          "approved": true
+        },
+        "de": {
+          "text": "28  O Pārtha, Opferhandlungen, Mildtätigkeiten und Härten oder jegliche Handlung, die ohne Glauben an den Höchsten ausgeführt werden, sind als Asat, Unwahrheit, bekannt. Solche Bemühungen können keine glücklichen Ergebnisse bringen. Weder in dieser Welt noch in der nächsten.‘\n\niti śrī-mahābhārate śata-sāhasryāṁ saṁhitāyāṁ vaiyāsikyāṁ\nbhīṣma-parvaṇi śrīmad-bhagavad-gītāsūpaniṣatsu\nbrahmavidyāyāṁ yoga-śāstre śrī-kṛṣṇārjuna-saṁvāde\nśraddhātraya-vibhāga-yogo nāma sapta-daśo ’dhyāyaḥ [17]\n\nSomit endet das siebzehnte Kapitel\n\n„Die drei Arten von Glauben“\n\nvon dem Gespräch\nzwischen Śrī Kṛṣṇa und Arjuna\nin der Śrīmad Bhagavad-Gītā Upaniṣad,\nder Yogaschrift von überweltlichem Wissen\nim Bhīṣma-Parva des Śrī Mahābhārata, der Heiligen Schrift,\ndie von Śrīla Vyāsadeva in einhunderttausend Versen offenbart wurde.",
+          "approved": true
+        },
+        "es": {
+          "text": "¡Oh Pārtha!, el sacrificio, la caridad y la austeridad o cualquier actividad realizada sin fe en el Supremo son conocidos como asat, o falsos. Tales obras no pueden traer un resultado auspicioso, ya sea en este mundo o en el próximo.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/b1c3cf81b613437f8ef913b05df80ee3.mp3",
+        "sanskrit": "/Files/301755bfa70840e994f39f9ae7dd2b5d.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "а-ш́раддхайа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "без веры",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "хутам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "жертвоприношения",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "даттам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "благотворительность",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аскезы",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "таптам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "исполнение",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "кр̣там",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "совершаемое",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "йат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которое",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "а-сат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не существующее",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "так",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "учйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "описывается",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "па̄ртха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Арджуна",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "на",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "это все",
+              "approved": true
+            }
+          },
+          "order": 15
+        },
+        {
+          "word": "претйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "ни после смерти",
+              "approved": true
+            }
+          },
+          "order": 16
+        },
+        {
+          "word": "но иха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "ни в этой жизни",
+              "approved": true
+            }
+          },
+          "order": 17
+        }
+      ]
+    }
+  ]
+}

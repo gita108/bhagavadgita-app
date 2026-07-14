@@ -1,0 +1,540 @@
+{
+  "vocabulary": {
+    "22075": {
+      "meaning": "הו האציל שבשושלת בהראט",
+      "transliteration": "בהראטארשאבה"
+    },
+    "22020": {
+      "meaning": "הו בן קונטי",
+      "transliteration": "קאונטיה"
+    },
+    "22085": {
+      "meaning": "הו צאצא קורו",
+      "transliteration": "קורו-נאנדאנה"
+    },
+    "22179": {
+      "meaning": "הו בן פאנדו",
+      "transliteration": "פאנדאבה"
+    },
+    "22224": {
+      "meaning": "אני היסוד",
+      "transliteration": "אהם פרטישטהא"
+    },
+    "22230": {
+      "meaning": "ושל האושר האולטימטיבי של אהבה אלוהית",
+      "transliteration": "איקאנטיקאסיה סוקהאסיה צ'ה"
+    },
+    "22032": {
+      "meaning": "יליד החושך",
+      "transliteration": "אג'נאנה-ג'אם"
+    },
+    "22134": {
+      "meaning": "וחוסר ידע",
+      "transliteration": "אג'נאנם אבה צ'ה"
+    },
+    "22226": {
+      "meaning": "ושל הבלתי נדלה",
+      "transliteration": "אביאסיה צ'ה"
+    },
+    "22166": {
+      "meaning": "יודע את השמחה של",
+      "transliteration": "אשנותה"
+    },
+    "22213": {
+      "meaning": "דרך היוגה של מסירות",
+      "transliteration": "בהאקטי-יוגנה"
+    },
+    "22225": {
+      "meaning": "של האמת המוחלטת",
+      "transliteration": "ברהמנה"
+    },
+    "22163": {
+      "meaning": "שמופיעים בגוף",
+      "transliteration": "דהה-סאמודבהאבאן"
+    },
+    "22009": {
+      "meaning": "בתוך הגוף",
+      "transliteration": "דהה"
+    },
+    "22008": {
+      "meaning": "תושב הגוף",
+      "transliteration": "דהינם"
+    },
+    "22147": {
+      "meaning": "היצור החי, העד",
+      "transliteration": "דראשטהא"
+    },
+    "22162": {
+      "meaning": "שלושת אופני הטבע הללו",
+      "transliteration": "אטאן טרין גונאן"
+    },
+    "22192": {
+      "meaning": "על ידי האופנים",
+      "transliteration": "גונאיח"
+    },
+    "22211": {
+      "meaning": "כטרנסצנדנטי לאופני הטבע החומרי",
+      "transliteration": "גונא-אטיטהח"
+    },
+    "22155": {
+      "meaning": "לאופנים",
+      "transliteration": "גונבהיה"
+    },
+    "22143": {
+      "meaning": "נוטים לתכונות נמוכות יותר",
+      "transliteration": "ג'אגהאניה-גונא-ורטי-סטהח"
+    },
+    "22165": {
+      "meaning": "מהסבל של לידה, מוות וזקנה",
+      "transliteration": "ג'אנמה-מרטייו-ג'ארא-דוחכהאיח"
+    },
+    "21961": {
+      "meaning": "של כל תחומי הידע",
+      "transliteration": "ג'נאנאנם"
+    },
+    "22106": {
+      "meaning": "הוא נולד",
+      "transliteration": "ג'אייאטה"
+    },
+    "22107": {
+      "meaning": "כאדם הקשור לפעולה",
+      "transliteration": "קרמה-סאנגישו"
+    },
+    "22151": {
+      "meaning": "כעושה",
+      "transliteration": "קארטארם"
+    },
+    "22141": {
+      "meaning": "באמצע (כבני אדם)",
+      "transliteration": "מאדהיה"
+    },
+    "21983": {
+      "meaning": "הוא מקום ההפריה שלי",
+      "transliteration": "מאמא יוניח"
+    },
+    "22207": {
+      "meaning": "כלפי חבר ואויב",
+      "transliteration": "מיטרא-ארי-פאקשאיוח"
+    },
+    "22184": {
+      "meaning": "ואשליה (התוצאה של בורות)",
+      "transliteration": "מוהם אבה צ'ה"
+    },
+    "22216": {
+      "meaning": "אלי (האדון העליון שיאמאסונדאר)",
+      "transliteration": "מאם צ'ה"
+    },
+    "22112": {
+      "meaning": "במינים הנמוכים",
+      "transliteration": "מודהא-יונישו"
+    },
+    "22186": {
+      "meaning": "וגם לא כמה אליהם",
+      "transliteration": "נא קאנקשטי"
+    },
+    "22012": {
+      "meaning": "בגלל טוהר",
+      "transliteration": "נירמאלטבאת"
+    },
+    "22122": {
+      "meaning": "והפרי",
+      "transliteration": "פאלאם (צ'ה)"
+    },
+    "22182": {
+      "meaning": "הארה (התוצאה של טוב)",
+      "transliteration": "פראקאשם צ'ה"
+    },
+    "21980": {
+      "meaning": "בהתמוטטות היקום",
+      "transliteration": "פרלאיה צ'ה"
+    },
+    "22132": {
+      "meaning": "אשליה ובלבול",
+      "transliteration": "פרמאדה-מוהאו"
+    },
+    "22038": {
+      "meaning": "עם אשליה, עצלות ושינה",
+      "transliteration": "פרמאדה-אלאסיה-נידראביח"
+    },
+    "22183": {
+      "meaning": "הפעלה (התוצאה של תשוקה)",
+      "transliteration": "פרברטים צ'ה"
+    },
+    "22105": {
+      "meaning": "עם שליטה של אופן התשוקה",
+      "transliteration": "רג'אסי (פרברידהה)"
+    },
+    "22076": {
+      "meaning": "עם שליטה של אופן התשוקה",
+      "transliteration": "רג'אסי ויוורידהה"
+    },
+    "22057": {
+      "meaning": "אופן התשוקה",
+      "transliteration": "רג'ה"
+    },
+    "22056": {
+      "meaning": "אופני התשוקה והבורות",
+      "transliteration": "רג'ה טמה צ'ה"
+    },
+    "22023": {
+      "meaning": "התגלמות של תשוקה",
+      "transliteration": "ראגא-אטמאקאם"
+    },
+    "22099": {
+      "meaning": "כאשר מואר",
+      "transliteration": "יאדה"
+    },
+    "22098": {
+      "meaning": "כאשר לא מואר",
+      "transliteration": "יאדה"
+    },
+    "22045": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22044": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22043": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22042": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22041": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22040": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22039": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22037": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22036": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22035": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22034": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22033": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22031": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22030": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22029": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22028": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22027": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22026": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22025": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22024": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22022": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22021": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22019": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22018": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22017": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22016": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22015": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22014": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22013": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22011": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22010": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22007": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22006": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22005": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22004": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22003": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22002": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22001": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "22000": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21999": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21998": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21997": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21996": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21995": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21994": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21993": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21992": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21991": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21990": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21989": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21988": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21987": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21986": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21985": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21984": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21982": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21981": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21979": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21978": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21977": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21976": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21975": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21974": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21973": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21972": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21971": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21970": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21969": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21968": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21967": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21966": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21965": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21964": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21963": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21962": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21960": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21959": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21958": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21957": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21956": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21955": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21954": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21953": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21952": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21951": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21950": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    },
+    "21949": {
+      "meaning": "אופן הטוב",
+      "transliteration": "סאטווה"
+    }
+  }
+}

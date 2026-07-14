@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimaryDark">@color/red_3</item>
+		<item name="colorPrimary">@color/red_1</item>
+		<item name="colorControlNormal">@color/red_1</item>
+		<item name="colorAccent">@color/red_1</item>
+		<item name="drawerArrowStyle">@style/DrawerArrowToggle</item>
+		<item name="windowNoTitle">true</item>
+		<item name="windowActionModeOverlay">true</item>
+		<item name="actionModeBackground">@color/red_2</item>
+	</style>
+
+	<style name="AppTheme.GrayStatusBar">
+		<item name="colorPrimaryDark">@color/black_20</item>
+	</style>
+
+	<style name="AppTheme.NavBar" />
+
+	<style name="AppTheme.NavBar.NoAnim">
+		<item name="android:windowAnimationStyle">@null</item>
+	</style>
+
+	<style name="AppTheme.NoAnim">
+		<item name="android:windowAnimationStyle">@null</item>
+	</style>
+
+	<style name="AppTheme.NavBar.WindowTransparent">
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowIsTranslucent">true</item>
+	</style>
+
+	<style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.ActionBar">
+		<item name="colorControlNormal">@color/white</item>
+		<item name="colorAccent">@color/white</item>
+		<item name="android:textColorPrimary">@color/white</item>
+		<item name="actionMenuTextColor">@color/white</item>
+	</style>
+
+	<style name="SearchToolbarTheme" parent="Base.Widget.AppCompat.SearchView.ActionBar">
+		<item name="searchViewStyle">@style/SearchViewTheme</item>
+		<item name="colorControlNormal">@color/gray_2</item>
+		<item name="colorAccent">@color/gray_2</item>
+		<item name="android:textColorPrimary">@color/gray_2</item>
+		<item name="actionMenuTextColor">@color/gray_2</item>
+	</style>
+
+	<style name="SearchViewTheme" parent="Base.Widget.AppCompat.SearchView.ActionBar">
+		<item name="layout">@layout/item_search_view</item>
+		<item name="searchIcon">@null</item>
+		<item name="defaultQueryHint">@string/search</item>
+		<item name="android:textColorPrimary">@color/gray_2</item>
+		<item name="colorControlNormal">@color/gray_2</item>
+		<item name="colorControlActivated">@color/gray_2</item>
+	</style>
+
+	<style name="DrawerArrowToggle" parent="Widget.AppCompat.DrawerArrowToggle">
+		<item name="color">@color/white</item>
+	</style>
+
+	<style name="Dialog" parent="Theme.AppCompat.Light.Dialog">
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowNoTitle">true</item>
+	</style>
+
+	<style name="Dialog.NoShadow">
+		<item name="android:backgroundDimEnabled">false</item>
+	</style>
+</resources>

@@ -1,0 +1,711 @@
+{
+  "chapter": 7,
+  "meta": {
+    "source": "/Users/anton/proj/gita/data/chapters/ch-07/vocabulary-source.json",
+    "generated": "2026-03-27",
+    "languages": ["he", "ar", "tr", "sw"],
+    "approved": false
+  },
+  "vocabulary": {
+    "19378": {
+      "meaning": {
+        "he": "הו ניצן גדול של באראטה",
+        "ar": "يا عظيم نسل بهاراتا",
+        "tr": "Ey Bharata'nın büyük soyu",
+        "sw": "Ewe zao kubwa la Bharata"
+      },
+      "transliteration": {
+        "he": "הֶה בְּהָרַתַרְשַׁבְּהָה",
+        "ar": "(هي) بهاراتارشابها",
+        "tr": "(he) bharatarṣabha",
+        "sw": "(he) bharatarṣabha"
+      }
+    },
+    "19506": {
+      "meaning": {
+        "he": "הו ארג'ונה, מעניש האויב",
+        "ar": "يا أرجونا، معاقب العدو",
+        "tr": "Ey Arjuna, düşmanı cezalandıran",
+        "sw": "Ewe Arjuna, mwinguzaji wa adui"
+      },
+      "transliteration": {
+        "he": "הֶה בְּהָרַתַה הֶה פַּרַנְתַפַּה",
+        "ar": "(هي) بهاراتا (هي) بارانتابا",
+        "tr": "(he) bhārata (he) parantapa",
+        "sw": "(he) bhārata (he) parantapa"
+      }
+    },
+    "19275": {
+      "meaning": {
+        "he": "הו דהאננג'איה, כובש העושר",
+        "ar": "يا دهاننجاي، فاتح الثروات",
+        "tr": "Ey Dhanañjaya, servetleri fetheden",
+        "sw": "Ewe Dhanañjaya, mshindi wa utajiri"
+      },
+      "transliteration": {
+        "he": "הֶה דְהַנַנְג'ַיַה",
+        "ar": "(هي) دهاننجاي",
+        "tr": "(he) dhanañjaya",
+        "sw": "(he) dhanañjaya"
+      }
+    },
+    "19286": {
+      "meaning": {
+        "he": "הו בני קונטי",
+        "ar": "يا ابن كونتي",
+        "tr": "Ey Kuntī oğlu",
+        "sw": "Ewe mwana wa Kuntī"
+      },
+      "transliteration": {
+        "he": "הֶה קַאוּנְטֶיַה",
+        "ar": "(هي) كونتيا",
+        "tr": "(he) kaunteya",
+        "sw": "(he) kaunteya"
+      }
+    },
+    "19384": {
+      "meaning": {
+        "he": "ארבעה סוגים אלה של אנשים",
+        "ar": "هذه الأنواع الأربعة من الأشخاص",
+        "tr": "Bu dört kinds of persons",
+        "sw": "Aina hizi nne za watu"
+      },
+      "transliteration": {
+        "he": "אִיתִי צַ'טוּרְ-וִידְהָה ג'ַנָאה",
+        "ar": "(إيتي) تشاتور فيدهاه جانا",
+        "tr": "(iti) chatuḥ-vidhāḥ janāḥ",
+        "sw": "(iti) chatuḥ-vidhāḥ janāḥ"
+      }
+    },
+    "19227": {
+      "meaning": {
+        "he": "דבר שיש לדעת על ידך",
+        "ar": "شيء يجب معرفته من قبلك",
+        "tr": "Senin tarafından bilinmesi gereken şey",
+        "sw": "Kitu kinachopaswa kujulikana kwako"
+      },
+      "transliteration": {
+        "he": "טַבַה ג'נָאתַבְּיַם",
+        "ar": "(تافا) جنياتافيام",
+        "tr": "(tava) jñātavyam",
+        "sw": "(tava) jñātavyam"
+      }
+    },
+    "19441": {
+      "meaning": {
+        "he": "אני, כנשמה העליונה השוכנת בלבו",
+        "ar": "أنا، كالروح العليا الساكنة في قلبه",
+        "tr": "Ben, kalbinde oturan Üst-Ruh olarak",
+        "sw": "Mimi, kama Roho Mkuu anayekaa moyoni mwake"
+      },
+      "transliteration": {
+        "he": "אַהַם",
+        "ar": "أهام",
+        "tr": "aham",
+        "sw": "aham"
+      }
+    },
+    "19271": {
+      "meaning": {
+        "he": "אני מקור ההתגלות",
+        "ar": "أنا مصدر التجلي",
+        "tr": "Ben tezahürün kaynağıyım",
+        "sw": "Mimi ni chanzo cha udhihirisho"
+      },
+      "transliteration": {
+        "he": "אַהַם פְּרַבְּהַבַה",
+        "ar": "أهام برابهاها",
+        "tr": "aham prabhavaḥ",
+        "sw": "aham prabhavaḥ"
+      }
+    },
+    "19518": {
+      "meaning": {
+        "he": "הושמדו (במזל של שיתוף עם המ devotee הטהור שלי)",
+        "ar": "تم استئصالها (بحظ الصحبة مع متعبدِي النقي)",
+        "tr": "ortadan kaldırıldı (Benim saf müridimle arkadaşlık şansıyla)",
+        "sw": "zimeangamizwa (kwa bahati ya ushirika na muabudu wangu safi)"
+      },
+      "transliteration": {
+        "he": "אַנְטַה-גַתַם",
+        "ar": "أنتا-غاتام",
+        "tr": "anta-gatam",
+        "sw": "anta-gatam"
+      }
+    },
+    "19413": {
+      "meaning": {
+        "he": "כעליון",
+        "ar": "كالأعلى",
+        "tr": "en yüce olarak",
+        "sw": "kama wa juu kabisa"
+      },
+      "transliteration": {
+        "he": "אַנוּתַּמָאם",
+        "ar": "أنوتامام",
+        "tr": "anuttamām",
+        "sw": "anuttamām"
+      }
+    },
+    "19432": {
+      "meaning": {
+        "he": "אישיויות אלוהיות אחרות - חצאי האלים - אל השמש וכו'",
+        "ar": "شخصيات إلهية أخرى - أنصاف الآلهة - إله الشمس، إلخ",
+        "tr": "diğer ilahi kişilikler - yarı tanrılar - güneş tanrısı vb.",
+        "sw": "nafasi nyingine za kimungu - nusu miungu - mungu wa jua, n.k."
+      },
+      "transliteration": {
+        "he": "אַנְיַה-דֶבַתָאה",
+        "ar": "أنيا-ديفاتاه",
+        "tr": "anya-devatāḥ",
+        "sw": "anya-devatāḥ"
+      }
+    },
+    "19375": {
+      "meaning": {
+        "he": "(3) אלה שידיעתם מכוסה",
+        "ar": "(3) أولئك الذين معرفتهم مغطاة",
+        "tr": "(3) bilgisi örtülü olanlar",
+        "sw": "(3) wale ambao ujuzi wao umefunikwa"
+      },
+      "transliteration": {
+        "he": "אַפְּהְרִיתַה-ג'נָאנָאה",
+        "ar": "أباهريتا-جناناه",
+        "tr": "apahṛta-jñānāḥ",
+        "sw": "apahṛta-jñānāḥ"
+      }
+    },
+    "19440": {
+      "meaning": {
+        "he": "לעבוד עם אמונה",
+        "ar": "لعبادة بإيمان",
+        "tr": "inançla ibadet etmek",
+        "sw": "kuabudu kwa imani"
+      },
+      "transliteration": {
+        "he": "אַרְצ'יתוּם שְׁרַדְדְהַיָא",
+        "ar": "أرشيتوم شراددايا",
+        "tr": "architum śraddhayā",
+        "sw": "architum śraddhayā"
+      }
+    },
+    "19480": {
+      "meaning": {
+        "he": "כבלתי אישי או חסר צורה ברהמה",
+        "ar": "كالبراهما غير الشخصي أو بلا شكل",
+        "tr": "kişisel olmayan veya formsuz Brahma olarak",
+        "sw": "kama Brahma asiye na umbo au asiye na umbo"
+      },
+      "transliteration": {
+        "he": "אַבְיַקְטַם",
+        "ar": "أفياكتام",
+        "tr": "avyaktam",
+        "sw": "avyaktam"
+      }
+    },
+    "19325": {
+      "meaning": {
+        "he": "עבור החזקים",
+        "ar": "لأجل الأقوياء",
+        "tr": "güçlüler için",
+        "sw": "kwa ajili ya wenye nguvu"
+      },
+      "transliteration": {
+        "he": "בַּלַה-בַתָאם",
+        "ar": "بالا-فاتام",
+        "tr": "bala-vatām",
+        "sw": "bala-vatām"
+      }
+    },
+    "19326": {
+      "meaning": {
+        "he": "ככוח של איכות סאטוויק, או טוב, המאפשרת לאדם לבצע את חובותיו הדתיות",
+        "ar": "كقوة لنوعية ساتفيك، أو الخير، التي تمكن المرء من أداء واجباته الدينية",
+        "tr": "satvik kalite veya iyiliğin gücü olarak, kişinin dini görevlerini yerine getirmesini sağlar",
+        "sw": "kama nguvu ya sifa ya sāttvika, au wema, inayomwezesha mtu kutekeleza majukumu yake ya kidini"
+      },
+      "transliteration": {
+        "he": "בַּלַם",
+        "ar": "بالام",
+        "tr": "balam",
+        "sw": "balam"
+      }
+    },
+    "23813": {
+      "meaning": {
+        "he": "עובדים אותי (אם כי המניעים שלהם עשויים להיות מעורבים בפעולה או ידע)",
+        "ar": "يعبدونني (على الرغم من أن دوافعهم قد تكون مختلطة بالعمل أو المعرفة)",
+        "tr": "Bana ibadet ederler (niyetleri eylem veya bilgi ile karışık olabilir)",
+        "sw": "wanaonibuudu Mimi (ingawa nia zao zinaweza kuchanganywa na kitendo au ujuzi)"
+      },
+      "transliteration": {
+        "he": "בְּהַג'ַנְתֶה מָאם",
+        "ar": "بهاجنتي مام",
+        "tr": "bhajante mām",
+        "sw": "bhajante mām"
+      }
+    },
+    "19330": {
+      "meaning": {
+        "he": "ביצורים החיים",
+        "ar": "في الكائنات الحية",
+        "tr": "canlı varlıklarda",
+        "sw": "katika viumbe hai"
+      },
+      "transliteration": {
+        "he": "בְּהוּתֶשוּ",
+        "ar": "بهوتيشو",
+        "tr": "bhūteṣu",
+        "sw": "bhūteṣu"
+      }
+    },
+    "19501": {
+      "meaning": {
+        "he": "יצורים נעים ונייחים",
+        "ar": "الكائنات المتحركة والثابتة",
+        "tr": "hareketli ve hareketsiz varlıklar",
+        "sw": "viumbe vyenye kusonga na visivyosonga"
+      },
+      "transliteration": {
+        "he": "בְּהוּתָאנִי",
+        "ar": "بهوتاني",
+        "tr": "bhūtāni",
+        "sw": "bhūtāni"
+      }
+    },
+    "19320": {
+      "meaning": {
+        "he": "של האינטליגנטיים",
+        "ar": "للأذكياء",
+        "tr": "zekilerin",
+        "sw": "wa wenye akili"
+      },
+      "transliteration": {
+        "he": "בּוּדְדְהִי-מַתָאם",
+        "ar": "بودهي-ماتام",
+        "tr": "buddhi-matām",
+        "sw": "buddhi-matām"
+      }
+    },
+    "19319": {
+      "meaning": {
+        "he": "כאינטליגנציה",
+        "ar": "كالذكاء",
+        "tr": "zeka olarak",
+        "sw": "kama akili"
+      },
+      "transliteration": {
+        "he": "בּוּדְדְהִי",
+        "ar": "بودهي",
+        "tr": "buddhiḥ",
+        "sw": "buddhiḥ"
+      }
+    },
+    "19466": {
+      "meaning": {
+        "he": "עובדי חצאי האלים",
+        "ar": "عابدو أنصاف الآلهة",
+        "tr": "yarı tanrılara tapanlar",
+        "sw": "waabudu wa nusu miungu"
+      },
+      "transliteration": {
+        "he": "דֶבַה-יַג'ַה",
+        "ar": "ديفا-ياجاه",
+        "tr": "deva-yajaḥ",
+        "sw": "deva-yajaḥ"
+      }
+    },
+    "19332": {
+      "meaning": {
+        "he": "בלי לחצות את העקרונות האוניברסליים של הדת, כלומר",
+        "ar": "دون عبور المبادئ العالمية للدين، أي",
+        "tr": "evrensel din ilkelerini çiğnemeden, yani",
+        "sw": "bila kuvuka kanuni za ulimwengu za dini, yaani"
+      },
+      "transliteration": {
+        "he": "דְהַרְמַה-אַבִירוּדְדְהַה",
+        "ar": "دارما-أفيروداها",
+        "tr": "dharma-aviruddhaḥ",
+        "sw": "dharma-aviruddhaḥ"
+      }
+    },
+    "19266": {
+      "meaning": {
+        "he": "מאומץ להנאה דרך פעולות פירותיות",
+        "ar": "يُتخذ للاستمتاع من خلال الأفعال المثمرة",
+        "tr": "meyveli eylemler yoluyla zevk almak için benimsenir",
+        "sw": "huchukuliwa kwa ajili ya furaha kupitia matendo yenye matunda"
+      },
+      "transliteration": {
+        "he": "דְהָארְיַתֶה",
+        "ar": "دهارياتي",
+        "tr": "dhāryate",
+        "sw": "dhāryate"
+      }
+    },
+    "19361": {
+      "meaning": {
+        "he": "קשה לחצות",
+        "ar": "من الصعب عبورها",
+        "tr": "aşılması zordur",
+        "sw": "ni vigumu kuvuka"
+      },
+      "transliteration": {
+        "he": "דוּרַתְיַיָא",
+        "ar": "دوراتايا",
+        "tr": "duratyayā",
+        "sw": "duratyayā"
+      }
+    },
+    "19370": {
+      "meaning": {
+        "he": "ארבעה סוגים אלה של עושי רע או אנשים חסרי מזל",
+        "ar": "هذه الأنواع الأربعة من الظالمين أو الأشخاص التعساء",
+        "tr": "Bu dört kinds of wrongdoers veya şanssız kişiler",
+        "sw": "Aina hizi nne za watenda vibaya au watu wasio na bahati"
+      },
+      "transliteration": {
+        "he": "דוּשְׁקְרִיתִינַה",
+        "ar": "دوшкуرتيناه",
+        "tr": "duṣkṛtinaḥ",
+        "sw": "duṣkṛtinaḥ"
+      }
+    },
+    "19520": {
+      "meaning": {
+        "he": "חופשיים מאשליית הדואליות",
+        "ar": "أحرار من وهم الثنائية",
+        "tr": "ikilik illüzyonundan özgür",
+        "sw": "huru kutoka kwa udanganyifu wa uwili"
+      },
+      "transliteration": {
+        "he": "דְבַנְדְבַה-מוֹהַה-נִירְמוּקְתָאה",
+        "ar": "دفاندفا-موها-نيرموكتاه",
+        "tr": "dvandva-moha-nirmuktāḥ",
+        "sw": "dvandva-moha-nirmuktāḥ"
+      }
+    },
+    "19511": {
+      "meaning": {
+        "he": "על ידי אשליית הדואליות",
+        "ar": "بوهم الثنائية",
+        "tr": "ikilik illüzyonu tarafından",
+        "sw": "kwa udanganyifu wa uwili"
+      },
+      "transliteration": {
+        "he": "דְבַנְדְבַה-מוֹהֶנַה",
+        "ar": "دفاندفا-موهينا",
+        "tr": "dvandva-mohena",
+        "sw": "dvandva-mohena"
+      }
+    },
+    "19521": {
+      "meaning": {
+        "he": "ובתודעה קבועה שלי",
+        "ar": "وثابتون في وعيي",
+        "tr": "ve Benim bilincimde sabitlenmiş",
+        "sw": "na wameimarika katika ufahamu wangu"
+      },
+      "transliteration": {
+        "he": "דְרִידְהַה-בְרַתָאה",
+        "ar": "دريدها-فراتاه",
+        "tr": "dṛḍha-vratāḥ",
+        "sw": "dṛḍha-vratāḥ"
+      }
+    },
+    "19349": {
+      "meaning": {
+        "he": "על ידי התגלות זו של שלושת אופני הטבע החומרי",
+        "ar": "بهذا التجلي للأنماط الثلاثة للطبيعة المادية",
+        "tr": "maddenin üç modalitàsının bu tezahürü tarafından",
+        "sw": "kwa udhihirishaji huu wa njia tatu za asili ya kimwili"
+      },
+      "transliteration": {
+        "he": "אֶבְּהִי בְּהָאבַאי טְרִיבְּהִי גוּנַה-מַאיַאי",
+        "ar": "إيبهي بهافاي تريبهي غونا-ماياي",
+        "tr": "ebhiḥ bhāvaiḥ tribhiḥ guṇamayaiḥ",
+        "sw": "ebhiḥ bhāvaiḥ tribhiḥ guṇamayaiḥ"
+      }
+    },
+    "19353": {
+      "meaning": {
+        "he": "שאני מעבר לאופנים אלה",
+        "ar": "الذي أنا متسامٍ على هذه الأنماط",
+        "tr": "Ben bu modalitàlerin ötesindeyim",
+        "sw": "ambaye Mimi ni wa juu ya njia hizi"
+      },
+      "transliteration": {
+        "he": "אֶבְּהְיַה פַּרַם",
+        "ar": "إيبهي بارام",
+        "tr": "ebhyaḥ param",
+        "sw": "ebhyaḥ param"
+      }
+    },
+    "19270": {
+      "meaning": {
+        "he": "מתגלים משני סוגי הפרקריטי האלה כקשטרה וקשטרג'נה (ראה 13.12)",
+        "ar": "تتجلى من هذين النوعين من البراكريتي ككشيترا وكشيتراجنا (انظر 13.12)",
+        "tr": "bu iki prakṛti türünden kṣetra ve kṣetrajña olarak tezahür eder (bkz. 13.12)",
+        "sw": "vinaonekana kutoka kwa aina hizi mbili za prakṛti kama kṣetra na kṣetrajña (tazama 13.12)"
+      },
+      "transliteration": {
+        "he": "אֶתַד יוֹנִינִי",
+        "ar": "إيتات يونيني",
+        "tr": "etat yonīni",
+        "sw": "etat yonīni"
+      }
+    },
+    "19359": {
+      "meaning": {
+        "he": "מורכב משלושת אופני הטבע החומרי",
+        "ar": "مكون من الأنماط الثلاثة للطبيعة المادية",
+        "tr": "maddenin üç modalitàsından oluşur",
+        "sw": "imeundwa na njia tatu za asili ya kimwili"
+      },
+      "transliteration": {
+        "he": "גוּנַה-מַאיִי",
+        "ar": "غونا-مايي",
+        "tr": "guṇa-mayī",
+        "sw": "guṇa-mayī"
+      }
+    },
+    "19427": {
+      "meaning": {
+        "he": "אנשים שהאינטליגנציה שלהם הוטתה",
+        "ar": "أشخاص ضُلل ذكاؤهم",
+        "tr": "zekası yanıltılmış kişiler",
+        "sw": "watu ambao akili zao zimepoteshwa"
+      },
+      "transliteration": {
+        "he": "הְרִיתַה-ג'נָאנָאה",
+        "ar": "هريتا-جناناه",
+        "tr": "hṛta-jñānāḥ",
+        "sw": "hṛta-jñānāḥ"
+      }
+    },
+    "19512": {
+      "meaning": {
+        "he": "הנובעים מחיבה ושנאה",
+        "ar": "الناتجة عن الإعجاب والكراهية",
+        "tr": "beğeni ve hoşlanmamadan kaynaklanan",
+        "sw": "zinazotokana na kupenda na kuchukia"
+      },
+      "transliteration": {
+        "he": "אִיצְ'צְהַה-דְבֶשַׁה-סַמוּתְהֶנַה",
+        "ar": "إيتشا-دفيشا-ساموتثينا",
+        "tr": "ichchhā-dveṣa-samutthena",
+        "sw": "ichchhā-dveṣa-samutthena"
+      }
+    },
+    "19221": {
+      "meaning": {
+        "he": "ידע זה של כוחי המוחלט (אישוואריה-מאיה-ג'נאנה)",
+        "ar": "هذه المعرفة لقوتي المطلقة (أيشواريا-مايا-جنان)",
+        "tr": "mutlak gücümün bu bilgisi (aiśvaryamaya-jñān)",
+        "sw": "ujuzi huu wa nguvu yangu kamili (aiśvaryamaya-jñān)"
+      },
+      "transliteration": {
+        "he": "אִידַם ג'נָאנַם",
+        "ar": "إيدام جنانام",
+        "tr": "idam jñānam",
+        "sw": "idam jñānam"
+      }
+    },
+    "19526": {
+      "meaning": {
+        "he": "לחופש ממחלה ומוות",
+        "ar": "للحرية من المرض والموت",
+        "tr": "hastalık ve ölümden kurtuluş için",
+        "sw": "kwa ajili ya uhuru kutoka kwa ugonjwa na mauti"
+      },
+      "transliteration": {
+        "he": "ג'ַרָא-מַרַנַה-מוֹקְשָאיַה",
+        "ar": "جارا-مارانا-موكشايا",
+        "tr": "jarā-maraṇa-mokṣāya",
+        "sw": "jarā-maraṇa-mokṣāya"
+      }
+    },
+    "19381": {
+      "meaning": {
+        "he": "אחד המחפש ידע כתבי קודש או ידע של הנשמה",
+        "ar": "واحد يبحث عن معرفة الكتب المقدسة أو معرفة الروح",
+        "tr": "kutsal yazıların bilgisini veya ruhun bilgisini arayan biri",
+        "sw": "mtu anayetafuta ujuzi wa maandiko matakatifu au ujuzi wa roho"
+      },
+      "transliteration": {
+        "he": "ג'יגְ'נָאסוּ",
+        "ar": "جيجناسو",
+        "tr": "jijñāsuḥ",
+        "sw": "jijñāsuḥ"
+      }
+    },
+    "19418": {
+      "meaning": {
+        "he": "האדם הנאור (במזל של סאדוּ-סאנגה, חברה דווטיונלית)",
+        "ar": "الشخص المستنير (بحظ السادهو-سانغا، الصحبة المتعبدة)",
+        "tr": "aydınlanmış kişi (sādhu-saṅga, devotional arkadaşlık şansıyla)",
+        "sw": "mtu aliyeng'oka (kwa bahati ya sādhu-saṅga, ushirika wa kiibada)"
+      },
+      "transliteration": {
+        "he": "ג'נָאנַבָאן",
+        "ar": "جنانافان",
+        "tr": "jñānavān",
+        "sw": "jñānavān"
+      }
+    },
+    "19395": {
+      "meaning": {
+        "he": "לאותה נשמה נאורה",
+        "ar": "لتلك الروح المستنيرة",
+        "tr": "o aydınlanmış ruha",
+        "sw": "kwa roho hiyo iliyong'oka"
+      },
+      "transliteration": {
+        "he": "ג'נָאנִינַה",
+        "ar": "جنانينا",
+        "tr": "jñāninaḥ",
+        "sw": "jñāninaḥ"
+      }
+    },
+    "19383": {
+      "meaning": {
+        "he": "היודע המטוהר של הנשמה",
+        "ar": "العارف المطهر للروح",
+        "tr": "arınmış ruh bilen",
+        "sw": "mjuzi aliyetakaswa wa roho"
+      },
+      "transliteration": {
+        "he": "ג'נָאנִי",
+        "ar": "جنانِي",
+        "tr": "jñānī",
+        "sw": "jñānī"
+      }
+    },
+    "19215": {
+      "meaning": {
+        "he": "תוכל לדעת",
+        "ar": "ستتمكن من المعرفة",
+        "tr": "bilebileceksin",
+        "sw": "utaweza kujua"
+      },
+      "transliteration": {
+        "he": "ג'נָאסְיַסִי",
+        "ar": "جناياسي",
+        "tr": "jñāsyasi",
+        "sw": "jñāsyasi"
+      }
+    },
+    "19263": {
+      "meaning": {
+        "he": "בצורה של הנשמות האינדיבידואליות",
+        "ar": "في شكل الأرواح الفردية",
+        "tr": "bireysel ruhlar formunda",
+        "sw": "katika umbo la roho za kibinafsi"
+      },
+      "transliteration": {
+        "he": "ג'ִיוַה-בְּהוּתָאם",
+        "ar": "جيفا-بهوتام",
+        "tr": "jīva-bhūtām",
+        "sw": "jīva-bhūtām"
+      }
+    },
+    "19308": {
+      "meaning": {
+        "he": "כתוחלת החיים",
+        "ar": "كعمر افتراضي",
+        "tr": "yaşam süresi olarak",
+        "sw": "kama muda wa maisha"
+      },
+      "transliteration": {
+        "he": "ג'ִיוַנַם",
+        "ar": "جيفانام",
+        "tr": "jīvanam",
+        "sw": "jīvanam"
+      }
+    },
+    "19536": {
+      "meaning": {
+        "he": "הפעולה שבא הנשמות קשורות לקיום העולמי",
+        "ar": "الفعل الذي به ترتبط الأرواح بالوجود الدنيوي",
+        "tr": "ruhların dünyevi varlığa bağlandığı eylem",
+        "sw": "kitendo ambacho roho hufungwa na uwepo wa kidunia"
+      },
+      "transliteration": {
+        "he": "קַרְמַה",
+        "ar": "كارما",
+        "tr": "karma",
+        "sw": "karma"
+      }
+    },
+    "19298": {
+      "meaning": {
+        "he": "באתר",
+        "ar": "في الأثير",
+        "tr": "eterde",
+        "sw": "katika etheri"
+      },
+      "transliteration": {
+        "he": "קְהֶה",
+        "ar": "خيه",
+        "tr": "khe",
+        "sw": "khe"
+      }
+    },
+    "19327": {
+      "meaning": {
+        "he": "ללא אנוכיות והיצמדות",
+        "ar": "بدون أنانية وتعلق",
+        "tr": "bencillik ve bağlılık olmadan",
+        "sw": "bila ubinafsi na ambatanisho"
+      },
+      "transliteration": {
+        "he": "קָאמַה-רָאגַה-בִיבַרְגִ'יתַם",
+        "ar": "كاما-راغا-فيفارجيتام",
+        "tr": "kāma-rāga-vivarjitam",
+        "sw": "kāma-rāga-vivarjitam"
+      }
+    },
+    "19331": {
+      "meaning": {
+        "he": "כתשוקה לרבייה",
+        "ar": "كرغبة في التكاثر",
+        "tr": "üreme arzusu olarak",
+        "sw": "kama tamaa ya uzazi"
+      },
+      "transliteration": {
+        "he": "קָאמַה",
+        "ar": "كاما",
+        "tr": "kāmaḥ",
+        "sw": "kāmaḥ"
+      }
+    },
+    "19273": {
+      "meaning": {
+        "he": "של כל",
+        "ar": "للكل",
+        "tr": "tümün",
+        "sw": "wa vyote"
+      },
+      "transliteration": {
+        "he": "קְרִיתְסְנַסְיַה",
+        "ar": "كريتسناسيا",
+        "tr": "kṛtsnasya",
+        "sw": "kṛtsnasya"
+      }
+    },
+    "19230": {
+      "meaning": {
+        "he": "מאלפי אנשים",
+        "ar": "من آلاف الرجال",
+        "tr": "binlerce insandan",
+        "sw": "kati ya maelfu ya watu"
+      },
+      "transliteration": {
+        "he": "מַנוּשְׁיָאנָאם סַהַסְרֶשוּ",
+        "ar": "مانوشيانام ساهاسريشو",
+        "tr": "manuṣyāṇām sahasreṣu",
+        "sw": "manuṣyāṇām sahasreṣu"
+      }
+    }
+  }
+}

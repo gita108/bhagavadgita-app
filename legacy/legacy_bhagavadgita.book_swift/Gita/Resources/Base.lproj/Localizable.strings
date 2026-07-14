@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  Gita
+
+  Created by Olga Zhegulo on 31/05/2017.
+  Copyright © 2017 Iron Water Studio. All rights reserved.
+*/
+/* NetworkErrorManager localization messages */
+"NetworkErrorManager.NetworkErrorCheckOrWait" = "Cannot establish connection to server. Please check your internet settings and try again later.";
+"NetworkErrorManager.NetworkErrorCheck" = "Cannot establish connection to server. Please check your internet settings.";
+"NetworkErrorManager.NetworkErrorTimedOut" = "Connection to server timed out. Please check your internet settings.";
+"NetworkErrorManager.NetworkErrorHostIsNotAvailable" = "Cannot establish connection to server. Server is unavailable.";
+"NetworkErrorManager.NetworkErrorWrongRequest" = "Server is unavailable or invalid request. Please contact administrator.";
+// Buttons localizations
+"NetworkErrorManager.Ok" = "OK";
+"NetworkErrorManager.Retry" = "Retry";
+"NetworkErrorManager.Cancel" = "Cancel";
+
+"OK"="OK";
+
+"Download.ConfirmAudio" = "Would uou like to download audio right now? You can do it later.";
+"Download.Yes" = "OK";
+"Download.No" = "Cancel";
+
+"Guide.Skip" = "Skip";
+"Guide.Back" = "Back";
+"Guide.Forward" = "Forward";
+
+"Guide1.Title" = "WHAT TO DO?";
+"Guide1.Text" = "Answers to this question mankind sought long before Chernyshevsky. “Bhagavad-gita” - one of the oldest spiritual scriptures on Earth - offers answers to it.";
+"Guide2.Title" = "ANCIENT KNOWLEDGE FOR MODERN PEOPLE";
+"Guide2.Text" = "The book is a living dialogue between Krishna and Arjuna. Before the greatest battle, Krsna instructs his friend, explaining what to do to live successfully and happily in this world, and also reveals various aspects of spiritual life.";
+"Guide3.Text" = "Read as it’s convenient for you\n
+Compare interpretations and translations\n
+Study comments\n
+Listen\n
+Make notes\n";
+
+"Bookmarks.Placeholder" = "Search";
+"Bookmarks.Navigation.Title" = "Bookmarks";
+"Bookmarks.Search.NotFound" = "No search results";
+"Contents.Search.Placeholder" = "Search";
+"Contents.Search.NotFound" = "No search results";
+
+"Settings.Title" = "Settings";
+"Settings.Interpretations.Download.Title" = "Download";
+"Settings.Language.Navigation.Title" = "Choose language";
+
+"Settings.Sections.Language.Title" = "Choose language";
+"Settings.Sections.Units.Title" = "Display";
+"Settings.Sections.Audio.Title" = "Audio";
+"Settings.Sections.Interpretations.Title" = "Interpretations";
+
+"Settings.Audio.Translation" = "Translation";
+"Settings.Audio.Sanskrit" = "Sanskrit";
+"Settings.Audio.AutoPlay" = "Auto play";
+
+"Settings.Units.Sanskrit.Title" = "Sanskrit";
+"Settings.Units.Transcription.Title" = "Transcription";
+"Settings.Units.Words.Title" = "Word-by-word translation";
+"Settings.Units.Comments.Title" = "Comments";
+"Settings.DownloadAudioTranslation" = "Would you like to download audio translation?";
+"Settings.DownloadAudioSanskrit" = "Would you like to download audio sanskrit?";
+"Settings.Downloading" = "Loading...";
+"Settings.DeleteAudioTranslation" = "Would you like to delete audio translation?";
+"Settings.DeleteAudioSanskrit" = "Would you like to delete audio sanskrit?";
+"Settings.DownloadBookError" = "Cannot download book. Please try later.";
+"Settings.DownloadAudioError" = "Cannot download audio. Please try later.";
+
+"Settings.Language.SingleLanguage" = "Cannot deselect this language, because you have no books for other languages";
+
+"Contents.Navigation.Title" = "Bhagavad Gita";
+"Contents.Chapter.Title" = "Chapter";
+"Contents.Quote.Title" = "Quote of the Day";
+
+"Shloka.BackButton.Title.Contents" = "To contents";
+"Shloka.BackButton.Title.Bookmarks" = "To bookmarks";
+"Shloka.HideButton.Title" = "Collapse";
+
+"Comment.Title" = "Note";
+"Comment.Save" = "Save";

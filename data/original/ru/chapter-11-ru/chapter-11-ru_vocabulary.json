@@ -1,0 +1,4306 @@
+{
+  "meta": {
+    "chapter": 11,
+    "language": "ru",
+    "totalWords": 683,
+    "lastUpdated": "2026-03-30"
+  },
+  "slokas": {
+    "sloka_1102": [
+      {
+        "sanskrit": "",
+        "word": "(bhaktena)",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "(he) parantapa",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1086": [
+      {
+        "sanskrit": "",
+        "word": "(he) ananta",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tat param yat",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tvam sat asat",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ādi-kartre cha",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1087": [
+      {
+        "sanskrit": "",
+        "word": "(he) ananta-rūpa",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "param dhāma cha",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "vedyam cha",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1089": [
+      {
+        "sanskrit": "",
+        "word": "(he) ananta-vīrya",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "(he) sarva",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "purastāt",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "pṛṣṭhataḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "te",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1091": [
+      {
+        "sanskrit": "",
+        "word": "(he) apratima-prabhāva",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "chara-acharasya",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "loka-traye",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "na asti",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tvat-samaḥ",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1057": [
+      {
+        "sanskrit": "",
+        "word": "(he) bhārata",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tathā marutaḥ",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1080": [
+      {
+        "sanskrit": "",
+        "word": "(he) deva-vara",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1093": [
+      {
+        "sanskrit": "",
+        "word": "(he) deva-īśa",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "(he) jagat-nivāsa",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "(idam) adṛṣṭa-pūrvam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "bhayena pravyathitam",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1058": [
+      {
+        "sanskrit": "",
+        "word": "(he) guḍākeśa",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "sa-chara-acharam",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1085": [
+      {
+        "sanskrit": "",
+        "word": "(he) hṛṣīkeśa",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1053": [
+      {
+        "sanskrit": "",
+        "word": "(he) kamala-patra-akṣa",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "bhava-apyayau",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1096": [
+      {
+        "sanskrit": "",
+        "word": "(he) kuru-pravīra",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "na veda-yajña-adhyayanaiḥ",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1103": [
+      {
+        "sanskrit": "",
+        "word": "(he) pāṇḍava",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "(yaḥ) saṅga-varjitaḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "mat-paramaḥ",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1094": [
+      {
+        "sanskrit": "",
+        "word": "(he) sahasra-bāho",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "chakra-hastam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tena chatuḥ-bhujena rūpeṇa eva",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1082": [
+      {
+        "sanskrit": "",
+        "word": "(he) savyasāchin",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "uttiṣṭha",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1066": [
+      {
+        "sanskrit": "",
+        "word": "(he) viśva-īśvara",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "aneka-bāhu-udara-vaktra-netram",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1079": [
+      {
+        "sanskrit": "",
+        "word": "(he) viṣṇo",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1077": [
+      {
+        "sanskrit": "",
+        "word": "abhimukhāḥ (santaḥ)",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ambu-vegāḥ",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1052": [
+      {
+        "sanskrit": "",
+        "word": "adhyātma-saṁjñitam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "mama mohaḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "mat-anugrahāya",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1088": [
+      {
+        "sanskrit": "",
+        "word": "agniḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "prapitāmahaḥ cha",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "sahasra-kṛtvaḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tvam vāyuḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "varuṇaḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "yamaḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "śaśāṅkaḥ",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1061": [
+      {
+        "sanskrit": "",
+        "word": "aneka-vaktra-nayanam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "divya-gandha-anulepanam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "divya-mālya-ambara-dharam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "viśvataḥ-mukham",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1069": [
+      {
+        "sanskrit": "",
+        "word": "anādi-madhya-antam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "dīpta-hutāśa-vaktram",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "śaśi-sūrya-netram",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1076": [
+      {
+        "sanskrit": "",
+        "word": "asau sūta-putraḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "avani-pāla-saṅghaiḥ saha eva",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "daśana-antareṣu",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1073": [
+      {
+        "sanskrit": "",
+        "word": "bahu-bāhu-uru-pādam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "bahu-daṁṣṭrā-karālam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "bahu-vaktra-netram",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "pravyathitāḥ",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1065": [
+      {
+        "sanskrit": "",
+        "word": "bhūta-viśeṣa-saṅghān",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "kamala-āsana-stham",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1075": [
+      {
+        "sanskrit": "",
+        "word": "daṁṣṭrā-karālāni",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "kāla-anala sannibhāni cha",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1063": [
+      {
+        "sanskrit": "",
+        "word": "deva-devasya",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tatra",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "śarīre",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1064": [
+      {
+        "sanskrit": "",
+        "word": "devam",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1100": [
+      {
+        "sanskrit": "",
+        "word": "devāḥ api",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "nityam darśana-kāṅkṣiṇaḥ",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1067": [
+      {
+        "sanskrit": "",
+        "word": "dipta-anala-arka-dyutim",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "durnirīkṣyam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tejaḥ-rāśim",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1062": [
+      {
+        "sanskrit": "",
+        "word": "divi",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1070": [
+      {
+        "sanskrit": "",
+        "word": "dyau āpṛthivyoḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "loka-trayam",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1101": [
+      {
+        "sanskrit": "",
+        "word": "evam-vidhaḥ mama",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "na tapasā",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "na vedaiḥ",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1072": [
+      {
+        "sanskrit": "",
+        "word": "gandharva-yakṣa-asura-siddha-saṅghāḥ cha",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "marutaḥ cha",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "rudra-ādityāḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "uṣma-pāḥ cha",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1084": [
+      {
+        "sanskrit": "",
+        "word": "kṛta-añjaliḥ (san)",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1081": [
+      {
+        "sanskrit": "",
+        "word": "loka-kṣaya-kṛt",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "pratyanīkeṣu",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1078": [
+      {
+        "sanskrit": "",
+        "word": "lokāḥ api",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1098": [
+      {
+        "sanskrit": "",
+        "word": "mahā-ātmā",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "saumya-vapuḥ",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1071": [
+      {
+        "sanskrit": "",
+        "word": "mahā-ṛṣi-siddha-saṅghāḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "su-asti iti uktvā",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1056": [
+      {
+        "sanskrit": "",
+        "word": "nānā-varṇa-ākṛtīni cha",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1090": [
+      {
+        "sanskrit": "",
+        "word": "praṇayena vā api",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "sakhā iti matvā",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tat-samakṣam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tvām aprameyam kṣāmaye",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1092": [
+      {
+        "sanskrit": "",
+        "word": "putrasya sakhyuḥ priyāyāḥ",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1059": [
+      {
+        "sanskrit": "",
+        "word": "svachakṣuṣā eva",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1068": [
+      {
+        "sanskrit": "",
+        "word": "tvam avyayaḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tvam param",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "tvam sanātanaḥ",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "veditavyam",
+        "meaning": "",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "śāśvata-dharma-goptā",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1097": [
+      {
+        "sanskrit": "",
+        "word": "vyapeta-bhīḥ (san)",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1054": [
+      {
+        "sanskrit": "",
+        "word": "ātmānam",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_1055": [
+      {
+        "sanskrit": "",
+        "word": "śakyam draṣṭum",
+        "meaning": "",
+        "order": 0
+      }
+    ],
+    "sloka_397": [
+      {
+        "sanskrit": "",
+        "word": "а-вйайам",
+        "meaning": "нетленный",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "а̄тма̄нам",
+        "meaning": "Свой образ",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йога-ӣш́вара",
+        "meaning": "о Владыка мистических сил",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "манйасе",
+        "meaning": "Ты считаешь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прабхо",
+        "meaning": "Господь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́акйам",
+        "meaning": "способен",
+        "order": 0
+      }
+    ],
+    "sloka_432": [
+      {
+        "sanskrit": "",
+        "word": "а-джа̄ната̄",
+        "meaning": "не сознавая",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "а-прамейам",
+        "meaning": "непостижимо могущественный",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "а̄сана",
+        "meaning": "сидя",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "аваха̄са-артхам",
+        "meaning": "в шутку",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "асат-кр̣тах̣ аси",
+        "meaning": "и без должного почтения",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "атхава̄",
+        "meaning": "или",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ачйута",
+        "meaning": "о Непогрешимый",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бходжанеш̣у",
+        "meaning": "во время трапезы и т. д",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ва̄",
+        "meaning": "или",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виха̄ра",
+        "meaning": "во время отдыха",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кш̣а̄майе",
+        "meaning": "прошу прощения",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "матва̄",
+        "meaning": "думая",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "махима̄нам",
+        "meaning": "славы",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пра-сабхам",
+        "meaning": "самонадеянно",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прама̄да̄т",
+        "meaning": "по глупости",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пран̣айена",
+        "meaning": "из любви",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тат-самакш̣ам",
+        "meaning": "в присутствии близких",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "уктам",
+        "meaning": "было произнесено",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "хе йа̄дава",
+        "meaning": "о Йа̄дава",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "хе кр̣ш̣н̣а",
+        "meaning": "о Кр̣ш̣н̣а",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "хе сакхе",
+        "meaning": "о друг",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́аййа̄",
+        "meaning": "лежа",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "эках̣",
+        "meaning": "наедине",
+        "order": 0
+      }
+    ],
+    "sloka_399": [
+      {
+        "sanskrit": "",
+        "word": "а-др̣ш̣т̣а",
+        "meaning": "не виденных никем",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "а̄дитйа̄н",
+        "meaning": "двенадцать А̄дити",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "а̄ш́ччарйа̄н̣и",
+        "meaning": "чудес",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бахӯни",
+        "meaning": "множество",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бха̄рата",
+        "meaning": "потомок Бха̄раты",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "васӯн",
+        "meaning": "восемь Васӯ",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пӯрва̄н̣и",
+        "meaning": "прежде",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "рудра̄н",
+        "meaning": "одинадцать Рудр",
+        "order": 0
+      }
+    ],
+    "sloka_428": [
+      {
+        "sanskrit": "",
+        "word": "а-кш̣арам",
+        "meaning": "нетленный",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "а̄ди-картре",
+        "meaning": "изначальный Творец",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ананта",
+        "meaning": "безграничный",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "асат",
+        "meaning": "и непроявленного бытия",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "брахман̣ах̣",
+        "meaning": "Брахмы, творца вселенной",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гарӣйасе",
+        "meaning": "почитаемое Божество",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "касма̄т",
+        "meaning": "почему",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "маха-а̄тман",
+        "meaning": "Великая Личность",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "намеран",
+        "meaning": "должны склоняться",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сат",
+        "meaning": "проявленного",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тат парам",
+        "meaning": "намного выше",
+        "order": 0
+      }
+    ],
+    "sloka_433": [
+      {
+        "sanskrit": "",
+        "word": "а-пратима-прабха̄ва",
+        "meaning": "о несравненно могущественный",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "абхи-адхиках̣",
+        "meaning": "превыше Тебя",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "анйах̣",
+        "meaning": "что-то другое",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "асти",
+        "meaning": "существует",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гарӣйа̄н",
+        "meaning": "почитаемый",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гурух̣",
+        "meaning": "учитель",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кутах̣",
+        "meaning": "откуда же тогда",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "лока-трайе",
+        "meaning": "во всех трех мирах",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "локасйа",
+        "meaning": "вселенной",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пӯджйах̣",
+        "meaning": "объект поклонения",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тват-самах̣",
+        "meaning": "равного Тебе",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "чара-ачарасйа",
+        "meaning": "движущихся и неподвижных существ",
+        "order": 0
+      }
+    ],
+    "sloka_440": [
+      {
+        "sanskrit": "",
+        "word": "а̄-ш́ва̄сайа̄м а̄са",
+        "meaning": "чтобы полностью успокоить",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "арджунам",
+        "meaning": "Арджуне",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхӣтам энам",
+        "meaning": "испуганного Арджуну",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхӯйах̣",
+        "meaning": "и снова",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхӯтва̄",
+        "meaning": "появился",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ва̄судевах̣",
+        "meaning": "Ш́рӣ Кр̣ш̣н̣а, сын Ва̄судевы",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дарш́айа̄ма̄са",
+        "meaning": "показал",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ити",
+        "meaning": "так",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "маха̄-а̄тма̄",
+        "meaning": "величайшем",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пунах̣",
+        "meaning": "вновь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сан̃джайах̣",
+        "meaning": "Сан̃джайа",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "саумйа-вапух̣",
+        "meaning": "в Своем прекрасном двуруком облике",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "свакам",
+        "meaning": "Свой",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "татха̄",
+        "meaning": "таким образом",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "уктва̄",
+        "meaning": "сказав",
+        "order": 0
+      }
+    ],
+    "sloka_403": [
+      {
+        "sanskrit": "",
+        "word": "а̄бхаран̣ам",
+        "meaning": "украшений",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "а̄йудхам",
+        "meaning": "оружия",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "а̄ш́чарйа",
+        "meaning": "чудесами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "адбхута",
+        "meaning": "удивительных",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "амбара",
+        "meaning": "одеяния",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "анулепанам",
+        "meaning": "умащенный",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виш́ватах̣-мукхам",
+        "meaning": "во всех направлениях",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гандха",
+        "meaning": "ароматами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дарш́анам",
+        "meaning": "образов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дивйа",
+        "meaning": "неземными",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дхарам",
+        "meaning": "облаченный в",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ма̄лйа",
+        "meaning": "гирлянды",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "майам",
+        "meaning": "наполненный",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "найанам",
+        "meaning": "глаз",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "удйата",
+        "meaning": "поднятого",
+        "order": 0
+      }
+    ],
+    "sloka_429": [
+      {
+        "sanskrit": "",
+        "word": "а̄ди-девах̣",
+        "meaning": "изначальный Господь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ананта-рӯпа",
+        "meaning": "предстающий в неисчислимых обликах",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ведйам",
+        "meaning": "познаваемое",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ветта̄",
+        "meaning": "знающий",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виш́васйа",
+        "meaning": "вселенной",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дха̄ма",
+        "meaning": "обитель",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "нидха̄нам",
+        "meaning": "прибежище",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пура̄н̣ах̣",
+        "meaning": "древнейшая",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пуруш̣ах̣",
+        "meaning": "Личность",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "татам",
+        "meaning": "пронизана",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "твайа̄",
+        "meaning": "Тобой одним",
+        "order": 0
+      }
+    ],
+    "sloka_408": [
+      {
+        "sanskrit": "",
+        "word": "а̄дим",
+        "meaning": "начала",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ананта-рӯпам",
+        "meaning": "безграничные формы",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "анека",
+        "meaning": "с множеством",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вактра",
+        "meaning": "ртов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виш́ва-рӯпа",
+        "meaning": "о вселенский образ",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виш́ва-ӣш́вара",
+        "meaning": "о Владыка мироздания",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "на антам",
+        "meaning": "нет конца",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "на мадхйам",
+        "meaning": "нет середины",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "удара",
+        "meaning": "животов",
+        "order": 0
+      }
+    ],
+    "sloka_437": [
+      {
+        "sanskrit": "",
+        "word": "а̄дйам",
+        "meaning": "первозданная",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "а̄тма-йога̄т",
+        "meaning": "посредством Моей духовной энергии",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "анантам",
+        "meaning": "безграничная",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виш́вам",
+        "meaning": "вселенская",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дарш́итам",
+        "meaning": "показана",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "майа̄",
+        "meaning": "Мной",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "на др̣ш̣т̣а-пӯрвам",
+        "meaning": "не мог видеть прежде",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "парам",
+        "meaning": "высшая",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прасаннена",
+        "meaning": "ради удовольствия",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "теджах̣-майам",
+        "meaning": "сияющая",
+        "order": 0
+      }
+    ],
+    "sloka_422": [
+      {
+        "sanskrit": "",
+        "word": "а̄кхйа̄хи",
+        "meaning": "скажи",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхавантам",
+        "meaning": "Тебя",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виджн̃а̄тум",
+        "meaning": "осознать",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дева-вара",
+        "meaning": "о Величайший среди богов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ках̣ бхава̄н",
+        "meaning": "кто Ты",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "правр̣ттим",
+        "meaning": "деяния",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "праджа̄на̄ми",
+        "meaning": "в силах постичь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "угра-рӯпах̣",
+        "meaning": "обладающий устрашающим обликом",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "хи",
+        "meaning": "так как",
+        "order": 0
+      }
+    ],
+    "sloka_421": [
+      {
+        "sanskrit": "",
+        "word": "а̄пӯрйа",
+        "meaning": "заполняя",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бха̄сах̣",
+        "meaning": "лучами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ваданаих̣",
+        "meaning": "ртами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виш̣н̣о",
+        "meaning": "о Виш̣н̣у",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "грасама̄нах̣",
+        "meaning": "поглощая",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "джваладбхих̣",
+        "meaning": "пылающими",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "лелихйасе",
+        "meaning": "слизываешь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пратапанти",
+        "meaning": "опаляя",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "самагра̄н",
+        "meaning": "всех этих",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "самаграм",
+        "meaning": "всю",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "саманта̄т",
+        "meaning": "со всех сторон",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "теджобхих̣",
+        "meaning": "сиянием",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "угра̄х̣",
+        "meaning": "ужасными",
+        "order": 0
+      }
+    ],
+    "sloka_407": [
+      {
+        "sanskrit": "",
+        "word": "а̄сана-стхам",
+        "meaning": "восседающего",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "брахма̄н̣ам",
+        "meaning": "творца Брахму",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхӯта",
+        "meaning": "живых существ",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виш́еш̣а-сан̇гха̄н",
+        "meaning": "собранных вместе",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дева̄н",
+        "meaning": "богов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дехе",
+        "meaning": "в теле",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дивйа̄н",
+        "meaning": "удивительных",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "камала",
+        "meaning": "на цветке лотоса",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "р̣ш̣ӣн",
+        "meaning": "мудрецов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сарва̄н",
+        "meaning": "всех",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "урага̄н",
+        "meaning": "змееподобных существ",
+        "order": 0
+      }
+    ],
+    "sloka_396": [
+      {
+        "sanskrit": "",
+        "word": "а̄ттха",
+        "meaning": "сказал",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "парама-ӣш́вара",
+        "meaning": "о Всевышний",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пуруш̣а-уттама",
+        "meaning": "о Высшая Личность",
+        "order": 0
+      }
+    ],
+    "sloka_426": [
+      {
+        "sanskrit": "",
+        "word": "а̄ха",
+        "meaning": "сказал",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхӣта-бхӣтах̣",
+        "meaning": "с преисполненным страха сердцем",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вачанам",
+        "meaning": "слова",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вепама̄нах̣",
+        "meaning": "дрожащий",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кеш́авасйа",
+        "meaning": "Господа Кр̣ш̣н̣ы",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кирӣт̣ӣ",
+        "meaning": "увенчанный диадемой, дарованной Индрой после победы над демонами данавами (Арджуна)",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кр̣та-ан̃джалих̣",
+        "meaning": "сложил ладони",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кр̣ш̣н̣ам",
+        "meaning": "Кр̣ш̣н̣е",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "намах̣-кр̣тва̄",
+        "meaning": "затем выразил почтение",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "са-гад-гадам",
+        "meaning": "запинаясь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́рутва̄",
+        "meaning": "слушая",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "этат",
+        "meaning": "эти",
+        "order": 0
+      }
+    ],
+    "sloka_406": [
+      {
+        "sanskrit": "",
+        "word": "абха̄ш̣ата",
+        "meaning": "произнес",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "висмайа-а̄виш̣т̣ах̣",
+        "meaning": "преисполнившись изумления",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "девам",
+        "meaning": "перед Господом Ш́рӣ Кр̣ш̣н̣ой",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дханан̃джайах̣",
+        "meaning": "Арджуна, завоеватель богатств",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кр̣та̄-ан̃джалих̣",
+        "meaning": "с молитвенно сложенными руками",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "хр̣ш̣т̣а-рома̄х̣",
+        "meaning": "со вздыбленными волосами на теле",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́ираса̄",
+        "meaning": "голову",
+        "order": 0
+      }
+    ],
+    "sloka_419": [
+      {
+        "sanskrit": "",
+        "word": "абхи-мукха̄х̣",
+        "meaning": "несут",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "абхитах̣",
+        "meaning": "все четыре направления",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "амбу-вега̄х̣",
+        "meaning": "потоки воды",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "амӣ",
+        "meaning": "все эти",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бахавах̣",
+        "meaning": "многие",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "джваланти",
+        "meaning": "которые озаряют",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "надӣна̄м",
+        "meaning": "реки",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "нара-лока-вӣра̄х̣",
+        "meaning": "герои мира людей",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "самудрам",
+        "meaning": "в океан",
+        "order": 0
+      }
+    ],
+    "sloka_418": [
+      {
+        "sanskrit": "",
+        "word": "авани-па̄ла-сан̇гхаих̣",
+        "meaning": "своими царями-союзниками",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "асау",
+        "meaning": "тот",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "асмадӣйаих̣",
+        "meaning": "нашей стороны",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхайа̄нака̄ни",
+        "meaning": "устрашающими",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхӣш̣мах̣",
+        "meaning": "Бхӣш̣ма",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вилагна̄х̣",
+        "meaning": "перемалываются",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дам̇ш̣т̣ра̄",
+        "meaning": "с зубами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "даш́ана-антареш̣у",
+        "meaning": "между этими зубами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дрон̣а",
+        "meaning": "Дрон̣а",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дхр̣тара̄ш̣т̣расйа",
+        "meaning": "Дхр̣тара̄ш̣т̣ры",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йодха-мукхйаих̣",
+        "meaning": "военачальниками",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кара̄ла̄ни",
+        "meaning": "наводящими ужас",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кечит",
+        "meaning": "некоторые",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "путра̄х̣",
+        "meaning": "сыновья",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сам̇др̣ш́йанте",
+        "meaning": "видны",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "саха",
+        "meaning": "вместе с",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "саха эва",
+        "meaning": "вместе со",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сӯта-путрах̣",
+        "meaning": "Карн̣а",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тварама̄н̣а̄х̣",
+        "meaning": "стремительно несутся",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "уттама-ан̇гаих̣",
+        "meaning": "головами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "чӯрн̣итаих̣",
+        "meaning": "со смятыми",
+        "order": 0
+      }
+    ],
+    "sloka_423": [
+      {
+        "sanskrit": "",
+        "word": "авастхита̄х̣",
+        "meaning": "присутствующие",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхавиш̣йанти",
+        "meaning": "в будущем существовать",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "иха",
+        "meaning": "в этом мире",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йе",
+        "meaning": "эти",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йодха̄х̣",
+        "meaning": "воины",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ка̄лах̣",
+        "meaning": "время",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "лока-кш̣айа-кр̣т",
+        "meaning": "уничтожающее все миры",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "лока̄н",
+        "meaning": "всех существ",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пра-вр̣ддхах̣",
+        "meaning": "могущественное",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "правр̣ттах̣",
+        "meaning": "занятое",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прати-анӣкеш̣у",
+        "meaning": "в противостоящих армиях",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "р̣те",
+        "meaning": "помимо",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сам-а̄хартум",
+        "meaning": "уничтожением",
+        "order": 0
+      }
+    ],
+    "sloka_410": [
+      {
+        "sanskrit": "",
+        "word": "авйайах̣",
+        "meaning": "нетленный",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ведитавйам",
+        "meaning": "познаваемый благодаря Ведам",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гопта̄",
+        "meaning": "Хранитель",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дхарма",
+        "meaning": "религии",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "матах̣",
+        "meaning": "убеждение",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "парамам",
+        "meaning": "высшая",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сана̄танах̣",
+        "meaning": "вечен",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́а̄ш́вата",
+        "meaning": "вечной",
+        "order": 0
+      }
+    ],
+    "sloka_430": [
+      {
+        "sanskrit": "",
+        "word": "агних̣",
+        "meaning": "Агни, бог огня",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "асту",
+        "meaning": "да будут",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ва̄йух̣",
+        "meaning": "Ва̄йу, бог ветра",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "варун̣ах̣",
+        "meaning": "Варун̣а, бог океана",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йамах̣",
+        "meaning": "Йама, бог смерти",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "намах̣ намах̣",
+        "meaning": "поклоны, поклоны",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "праджа̄патих̣",
+        "meaning": "Брахма̄",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прапита̄махах̣",
+        "meaning": "отец праотца (Брахмы)",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пун̣ах̣",
+        "meaning": "снова",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сахасра-кр̣твах̣",
+        "meaning": "тысячи раз",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́аш́а̄н̇ках̣",
+        "meaning": "бог луны",
+        "order": 0
+      }
+    ],
+    "sloka_412": [
+      {
+        "sanskrit": "",
+        "word": "адбхутам",
+        "meaning": "изумляющую",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "антарам",
+        "meaning": "пространство между",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вйа̄птам",
+        "meaning": "пронизаны",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дйау-а̄пр̣тхивйох̣",
+        "meaning": "райскими планетами и землей",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "лока-трайам",
+        "meaning": "все обитатели трех миров вселенной",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "маха̄-а̄тман",
+        "meaning": "о великая Личность",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сарва̄х̣",
+        "meaning": "все",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "уграм",
+        "meaning": "и устрашающую",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "экена",
+        "meaning": "одним",
+        "order": 0
+      }
+    ],
+    "sloka_400": [
+      {
+        "sanskrit": "",
+        "word": "адйа",
+        "meaning": "сегодня",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "анйат",
+        "meaning": "еще",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гуд̣а̄кеш́а",
+        "meaning": "победивший сон",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "иччхаси",
+        "meaning": "пожелаешь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "са-чара-ачарам",
+        "meaning": "включая движущиеся и неподвижные существа",
+        "order": 0
+      }
+    ],
+    "sloka_435": [
+      {
+        "sanskrit": "",
+        "word": "адр̣ш̣т̣а-пӯрвам",
+        "meaning": "этот Твой доселе невиданный вселенский образ",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхайена",
+        "meaning": "страх",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дарш́айа",
+        "meaning": "яви сейчас",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дева",
+        "meaning": "о Господь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дева-ӣш́а",
+        "meaning": "Повелитель богов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "джагат-нива̄са",
+        "meaning": "Хранитель вселенной",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "манах̣",
+        "meaning": "ум",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пра-вйатхитам",
+        "meaning": "охватил",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прасӣда",
+        "meaning": "смилуйся",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "хр̣ш̣итах̣ асми",
+        "meaning": "я ликую",
+        "order": 0
+      }
+    ],
+    "sloka_394": [
+      {
+        "sanskrit": "",
+        "word": "адхйа̄тма-сам̇джн̃итам",
+        "meaning": "духовные истины",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "айам",
+        "meaning": "эта",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ануграха̄йа",
+        "meaning": "беспричинной милости",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "арджунах̣",
+        "meaning": "Арджуна",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вачах̣",
+        "meaning": "словами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ви-гатах̣",
+        "meaning": "полностью рассеяна",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гухйам",
+        "meaning": "сокровенные",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "мохах̣",
+        "meaning": "иллюзия",
+        "order": 0
+      }
+    ],
+    "sloka_438": [
+      {
+        "sanskrit": "",
+        "word": "адхйайанаих̣",
+        "meaning": "посредством изучения Вед",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "веда-йаджн̃а",
+        "meaning": "посредством ведических жертвоприношений",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "да̄наих̣",
+        "meaning": "благодаря различным формам благотворительности",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "крийа̄бхих̣",
+        "meaning": "благоприятным ритуалам и деятельности, предписанным Ведами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "куру-правӣра",
+        "meaning": "выдающийся воин династии Куру",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "нр̣-локе",
+        "meaning": "в мире людей",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тапобхих̣",
+        "meaning": "аскезами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тват-анйена",
+        "meaning": "никому, кроме тебя",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "уграих̣",
+        "meaning": "суровыми",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "эвам рӯпах̣",
+        "meaning": "этот вселенский образ",
+        "order": 0
+      }
+    ],
+    "sloka_402": [
+      {
+        "sanskrit": "",
+        "word": "аиш́варам",
+        "meaning": "Своего великолепия",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дарш́айа̄м-а̄са",
+        "meaning": "явил",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "маха̄-йога-ӣш́варах̣",
+        "meaning": "великий Владыка мистических сил",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "па̄ртха̄йа",
+        "meaning": "Арджуне",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ра̄джан",
+        "meaning": "царь Дхр̣тара̄ш̣т̣ра",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сан̃джайа",
+        "meaning": "Сан̃джайа",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "харих̣",
+        "meaning": "Хари (Тот, Кто избавляет от всего неблагоприятного), Ш́рӣ Кр̣ш̣н̣а",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "эвам",
+        "meaning": "так",
+        "order": 0
+      }
+    ],
+    "sloka_398": [
+      {
+        "sanskrit": "",
+        "word": "акр̣тӣни",
+        "meaning": "форм",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "варн̣а",
+        "meaning": "цветов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дивйа̄ни",
+        "meaning": "божественных",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "на̄на̄",
+        "meaning": "различных",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "на̄на̄-видха̄ни",
+        "meaning": "разных видов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "па̄ртха",
+        "meaning": "Па̄ртха",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "рӯпа̄н̣и",
+        "meaning": "обликов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сахасраш́ах̣",
+        "meaning": "тысячи",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́аташ́ах̣",
+        "meaning": "сотни",
+        "order": 0
+      }
+    ],
+    "sloka_431": [
+      {
+        "sanskrit": "",
+        "word": "амита-викрамах̣",
+        "meaning": "чья доблесть неизмерима",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ананта-вирйа",
+        "meaning": "о безгранично могущественный",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "атха",
+        "meaning": "и",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "намах̣",
+        "meaning": "мои поклоны",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "намах̣ асту",
+        "meaning": "Я предлагаю поклоны",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "параста̄т",
+        "meaning": "спереди",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пр̣ш̣т̣хатах̣",
+        "meaning": "сзади",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сама̄пнош̣и",
+        "meaning": "пронизываешь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сарвам",
+        "meaning": "все сущее",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сарватах̣",
+        "meaning": "со всех направлений",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "татах̣",
+        "meaning": "а также",
+        "order": 0
+      }
+    ],
+    "sloka_411": [
+      {
+        "sanskrit": "",
+        "word": "ан-а̄ди",
+        "meaning": "без начала",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ананта-ба̄хум",
+        "meaning": "многорукого",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "антам",
+        "meaning": "конца",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вактрам",
+        "meaning": "из чьих уст",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вӣрйам",
+        "meaning": "могущественного",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "мадхйа",
+        "meaning": "середины",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "паш́йа̄ми",
+        "meaning": "я вижу",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сва-теджаса̄",
+        "meaning": "Своим сиянием",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сӯрйа",
+        "meaning": "солнце",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тапантам",
+        "meaning": "опаляет",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "хута̄ш́а",
+        "meaning": "огонь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́аш́и",
+        "meaning": "луна",
+        "order": 0
+      }
+    ],
+    "sloka_409": [
+      {
+        "sanskrit": "",
+        "word": "анала",
+        "meaning": "пламени",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "апрамейам",
+        "meaning": "неизмеримого",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "арка",
+        "meaning": "солнцу",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дипта",
+        "meaning": "пылающему подобно",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дйутим",
+        "meaning": "ослепляющему",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дух̣-нирӣкш̣йам",
+        "meaning": "трудно различимого",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дӣпти-мантам",
+        "meaning": "освещающего",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "теджах̣-ра̄ш́им",
+        "meaning": "излучающего сверхъестественное сияние",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "чакрин̣ам",
+        "meaning": "смертоносные диски",
+        "order": 0
+      }
+    ],
+    "sloka_444": [
+      {
+        "sanskrit": "",
+        "word": "ананйайа̄",
+        "meaning": "исключительной и беззаветной",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "арджуна",
+        "meaning": "Арджуна",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ахам",
+        "meaning": "Меня",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхактйа̄",
+        "meaning": "преданностью",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "джн̃а̄тум",
+        "meaning": "познать",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "драш̣т̣ум",
+        "meaning": "увидеть",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "парантапа",
+        "meaning": "о покоритель врагов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "правеш̣т̣ум",
+        "meaning": "вступить",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "таттвена",
+        "meaning": "воистину",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ту",
+        "meaning": "лишь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ча",
+        "meaning": "и",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́акйах̣",
+        "meaning": "можно",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "эвам-видхах̣",
+        "meaning": "в этом особом облике",
+        "order": 0
+      }
+    ],
+    "sloka_416": [
+      {
+        "sanskrit": "",
+        "word": "анека-варн̣ам",
+        "meaning": "многоцветного",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "атнах̣-а̄тма̄",
+        "meaning": "мое сердце",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виш́а̄ла",
+        "meaning": "гигантскими",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вйа̄тта-а̄нанам",
+        "meaning": "с раскрытыми ртами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дхр̣тим",
+        "meaning": "самообладание",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дӣпта",
+        "meaning": "пылающими",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дӣптам",
+        "meaning": "сияющего",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "на винда̄ми",
+        "meaning": "не могу обрести",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "набхах̣-спр̣ш́ам",
+        "meaning": "задевающего небеса",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "нетрам",
+        "meaning": "глазами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "правйатхита",
+        "meaning": "трепещет от страха",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́амам",
+        "meaning": "невозмутимость",
+        "order": 0
+      }
+    ],
+    "sloka_405": [
+      {
+        "sanskrit": "",
+        "word": "анека-дха̄",
+        "meaning": "на множество частей",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "апаш́йат",
+        "meaning": "увидел",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дева-девасйа",
+        "meaning": "Бога богов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кр̣тснам",
+        "meaning": "всю",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "па̄н̣д̣авах̣",
+        "meaning": "Арджуна",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "правибхактам",
+        "meaning": "разделенную",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тада̄",
+        "meaning": "тогда",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "татра",
+        "meaning": "там",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́арӣре",
+        "meaning": "в теле",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "эка-стхам",
+        "meaning": "в одном месте",
+        "order": 0
+      }
+    ],
+    "sloka_401": [
+      {
+        "sanskrit": "",
+        "word": "анена",
+        "meaning": "этими",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дада̄ми",
+        "meaning": "Я дам",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дивйам",
+        "meaning": "божественные",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йогам",
+        "meaning": "мистическое",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ма̄м",
+        "meaning": "Меня",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "паш́йа",
+        "meaning": "увидь же",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сва-чакш̣уш̣а̄",
+        "meaning": "физическими глазами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "чакш̣ух̣",
+        "meaning": "глаза",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́акйасе",
+        "meaning": "способен",
+        "order": 0
+      }
+    ],
+    "sloka_425": [
+      {
+        "sanskrit": "",
+        "word": "анйа̄н апи",
+        "meaning": "также многие другие",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхӣш̣мам",
+        "meaning": "Бхӣш̣ма",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "джайдратхам",
+        "meaning": "Джайадратха",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "джахи",
+        "meaning": "сокруши",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "джета̄ аси",
+        "meaning": "ты победишь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дрон̣ам",
+        "meaning": "Дрон̣а",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йодха-вӣра̄н",
+        "meaning": "великие воины",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йудхйасва",
+        "meaning": "просто сражайся",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "карн̣ам",
+        "meaning": "Карн̣а",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ма̄ вйатхиш̣т̣ха̄х̣",
+        "meaning": "не тревожься",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ран̣е",
+        "meaning": "в этой битве",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сапатна̄н",
+        "meaning": "врагов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "хата̄н",
+        "meaning": "уже убиты",
+        "order": 0
+      }
+    ],
+    "sloka_427": [
+      {
+        "sanskrit": "",
+        "word": "анураджйате",
+        "meaning": "ощущает любовную преданность к Тебе",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхӣта̄ни",
+        "meaning": "в испуге",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "джагат",
+        "meaning": "все мироздание",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "диш́ах̣",
+        "meaning": "во всех направлениях",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "драванти",
+        "meaning": "разбегаются",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "намасйанти",
+        "meaning": "предлагают почтение",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прахр̣ш̣йати",
+        "meaning": "испытывает счастье",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ракш̣а̄м̇си",
+        "meaning": "демоны",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сарве",
+        "meaning": "все",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сиддха-сан̇гха̄х̣",
+        "meaning": "совершенные души",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "стха̄не",
+        "meaning": "положение вещей",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тава пракӣртйа̄",
+        "meaning": "благодаря воспеванию Твоей славы",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "хр̣ш̣ӣкеш́а",
+        "meaning": "Повелитель чувств, Кр̣ш̣н̣а",
+        "order": 0
+      }
+    ],
+    "sloka_442": [
+      {
+        "sanskrit": "",
+        "word": "апи",
+        "meaning": "даже",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "асйа",
+        "meaning": "этот",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дарш́ана",
+        "meaning": "увидеть",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "дева̄х̣",
+        "meaning": "боги",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "др̣ш̣т̣ава̄н аси",
+        "meaning": "ты сейчас созерцаешь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "идам",
+        "meaning": "этот",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ка̄н̇кш̣ин̣ах̣",
+        "meaning": "желают",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "нитйам",
+        "meaning": "постоянно",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "рӯпам",
+        "meaning": "двурукий облик",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "рӯпасйа",
+        "meaning": "облик",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "су-дух̣-дарш́ам",
+        "meaning": "невероятно трудно увидеть",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ува̄ча",
+        "meaning": "сказал",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́рӣ бхагава̄н",
+        "meaning": "Всевышний",
+        "order": 0
+      }
+    ],
+    "sloka_395": [
+      {
+        "sanskrit": "",
+        "word": "апйайау",
+        "meaning": "уничтожении",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхӯта̄на̄м",
+        "meaning": "всех существ",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ви-стараш́ах̣",
+        "meaning": "подробно",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "камала-патра-акш̣а",
+        "meaning": "о Господь Кр̣ш̣н̣а, чьи глаза подобны лепесткам цветка лотоса",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ма̄ха̄тмйам",
+        "meaning": "великий",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тваттах̣",
+        "meaning": "от Тебя",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́рутау",
+        "meaning": "было услышано",
+        "order": 0
+      }
+    ],
+    "sloka_434": [
+      {
+        "sanskrit": "",
+        "word": "архаси",
+        "meaning": "будь милостив",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ива",
+        "meaning": "как",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ка̄йам",
+        "meaning": "свое тело",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пита̄",
+        "meaning": "отец",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пран̣амйа",
+        "meaning": "в поклоне",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пран̣идха̄йа",
+        "meaning": "простирая",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "праса̄дайе",
+        "meaning": "молю о благосклонности",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прийа̄йа̄х̣",
+        "meaning": "возлюбленную",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прийах̣",
+        "meaning": "как любящий",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "путрасйа",
+        "meaning": "сына",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сакха̄",
+        "meaning": "друг",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сакхйух̣",
+        "meaning": "друга",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сод̣хум",
+        "meaning": "прости",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тасма̄т",
+        "meaning": "поэтому",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ӣд̣йам",
+        "meaning": "объект поклонения",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ӣш́ам",
+        "meaning": "Господь",
+        "order": 0
+      }
+    ],
+    "sloka_443": [
+      {
+        "sanskrit": "",
+        "word": "аси",
+        "meaning": "ты есть",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ведаих̣",
+        "meaning": "изучением Вед",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "да̄нена",
+        "meaning": "благотворительностью",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "др̣ш̣т̣ава̄н",
+        "meaning": "видишь сейчас",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "иджйайа̄",
+        "meaning": "жертвоприношениями",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йат",
+        "meaning": "каким",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "мама",
+        "meaning": "Меня",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "на",
+        "meaning": "ни",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тапаса̄",
+        "meaning": "аскезами",
+        "order": 0
+      }
+    ],
+    "sloka_441": [
+      {
+        "sanskrit": "",
+        "word": "асми",
+        "meaning": "я есть",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гатах̣",
+        "meaning": "вернулся",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "джана̄рдана",
+        "meaning": "о Ш́рӣ Кр̣ш̣н̣а",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "др̣ш̣т̣ва̄",
+        "meaning": "видя",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ида̄нӣм",
+        "meaning": "сейчас",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ма̄нуш̣ам",
+        "meaning": "человекоподобный, двурукий",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пракр̣тим",
+        "meaning": "своему естественному",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "са-чета̄х̣",
+        "meaning": "к должному сознанию",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сам̇вр̣ттах̣",
+        "meaning": "умиротворен",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "саумйам",
+        "meaning": "прекрасный",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тава",
+        "meaning": "Твой",
+        "order": 0
+      }
+    ],
+    "sloka_414": [
+      {
+        "sanskrit": "",
+        "word": "асура",
+        "meaning": "асуры",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "аш́винау",
+        "meaning": "оба Аш́винӣ-кума̄ра",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "васавах̣",
+        "meaning": "Васу",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ви-смита̄х̣",
+        "meaning": "в полном изумлении",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виш́ве",
+        "meaning": "Виш́вадевы",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вӣкш̣анте",
+        "meaning": "созерцают",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гандхарва",
+        "meaning": "гандхарвы",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йакш̣а",
+        "meaning": "йакш̣и",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "марутах̣",
+        "meaning": "Ва̄йу",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "рудра-а̄дитйа̄х̣",
+        "meaning": "Рудры и А̄дитйи",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "са̄дхйа̄х̣",
+        "meaning": "Са̄дхйи",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сан̇гха̄х̣",
+        "meaning": "вместе",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сиддха",
+        "meaning": "сиддхи",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "уш̣ма-па̄х̣",
+        "meaning": "предки",
+        "order": 0
+      }
+    ],
+    "sloka_415": [
+      {
+        "sanskrit": "",
+        "word": "ба̄ху",
+        "meaning": "рук",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "баху",
+        "meaning": "с множеством",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "баху-вактра-нетрам",
+        "meaning": "с бесчисленными устами и глазами",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "баху-ударам",
+        "meaning": "с множеством животов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кара̄лам",
+        "meaning": "зубов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "маха̄-бахо",
+        "meaning": "о сильнорукий герой, Кр̣ш̣н̣а",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "махат",
+        "meaning": "грандиозную",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "па̄дам",
+        "meaning": "стоп",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "правйатхита̄х̣",
+        "meaning": "сильно напуганы",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "татха̄ ахам",
+        "meaning": "включая меня",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "уру",
+        "meaning": "бедер",
+        "order": 0
+      }
+    ],
+    "sloka_404": [
+      {
+        "sanskrit": "",
+        "word": "бха̄х̣",
+        "meaning": "сияние",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "бхавет",
+        "meaning": "появившихся",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "диви",
+        "meaning": "в небе",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йади",
+        "meaning": "которых",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йугапат",
+        "meaning": "одновременно",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "маха̄-а̄тманах̣",
+        "meaning": "вселенского образа Господа",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "са̄",
+        "meaning": "это",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "садр̣ш́ӣ",
+        "meaning": "подобно этому",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сйа̄т",
+        "meaning": "было",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сӯрйа-сахасрасйа",
+        "meaning": "тысяч солнц",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тасйа",
+        "meaning": "того",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "уттхита̄",
+        "meaning": "взошедших",
+        "order": 0
+      }
+    ],
+    "sloka_436": [
+      {
+        "sanskrit": "",
+        "word": "бхава",
+        "meaning": "предстань",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виш́ва-мӯрте",
+        "meaning": "о вселенский образ",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гадинам",
+        "meaning": "с булавой в руках",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "иччха̄ми",
+        "meaning": "желаю",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "кирӣт̣инам",
+        "meaning": "увенчанным короной",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "рӯпен̣а",
+        "meaning": "облике",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сахасра-ба̄хо",
+        "meaning": "о тысячерукий Господь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "татха̄ эва",
+        "meaning": "именно таким",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тва̄м",
+        "meaning": "Тебя",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тена",
+        "meaning": "в том",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "чакра-хастам",
+        "meaning": "и держащим диск",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "чатух̣-бхуджена",
+        "meaning": "четырехруком",
+        "order": 0
+      }
+    ],
+    "sloka_424": [
+      {
+        "sanskrit": "",
+        "word": "бхун̇кш̣ва",
+        "meaning": "насладишься",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "джитва̄",
+        "meaning": "победишь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йаш́ах̣",
+        "meaning": "славу",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "лабхасва",
+        "meaning": "обретешь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "майа̄ эва",
+        "meaning": "Мной",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "нимитта-ма̄трам",
+        "meaning": "лишь инструментом",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "нихата̄х̣",
+        "meaning": "убиты",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пӯрвам",
+        "meaning": "давным-давно",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ра̄джйам",
+        "meaning": "царством",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "савйа-са̄чин",
+        "meaning": "о Арджуна, способный даже левой рукой посылать стрелы в цель",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сам-р̣ддхам",
+        "meaning": "процветающим",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "уттиш̣т̣ха",
+        "meaning": "вставай и сражайся",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́атрӯн",
+        "meaning": "врагов",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "эте",
+        "meaning": "эти воины",
+        "order": 0
+      }
+    ],
+    "sloka_413": [
+      {
+        "sanskrit": "",
+        "word": "бхӣта̄х̣",
+        "meaning": "напуганные",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гр̣н̣анти",
+        "meaning": "возносят молитвы",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "маха̄-р̣ш̣и",
+        "meaning": "великие мудрецы",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пра-ан̃джалайах̣",
+        "meaning": "со сложенными ладонями",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "пуш̣кала̄бхих̣",
+        "meaning": "превосходными",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "стуванти",
+        "meaning": "прославляют в гимнах",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "стутибхих̣",
+        "meaning": "молитвами поклонения",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "су-асти",
+        "meaning": "«Да пребудет мир повсюду!»",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сура-сан̇гха̄х̣",
+        "meaning": "сонмы богов",
+        "order": 0
+      }
+    ],
+    "sloka_445": [
+      {
+        "sanskrit": "",
+        "word": "бхӯтеш̣у",
+        "meaning": "живым существам",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "варджитах̣",
+        "meaning": "свободный",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йах̣",
+        "meaning": "тот, кто",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "карма-кр̣т",
+        "meaning": "кто совершает всю деятельность",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "мам",
+        "meaning": "Меня",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "мат",
+        "meaning": "ради Меня",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "мат-бхактах̣",
+        "meaning": "кто предан Мне",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "них̣-ваирах̣",
+        "meaning": "без враждебности",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "па̄н̣д̣ава",
+        "meaning": "о сын Па̄н̣д̣у",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сан̇га",
+        "meaning": "от привязанности",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сарва",
+        "meaning": "ко всем",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "сах̣",
+        "meaning": "он",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "эти",
+        "meaning": "достигает",
+        "order": 0
+      }
+    ],
+    "sloka_420": [
+      {
+        "sanskrit": "",
+        "word": "вактра̄н̣и",
+        "meaning": "рты",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "виш́анти",
+        "meaning": "входя",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "джва̄ланам",
+        "meaning": "огонь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "йатха̄",
+        "meaning": "как",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "лока̄х̣",
+        "meaning": "миры с их обитателями",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "на̄ш́а̄йа",
+        "meaning": "уничтожаются",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "патан̇га̄х̣",
+        "meaning": "насекомые",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прадӣптам",
+        "meaning": "в пылающий",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "самр̣ддха-вега̄х̣",
+        "meaning": "быстро устремляясь",
+        "order": 0
+      }
+    ],
+    "sloka_439": [
+      {
+        "sanskrit": "",
+        "word": "ви-мӯд̣ха-бха̄вах̣",
+        "meaning": "заблуждения",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вйапета-бхӣх̣",
+        "meaning": "свободный от страха",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "вйатха̄",
+        "meaning": "тревоги и страха",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "гхорам",
+        "meaning": "устрашающей",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ма̄",
+        "meaning": "не",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ме",
+        "meaning": "Мой",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прапаш́йа",
+        "meaning": "увидь",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "прӣта-мана̄х̣",
+        "meaning": "с умиротворенным умом",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "тат",
+        "meaning": "тот",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "твам",
+        "meaning": "ты",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "те",
+        "meaning": "у тебя",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "эва",
+        "meaning": "конечно же",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ӣдр̣к",
+        "meaning": "такой",
+        "order": 0
+      }
+    ],
+    "sloka_417": [
+      {
+        "sanskrit": "",
+        "word": "ка̄ла-анала",
+        "meaning": "огонь разрушения вселенной",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "мукха̄ни",
+        "meaning": "рты",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "на джа̄не",
+        "meaning": "не знаю",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "на лабхе",
+        "meaning": "не могу обнаружить",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "саннибха̄ни",
+        "meaning": "напоминающих",
+        "order": 0
+      },
+      {
+        "sanskrit": "",
+        "word": "ш́арма",
+        "meaning": "милость",
+        "order": 0
+      }
+    ]
+  }
+}

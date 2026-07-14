@@ -1,0 +1,5570 @@
+{
+  "chapter": 7,
+  "title": {
+    "sanskrit": "",
+    "transliteration": "",
+    "ru": {
+      "text": "Постижение Абсолюта и Его энергий",
+      "approved": true
+    },
+    "en": {
+      "text": "Knowledge and Realisation of the Supreme",
+      "approved": true
+    },
+    "de": {
+      "text": "SIEBTES KAPITEL Jñāna-Vijñāna-YogaWissen und Erkenntnis vom Höchsten",
+      "approved": true
+    },
+    "es": {
+      "text": "Guiana-viguiana-yoga. Los conceptos Relativo y Absoluto del Supremo",
+      "approved": true
+    },
+    "ko": {
+      "text": "지식과 깨달음의 요가",
+      "approved": false
+    },
+    "th": {
+      "text": "โยคะแห่งความรู้และการตระหนักรู้",
+      "approved": false
+    },
+    "zh-CN": {
+      "text": "知识与实修瑜伽",
+      "approved": false
+    },
+    "zh-TW": {
+      "text": "知識與實修瑜伽",
+      "approved": false
+    }
+  },
+  "meta": {
+    "totalSlokas": 30,
+    "lastUpdated": "2026-03-26T05:31:42Z",
+    "version": "1.0",
+    "source": "SM/SCSM/ШМ/ШЧСМ"
+  },
+  "slokas": [
+    {
+      "number": "7.1",
+      "order": 1,
+      "sanskrit": "श्रीभगवानुवाच।\nमय्यासक्तमनाः पार्थ योगं युञ्जन् मदाश्रयः ।\nअसंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु ॥१॥",
+      "transliteration": "ш́рӣ бхагава̄н ува̄ча\nмайй а̄сакта-мана̄х̣ па̄ртха, йогам̇ йун̃джан мад-а̄ш́райах̣\nасам̇ш́айам̇ самаграм̇ ма̄м̇, йатха̄ джн̃а̄сйаси тач чхр̣н̣у",
+      "translations": {
+        "ru": {
+          "text": "Всевышний сказал:\nПартха, теперь услышь, как благодаря практике йоги, устремляя все помыслы ко Мне и принимая прибежище во Мне, ты сможешь постичь Меня, освободившись от всех сомнений.",
+          "approved": true
+        },
+        "en": {
+          "text": "The Lord said: O Pārtha, hear from Me how, with mind attached to Me, the Supreme Lord, linking your consciousness with Me and taking refuge in Me alone, you will without doubt be able to know Me, My holy abode, My opulences, and My associates.",
+          "approved": true
+        },
+        "de": {
+          "text": "1  Der Höchste Herr sprach: ‚O Pārtha, höre nun von Mir, wie du  mit einem an Mir, dem Höchsten Gott, haftenden Geist, deinem  Bewusstsein mit Mir verbunden und allein bei Mir Zufl ucht su-chend, Mich, Mein heiliges Reich, Meine Reichtümer und Meine  Beigesellten zweifelsohne kennen kannst.",
+          "approved": true
+        },
+        "es": {
+          "text": "El Señor dijo: ¡Oh Partha!, oye de Mí, con la mente apegada a Mí, el Supremo Señor, uniendo tu conciencia Conmigo y tomando refugio en Mí solamente, tú serás capaz, sin dudas, de conocerme a Mí, Mi morada sagrada, Mis opulencias y Mis asociados.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/7db5ce4427924e4ba595cc162b10ca87.mp3",
+        "sanskrit": "/Files/657cab5c68c344ca845baa5db11da3a3.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "ш́рӣ бхагава̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Всевышний",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ува̄ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "сказал",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "майи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "со Мной",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "а̄сакта",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "связывая",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "мана̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "ум",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "па̄ртха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Арджуна",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "йогам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "практике этой йоги",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "йун̃джан",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "посвящая себя",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "мат-а̄ш́райах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "принимая прибежище во Мне",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "а-сам̇ш́айам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "избавляясь от сомнений",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "сам-аграм",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "во всей полноте",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Меня",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "йатха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "джн̃а̄сйаси",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "ты познаешь",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "о том",
+              "approved": true
+            }
+          },
+          "order": 15
+        },
+        {
+          "word": "ш́р̣н̣у",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "услышь",
+              "approved": true
+            }
+          },
+          "order": 16
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "order": 2,
+      "sanskrit": "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः ।\nयज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ॥२॥",
+      "transliteration": "джн̃а̄нам̇ те ’хам̇ са-виджн̃а̄нам, идам вакш̣йа̄мй аш́еш̣атах̣\nйадж джн̃а̄тва̄ неха бхӯйо ’нйадж, джн̃а̄тавйам аваш́иш̣йате",
+      "translations": {
+        "ru": {
+          "text": "Сейчас я в подробностях расскажу тебе о Своем несравненном могуществе, проявленном в материальном мире, а также о Своей надмирной природе Личности Бога. Тому, кто постиг это знание, нечего более постигать.",
+          "approved": true
+        },
+        "en": {
+          "text": "Now I shall reveal to you this knowledge of My absolute power as well as the realisation of My sweetness, knowing which, nothing will remain to be known, here on this supreme path.",
+          "approved": true
+        },
+        "de": {
+          "text": "2  Ich werde dir jetzt sowohl dieses Wissen von Meiner absoluten  Macht als auch die Erkenntnis von Meiner Anmut offenbaren.  Wenn du dieses Wissen hast, wird auf diesem höchsten Pfad  nichts zu wissen übrig bleiben.",
+          "approved": true
+        },
+        "es": {
+          "text": "Ahora te revelaré este conocimiento de Mi poder absoluto así como el entendimiento de Mi dulzura y conocimiento, con el cual nada quedará por ser conocido, aquí en este sendero luminoso.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/18bbea166aed45e6bef0941f656a7f19.mp3",
+        "sanskrit": "/Files/c777cc0bcfcb44d58718d169a432aaaa.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "джн̃а̄нам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знание, основанное на чувственном опыте",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "те",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тебе",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "ахам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Я",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "са",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вместе с",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ви-джн̃а̄нам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знанием, постигаемым через откровение",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "идам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "это",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "вакш̣йа̄ми",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "сейчас опишу",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "а-ш́еш̣атах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "подробно",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "йат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которое",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "джн̃а̄тва̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "постигнув",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "на",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "иха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в этом мире",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "бхӯйах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "более",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "анйат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "что-либо другое",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "джн̃а̄тавйам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "непознанным",
+              "approved": true
+            }
+          },
+          "order": 15
+        },
+        {
+          "word": "ава-ш́иш̣йате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "остается",
+              "approved": true
+            }
+          },
+          "order": 16
+        }
+      ]
+    },
+    {
+      "number": "7.3",
+      "order": 3,
+      "sanskrit": "मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये ।\nयततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः ॥३॥",
+      "transliteration": "мануш̣йа̄н̣а̄м̇ сахасреш̣у, каш́чид йатати сиддхайе\nйатата̄м апи сиддха̄на̄м̇, каш́чин ма̄м̇ ветти таттватах̣",
+      "translations": {
+        "ru": {
+          "text": "Среди великого множества людей лишь немногие стремятся к духовному совершенствованию. Но даже среди тех, кто достиг просветления на духовном пути, лишь единицы способны постичь Меня.",
+          "approved": true
+        },
+        "en": {
+          "text": "Of countless souls, few reach the human form; of thousands of human beings, very few may try to realise the soul and the Supersoul; and of thousands who have attained such realisation, hardly one can actually know Me, Śyāmasundar.",
+          "approved": true
+        },
+        "de": {
+          "text": "3  Von zahllosen Seelen erreichen nur wenige die menschli-che Form. Von Tausenden von Menschen mögen nur ein paar  versuchen, die Seele und die Überseele zu verstehen. Und von  Tausenden, die solch eine Erkenntnis erlangt haben, kann Mich,  Śyāmasundara, kaum einer tatsächlich kennen.",
+          "approved": true
+        },
+        "es": {
+          "text": "De incontables almas, pocas alcanzan la forma humana; de miles de seres humanos, muy pocos tratan de entender el alma y la Súperalma; y de miles que han obtenido tal entendimiento, difícilmente uno puede Conocerme en verdad a Mí, Syamasundara.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/ac248704bd4740b2b6dcacdb5dd1b9f4.mp3",
+        "sanskrit": "/Files/7fe4ce43ce2147db94bad3cdc37cc89e.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "мануш̣йа̄н̣а̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "среди людей",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "сахасреш̣у",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "множества тысяч",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "каш́чит",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "немногие",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "йатати",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "стремятся",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "сиддхайе",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "к совершенству",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "йатата̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "среди таких стремящихся",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "апи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "даже",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "сиддха̄на̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и достигших совершенства",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "каш́чит",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "немногие",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "обо Мне",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ветти",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знают",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "таттватах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "истину",
+              "approved": true
+            }
+          },
+          "order": 12
+        }
+      ]
+    },
+    {
+      "number": "7.4",
+      "order": 4,
+      "sanskrit": "भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च ।\nअहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा ॥ ४॥",
+      "transliteration": "бхӯмир а̄по ’нало ва̄йух̣, кхам̇ мано буддхир эва ча\nахан̇ка̄ра итӣйам̇ ме, бхинна̄ пракр̣тир аш̣т̣адха̄",
+      "translations": {
+        "ru": {
+          "text": "Земля, вода, огонь, воздух, эфир, ум, разум и ложное эго — все это восемь составляющих Моей материальной энергии.",
+          "approved": true
+        },
+        "en": {
+          "text": "Earth, water, fire, air, ether, mind, intelligence, and ego are the eight divisions of My illusory potency in this world.",
+          "approved": true
+        },
+        "de": {
+          "text": "4  Erde, Wasser, Feuer, Luft, Äther, Geist, Intelligenz und Ego sind die acht Komponenten Meiner illusorischen Macht in dieser Welt.",
+          "approved": true
+        },
+        "es": {
+          "text": "La tierra, el agua, el fuego, el aire, el éter, la mente, la inteligencia y el ego son las ocho divisiones de Mi potencia interna en este mundo.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/f0ca75aaa602435196fe1bd3397d550f.mp3",
+        "sanskrit": "/Files/bf8c8ea4c8d24f898380a06945109549.mp3"
+      },
+      "comment": {
+        "en": {
+          "text": "In this verse, it is expressed that jñān, or knowledge, in the true sense of the word and in accordance with the precepts of devotion, is actually Bhagavad-aiśvarya-jñān, or knowledge of the supremacy of the Lord. The general seekers of knowledge may consider realisation of the soul—as distinct from the body and material elements—to be enlightenment, but this does not constitute ultimate knowledge.\n\nThus, to explain the conception of His Lordship, the Lord reveals His forms, His potencies, and their characteristics: “My different aspects are Brahma, Paramātmā, and Bhagavān. Brahma is a non-differentiated, formless aspect of My potency. Paramātmā, the Supersoul, is also an appearance of My potency (in relation to the cosmic manifestation), and this aspect of Mine is not eternally manifest. Only My form of Bhagavān, the Supreme Lord, is My eternal Self, and in this form My three eternal potencies exist as antaraṅgā- or chit-śhakti—the internal, divine potency; bahiraṅgā- or māyā-śakti—the external, illusory potency; and taṭasthā- or jīva-śakti—the marginal potency comprising the innumerable living beings.”\n\nIn this verse, the Lord has described His external, illusory potency.\n\n— Śrīla Bhakti Vinod Ṭhākur",
+          "approved": true
+        },
+        "de": {
+          "text": "Kommentar\nIn diesem Vers kommt zum Ausdruck, dass Jñāna, Wissen, im wahrsten Sinne des Wortes und gemäß den Lehren der Hingabe eigentlich Bhagavad-Aiśvarya-Jñāna, Wissen von der Vorherrschaft Gottes, ist. Der gemeine Sucher nach Wissen mag die Erkenntnis, dass die Seele vom Körper und den ma-teriellen Elementen verschieden ist, als Erleuchtung betrach-ten, aber dies ist nicht höchstes Wissen. Daher offenbart Gott Seine Gestalten, Energien und deren Charakteristiken, um eine Vorstellung von Seiner Herrlichkeit zu geben:\n„Meine verschiedenen Erscheinungen sind Brahman, Paramātman und Bhagavān. Brahman ist eine unterschieds-lose, formlose Erscheinung Meiner Macht. Paramātman, die Überseele, ist ebenso eine Erscheinung Meiner Macht (in Verbindung mit der kosmischen Schöpfung) und diese Mei-ne Erscheinungsform besteht nicht ewig. Nur Meine Gestalt des Bhagavān , des Höchsten Herrn. ist Mein ewiges Selbst und in dieser Gestalt existieren Meine drei ewigen Energien Antaraṅgā- oder auch Chit-Śakti, die innere göttliche Energie; Bahiraṅgā- oder auch Māyā-Śakti, die äußere, illusorische Energie und Taṭasthā- oder auch Jīva-Śakti, die Randenergie, die aus den unzähligen Lebewesen besteht. In diesem Vers hat Gott Seine äußere, illusorische Energie beschrieben.",
+          "approved": true
+        },
+        "es": {
+          "text": "bhūmir āpo ‘nalo vāyu, khaṁ mano buddhir eva cha\nahaṅkāra itīyaṁ me, bhinnā prakṛtir aṣṭadhā\nEn este verso, se explica que jñāna, o conocimiento, en el verdadero sentido de la palabra y de acuerdo con los preceptos de la devoción, es en verdad bhagavad-aiśvarya-jñāna, o conocimiento de la supremacía del Señor. Los buscadores de la verdad generalmente pueden considerar que iluminación es el entendimiento del alma (como diferente del cuerpo y los elementos materiales), pero esto, no constituye el conocimiento último. Así, para explicar la concepción de su Señoría, el Señor revela Su forma, Sus potencias y Sus características:\n“Mis diferentes aspectos son Brahman, Paramātman y Bhagavān. Brahman es el aspecto no diferenciado, sin forma de Mi potencia. Paramātma, la Súperalma, es también una muestra de Mi potencia (en relación con la manifestación cósmica), y este Mi aspecto no es eternamente manifestado. Solamente Mi forma de Bhagavān, el Supremo Señor, es Mi ser eterno, y existen en esta forma Mis tres eternas potencias como antaraṅga o chit-śakti, la potencia interna divina; bahiraṅga o māyā-śakti la potencia externa ilusoria; y ta$astha o jiva-śakti, la potencia marginal, que comprende las innumerables entidades vivientes”.\n          En este verso, el Señor ha descrito Su potencia ilusoria externa.\n–Śrīla Bhaktivinod Ṭhākur",
+          "approved": true
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "бхӯмих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "земля",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "а̄пах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вода",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "аналах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "огонь",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "ва̄йух̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "воздух",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "кхам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "эфир",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "манах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "ум",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "буддхих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "разум",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "эва ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и также",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ахан̇ка̄рах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "ложное эго",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "таким образом",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ийам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "такова",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "ме",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Моя",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "бхинна̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "разделенная",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "пракр̣тих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "материальная энергия",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "аш̣т̣а-дха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "на восемь частей",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "7.5",
+      "order": 5,
+      "sanskrit": "अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् ।\nजीवभूतां महाबाहो ययेदं धार्यते जगत् ॥५॥",
+      "transliteration": "апарейам итас тв анйа̄м̇, пракр̣тим̇ виддхи ме пара̄м\nджӣва-бхӯта̄м̇ маха̄-ба̄хо, йайедам̇ дха̄рйате джагат",
+      "translations": {
+        "ru": {
+          "text": "Величайший герой! Материальная природа, описанная Мною, ниже по своему положению в сравнении с Моей более высокой энергией, которая включает в себя все индивидуальные души. Души пользуются возможностями, предоставляемыми им материальной энергией, для эгоистичного наслаждения.",
+          "approved": true
+        },
+        "en": {
+          "text": "O mighty hero, Arjuna, this external, worldly nature is inferior. But know that superior to this nature is My marginal potency, comprised of the individual souls. Worldly existence is adopted by the souls for enjoyment through fruitive actions. (The divine world emanates from My internal potency and the mundane world from My external potency. The potency of the living beings is known as marginal as they are constitutionally situated midway between these planes. They may choose to reside either in the mundane plane or the divine.)",
+          "approved": true
+        },
+        "de": {
+          "text": "5  O mächtiger Held, Arjuna, diese äußere, weltliche Natur ist unbedeutend. Doch wisse, dass meine Randenergie, die aus den individuellen Seelen besteht, dieser äußeren Energie überge-ordnet ist. Das weltliche Dasein wird von den Seelen für ihre Vergnügung durch fruchtbringende Handlungen angenommen. (Die göttliche Welt geht von Meiner inneren Energie aus und die vergängliche Welt von Meiner äußeren. Die Energie der Lebe-wesen ist als Randenergie bekannt, da die Lebewesen sich ihrer Beschaffenheit nach halbwegs zwischen diesen beiden Ebenen befinden. Sie mögen wählen, ob sie auf der weltlichen oder der göttlichen Ebene verweilen.)",
+          "approved": true
+        },
+        "es": {
+          "text": "¡Oh poderoso héroe, Arjuna!, esta naturaleza mundana externa, es inferior. Pero entiende que superior a esta naturaleza es Mi potencia marginal, constituida por las almas individuales. La existencia mundana es adoptada por las almas para el disfrute de las actividades fruitivas. (El mundo divino emana de Mi potencia interna y el plano mundano de Mi potencia externa. La potencia de las entidades vivientes es conocida como marginal porque ellas están constitucionalmente situadas entre ambos planos. Ellas pueden escoger entre residir en el plano mundano o en el divino).",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/cf2baaec3de2463da23446634d387cf4.mp3",
+        "sanskrit": "/Files/51a6273c433749ef8e69a0a50df0ae22.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "апара̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "низшая",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ийам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "энергия",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "итах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "эта",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "ту",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тогда как",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "анйа̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "другую",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "пракр̣тим",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "энергию",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "виддхи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знай",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "ме",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Мою",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "пара̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "более высокую",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "джӣва-бхӯта̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "состоящую из индивидуальных душ",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "маха̄-ба̄хо",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "величайший герой",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "йайа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которая",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "идам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "этот",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "дха̄рйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "использует",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "джагат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "материальный мир",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "7.6",
+      "order": 6,
+      "sanskrit": "एतद्योनीनि भूतानि सर्वाणीत्युपधारय ।\nअहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा ॥६॥",
+      "transliteration": "этад йонӣни бхӯта̄ни, сарва̄н̣ӣтй упадха̄райа\nахам̇ кр̣тснасйа джагатах̣, прабхавах̣ пралайас татха̄",
+      "translations": {
+        "ru": {
+          "text": "Знай, что все формы жизни берут начало в этих двух Моих энергиях (материи и духе). Но лишь Я один — причина возникновения и уничтожения мироздания.",
+          "approved": true
+        },
+        "en": {
+          "text": "Know that all species, either moving or stationary, are manifest from these two natures as the field of action and the knower of the field; and I alone am the cause of the manifestation and dissolution of the entire universe.",
+          "approved": true
+        },
+        "de": {
+          "text": "6  Wisse, dass alle Lebensformen, beweglich oder unbeweglich, sich von diesen beiden Naturen als das Feld des Handelns und der Kenner des Feldes bilden. Ich allein bin die Ursache der Ent-stehung sowie der Auflösung des gesamten Universums.",
+          "approved": true
+        },
+        "es": {
+          "text": "Entiende que todas las especies, tanto las que se mueven como las que no, son manifestaciones de estas dos naturalezas así como el campo de acción y el conocedor del campo; y sólo Yo soy la causa de la manifestación y disolución del universo entero.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/5496d0ba35bd4352afa8835717aa014e.mp3",
+        "sanskrit": "/Files/38d9780c9fcb40e5a6db74b3039dbcd4.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "этат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "эти две энергии",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "йонӣни",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "являются источником",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "бхӯта̄ни",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "форм жизни",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "сарва̄н̣и",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "всех",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "таким образом",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "упа-дха̄райа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "постарайся понять",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ахам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "но лишь Я",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "кр̣тснасйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "всего сотворенного",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "джагатах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "мироздания",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "прабхавах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "творец",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "пралайах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "разрушитель",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "татха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 12
+        }
+      ]
+    },
+    {
+      "number": "7.7",
+      "order": 7,
+      "sanskrit": "मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।\nमयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ॥७॥",
+      "transliteration": "маттах̣ паратарам̇ на̄нйат, кин̃чид асти дханан̃джайа\nмайи сарвам идам̇ протам̇, сӯтре ман̣и-ган̣а̄ ива",
+      "translations": {
+        "ru": {
+          "text": "О завоеватель богатств, Арджуна, нет ничего выше Меня! Все сотворенное покоится на Мне, подобно драгоценным камням, нанизанным на нить.",
+          "approved": true
+        },
+        "en": {
+          "text": "O Arjuna, there is nothing superior to Me. All existence depends on Me, like gems strung on a thread.",
+          "approved": true
+        },
+        "de": {
+          "text": "7  O Arjuna, nichts steht über Mir. Alles Existierende hängt an Mir, wie Perlen an einer Schnur.",
+          "approved": true
+        },
+        "es": {
+          "text": "¡Oh Arjuna!, no hay nada superior a Mí. Toda la existencia depende de Mí, como gemas ensartadas en un hilo.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/ed7d1c670fc1449eae1f5aa68315affa.mp3",
+        "sanskrit": "/Files/53bbabde872e4266976d6aa3c6e8688f.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "маттах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "чем Я",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "пара-тарам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "более высокого",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "на",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "анйат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "другого",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "кин̃чит",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "чего-либо",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "асти",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "существует",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "дханан̃джайа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "о Дханан̃джайа, завоеватель богатств",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "майи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "на Меня",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "сарвам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "всё",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "идам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "это мироздание",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "протам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "нанизано",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "сӯтре",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "на нити",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ман̣и-ган̣а̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "драгоценным камням",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "ива",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "подобно",
+              "approved": true
+            }
+          },
+          "order": 14
+        }
+      ]
+    },
+    {
+      "number": "7.8",
+      "order": 8,
+      "sanskrit": "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः ।\nप्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु ॥८॥",
+      "transliteration": "расо ’хам апсу каунтейа, прабха̄сми ш́аш́и-сӯрйайох̣\nпран̣авах̣ сарва-ведеш̣у, ш́абдах̣ кхе пауруш̣ам нр̣ш̣у",
+      "translations": {
+        "ru": {
+          "text": "Сын Кунти, Я вкус воды, свет луны и солнца! Я изначальный звук Ом, источник Вед. Как звук Я присутствую в пространстве и как талант — в человеке!",
+          "approved": true
+        },
+        "en": {
+          "text": "O son of Kuntī, I am the taste of water, I am the radiance of the sun and the moon. I am Om, the fundamental vibration in all the Vedas, I am the sound in the ether, and I am the masculinity in men.",
+          "approved": true
+        },
+        "de": {
+          "text": "8  O Sohn Kuntīs, Ich bin der Geschmack im Wasser und die Ausstrahlung der Sonne und des Mondes. Ich bin das Oṁ, die fundamentale Klangschwingung in all den Veden. Ich bin der Klang im Äther und die Männlichkeit im Manne.",
+          "approved": true
+        },
+        "es": {
+          "text": "¡Oh hijo de Kuntī!, Yo soy el sabor del agua, la refulgencia del Sol y la Luna. Yo soy el Oṁ, la vibración fundamental de los Vedas, Yo soy el sonido en el éter, y Yo soy la masculinidad en el hombre.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/5bd21418b3fc4b939b4b4eee204efbb4.mp3",
+        "sanskrit": "/Files/460c4c2e88874368bf2e1e065c2f461c.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "расах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вкус",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ахам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Я",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "апсу",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "воды",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "каунтейа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "сын Кунтӣ",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "прабха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "сияние",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "асми",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "есть",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ш́аш́и",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "луны",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "сӯрайайах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "солнца",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "пран̣авах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Ом̇ка̄ра, источник Вед",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "сарва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "во всех",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ведеш̣у",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Ведах",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "ш́абдах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "звук",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "кхе",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в пространстве",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "пауруш̣ам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как талант",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "нр̣ш̣у",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в человеке",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "7.9",
+      "order": 9,
+      "sanskrit": "पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ ।\nजीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु ॥९॥",
+      "transliteration": "пун̣йо гандхах̣ пр̣тхивйа̄м̇ ча, таджаш́ ча̄сми вибха̄васау\nджӣванам̇ сарва-бхӯтеш̣у, тапаш́ ча̄сми тапасвиш̣у",
+      "translations": {
+        "ru": {
+          "text": "Я чистый аромат земли, жар пламени, энергия жизни во всех существах, Я сила воли в аскетах.",
+          "approved": true
+        },
+        "en": {
+          "text": "I am the pure fragrance of the earth, and I am the radiance of fire. I am the life-span of all beings, and in ascetics, I am the power to endure duality such as cold and heat.",
+          "approved": true
+        },
+        "de": {
+          "text": "9  Ich bin der reine Duft der Erde und Ich bin das Leuchten des Feuers. Ich bin die Lebensdauer aller Wesen und in den Asketen bin Ich die Kraft, Dualitäten wie Kälte und Hitze zu ertragen.",
+          "approved": true
+        },
+        "es": {
+          "text": "Yo soy la fragancia pura de la tierra, Yo soy el brillo del fuego. Yo soy la duración de la vida de todos los seres; y en los ascetas, Yo soy el poder para soportar las dualidades tales como el frío y el calor.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/504798fd5b6e4def91f35c4e4a6cb0bc.mp3",
+        "sanskrit": "/Files/af736414d1ac4d76a0f8b13e9bc606ea.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "пун̣йах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "изначальный и приятный",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "гандхах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "аромат",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "пр̣тхивйа̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в земле",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "теджах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как сила света и жара",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "асми",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "пребываю",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "вибха̄-васау",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в огне",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "джӣванам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как энергия жизни",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "сарва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "во всех",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "бхӯтеш̣у",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "живых существах",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "тапах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как сила воли",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "асми",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "присутствую",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "тапасвиш̣у",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в аскетах",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "7.10",
+      "order": 10,
+      "sanskrit": "बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् ।\nबुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् ॥१०॥",
+      "transliteration": "бӣджам̇ ма̄м̇ сарва-бхӯта̄на̄м̇, виддхи па̄ртха сана̄танам\nбуддхир буддхимата̄м асми, теджас теджасвина̄м ахам",
+      "translations": {
+        "ru": {
+          "text": "Партха! Я нетленный источник всех проявлений жизни, Я разум мудрых и доблесть могущественных!",
+          "approved": true
+        },
+        "en": {
+          "text": "O Pārtha, know Me as the eternal, original cause of all life-forms. I am the intelligence of the intelligent, the power of the powerful.",
+          "approved": true
+        },
+        "de": {
+          "text": "10  O Pārtha, kenne Mich als die ewige, ursprüngliche Ursache aller Lebensformen. Ich bin die Intelligenz der Intelligenten und die Tapferkeit in den Tapferen.",
+          "approved": true
+        },
+        "es": {
+          "text": "¡Oh Pārtha!, conóceme como el eterno, la causa original de todas las formas de vida, Yo soy la inteligencia del inteligente, el poder del poderoso.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/89e8ac7768f64f4ca8fbd17c565e3280.mp3",
+        "sanskrit": "/Files/f77bcb5e7a424df38dc5f1e762df495c.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "бӣджам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как первопричину",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Меня",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "сарва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "всех",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "бхӯта̄на̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "проявлений жизни",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "виддхи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знай",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "па̄ртха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Арджуна",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "сана̄танам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вечную",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "буддхих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как разум",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "буддхи-мата̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в мудрых",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "асми",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "пребываю",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "теджах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как доблесть",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "теджасвина̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в могущественных личностях",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ахам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Я",
+              "approved": true
+            }
+          },
+          "order": 13
+        }
+      ]
+    },
+    {
+      "number": "7.11",
+      "order": 11,
+      "sanskrit": "बलं बलवतां चाहं कामरागविवर्जितम् ।\nधर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ ॥११॥",
+      "transliteration": "балам̇ балавата̄м̇ ча̄хам̇, ка̄ма-ра̄га-виварджитам\nдхарма̄вириддхо бхӯтеш̣у, ка̄мо ’сми бхаратарш̣абха",
+      "translations": {
+        "ru": {
+          "text": "Лучший в династии Бхараты! Я сила сильных, свободных от привязанностей и вожделения. Я — стремление к продолжению рода человеческого, не противоречащее принципам религии.",
+          "approved": true
+        },
+        "en": {
+          "text": "O Arjuna, I am the strength of the strong, without selfishness and attachment; and I am the desire for procreation in the living beings which does not contravene the universal principles of religion.",
+          "approved": true
+        },
+        "de": {
+          "text": "11  O Bester der Bharatas, Ich bin die Kraft der Starken, die frei sind von Selbstsucht und Anhaftung, und in den Lebewesen bin Ich der Wunsch Nachkommenschaft zu zeugen, der nicht gegen die universalen religiösen Prinzipien verstößt.",
+          "approved": true
+        },
+        "es": {
+          "text": "¡Oh Arjuna!, Yo soy la fuerza del fuerte, sin egoísmo ni apego; y Yo soy el deseo de procreación en las entidades vivientes que no atenta contra los principios universales de la religión.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/204242bc34f34a10ba01721d72e25fea.mp3",
+        "sanskrit": "/Files/ed7687a50f3542ac98dee3de724c081a.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "балам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "сила",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "бала-вата̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в сильных",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "ахам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Я",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ка̄ма",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "эгоистических желаний",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "ра̄га",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "привязанности",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ви-варджитам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "полностью свободных от",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "дхарма",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "религиозным принципам",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "а-вируддхах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не противоречащее",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "бхӯтеш̣у",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в живых существах",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ка̄мах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как желание продолжения рода",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "асми",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "присутствую",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "бхаратарш̣абха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "лучший из династии Бха̄раты",
+              "approved": true
+            }
+          },
+          "order": 13
+        }
+      ]
+    },
+    {
+      "number": "7.12",
+      "order": 12,
+      "sanskrit": "ये चैव सात्त्विका भावा राजसास्तामसाश्च ये ।\nमत्त एवेति तान् विद्धि न त्वहं तेषु ते मयि ॥१२॥",
+      "transliteration": "йе чаива са̄ттвика̄ бха̄ва̄, ра̄джаса̄с та̄маса̄ш́ ча йе\nматта эвети та̄н виддхи, на тв ахам̇ теш̣у те майи",
+      "translations": {
+        "ru": {
+          "text": "Знай, что все состояния бытия, порожденные сочетаниями благости, страсти и невежества, проявляются из Меня одного. Они пребывают во Мне, но сам Я неподвластен их влиянию.",
+          "approved": true
+        },
+        "en": {
+          "text": "Furthermore, know that all things, of the nature of goodness, passion, and ignorance, are manifest from Me alone. Nevertheless, I am not in them. They, subordinate to Me, are in Me.",
+          "approved": true
+        },
+        "de": {
+          "text": "12  Wisse ferner, dass alle Dinge von tugendhafter, leidenschaftli-cher und unwissender Natur von Mir allein entstammen. Dennoch bin Ich nicht in ihnen. Sie — als Mir untergeben — sind in Mir.",
+          "approved": true
+        },
+        "es": {
+          "text": "Más aún, entiende que todas las cosas, de la naturaleza de la bondad, pasión e ignorancia, son sólo Mis manifestaciones. Sin embargo, Yo no estoy en ellas. Ellas, están subordinadas a Mí, están en Mí.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/764b2e19ddeb47b48f76243a2c5d0dd6.mp3",
+        "sanskrit": "/Files/f90441abf29a422eb48017efef0ad91a.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "йе",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "те, что",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "несомненно",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "са̄ттвика̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "благостной природы",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "бха̄ва̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "состояния бытия",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "ра̄джаса̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "страстной природы",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "та̄маса̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "невежественной природы",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "йе",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "которые",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "маттах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "проявляются из Меня",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "только",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "таким образом",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "та̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "все это",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "виддхи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знай",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "на",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не",
+              "approved": true
+            }
+          },
+          "order": 15
+        },
+        {
+          "word": "ту",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тогда как",
+              "approved": true
+            }
+          },
+          "order": 16
+        },
+        {
+          "word": "ахам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Я",
+              "approved": true
+            }
+          },
+          "order": 17
+        },
+        {
+          "word": "теш̣у",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в них",
+              "approved": true
+            }
+          },
+          "order": 18
+        },
+        {
+          "word": "те",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "они",
+              "approved": true
+            }
+          },
+          "order": 19
+        },
+        {
+          "word": "майи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "во Мне",
+              "approved": true
+            }
+          },
+          "order": 20
+        }
+      ]
+    },
+    {
+      "number": "7.13",
+      "order": 13,
+      "sanskrit": "त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत् ।\nमोहितं नाभिजानाति मामेभ्यः परमव्ययम् ॥१३॥",
+      "transliteration": "трибхир-гун̣амайаир бха̄ваир, эбхих̣ сарвам идам̇ джагат\nмохитам̇ на̄бхиджа̄на̄ти, ма̄м эбхйах̣ парам авйайам",
+      "translations": {
+        "ru": {
+          "text": "Все живые существа, населяющие этот мир, введены в заблуждение тремя гунами материального мира. И никто из них не может постичь Меня, неизменного Всевышнего, пребывающего за их пределами.",
+          "approved": true
+        },
+        "en": {
+          "text": "The entire world of living beings is deluded by the three modes of material nature. Therefore, no one can know Me, the Supreme Lord, who am transcendental to these modes and immutable.",
+          "approved": true
+        },
+        "de": {
+          "text": "13  Diese gesamte Welt der Lebewesen wird von den drei Erschei-nungsweisen der materiellen Natur irregeführt. Deshalb kann niemand Mich kennen, den Höchsten Gott, der Ich transzendental zu diesen Erscheinungsformen und unveränderlich bin.",
+          "approved": true
+        },
+        "es": {
+          "text": "Todo el mundo de entidades vivientes es confundido por las tres modalidades materiales. Por lo tanto, nadie puede conocerme, el Supremo Señor, quien soy trascendental a estas modalidades e inmutable.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/839ff88383c046e0bf20af9d96262c4b.mp3",
+        "sanskrit": "/Files/31b8d0a2b79345d2b96d3e53e1da5e6f.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "трибхих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тремя",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "гун̣амайаих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "состоящими из гун̣ природы",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "бха̄ваих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "состояниями бытия",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "эбхих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "этими",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "сарвам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "весь",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "идам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "этот",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "джагат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "мир живых существ",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "мохитам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "введен в заблуждение",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "на абхиджа̄на̄ти",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "воистину никто не знает",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Меня, Кр̣ш̣н̣у",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "эбхйах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "к этим качествам природы",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "парам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "трансцендентного",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "а-вйайам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "неизменного",
+              "approved": true
+            }
+          },
+          "order": 13
+        }
+      ]
+    },
+    {
+      "number": "7.14",
+      "order": 14,
+      "sanskrit": "दैवी ह्येषा गुणमयी मम माया दुरत्यया ।\nमामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ॥१४॥",
+      "transliteration": "даиви хй эш̣а̄ гун̣амайӣ, мама ма̄йа̄ дуратйайа̄\nма̄м̇ эва йе прападйанте, ма̄йа̄м эта̄м̇ таранти те",
+      "translations": {
+        "ru": {
+          "text": "Очень трудно преодолеть Мою энергию иллюзии (майю), представленную тремя состояниями материи, ибо Я наделил ее божественным могуществом. Однако тот, кто всем сердцем предался Мне, освобождается от ее влияния.",
+          "approved": true
+        },
+        "en": {
+          "text": "My alluring, ‘trimodal’, illusory potency is practically insurmountable. However, those who take shelter in Me can overcome this powerful obstacle.",
+          "approved": true
+        },
+        "de": {
+          "text": "14  Meine verführerische, ‘dreimodale’, illusorische Energie ist praktisch unüberwindlich. Diejenigen jedoch, die bei Mir Zuflucht suchen, können dieses mächtige Hindernis überwinden.",
+          "approved": true
+        },
+        "es": {
+          "text": "Mi atractiva potencia ilusoria, “de triple modalidad”, es prácticamente inconquistable. De cualquier manera, aquellos que toman refugio en Mí pueden sobrepasar este poderoso obstáculo.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/c6e04511087142a6a6578bd58c2df570.mp3",
+        "sanskrit": "/Files/23cae7a41e734653ab14394195c40638.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "даивӣ",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "божественную",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "хи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "несомненно",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "эш̣а̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "эту",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "гун̣а-майӣ",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "состоящую из этих гун̣",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "мама",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Мою",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "ма̄йа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "энергию заблуждения",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "дуратйайа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "невероятно трудно преодолеть",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "во Мне",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "исключительно лишь",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "йе",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "те, кто",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "прападйанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "приняли прибежище",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "ма̄йа̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "иллюзию",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "эта̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "эту",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "таранти",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "преодолевают",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "те",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "они",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "7.15",
+      "order": 15,
+      "sanskrit": "न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः ।\nमाययापहृतज्ञाना आसुरं भावमाश्रिताः ॥१५॥",
+      "transliteration": "на ма̄м̇ душ̣кр̣тино мӯд̣ха̄х̣, прападйанте нара̄дхама̄х̣\nма̄йайа̄пахр̣та-джн̃а̄на̄, а̄сурам̇-бха̄вам-а̄ш́рита̄х̣",
+      "translations": {
+        "ru": {
+          "text": "Существуют четыре вида неудачливых душ, не способных предаться Мне: недальновидные обыватели, поглощенные тяжелым трудом ради мирских достижений; порочные материалисты, занятые социальным и экономическим развитием общества, но отвергающие путь служения Всевышнему; заблуждающиеся мыслители, дающие превратные толкования священных писаний; безбожники и люди, склонные к безличным представлениям об Абсолюте.",
+          "approved": true
+        },
+        "en": {
+          "text": "These four kinds of wrongdoers do not surrender unto Me: fruitive workers, comparable to animals; fallen persons who take the highest path, devotion, but later reject it, considering it inadequate or worthless; those whose knowledge covered by illusion, Māyā (despite their scriptural study, they consider that only the form of Lord Nārāyaṇ is worshippable, and they think that Lord Kṛṣṇa, Lord Rāma and other factual forms are merely mortal); and the demoniac (impersonalists who dismember My form by their arrows of false logic, resembling demons like Jarāsandha).",
+          "approved": true
+        },
+        "de": {
+          "text": "15  Die folgenden vier Unglückseligen ergeben sich nicht Mir: Menschen, die wie Tiere für ihren Sinnesgenuss hart arbeiten; gefallene Seelen, die den höchsten Pfad, die Hingabe zu Mir, zunächst beschreiten, ihn jedoch später als unzureichend oder wertlos zurückweisen; diejenigen, deren Wissen von Illusion, Māyā, verdeckt ist (trotz ihrer Schriftgelehrtheit glauben sie, dass allein die Gestalt Nārāyaṇas verehrungswürdig ist und sie denken, dass Kṛṣṇa, Rāma und andere existierende Gestalten lediglich sterblich sind) und die Gottlosen (Unpersönlichkeits-anhänger, die Meine Gestalt mit ihren Pfeilen der falschen Logik zerstückeln und darin dem Dämonen Jarāsandha gleichkommen).",
+          "approved": true
+        },
+        "es": {
+          "text": "Estos cuatro tipos de malhechores no se rinden ante Mí: trabajadores fruitivos, comparables a los animales; personas caídas quienes toman el más elevado sendero, la devoción, pero que luego lo rechazan, considerándolo inadecuado o sin valor; aquellos cuyo conocimiento es cubierto por la ilusión, Māyā (sin importar su estudio de las escrituras, ellos consideran que sólo la forma del Señor Nārāyaṇa es adorable; piensan que el Señor Kṛṣṇa, el Señor Rāma y otras formas reales son meramente mortales); y el demoníaco (impersonalistas que desmiembran Mi forma con sus flechas de falsa lógica, pareciéndose a demonios como Jarāsandha).",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/149dd001625646ca92b0572ca067325c.mp3",
+        "sanskrit": "/Files/131986b9b7ca4094a679ad38dadc743c.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "на",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Мне",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "дух̣-кр̣тинах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "неудачливые",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "мӯдха̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "глупцы",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "прападйанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "предаются",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "нара-адхама̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "низшие из людей",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ма̄йа̄йа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "иллюзией",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "апахр̣та",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "скрыто",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "джн̃а̄на̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "те, чье знание",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "а̄сурам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в демонической и безбожной",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "бха̄вам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "природе",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "а̄ш́рита̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "нашедшие прибежище",
+              "approved": true
+            }
+          },
+          "order": 12
+        }
+      ]
+    },
+    {
+      "number": "7.16",
+      "order": 16,
+      "sanskrit": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन ।\nआर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ॥१६॥",
+      "transliteration": "чатур-виддха̄ бхаджанте ма̄м̇, джана̄х̣ сукр̣тино ’рджуна\nа̄рто джиджн̃а̄сур артха̄ртхӣ, джн̃а̄нӣ ча бхаратарш̣абха",
+      "translations": {
+        "ru": {
+          "text": "Великий потомок Бхараты! Четыре типа удачливых людей приходят к поклонению Мне: те, кто в беде, любознательные, желающие выгоды и стремящиеся к постижению Абсолютной Истины.",
+          "approved": true
+        },
+        "en": {
+          "text": "O Arjuna, best of the Bhāratas, four kinds of persons have the fortune to worship Me: the afflicted, the seeker of knowledge, the seeker of happiness, and the self-realised.",
+          "approved": true
+        },
+        "de": {
+          "text": "16  O Arjuna, Bester der Bharatas. Vier Arten von Seelen haben das Glück, Mich zu verehren: die Leidenden, die Wissbegierigen, die nach irdischen oder himmlischen Freuden Verlangenden und die Selbstverwirklichten.",
+          "approved": true
+        },
+        "es": {
+          "text": "¡Oh Arjuna!, el mejor de los Bhāratas¡, cuatro tipos de personas tienen la fortuna de adorarme: el afligido, el buscador de conocimiento, el buscador de felicidad, y el autorrealizado.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/c7afca46637d49ccac1c097507d65ca1.mp3",
+        "sanskrit": "/Files/cb2f2fb7a5624471b429afe470b51ebc.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "чатух̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "четыре",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "видха̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вида",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "бхаджанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "поклоняются",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Мне",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "джана̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "людей",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "сукр̣тинах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "удачливых",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "арджуна",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Арджуна",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "а̄ртхах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "те, кто в беде",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "джиджн̃а̄сух̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "любознательные",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "артха-артхӣ",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "желающие выгоды",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "джн̃а̄нӣ",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "постигающие истину",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "бхаратарш̣абха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "великий потомок Бха̄раты",
+              "approved": true
+            }
+          },
+          "order": 13
+        }
+      ]
+    },
+    {
+      "number": "7.17",
+      "order": 17,
+      "sanskrit": "तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते ।\nप्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः ॥१७॥",
+      "transliteration": "теш̣а̄м̇ джн̃а̄нӣ нитйа-йукта, эка-бхактир виш́иш̣йате\nприйо хи джн̃а̄нино ’тй-артхам, ахам̇ са ча мама прийах̣",
+      "translations": {
+        "ru": {
+          "text": "Среди них лучшим Я признаю того, кто с преданностью посвятил Мне себя без остатка. Такой просветленный мудрец очень дорог Мне, а Я дорог ему.",
+          "approved": true
+        },
+        "en": {
+          "text": "Of these four types of devotees, best is the self-realised person who is My pure devotee, and whose consciousnesss is fully absorbed in Me. For I, Śyāmasundar, am very dear to him, and he is dear to Me.",
+          "approved": true
+        },
+        "de": {
+          "text": "17  Von diesen vier Arten von Seelen ist die selbstverwirklich-te, die sich Mir in reiner Hingabe ergibt und deren Bewusstsein völlig in Mir vertieft ist, die beste, denn Ich, Śyāmasundara, bin ihr sehr lieb und sie ist Mir sehr lieb.",
+          "approved": true
+        },
+        "es": {
+          "text": "De estos cuatro tipos de devotos, el mejor es la persona autorrealizada que es Mi devoto puro, y cuya conciencia está completamente absorta en Mí. Porque Yo, Íyāmasun- dara, soy muy querido para él, y él, muy querido para Mí.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/4fdcd2d2ddee4934b0286b94c896b45c.mp3",
+        "sanskrit": "/Files/38cc6cf9b4dc416e85718d684054c8c3.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "теш̣а̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "среди них",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "джн̃а̄нӣ",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "мудрец",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "нитйах̣-йуктах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "всегда связанный со Мной",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "эка-бхактих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "безраздельно посвятивший себя Мне",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ви-ш́иш̣йате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "выше всех",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "прийах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "дорог",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "хи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "так как",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "джн̃а̄нинах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "такой просветленной душе",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ати-артхам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в высшей степени",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ахам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Я",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "сах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "он",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "мама",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Мне",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "прийах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "дорог",
+              "approved": true
+            }
+          },
+          "order": 14
+        }
+      ]
+    },
+    {
+      "number": "7.18",
+      "order": 18,
+      "sanskrit": "उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम् ।\nआस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम् ॥१८॥",
+      "transliteration": "уда̄ра̄х̣ сарва эваите, джн̃а̄нӣ тв а̄тмаива ме матам\nа̄стхитах̣ са хи йукта̄тма̄, ма̄м эва̄нуттама̄м̇ гатим",
+      "translations": {
+        "ru": {
+          "text": "Несомненно, что все, кто встал на путь богопознания, — возвышенные души. Однако таким святым Я дорожу как Самим Собой, поскольку он принял прибежище во Мне и, всем сердцем предавшись Мне, избрал Меня наивысшей целью жизни.",
+          "approved": true
+        },
+        "en": {
+          "text": "Certainly they are all noble souls, dear to Me, yet the spiritually self-realised soul is as beloved to Me as My own self, for he has given his heart to Me as his only shelter and ultimate goal of life.",
+          "approved": true
+        },
+        "de": {
+          "text": "18  Gewiss sind sie alle edle Seelen und Mir lieb, doch die spiri-tuell selbstverwirklichte Seele ist Mir so lieb, wie Mein eigenes Selbst, weil sie Mir ihr Herz vermacht und Mich als ihre einzige Zuflucht und Ihren ausschließlichen Lebenszweck angenommen hat.",
+          "approved": true
+        },
+        "es": {
+          "text": "Ciertamente ellos son todos almas nobles, queridos por Mí, pero aun así, el alma autorrealizada es querida por Mí como Mi propio ser, porque él me ha entregado su corazón como su único refugio y la última meta de la vida.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/e7ad698260d64ad19a5a40bd4a08988f.mp3",
+        "sanskrit": "/Files/fdfcd8c419244022a099efc5ea4fca02.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "уда̄ра̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "возвышенные",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "сарве",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "все",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "несомненно",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "эте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "эти",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "джн̃а̄ни",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "мудрецы",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "ту",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "но",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "а̄тма̄ эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как Самим Собой",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "ме",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Мое",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "матам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "мнение",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "а̄-стхитах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "принял прибежище",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "сах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "он",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "хи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "так как",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "йукта-а̄тма̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "всем сердцем предался",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Мне",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "лишь",
+              "approved": true
+            }
+          },
+          "order": 15
+        },
+        {
+          "word": "ан-уттама̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как высочайшую",
+              "approved": true
+            }
+          },
+          "order": 16
+        },
+        {
+          "word": "гатим",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "цель",
+              "approved": true
+            }
+          },
+          "order": 17
+        }
+      ]
+    },
+    {
+      "number": "7.19",
+      "order": 19,
+      "sanskrit": "बहूनां जन्मनामन्ते ज्ञानवान् मां प्रपद्यते ।\nवासुदेवः सर्वमिति स महात्मा सुदुर्लभः ॥१९॥",
+      "transliteration": "бахӯна̄м̇ джанмана̄м анте, джн̃а̄нава̄н ма̄м̇ прападйате\nва̄судевах̣ сарвам ити, са маха̄тма̄ судурлабхах̣",
+      "translations": {
+        "ru": {
+          "text": "После многих рождений мудрец, постигший сокровенное знание, вручает себя Мне, осознавая, что все сущее исходит из Господа и пребывает в Нем. Такая великая душа встречается крайне редко.",
+          "approved": true
+        },
+        "en": {
+          "text": "After many births, the enlightened soul (blessed with devotional association) realises that everything is of the nature of (subordinate to) Vāsudev, and thus he surrenders unto Me. Such a great soul is very rare.",
+          "approved": true
+        },
+        "de": {
+          "text": "19  Nach vielen, vielen Geburten erkennt die erleuchtete (mit hingebungsvoller Gemeinschaft gesegnete) Seele, dass alles seinem Wesen nach Vāsudeva (unterlegen) ist und ergibt sich folglich Mir. Solch eine große Seele ist ausgesprochen selten.",
+          "approved": true
+        },
+        "es": {
+          "text": "Después de muchos nacimientos, el alma iluminada (bendecida con asociación devocional) entiende que todo es de la naturaleza de (subordinado a) Vāsudeva, y así él se rinde ante Mí. Tal gran alma es muy rara.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/7c366c0a767247d4aa693dce7974251e.mp3",
+        "sanskrit": "/Files/2a25e331c0d8459596f6d406ac6d7569.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "бахӯна̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "многих",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "джанмана̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "рождений",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "анте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "после",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "джн̃а̄на-ва̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "такой мудрец",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Мне",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "прападйате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "предается",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ва̄судевах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Ва̄судеве (общее представление о Боге как Личности)",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "сарвам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "что все исходит из Него и пребывает в Нем",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ити",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "осознав",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "сах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "такая",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "маха̄-а̄тма̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "великая душа",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "су-дух̣-лабхах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "чрезвычайно редка",
+              "approved": true
+            }
+          },
+          "order": 12
+        }
+      ]
+    },
+    {
+      "number": "7.20",
+      "order": 20,
+      "sanskrit": "कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः ।\nतं तं नियममास्थाय प्रकृत्या नियताः स्वया ॥२०॥",
+      "transliteration": "ка̄маис таис таир хр̣та-джн̃а̄на̄х̣, прападйанте ’нйа-девата̄х̣\nтам̇ там̇ нийамам а̄стха̄йа, пракр̣тйа̄ нийата̄х̣ свайа̄",
+      "translations": {
+        "ru": {
+          "text": "Но люди, разум которых похищен вожделением, поклоняются различным богам материального мира. Они избирают практику поклонения и почитаемое божество в соответствии со своими мирскими желаниями.",
+          "approved": true
+        },
+        "en": {
+          "text": "Persons misled by worldly desires, being governed by their own natures, worship other godly personalities like the sun-god and the many demigods, adopting the corresponding rituals to attain their objectives.",
+          "approved": true
+        },
+        "de": {
+          "text": "20  Diejenigen, die von weltlichen Wünschen verwirrt sind, ver-ehren — beeinflusst von ihren eigenen Wesenszügen — andere göttliche Persönlichkeiten, wie den Sonnengott und die vielen anderen Halbgötter, mit den entsprechenden Ritualen, um ihre Ziele zu erreichen.",
+          "approved": true
+        },
+        "es": {
+          "text": "Las personas confundidas por deseos mundanos, estando gobernadas por sus propias naturalezas, adoran a otras personalidades divinas como el dios del Sol y muchos semidioses, adoptando los rituales correspondientes para obtener sus objetivos.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/fff5d91c697e42eca0ff9a860569aebe.mp3",
+        "sanskrit": "/Files/46372b7925524a578a9c927394aa75bd.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "ка̄маих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "эгоистическими желаниями",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "таих̣ таих̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "различными",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "хр̣та-джн̃а̄на̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "те, чей разум похищен",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "прападйанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "предаются",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "анйа-девата̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "множеству богов этого мира",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "там там",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "всевозможные",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "нийамам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "правила и предписания",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "а̄стха̄йа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "принимая",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "пракр̣тйа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "природой",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "нийата̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "определяемые",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "свайа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "своей",
+              "approved": true
+            }
+          },
+          "order": 11
+        }
+      ]
+    },
+    {
+      "number": "7.21",
+      "order": 21,
+      "sanskrit": "यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति ।\nतस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम् ॥२१॥",
+      "transliteration": "йо йо йа̄м̇ йа̄м̇ танум̇ бхактах̣, ш́раддхайа̄рчитум иччхати\nтасйа тасйа̄чала̄м̇ ш́раддха̄м̇, та̄м эва видадха̄мй ахам",
+      "translations": {
+        "ru": {
+          "text": "Я — Высшая Душа, знающая сердце каждого. Если кто-либо начинает с верой поклоняться какому-либо божеству, Я укрепляю в нем эту веру.",
+          "approved": true
+        },
+        "en": {
+          "text": "According to a person’s desire, as his faith grows to worship a particular demigod, I, as the Supersoul in his heart, make his faith strong in that demigod (representing a form of Me).",
+          "approved": true
+        },
+        "de": {
+          "text": "21  Entsprechend dem Wunsch des Gottgeweihten, einen be-stimmten Halbgott zu verehren, stärke Ich, als die Überseele in seinem Herzen, seinen Glauben in jenen Halbgott, der eine Meiner Repräsentationen ist.",
+          "approved": true
+        },
+        "es": {
+          "text": "De acuerdo a los deseos de la persona, mientras su fe crece para adorar a un semidios en particular, Yo, como la Súperalma en su corazón, hago su fe fuerte en ese semidios (representando una forma Mía).",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/78784e3ffb0949f9ab93b52461cc5990.mp3",
+        "sanskrit": "/Files/0178e2e9e22b477495a98b9558bc222a.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "йах̣ йах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "кто-либо",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "йа̄м йа̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "какому-либо",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "танум",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "божеству",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "бхактах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "последователь",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ш́раддхайа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "с верой",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "арчитум",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "поклоняться",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "иччхати",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "желает",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "тасйа тасйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "тогда его",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ачала̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "крепкой",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ш́раддха̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "верой",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "та̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "к этому божеству",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "конечно же",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ви-дадха̄ми",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "наделяю",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "ахам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Я (как Высшая Душа, пребывающая в его сердце)",
+              "approved": true
+            }
+          },
+          "order": 14
+        }
+      ]
+    },
+    {
+      "number": "7.22",
+      "order": 22,
+      "sanskrit": "स तया श्रद्धया युक्तस्तस्याराधनमीहते ।\nलभते च ततः कामान् मयैव विहितान् हि तान् ॥२२॥",
+      "transliteration": "са тайа̄ ш́раддхайа̄ йуктас, тасйа̄ра̄дханам ӣхате\nлабхате ча татах̣ ка̄ма̄н, майаива вихита̄н хи та̄н",
+      "translations": {
+        "ru": {
+          "text": "Наделенный верой, человек продолжает поклонение избранному божеству, получая все желаемое. Но в действительности все эти блага даруются одним Мной.",
+          "approved": true
+        },
+        "en": {
+          "text": "His faith nourished by Me, such a devotee continues worshipping the deity of that demigod and attains all his desired objects from that deity. Again, this happens by My sanction alone, since I am the Supersoul, situated within the heart of the demigod, too.",
+          "approved": true
+        },
+        "de": {
+          "text": "22  Mit diesem gestärkten Glauben setzt ein solcher Geweihter die Verehrung jener Gottheit fort und erhält — allein auf Meine Veranlassung hin, denn Ich wohne als Überseele auch im Herzen dieses Halbgottes — die gewünschten Dinge von ihr.",
+          "approved": true
+        },
+        "es": {
+          "text": "Con su fe alimentada por Mí, tal devoto continúa adorando a la deidad de ese semidios y obtiene todos los objtos de sus deseos de esa deidad. Esto, ocurre por Mi sanción únicamente, porque Yo soy la Súperalma, situada dentro del corazón del semidios, también.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/f3908948c4764af3a5278c05a953229d.mp3",
+        "sanskrit": "/Files/7543572cba954328b46f85ab4a9e8640.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "сах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "он",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "тайа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "этой",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "ш́раддхайа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "верой",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "йуктах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "наделенный",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "тасйа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "своему божеству",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "а̄ра̄дханам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "поклонение",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "ихате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "совершает",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "лабхате",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "получает",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "татах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "от того божества",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ка̄ма̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "желаемые блага",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "майа̄ эва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Мной одним",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ви-хита̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "даруются",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "хи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "несомненно",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "та̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "те",
+              "approved": true
+            }
+          },
+          "order": 15
+        }
+      ]
+    },
+    {
+      "number": "7.23",
+      "order": 23,
+      "sanskrit": "अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् ।\nदेवान् देवयजो यान्ति मद्भक्ता यान्ति मामपि ॥२३॥",
+      "transliteration": "антават ту пхалам̇ теш̣а̄м̇, тад бхаватй алпа-медхаса̄м\nдева̄н дева-йаджо йа̄нти, мад-бхакта̄ йа̄нти ма̄м апи",
+      "translations": {
+        "ru": {
+          "text": "Результат, обретаемый недальновидными почитателями богов, временен — они достигают планет этих богов на определенный срок. Но тот, кто предан Мне, вступает в Мою вечную обитель.",
+          "approved": true
+        },
+        "en": {
+          "text": "But the fruit obtained by those unwise worshippers of the demigods is temporary. They reach the gods they worship, but My devotees come to Me.",
+          "approved": true
+        },
+        "de": {
+          "text": "23  Doch das von jenen unweisen Halbgötterverehrern erzielte Ergebnis ist zeitweilig. Die Verehrer der Halbgötter gelangen zu den von ihnen verehrten Halbgöttern, aber Meine Geweihten kommen zu Mir.",
+          "approved": true
+        },
+        "es": {
+          "text": "Pero el fruto obtenido por estos incultos  adoradores de los semidioses es temporal. Ellos alcanzan al semidios que adoran, pero Mi devoto viene a Mí.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/62148df9b8eb49199ba5442674a8c3e9.mp3",
+        "sanskrit": "/Files/3d7193c1d2884ef99f40b7566835f5d4.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "анта-ват",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "преходящий",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ту",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "но",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "пхалам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "плод",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "теш̣а̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "этих",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "этот",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "бхавати",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "является",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "алпа-медхаса̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "обладающих слабым разумом",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "дева̄н",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "этих богов",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "дева-йаджах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "почитатели",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "йа̄нти",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "достигают",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "мат-бхакта̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Мой преданный",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "йа̄нти",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "достигает",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Меня",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "апи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "однако",
+              "approved": true
+            }
+          },
+          "order": 14
+        }
+      ]
+    },
+    {
+      "number": "7.24",
+      "order": 24,
+      "sanskrit": "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः ।\nपरं भावमजानन्तो ममाव्ययमनुत्तमम् ॥२४॥",
+      "transliteration": "авйактам̇ вйактим а̄паннам̇, манйанте ма̄м абуддхайах̣\nпарам̇ бха̄вам аджа̄нанто, мама̄вйайам ануттамам",
+      "translations": {
+        "ru": {
+          "text": "Неразумные люди полагают, что изначально Я был безличен, а потом явился в этот мир, приняв личностную форму. Они не ведают о Моем надмирном вечном бытии и Моих непревзойденных образе, качествах и деяниях.",
+          "approved": true
+        },
+        "en": {
+          "text": "My eternal superexcellent nature—My form, qualities, activities, and Pastimes—are all transcendental, but unwise persons cannot know the truth, and they think, “The formless Brahma took birth in Vasudev’s cell as an ordinary human being.”",
+          "approved": true
+        },
+        "de": {
+          "text": "24  Unwissende Personen kennen nicht Mein ewiges, höchst-vortreffliches Wesen — Meine Gestalt, Eigenschaften, Aktivitä-ten und Spiele — und denken: ‚Das formlose Brahman wurde in Vasudevas Zelle als ein gewöhnliches Menschenkind geboren.‘",
+          "approved": true
+        },
+        "es": {
+          "text": "Mi eterna naturaleza súper excelente, Mi forma, cualidades, actividades y pasatiempos son todos trascendentales, pero las personas incultas no pueden conocer la verdad, y ellos piensan, “El Brahman sin forma tomó forma en la celda de Vasudeva como un ser humano ordinario”.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/b093f0d0a36843248f1479b7c815cf4c.mp3",
+        "sanskrit": "/Files/eb93d2b9f7d74c70b4c4214beec1c952.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "авйактам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "будучи безличным",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "вйактим",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "личностный облик",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "а̄паннам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "принял",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "манйанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "полагают",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "что Я",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "а-буддхайах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "неразумные",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "парам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "о надмирном",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "бха̄вам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "бытии",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "а-джа̄нантах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не знающие",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "мама",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Моем",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "авйайам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "вечном",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "ан-уттамам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "непревзойденном",
+              "approved": true
+            }
+          },
+          "order": 12
+        }
+      ]
+    },
+    {
+      "number": "7.25",
+      "order": 25,
+      "sanskrit": "नाहं प्रकाशः सर्वस्य योगमायासमावृतः ।\nमूढोऽयं नाभिजानाति लोको मामजमव्ययम् ॥२५॥",
+      "transliteration": "на̄хам̇ прака̄ш́ах̣ сарвасйа, йога-ма̄йа̄-сама̄вр̣тах̣\nмӯд̣хо ’йам̇ на̄бхиджа̄на̄ти, локо ма̄м аджам авйайам",
+      "translations": {
+        "ru": {
+          "text": "Я не являю Свою божественную сущность всем и каждому, оставаясь сокрытым Своей духовной энергией. Поэтому глупцы не могут постичь Меня как нерожденного и неизменного.",
+          "approved": true
+        },
+        "en": {
+          "text": "By My sweet will, remaining concealed by My own potency, I am not manifest to anyone and everyone. So the foolish cannot know Me, the son of Vasudev, unborn and ever-existent in My divine Śyāmasundar form of beautiful feature like a blackish rain-cloud.",
+          "approved": true
+        },
+        "de": {
+          "text": "25  Wenn es Mir beliebt, verbleibe Ich unter dem Schleier Meiner eigenen illusorischen Energie und bin nicht jedermann offenbar. Deshalb können diese törichten Personen Mich, den Sohn Vasude-vas, der Ich ungeboren und unveränderlich in Meiner göttlichen Gestalt als Śyāmasundara, von anmutigem, einer schwärzlichen Regenwolke gleichenden Wesen bin, nicht erkennen.",
+          "approved": true
+        },
+        "es": {
+          "text": "Por Mi dulce voluntad, permaneciendo oculto en Mi propia potencia, Yo no me manifiesto ante cualquiera. Así, el tonto no puede conocerme, el hijo de Vasudeva, innaciente y omnisciente en Mi divina forma de Íyāmasundara, de hermosos rasgos como una nube oscura cargada de lluvia.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/e44306efe1bd42ec9c52799f0f2b7205.mp3",
+        "sanskrit": "/Files/0c754ae5ce5041659050a233b914bf48.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "на",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ахам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Я",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "прака̄ш́ах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "открываюсь",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "сарвасйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "всем",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "йога-ма̄йа̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Своей духовной энергией",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "сам-а̄вр̣тах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "полностью скрытый",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "мӯд̣хах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "глупцы",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "айам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "эти",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "на абхи-джа̄на̄ти",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не в силах понять",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "локах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "люди",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Меня",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "аджам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как нерожденного",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "авйайам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "неизменного",
+              "approved": true
+            }
+          },
+          "order": 13
+        }
+      ]
+    },
+    {
+      "number": "7.26",
+      "order": 26,
+      "sanskrit": "वेदाहं समतीतानि वर्तमानानि चार्जुन ।\nभविष्याणि च भूतानि मां तु वेद न कश्चन ॥२६॥",
+      "transliteration": "веда̄хам̇ саматӣта̄ни, вартама̄на̄ни ча̄рджуна\nбхавиш̣йа̄н̣и ча бхӯта̄ни, ма̄м̇ ту веда на каш́чана",
+      "translations": {
+        "ru": {
+          "text": "Арджуна! Я знаю прошлое, настоящее и будущее каждого живого существа. Меня же знает далеко не каждый.",
+          "approved": true
+        },
+        "en": {
+          "text": "O Arjuna, I know all living beings of the past, present and future, but no one can know Me in truth.",
+          "approved": true
+        },
+        "de": {
+          "text": "26  O Arjuna, Ich kenne alle Lebewesen der Vergangenheit, Gegen-wart und Zukunft, aber niemand kann Mich wahrhaftig kennen.",
+          "approved": true
+        },
+        "es": {
+          "text": "¡Oh Arjuna!, Yo conozco a todas las entidades vivientes del pasado, del presente y del futuro, pero nadie puede conocerme a Mí, en verdad.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/b4b9653534eb4be58c2610a381b98454.mp3",
+        "sanskrit": "/Files/77f3d10089404f1f9ed45e68c0122656.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "веда",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знаю",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ахам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Я",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "сам-ати-ита̄ни",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "прошлое",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "вартама̄на̄ни",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "настоящее",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "арджуна",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Арджуна",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "бхавиш̣йа̄н̣и",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "будущее",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "бхӯта̄ни",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "живых существ",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Меня",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ту",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "однако",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "веда",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знает",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "на каш́чана",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "не каждый",
+              "approved": true
+            }
+          },
+          "order": 13
+        }
+      ]
+    },
+    {
+      "number": "7.27",
+      "order": 27,
+      "sanskrit": "इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत ।\nसर्वभूतानि संमोहं सर्गे यान्ति परन्तप ॥२७॥",
+      "transliteration": "иччха̄-двеш̣а самуттхена, двандва-мохена бха̄рата\nсарва-бхӯта̄ни сам̇мохам̇, сарге йа̄нти парантапа",
+      "translations": {
+        "ru": {
+          "text": "О покоритель врагов, потомок Бхараты! С начала сотворения вселенной все живые существа погружены в невежество, обманутые двойственностью, которая основана на влечении и отвращении.",
+          "approved": true
+        },
+        "en": {
+          "text": "O Arjuna, chastiser of the enemy, at the manifestation of the universe, all beings become deluded by duality based on likes and dislikes.",
+          "approved": true
+        },
+        "de": {
+          "text": "27  O Arjuna, Bezwinger des Feindes, wenn dieses Universum sich manifestiert, werden alle Wesen von auf Mögen und Nicht-mögen basierenden Dualitäten verwirrt.",
+          "approved": true
+        },
+        "es": {
+          "text": "¡Oh Arjuna, castigador del enemigo!, en la manifestación del universo, todos los seres son confundidos por las dualidades basadas en la atracción y el rechazo.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/7ca2e714bb3e4293b6a04db13a489643.mp3",
+        "sanskrit": "/Files/49f924f1c11d4311b0d0e9ee0c872db0.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "иччха̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "из влечения",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "двеш̣а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "отвращения",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "самуттхена",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "возникающей",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "двандва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "двойственности",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "мохена",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "иллюзия",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "бха̄рата",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "потомок Бха̄раты",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "сарва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "все",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "бхӯта̄ни",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "живые существа",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "сам-мохам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в полное заблуждение",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "сарге",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "с момента творения материальной вселенной",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "йа̄нти",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "приходят",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "парантапа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "о Арджуна, карающий врагов",
+              "approved": true
+            }
+          },
+          "order": 12
+        }
+      ]
+    },
+    {
+      "number": "7.28",
+      "order": 28,
+      "sanskrit": "येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् ।\nते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ॥२८॥",
+      "transliteration": "йеш̣а̄м̇ тв анта-гатам̇ па̄пам̇, джана̄на̄м̇ пун̣йа-карман̣а̄м\nте двандва-моха-нирмукта̄, бхаджанте ма̄м̇ др̣д̣ха-врата̄х̣",
+      "translations": {
+        "ru": {
+          "text": "Но те, кто очистился от греха благодаря праведной деятельности и превзошел двойственность мира материи, начинают с решимостью поклоняться Мне.",
+          "approved": true
+        },
+        "en": {
+          "text": "But the performers of virtuous deeds are purified of all sin (by the fortune of association with My pure devotee). Thus freed from the illusion of duality, they worship Me with firm resolve.",
+          "approved": true
+        },
+        "de": {
+          "text": "28  Aber die tugendhaft Handelnden, die (aufgrund ihrer glück-lichen Gemeinschaft mit Meinen reinen Geweihten) von allen Sünden gereinigt und damit von der Illusion der Dualität befreit sind, verehren Mich mit fester Entschlossenheit.",
+          "approved": true
+        },
+        "es": {
+          "text": "Pero los que realizan actividades piadosas son purificados de todo pecado (por la fortuna de la asociación con Mi devoto puro). Así, libres de la ilusión de la dualidad, ellos Me adoran con firme resolución.",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/691b2e3782fa4ec680667f3305d22690.mp3",
+        "sanskrit": "/Files/cd905107af744fd5b31c02f7939bf10d.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "йеш̣а̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "чьи",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "ту",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "но",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "анта-гатам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "до конца искоренены",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "па̄пам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "грехи",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "джана̄на̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "люди",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "пун̣йа-карман̣а̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "благодаря благочестивым деяниям",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "те",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "те",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "двандва",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "двойственности",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "моха",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "от иллюзии",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "нирмукта̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "освободившиеся",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "бхаджанте",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "начинают поклоняться",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Мне",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "др̣д̣ха-врата̄х̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "с решимостью исполняя обеты",
+              "approved": true
+            }
+          },
+          "order": 13
+        }
+      ]
+    },
+    {
+      "number": "7.29",
+      "order": 29,
+      "sanskrit": "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये ।\nते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम् ॥२९॥",
+      "transliteration": "джара̄-маран̣а-мокш̣а̄йа, ма̄м а̄ш́ритйа йатанти йе\nте брахма тад видух̣ кр̣тснам, адхйа̄тмам̇ карма ча̄кхилам",
+      "translations": {
+        "ru": {
+          "text": "Те, кто стремится к освобождению от старости и смерти, принимают прибежище во Мне. Они постигают духовную реальность, в совершенстве осознавая природу души, а также принцип деятельности и ее последствий.",
+          "approved": true
+        },
+        "en": {
+          "text": "Those who strive for freedom from the world of disease and death, placing their trust and devotion in Me—they know Brahma, they know the soul, and they know karma, the action that binds the soul again and again to this mundane plane of suffering.",
+          "approved": true
+        },
+        "de": {
+          "text": "29  Diejenigen, die nach ihrer Erlösung aus der Welt von Krank-heit und Tod sterben, ihr Vertrauen in Mich setzen und Mir ergeben sind, sie kennen das Brahman, sie kennen die Seele und sie kennen Karma, das Handeln, welches die Seele fortgesetzt an diese weltliche Ebene des Leidens bindet.",
+          "approved": true
+        },
+        "es": {
+          "text": "Aquellos que luchan por liberarse del mundo de la enfermedad y la muerte, colocando su confianza y devoción en Mí (ellos conocen el Brahman, conocen el alma, y conocen también el karma, la acción que ata el alma una y otra vez a este plano de sufrimiento).",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/a04699b4ffa6420caa3889a9be4e06fe.mp3",
+        "sanskrit": "/Files/27c18e467d68455a868f5c9ff5836d74.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "джара̄",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "от старости",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "маран̣а",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "смерти",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "мокш̣а̄йа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "желая освободиться",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "во Мне",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "а̄ш́ритйа",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "приняв прибежище",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "йатанти",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "стремятся",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "йе",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "те, кто",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "те",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "они",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "брахма",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "духовное измерение бытия",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "тат",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "это",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "видух̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "постигают",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "кр̣тснам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в совершенстве",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "адхйа̄тмам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "природу души",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "карма",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "деятельность",
+              "approved": true
+            }
+          },
+          "order": 14
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 15
+        },
+        {
+          "word": "акхилам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "полностью",
+              "approved": true
+            }
+          },
+          "order": 16
+        }
+      ]
+    },
+    {
+      "number": "7.30",
+      "order": 30,
+      "sanskrit": "साधिभूताधिदैवं मां साधियज्ञं च ये विदुः ।\nप्रयाणकालेऽपि च मां ते विदुर्युक्तचेतसः ॥३०॥",
+      "transliteration": "са̄дхибхӯта̄дхидаивам̇ ма̄м̇, са̄дхийаджн̃ам̇ ча йе видух̣\nпрайа̄н̣а-ка̄ле ’пи ча ма̄м̇, те видур йукта-четасах̣",
+      "translations": {
+        "ru": {
+          "text": "Те, кто знает Меня как Источник мироздания, Владыку всех богов и Цель всех жертвоприношений, даже в миг смерти не забывают Меня, ибо помнят обо Мне при любых обстоятельствах.",
+          "approved": true
+        },
+        "en": {
+          "text": "And those who know Me in relation to the worldly plane, the celestial plane, and the plane of sacrifice—such persons, their consciousness absorbed in Me, know Me even at the time of death. (Afflicted in the face of fearful death, they do not forget Me.)",
+          "approved": true
+        },
+        "de": {
+          "text": "30  Und diejenigen, die Mich in Bezug auf die irdische Ebene, die himmlische Ebene und die Ebene der Opferung kennen, solche Personen kennen Mich, mit ihrem Bewusstsein in Mich vertieft, selbst zum Zeitpunkt des Todes. (Selbst angesichts des furchtsa-men Todes vergessen sie Mich nicht.)‘\n\niti śrī-mahābhārate śata-sāhasryāṁ saṁhitāyāṁ vaiyāsikyāṁ\nbhīṣma-parvaṇi śrīmad-bhagavad-gītāsūpaniṣatsu brahma-\nvidyāyāṁ yoga-śāstre śrī-kṛṣṇārjuna-saṁvāde jñāna-vijñāna-yogo\nnāma saptamo ’dhyāyaḥ [7]\n\nSomit endet das siebte Kapitel\n\n„Wissen und Erkenntnis vom Höchsten”\n\nvon dem Gespräch\nzwischen Śrī Kṛṣṇa und Arjuna\nin der Śrīmad Bhagavad-Gītā Upaniṣad,\nder Yogaschrift von überweltlichem Wissen\nim Bhīṣma-Parva des Śrī Mahābhārata, der Heiligen Schrift,\ndie von Śrīla Vyāsadeva in einhunderttausend Versen offenbart wurde.",
+          "approved": true
+        },
+        "es": {
+          "text": "Y aquellos que conocen Mi relación con el plano mundano, el plano celestial y el plano del sacrificio, tales personas, con su conciencia absorta en Mí, Me encuentran incluso al momento de la muerte. (Afligidos en la hora de la muerte, ellos no Me olvidan).",
+          "approved": true
+        }
+      },
+      "audio": {
+        "recitation": "/Files/bdbfd4d890cd4270862898c8b3450a7f.mp3",
+        "sanskrit": "/Files/6ec3871c8a5c46d69a2b9042dcc220dc.mp3"
+      },
+      "vocabulary": [
+        {
+          "word": "са-адхи-бхӯта",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "как Источник мироздания",
+              "approved": true
+            }
+          },
+          "order": 1
+        },
+        {
+          "word": "адхи-даивам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Владыку всех богов",
+              "approved": true
+            }
+          },
+          "order": 2
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Меня",
+              "approved": true
+            }
+          },
+          "order": 3
+        },
+        {
+          "word": "са-адхи-йаджн̃ам",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Цель всех жертвоприношений",
+              "approved": true
+            }
+          },
+          "order": 4
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "также",
+              "approved": true
+            }
+          },
+          "order": 5
+        },
+        {
+          "word": "йе",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "те, кто",
+              "approved": true
+            }
+          },
+          "order": 6
+        },
+        {
+          "word": "видух̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знают",
+              "approved": true
+            }
+          },
+          "order": 7
+        },
+        {
+          "word": "прайа̄н̣а-ка̄ле",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "в момент смерти",
+              "approved": true
+            }
+          },
+          "order": 8
+        },
+        {
+          "word": "апи",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "даже",
+              "approved": true
+            }
+          },
+          "order": 9
+        },
+        {
+          "word": "ча",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "и",
+              "approved": true
+            }
+          },
+          "order": 10
+        },
+        {
+          "word": "ма̄м",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "Меня",
+              "approved": true
+            }
+          },
+          "order": 11
+        },
+        {
+          "word": "те",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "все эти",
+              "approved": true
+            }
+          },
+          "order": 12
+        },
+        {
+          "word": "видух̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "знают",
+              "approved": true
+            }
+          },
+          "order": 13
+        },
+        {
+          "word": "йукта-четасах̣",
+          "transliteration": "",
+          "meaning": {
+            "ru": {
+              "text": "те, чье сознание постоянно связано со Мной",
+              "approved": true
+            }
+          },
+          "order": 14
+        }
+      ]
+    }
+  ]
+}

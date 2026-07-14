@@ -1,0 +1,856 @@
+{
+  "vocabulary": {
+    "22489": {
+      "meaning": "אלו הן התכונות (הטמאות)",
+      "transliteration": "אֶתֶה גוּנָאָה בְּהַוַנְתִּי"
+    },
+    "22459": {
+      "meaning": "אלו הן התכונות",
+      "transliteration": "אֶתֶה גוּנָאָה בְּהַוַנְתִּי"
+    },
+    "22643": {
+      "meaning": "הו בני קונטי",
+      "transliteration": "הֵה קַאוּנְטֵיַה"
+    },
+    "22488": {
+      "meaning": "הו בני קונטי",
+      "transliteration": "הֵה פָּארְתְּהַ"
+    },
+    "22503": {
+      "meaning": "הו בני פאנדו",
+      "transliteration": "הֵה פָּאנְדַבַ"
+    },
+    "22490": {
+      "meaning": "של אדם שנולד לגורל",
+      "transliteration": "אַבְּהִיגָ'אטַסְיַה"
+    },
+    "22505": {
+      "meaning": "נולדת לגורל",
+      "transliteration": "אַבְּהִיגָ'אטַה אַסִי"
+    },
+    "22632": {
+      "meaning": "ומייחסים פגמים לתכונות הטובות של אנשים קדושים",
+      "transliteration": "אַבְּהְיַסוּיַאכָּאָה"
+    },
+    "22594": {
+      "meaning": "אני הנהנה",
+      "transliteration": "אַהַם בְּהוֹגִי"
+    },
+    "22593": {
+      "meaning": "אני האדון",
+      "transliteration": "אַהַם אִישְׁוַרַה"
+    },
+    "22478": {
+      "meaning": "היעדר חמדנות",
+      "transliteration": "אַלוֹלוּפְּטְוַם"
+    },
+    "22606": {
+      "meaning": "דעתם מלאה במחשבות שווא רבות",
+      "transliteration": "אַנֵכַּה צִ'יטַּה וִיבְּהְרָאנְתָאָה"
+    },
+    "22535": {
+      "meaning": "והכל נולד מזיווג זכר ונקבה",
+      "transliteration": "אַפַּרַסְפַּרַה סַמְבְּהוּתַם"
+    },
+    "22555": {
+      "meaning": "בתשוקה להנאות חולניות",
+      "transliteration": "אַסַת גְּרָאהָאן גְּרִיהִיטְוַוא"
+    },
+    "22617": {
+      "meaning": "מתעלמים מהמצוות הכתובות",
+      "transliteration": "אַוִידְהִי פּוּרְוַאכַּם"
+    },
+    "22506": {
+      "meaning": "של התכונות האלוהיות והטהורות",
+      "transliteration": "דַיוִוים סַמְפַּדַם"
+    },
+    "22553": {
+      "meaning": "מלאים בהבל, גאווה ויהירות",
+      "transliteration": "דַמְבְּהַה מָאנַה מַדַה אַנְוִיתָאָה"
+    },
+    "22493": {
+      "meaning": "יהירות (בגלל ידע, עושר או ייחוס)",
+      "transliteration": "דַרְפַּה"
+    },
+    "22615": {
+      "meaning": "שיכורים מעושר וגאווה",
+      "transliteration": "דְהַנַה מָאנַה מַדַה אַנְוִיתָאָה"
+    },
+    "22509": {
+      "meaning": "שני סוגי הטבע של יצורים",
+      "transliteration": "דְוַאוּ אֵוַה בְּהוּתַה סַרְגַּאוּ"
+    },
+    "22690": {
+      "meaning": "בעולם הזה של פעולה",
+      "transliteration": "אִיהַ"
+    },
+    "22532": {
+      "meaning": "העולם חסר אמת",
+      "transliteration": "גָ'גַת אַסַטְיַם"
+    },
+    "22548": {
+      "meaning": "של העולם",
+      "transliteration": "גָ'גַתַה"
+    },
+    "22537": {
+      "meaning": "מה יש מעבר לזה?",
+      "transliteration": "כִּים אַנְיַת"
+    },
+    "22572": {
+      "meaning": "למימוש משאלותיהם",
+      "transliteration": "כָּאמַה בְּהוֹגַה אַרְתְּהַם"
+    },
+    "22460": {
+      "meaning": "חוסר פחד",
+      "transliteration": "אַבְּהַיַם"
+    },
+    "22461": {
+      "meaning": "טוהר הלב",
+      "transliteration": "סַתְוַוַה סַמְשׁוּדְּהִי"
+    },
+    "22462": {
+      "meaning": "ידע רוחני",
+      "transliteration": "גְ'נָאנַה יוֹגַה"
+    },
+    "22463": {
+      "meaning": "יציבות והתמדה",
+      "transliteration": "וְיַוַסְתְּהִיתִי"
+    },
+    "22464": {
+      "meaning": "נדיבות",
+      "transliteration": "דָּאנַם"
+    },
+    "22465": {
+      "meaning": "שליטה עצמית",
+      "transliteration": "דַמַה"
+    },
+    "22466": {
+      "meaning": "קורבן",
+      "transliteration": "יַגְ'נָ'ה"
+    },
+    "22467": {
+      "meaning": "לימוד כתבי הקודש",
+      "transliteration": "סְוָאדְהְיָאיַה"
+    },
+    "22468": {
+      "meaning": "סיגוף",
+      "transliteration": "טַפַּה"
+    },
+    "22469": {
+      "meaning": "כנות",
+      "transliteration": "אָארְדְ'וַם"
+    },
+    "22470": {
+      "meaning": "אי-אלימות",
+      "transliteration": "אַהִימְסָא"
+    },
+    "22471": {
+      "meaning": "אמת",
+      "transliteration": "סַטְיַם"
+    },
+    "22472": {
+      "meaning": "חירות מכעס",
+      "transliteration": "אַכְּרוֹדְהַה"
+    },
+    "22473": {
+      "meaning": "ויתור",
+      "transliteration": "טְיָאגַה"
+    },
+    "22474": {
+      "meaning": "שלווה",
+      "transliteration": "שָׁאנְתִי"
+    },
+    "22475": {
+      "meaning": "אי-הוצאת דיבה",
+      "transliteration": "אַפַּאישׁוּנַם"
+    },
+    "22476": {
+      "meaning": "חמלה",
+      "transliteration": "דַיָא"
+    },
+    "22477": {
+      "meaning": "לכל היצורים",
+      "transliteration": "בְּהוּתֵשׁוּ"
+    },
+    "22479": {
+      "meaning": "רכות",
+      "transliteration": "מָארְדַוַם"
+    },
+    "22480": {
+      "meaning": "צניעות",
+      "transliteration": "הְרִי"
+    },
+    "22481": {
+      "meaning": "יציבות",
+      "transliteration": "אַצָ'אפַּלַם"
+    },
+    "22482": {
+      "meaning": "מרץ",
+      "transliteration": "טֵגָ'ה"
+    },
+    "22483": {
+      "meaning": "סליחה",
+      "transliteration": "קְשַׁמָא"
+    },
+    "22484": {
+      "meaning": "סבלנות",
+      "transliteration": "דְהְרִיתִי"
+    },
+    "22485": {
+      "meaning": "ניקיון",
+      "transliteration": "שָׁאוּצַ'ם"
+    },
+    "22486": {
+      "meaning": "אי-שנאה",
+      "transliteration": "אַדְרוֹהַה"
+    },
+    "22487": {
+      "meaning": "חוסר התנשאות",
+      "transliteration": "נָאטִימָאנִיתָא"
+    },
+    "22491": {
+      "meaning": "צביעות",
+      "transliteration": "דַמְבְּהַה"
+    },
+    "22492": {
+      "meaning": "גאווה",
+      "transliteration": "דַרְפַּה"
+    },
+    "22494": {
+      "meaning": "גאווה עצמית",
+      "transliteration": "אַבְּהִימָאנַה"
+    },
+    "22495": {
+      "meaning": "כעס",
+      "transliteration": "כְּרוֹדְהַה"
+    },
+    "22496": {
+      "meaning": "אכזריות",
+      "transliteration": "פָּארֻשְׁיַם"
+    },
+    "22497": {
+      "meaning": "בורות",
+      "transliteration": "אַגְ'נָ'אנַם"
+    },
+    "22498": {
+      "meaning": "אלוהי",
+      "transliteration": "דַיוִוִי"
+    },
+    "22499": {
+      "meaning": "טבע",
+      "transliteration": "סַמְפַּד"
+    },
+    "22500": {
+      "meaning": "לשחרור",
+      "transliteration": "וִימוֹקְשָׁאיַה"
+    },
+    "22501": {
+      "meaning": "לשעבוד",
+      "transliteration": "נִיבַּנְדְהָאיַה"
+    },
+    "22502": {
+      "meaning": "שטני",
+      "transliteration": "אָאסוּרִי"
+    },
+    "22504": {
+      "meaning": "נחשב",
+      "transliteration": "מָאתָא"
+    },
+    "22507": {
+      "meaning": "אל תתאבל",
+      "transliteration": "מָא שׁוּצַ'ה"
+    },
+    "22508": {
+      "meaning": "שניים",
+      "transliteration": "דְוַאוּ"
+    },
+    "22510": {
+      "meaning": "בעולם",
+      "transliteration": "לוֹקֵה"
+    },
+    "22511": {
+      "meaning": "בזה",
+      "transliteration": "אַסְמִין"
+    },
+    "22512": {
+      "meaning": "אלוהי",
+      "transliteration": "דַיוֹה"
+    },
+    "22513": {
+      "meaning": "שטני",
+      "transliteration": "אָאסוּרַה"
+    },
+    "22514": {
+      "meaning": "אכן",
+      "transliteration": "אֵוַה"
+    },
+    "22515": {
+      "meaning": "ו",
+      "transliteration": "צָ'ה"
+    },
+    "22516": {
+      "meaning": "אלוהי",
+      "transliteration": "דַיוֹה"
+    },
+    "22517": {
+      "meaning": "בפירוט",
+      "transliteration": "וִיסְתַּרַשַׁה"
+    },
+    "22518": {
+      "meaning": "נאמר",
+      "transliteration": "פְּרוֹקְתַּה"
+    },
+    "22519": {
+      "meaning": "שטני",
+      "transliteration": "אָאסוּרַם"
+    },
+    "22520": {
+      "meaning": "ממני",
+      "transliteration": "מֵה"
+    },
+    "22521": {
+      "meaning": "שמע",
+      "transliteration": "שְׁרִינֻה"
+    },
+    "22522": {
+      "meaning": "בעלי הטבע השטני",
+      "transliteration": "אָאסוּרִים יוֹנִים"
+    },
+    "22523": {
+      "meaning": "לא יודעים",
+      "transliteration": "נָה וִידוּ"
+    },
+    "22524": {
+      "meaning": "פעולה",
+      "transliteration": "פְּרַוְרִיתִּי"
+    },
+    "22525": {
+      "meaning": "וגם לא",
+      "transliteration": "נָה צָ'ה"
+    },
+    "22526": {
+      "meaning": "הימנעות",
+      "transliteration": "נִיוְרִיתִּי"
+    },
+    "22527": {
+      "meaning": "אין",
+      "transliteration": "נָה"
+    },
+    "22528": {
+      "meaning": "טוהר",
+      "transliteration": "שָׁאוּצַ'ם"
+    },
+    "22529": {
+      "meaning": "וגם לא",
+      "transliteration": "נָה אַפִּי"
+    },
+    "22530": {
+      "meaning": "התנהגות נכונה",
+      "transliteration": "אָ'צָ'ארַה"
+    },
+    "22531": {
+      "meaning": "אמת",
+      "transliteration": "סַטְיַם"
+    },
+    "22533": {
+      "meaning": "ללא בסיס",
+      "transliteration": "אַפְּרַתִישְׁטְהַם"
+    },
+    "22534": {
+      "meaning": "ללא אל",
+      "transliteration": "אַנִישְׁוַרַם"
+    },
+    "22536": {
+      "meaning": "נולד",
+      "transliteration": "פַּרַסְפַּרַה"
+    },
+    "22538": {
+      "meaning": "מה סיבה?",
+      "transliteration": "כִּים הֵתוּה"
+    },
+    "22539": {
+      "meaning": "אחרת",
+      "transliteration": "אַנְיַת"
+    },
+    "22540": {
+      "meaning": "אוחזים",
+      "transliteration": "אֵתָאם"
+    },
+    "22541": {
+      "meaning": "דעה",
+      "transliteration": "דְרִישְׁטִים"
+    },
+    "22542": {
+      "meaning": "האבודים",
+      "transliteration": "נַשְׁטָאטְמָאנַה"
+    },
+    "22543": {
+      "meaning": "הבנה קטנה",
+      "transliteration": "אַלְפַּה בֻּדְּהַיַה"
+    },
+    "22544": {
+      "meaning": "מעשים אכזריים",
+      "transliteration": "אוּגְרַה קַרְמָאנַה"
+    },
+    "22545": {
+      "meaning": "מחריבי עולם",
+      "transliteration": "פְּרַבְהַוַנְתִי"
+    },
+    "22546": {
+      "meaning": "לחורבן",
+      "transliteration": "גָ'גַתַה הִיתַיַה"
+    },
+    "22547": {
+      "meaning": "העולם",
+      "transliteration": "גָ'גַתַה"
+    },
+    "22549": {
+      "meaning": "לצורך",
+      "transliteration": "אַרְתְּהַם"
+    },
+    "22550": {
+      "meaning": "תשוקה",
+      "transliteration": "כָּאמַה"
+    },
+    "22551": {
+      "meaning": "נסמכים",
+      "transliteration": "אָ'שְׁרִיתְיַה"
+    },
+    "22552": {
+      "meaning": "בלתי ניתנת לסיפוק",
+      "transliteration": "דוּשְׁפּוּרַם"
+    },
+    "22554": {
+      "meaning": "מתוך אשליה",
+      "transliteration": "מוֹהָאד"
+    },
+    "22556": {
+      "meaning": "אמונות טמאות",
+      "transliteration": "אַסַת גְּרָאהָאן"
+    },
+    "22557": {
+      "meaning": "אוחזים",
+      "transliteration": "גְּרִיהִיטְוַוא"
+    },
+    "22558": {
+      "meaning": "מתוך בורות",
+      "transliteration": "אַוִידְהִי פּוּרְוַאכַּם"
+    },
+    "22559": {
+      "meaning": "נחוש",
+      "transliteration": "פְּרַצַ'רִית"
+    },
+    "22560": {
+      "meaning": "עד המוות",
+      "transliteration": "פְּרַלַיַּאנְתָאם"
+    },
+    "22561": {
+      "meaning": "דאגות",
+      "transliteration": "צִ'ינְתָּאם"
+    },
+    "22562": {
+      "meaning": "אין-קץ",
+      "transliteration": "אַנֵכָּא"
+    },
+    "22563": {
+      "meaning": "עד",
+      "transliteration": "אֵוַה"
+    },
+    "22564": {
+      "meaning": "זו היא",
+      "transliteration": "אֵתַוַד"
+    },
+    "22565": {
+      "meaning": "בטוחים",
+      "transliteration": "אִיתִי"
+    },
+    "22566": {
+      "meaning": "נישטפים",
+      "transliteration": "אָ'שְׁרִיתְיַה"
+    },
+    "22567": {
+      "meaning": "תשוקה",
+      "transliteration": "כָּאמַה"
+    },
+    "22568": {
+      "meaning": "וכעס",
+      "transliteration": "כְּרוֹדְהַה צָ'ה"
+    },
+    "22569": {
+      "meaning": "שואפים",
+      "transliteration": "אִישְׁנַנְתִי"
+    },
+    "22570": {
+      "meaning": "עושר",
+      "transliteration": "אַרְתְּהָאן"
+    },
+    "22571": {
+      "meaning": "לא צודק",
+      "transliteration": "אַנְיָאיֵנַה"
+    },
+    "22573": {
+      "meaning": "כך",
+      "transliteration": "אִיתִי"
+    },
+    "22574": {
+      "meaning": "מדמיינים",
+      "transliteration": "קַלְפַּיַנְתֵּה"
+    },
+    "22575": {
+      "meaning": "הרוס",
+      "transliteration": "הַיתַה"
+    },
+    "22576": {
+      "meaning": "אויב",
+      "transliteration": "אַרִי"
+    },
+    "22577": {
+      "meaning": "גם",
+      "transliteration": "צָ'ה"
+    },
+    "22578": {
+      "meaning": "אחרים",
+      "transliteration": "אַנְיָאן"
+    },
+    "22579": {
+      "meaning": "אני",
+      "transliteration": "אַהַם"
+    },
+    "22580": {
+      "meaning": "אדון",
+      "transliteration": "אִישְׁוַרַה"
+    },
+    "22581": {
+      "meaning": "אני נהנה",
+      "transliteration": "אַהַם בְּהוֹגִי"
+    },
+    "22582": {
+      "meaning": "מושלם",
+      "transliteration": "סִידְּהַה"
+    },
+    "22583": {
+      "meaning": "חזק",
+      "transliteration": "בַּלִיוַואן"
+    },
+    "22584": {
+      "meaning": "מאושר",
+      "transliteration": "סוּכִּי"
+    },
+    "22585": {
+      "meaning": "עשיר",
+      "transliteration": "דְהַנִי"
+    },
+    "22586": {
+      "meaning": "אציל יליד",
+      "transliteration": "אַבְּהִיגָ'נַוַואן"
+    },
+    "22587": {
+      "meaning": "מי כמוני?",
+      "transliteration": "כַּה אִיוֹה סַמָאנַה"
+    },
+    "22588": {
+      "meaning": "אתרום",
+      "transliteration": "יַקְשְׁיָאמִי"
+    },
+    "22589": {
+      "meaning": "אתענג",
+      "transliteration": "מוֹדִישְׁיָאמִי"
+    },
+    "22590": {
+      "meaning": "אשמח",
+      "transliteration": "רַמִישְׁיָאמִי"
+    },
+    "22591": {
+      "meaning": "כך",
+      "transliteration": "אִיתִי"
+    },
+    "22592": {
+      "meaning": "מבולבלים",
+      "transliteration": "אַגְ'נָ'אנַה וִימוֹהִיתַה"
+    },
+    "22595": {
+      "meaning": "רבים",
+      "transliteration": "אָנֵכָּא"
+    },
+    "22596": {
+      "meaning": "דאגות",
+      "transliteration": "צִ'ינְתָּאבִּיהִי"
+    },
+    "22597": {
+      "meaning": "מוכים",
+      "transliteration": "וְיַאפְּתָא"
+    },
+    "22598": {
+      "meaning": "שקועים",
+      "transliteration": "מַגְנָא"
+    },
+    "22599": {
+      "meaning": "בהנאות חושים",
+      "transliteration": "כָּאמַה סוּכְּהֵשׁוּ"
+    },
+    "22600": {
+      "meaning": "נופלים",
+      "transliteration": "פַּרַוַנְתֵּה"
+    },
+    "22601": {
+      "meaning": "גיהינום טמא",
+      "transliteration": "נַרַאכֵּה אַשׁוּצָ'אוּ"
+    },
+    "22602": {
+      "meaning": "מלאים בעצמי",
+      "transliteration": "אָאטְמַה סַמְפַּדִּיתַם"
+    },
+    "22603": {
+      "meaning": "עקשנים",
+      "transliteration": "דַמְבְּהַה מָאנַה"
+    },
+    "22604": {
+      "meaning": "שיכורים",
+      "transliteration": "מַדַה אַנְוִיתַם"
+    },
+    "22605": {
+      "meaning": "מקריבים קורבנות",
+      "transliteration": "יַגְ'נְתֵּה"
+    },
+    "22607": {
+      "meaning": "לשם ראווה",
+      "transliteration": "נָאמַה יַגְ'נָא"
+    },
+    "22608": {
+      "meaning": "אגו",
+      "transliteration": "אַהַנְקָארַם"
+    },
+    "22609": {
+      "meaning": "כוח",
+      "transliteration": "בַּלַם"
+    },
+    "22610": {
+      "meaning": "גאווה",
+      "transliteration": "דַרְפַּם"
+    },
+    "22611": {
+      "meaning": "תשוקה",
+      "transliteration": "כָּאמַם"
+    },
+    "22612": {
+      "meaning": "וכעס",
+      "transliteration": "כְּרוֹדְהַם צָ'ה"
+    },
+    "22613": {
+      "meaning": "מקנאים",
+      "transliteration": "אַבְּהְיַסוּיַנְתַה"
+    },
+    "22614": {
+      "meaning": "שוכן בגוף",
+      "transliteration": "פְּרַתְיַדֵוַהִישׁוּ"
+    },
+    "22616": {
+      "meaning": "שונאים",
+      "transliteration": "דְוִישַׁנְתַה"
+    },
+    "22618": {
+      "meaning": "אני",
+      "transliteration": "מָאם"
+    },
+    "22619": {
+      "meaning": "אכזריים",
+      "transliteration": "תָּאן"
+    },
+    "22620": {
+      "meaning": "השפלים",
+      "transliteration": "נִירָאיַאן"
+    },
+    "22621": {
+      "meaning": "בבני האדם",
+      "transliteration": "אָאסוּרִיגָ'נָא"
+    },
+    "22622": {
+      "meaning": "משליך",
+      "transliteration": "קְשִׁיפָּאמִי"
+    },
+    "22623": {
+      "meaning": "תמיד",
+      "transliteration": "אַגָ'סְרַם"
+    },
+    "22624": {
+      "meaning": "למעגלי",
+      "transliteration": "יוֹנִישׁוּ"
+    },
+    "22625": {
+      "meaning": "שטניים",
+      "transliteration": "אָאסוּרִישׁוּ"
+    },
+    "22626": {
+      "meaning": "נכנסים",
+      "transliteration": "פַּרַאפְּיַה"
+    },
+    "22627": {
+      "meaning": "רחם",
+      "transliteration": "יוֹנִים"
+    },
+    "22628": {
+      "meaning": "שטניות",
+      "transliteration": "אָאסוּרִישׁוּ"
+    },
+    "22629": {
+      "meaning": "אובדים",
+      "transliteration": "צָ'אטוּרְוַוארְנֵשׁוּ"
+    },
+    "22630": {
+      "meaning": "בכל לידה",
+      "transliteration": "גַרְבְּהָאן"
+    },
+    "22631": {
+      "meaning": "לא מגיעים",
+      "transliteration": "יַאנְתִי"
+    },
+    "22633": {
+      "meaning": "שלושה",
+      "transliteration": "תְּרִיוִידְהַם"
+    },
+    "22634": {
+      "meaning": "שער",
+      "transliteration": "נַרַאכַּסְיַה"
+    },
+    "22635": {
+      "meaning": "של גיהינום",
+      "transliteration": "נַרַאכַּה"
+    },
+    "22636": {
+      "meaning": "מאבד",
+      "transliteration": "נַשָׁנַם"
+    },
+    "22637": {
+      "meaning": "של הנשמה",
+      "transliteration": "אָאטְמַנַה"
+    },
+    "22638": {
+      "meaning": "תשוקה",
+      "transliteration": "כָּאמַה"
+    },
+    "22639": {
+      "meaning": "כעס",
+      "transliteration": "כְּרוֹדְהַה"
+    },
+    "22640": {
+      "meaning": "חמדנות",
+      "transliteration": "תְּרִיתְיַם"
+    },
+    "22641": {
+      "meaning": "וגם",
+      "transliteration": "תְּרִיתְיַם"
+    },
+    "22642": {
+      "meaning": "לכן",
+      "transliteration": "תַסְמָאד"
+    },
+    "22644": {
+      "meaning": "שנחלץ",
+      "transliteration": "וִימֻקְתַה"
+    },
+    "22645": {
+      "meaning": "אדם",
+      "transliteration": "נַרַה"
+    },
+    "22646": {
+      "meaning": "מאלו",
+      "transliteration": "אֵתַיוִישׁ"
+    },
+    "22647": {
+      "meaning": "שערי אופל",
+      "transliteration": "תַּמַה דְוַארַיוִישׁ"
+    },
+    "22648": {
+      "meaning": "עושה טוב",
+      "transliteration": "אָ'צַ'רַתְיַה"
+    },
+    "22649": {
+      "meaning": "לנפשו",
+      "transliteration": "אָאטְמַנַה"
+    },
+    "22650": {
+      "meaning": "ומגיע",
+      "transliteration": "יָאתִי"
+    },
+    "22651": {
+      "meaning": "למטרה העליונה",
+      "transliteration": "פָּארַם גַתִים"
+    },
+    "22652": {
+      "meaning": "מי שזונח",
+      "transliteration": "יַה שָׁאסְתְּרַה"
+    },
+    "22653": {
+      "meaning": "הוראות הכתבים",
+      "transliteration": "וִידְהִים"
+    },
+    "22654": {
+      "meaning": "פועל",
+      "transliteration": "וְרַתֵּה"
+    },
+    "22655": {
+      "meaning": "לפי יצרו",
+      "transliteration": "אִישְׁטַה פּוּרְתִים"
+    },
+    "22656": {
+      "meaning": "לא יגיע",
+      "transliteration": "נַה סַה"
+    },
+    "22657": {
+      "meaning": "לשלמות",
+      "transliteration": "סִידְּהִים"
+    },
+    "22658": {
+      "meaning": "לא לאושר",
+      "transliteration": "נַה סוּכְּהַם"
+    },
+    "22659": {
+      "meaning": "ולא למטרה העליונה",
+      "transliteration": "פָּארַם גַתִים אַפִּי"
+    },
+    "22660": {
+      "meaning": "לכן",
+      "transliteration": "תַסְמָאד"
+    },
+    "22661": {
+      "meaning": "כתבי הקודש",
+      "transliteration": "שָׁאסְתְּרַם"
+    },
+    "22662": {
+      "meaning": "תהא",
+      "transliteration": "תֵּה"
+    },
+    "22663": {
+      "meaning": "סמכותך",
+      "transliteration": "פְּרַמָאנַם"
+    },
+    "22664": {
+      "meaning": "לקבוע",
+      "transliteration": "קָארְיַה"
+    },
+    "22665": {
+      "meaning": "אי-פעולה",
+      "transliteration": "אַקָארְיַה"
+    },
+    "22666": {
+      "meaning": "ידיעת",
+      "transliteration": "גְ'נָאתְוָוא"
+    },
+    "22667": {
+      "meaning": "מה שאמרו הכתבים",
+      "transliteration": "שָׁאסְתְּרַה וִידְהָאנַה"
+    },
+    "22668": {
+      "meaning": "פעולה",
+      "transliteration": "קַרְמַה"
+    },
+    "22669": {
+      "meaning": "לעשות",
+      "transliteration": "קַרְתוּם"
+    },
+    "22670": {
+      "meaning": "אתה צריך",
+      "transliteration": "אַרְהַסִי"
+    }
+  }
+}

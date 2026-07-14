@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "chapter.schema.json",
+  "title": "Bhagavad Gita Chapter",
+  "type": "object",
+  "required": ["chapter", "title", "slokas"],
+  "properties": {
+    "chapter": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 18
+    },
+    "title": {
+      "$ref": "#/$defs/multilingualTitle"
+    },
+    "slokas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/sloka"
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "totalSlokas": { "type": "integer" },
+        "lastUpdated": { "type": "string", "format": "date-time" },
+        "version": { "type": "string" },
+        "source": { "type": "string" }
+      }
+    }
+  },
+  "$defs": {
+    "translatedText": {
+      "type": "object",
+      "required": ["text", "approved"],
+      "properties": {
+        "text": { "type": "string" },
+        "approved": { "type": "boolean" }
+      }
+    },
+    "multilingualTitle": {
+      "type": "object",
+      "properties": {
+        "sanskrit": { "type": "string" },
+        "transliteration": { "type": "string" },
+        "ru": { "$ref": "#/$defs/translatedText" },
+        "en": { "$ref": "#/$defs/translatedText" },
+        "de": { "$ref": "#/$defs/translatedText" },
+        "es": { "$ref": "#/$defs/translatedText" },
+        "ko": { "$ref": "#/$defs/translatedText" },
+        "th": { "$ref": "#/$defs/translatedText" },
+        "zh-CN": { "$ref": "#/$defs/translatedText" },
+        "zh-TW": { "$ref": "#/$defs/translatedText" }
+      },
+      "additionalProperties": {
+        "$ref": "#/$defs/translatedText"
+      }
+    },
+    "multilingualText": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/translatedText"
+      }
+    },
+    "vocabularyItem": {
+      "type": "object",
+      "required": ["word", "transliteration", "meaning"],
+      "properties": {
+        "word": { "type": "string" },
+        "transliteration": { "type": "string" },
+        "meaning": { "$ref": "#/$defs/multilingualText" },
+        "order": { "type": "integer" }
+      }
+    },
+    "sloka": {
+      "type": "object",
+      "required": ["number", "order", "sanskrit", "transliteration", "translations"],
+      "properties": {
+        "number": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+(-\\d+)?$"
+        },
+        "order": { "type": "integer" },
+        "sanskrit": { "type": "string" },
+        "transliteration": { "type": "string" },
+        "translations": { "$ref": "#/$defs/multilingualText" },
+        "comment": { "$ref": "#/$defs/multilingualText" },
+        "vocabulary": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/vocabularyItem" }
+        },
+        "audio": {
+          "type": "object",
+          "properties": {
+            "recitation": { "type": "string" },
+            "sanskrit": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}

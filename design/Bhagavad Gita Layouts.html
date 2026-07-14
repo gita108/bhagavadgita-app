@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Bhagavad Gita — Layouts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans+Devanagari:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --red1:#FF5252;
+    --red2:#FB9A6A;
+    --red3:#C94545;
+    --gray1:#4A4A4A;
+    --gray2:#9B9B9B;
+    --gray3:#C7C7CC;
+    --gray4:#E8E8E8;
+    --gray5:#F9F9F9;
+    --black20:rgba(0,0,0,0.2);
+    --white30:rgba(255,255,255,0.3);
+  }
+  html, body { margin:0; background:#0e0e10; color:#fff; font-family: 'PT Sans', system-ui, sans-serif; }
+  *, *::before, *::after { box-sizing: border-box; }
+  .gita-screen { font-family: 'PT Sans', sans-serif; color: var(--gray1); }
+  .sanskrit { font-family: 'Noto Sans Devanagari', serif; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+<script type="text/babel" src="ios-frame.jsx"></script>
+<script type="text/babel" src="design-canvas.jsx"></script>
+<script type="text/babel" src="screens/icons.jsx"></script>
+<script type="text/babel" src="screens/chrome.jsx"></script>
+<script type="text/babel" src="screens/splash.jsx"></script>
+<script type="text/babel" src="screens/onboarding.jsx"></script>
+<script type="text/babel" src="screens/contents.jsx"></script>
+<script type="text/babel" src="screens/chapter.jsx"></script>
+<script type="text/babel" src="screens/sloka.jsx"></script>
+<script type="text/babel" src="screens/settings.jsx"></script>
+<script type="text/babel" src="screens/search.jsx"></script>
+<script type="text/babel" src="screens/bookmarks.jsx"></script>
+<script type="text/babel" src="screens/language.jsx"></script>
+<script type="text/babel" src="screens/tablet.jsx"></script>
+<script type="text/babel" src="app.jsx"></script>
+</body>
+</html>

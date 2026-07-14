@@ -1,0 +1,2993 @@
+{
+  "chapter": 16,
+  "meta": {
+    "source": "/Users/anton/proj/gita/data/chapters/ch-16/vocabulary-source.json",
+    "generated": "2026-03-27",
+    "languages": ["he", "ar", "tr", "sw"],
+    "approved": false
+  },
+  "vocabulary": {
+    "22489": {
+      "meaning": {
+        "he": "אלו הן התכונות (הטמאות)",
+        "ar": "هذه هي الصفات (النجسة)",
+        "tr": "bunlar (kirli) özelliklerdir",
+        "sw": "hizi ni sifa (najisi)"
+      },
+      "transliteration": {
+        "he": "אֶתֶה גוּנָאָה בְּהַוַנְתִּי",
+        "ar": "إيتيه غوناه بهافانتي",
+        "tr": "ete guṇāḥ bhavanti",
+        "sw": "ete gunā bhavanti"
+      }
+    },
+    "22459": {
+      "meaning": {
+        "he": "אלו הן התכונות",
+        "ar": "هذه هي الصفات",
+        "tr": "bunlar niteliklerdir",
+        "sw": "hizi ni sifa"
+      },
+      "transliteration": {
+        "he": "אֶתֶה גוּנָאָה בְּהַוַנְתִּי",
+        "ar": "إيتيه غوناه بهافانتي",
+        "tr": "ete guṇāḥ bhavanti",
+        "sw": "ete gunā bhavanti"
+      }
+    },
+    "22643": {
+      "meaning": {
+        "he": "הו בני קונטי",
+        "ar": "يا ابن كونتي",
+        "tr": "ey Kuntī'nin oğlu",
+        "sw": "ewe mwana wa Kuntī"
+      },
+      "transliteration": {
+        "he": "הֵה קַאוּנְטֵיַה",
+        "ar": "هي كونتيا",
+        "tr": "he kaunteya",
+        "sw": "he kaunteya"
+      }
+    },
+    "22488": {
+      "meaning": {
+        "he": "הו בני קונטי",
+        "ar": "يا ابن كونتي",
+        "tr": "ey Pārtha",
+        "sw": "ewe Pārtha"
+      },
+      "transliteration": {
+        "he": "הֵה פָּארְתְּהַ",
+        "ar": "هي بارثا",
+        "tr": "he pārtha",
+        "sw": "he pārtha"
+      }
+    },
+    "22503": {
+      "meaning": {
+        "he": "הו בני פאנדו",
+        "ar": "يا ابن باندو",
+        "tr": "ey Pāṇḍava",
+        "sw": "ewe mwana wa Pāṇḍu"
+      },
+      "transliteration": {
+        "he": "הֵה פָּאנְדַבַ",
+        "ar": "هي باندافا",
+        "tr": "he pāṇḍava",
+        "sw": "he pāṇḍava"
+      }
+    },
+    "22490": {
+      "meaning": {
+        "he": "של אדם שנולד לגורל",
+        "ar": "لشخص وُلد لمصير",
+        "tr": "kaderle doğan kişinin",
+        "sw": "wa mtu aliyozaliwa kwa hatima"
+      },
+      "transliteration": {
+        "he": "אַבְּהִיגָ'אטַסְיַה",
+        "ar": "أبهيجاتاسيا",
+        "tr": "abhijātasya",
+        "sw": "abhijātasya"
+      }
+    },
+    "22505": {
+      "meaning": {
+        "he": "נולדת לגורל",
+        "ar": "وُلدت لمصير",
+        "tr": "kaderle doğdun",
+        "sw": "umezaliwa kwa hatima"
+      },
+      "transliteration": {
+        "he": "אַבְּהִיגָ'אטַה אַסִי",
+        "ar": "أبهيجاته أسي",
+        "tr": "abhijātaḥ asi",
+        "sw": "abhijātaḥ asi"
+      }
+    },
+    "22632": {
+      "meaning": {
+        "he": "ומייחסים פגמים לתכונות הטובות של אנשים קדושים",
+        "ar": "وينسبون العيوب للصفات الجيدة للأشخاص القديسين",
+        "tr": "erdemli kişilerin iyi özelliklerine kusur atfederler",
+        "sw": "na wanahusisha makosa kwa sifa nzuri za watu watakatifu"
+      },
+      "transliteration": {
+        "he": "אַבְּהְיַסוּיַאכָּאָה",
+        "ar": "أبهياسوياكاه",
+        "tr": "abhyasūyakāḥ",
+        "sw": "abhyasūyakāḥ"
+      }
+    },
+    "22594": {
+      "meaning": {
+        "he": "אני הנהנה",
+        "ar": "أنا المستمتع",
+        "tr": "ben zevk alırım",
+        "sw": "mimi ni mwenye kunufaika"
+      },
+      "transliteration": {
+        "he": "אַהַם בְּהוֹגִי",
+        "ar": "أهام بهوجي",
+        "tr": "aham bhogī",
+        "sw": "aham bhogī"
+      }
+    },
+    "22593": {
+      "meaning": {
+        "he": "אני האדון",
+        "ar": "أنا السيد",
+        "tr": "ben efendiyim",
+        "sw": "mimi ni bwana"
+      },
+      "transliteration": {
+        "he": "אַהַם אִישְׁוַרַה",
+        "ar": "أهام إيشواراه",
+        "tr": "aham īśvaraḥ",
+        "sw": "aham īśvaraḥ"
+      }
+    },
+    "22478": {
+      "meaning": {
+        "he": "היעדר חמדנות",
+        "ar": "انعدام الجشع",
+        "tr": "açgözlülükten uzaklık",
+        "sw": "kutokuwa na pupa"
+      },
+      "transliteration": {
+        "he": "אַלוֹלוּפְּטְוַם",
+        "ar": "ألولوبتفام",
+        "tr": "aloluptvam",
+        "sw": "aloluptvam"
+      }
+    },
+    "22606": {
+      "meaning": {
+        "he": "דעתם מלאה במחשבות שווא רבות",
+        "ar": "عقولهم مليئة بأفكار باطلة كثيرة",
+        "tr": "zihinleri birçok boş düşünceyle dolu",
+        "sw": "akili zao zimejaa mawazo mengi ya bure"
+      },
+      "transliteration": {
+        "he": "אַנֵכַּה צִ'יטַּה וִיבְּהְרָאנְתָאָה",
+        "ar": "أنيكا تشيتا فيبرانتاه",
+        "tr": "aneka-chitta-vibhrāntāḥ",
+        "sw": "aneka-chitta-vibhrāntāḥ"
+      }
+    },
+    "22535": {
+      "meaning": {
+        "he": "והכל נולד מזיווג זכר ונקבה",
+        "ar": "وكل شيء وُلد من اتحاد الذكر والأنثى",
+        "tr": "ve her şey erkek ve dişi birleşmesinden doğmuştur",
+        "sw": "na kila kitu kimezaliwa kutoka kwa muungano wa dume na jike"
+      },
+      "transliteration": {
+        "he": "אַפַּרַסְפַּרַה סַמְבְּהוּתַם",
+        "ar": "أباراسبارا سامبهوتام",
+        "tr": "aparaspara-sambhūtam",
+        "sw": "aparaspara-sambhūtam"
+      }
+    },
+    "22555": {
+      "meaning": {
+        "he": "בתשוקה להנאות חולניות",
+        "ar": "برغبة في التمتع الدنيوي",
+        "tr": "dünyevi zevklere olan özlemle",
+        "sw": "kwa tamaa ya starehe za kidunia"
+      },
+      "transliteration": {
+        "he": "אַסַת גְּרָאהָאן גְּרִיהִיטְוַוא",
+        "ar": "أسات غراهاان غريهيتفا",
+        "tr": "asat-grāhān gṛhītvā",
+        "sw": "asat-grāhān gṛhītvā"
+      }
+    },
+    "22617": {
+      "meaning": {
+        "he": "מתעלמים מהמצוות הכתובות",
+        "ar": "متجاهلين تعاليم الكتب المقدسة",
+        "tr": "kutsal yazıların emirlerini görmezden gelerek",
+        "sw": "wakipuuza amri za maandiko matakatifu"
+      },
+      "transliteration": {
+        "he": "אַוִידְהִי פּוּרְוַאכַּם",
+        "ar": "أفيدي بورفاكام",
+        "tr": "avidhi-pūrvakam",
+        "sw": "avidhi-pūrvakam"
+      }
+    },
+    "22506": {
+      "meaning": {
+        "he": "של התכונות האלוהיות והטהורות",
+        "ar": "للصفات الإلهية والفاضلة",
+        "tr": "ilahi ve erdemli niteliklerin",
+        "sw": "wa sifa za kimungu na za wema"
+      },
+      "transliteration": {
+        "he": "דַיוִוים סַמְפַּדַם",
+        "ar": "دايفيم سامبادام",
+        "tr": "daivīm sampadam",
+        "sw": "daivīm sampadam"
+      }
+    },
+    "22553": {
+      "meaning": {
+        "he": "מלאים בהבל, גאווה ויהירות",
+        "ar": "ممتلئون بالباطل والكبرياء والغرور",
+        "tr": "boş gurur, kibir ve küstahlıkla dolu",
+        "sw": "wamejaa ubatili, kiburi na majivuno"
+      },
+      "transliteration": {
+        "he": "דַמְבְּהַה מָאנַה מַדַה אַנְוִיתָאָה",
+        "ar": "دامبها مانا مادا أنفيتاه",
+        "tr": "dambha-māna-mada-anvitāḥ",
+        "sw": "dambha-māna-mada-anvitāḥ"
+      }
+    },
+    "22493": {
+      "meaning": {
+        "he": "יהירות (בגלל ידע, עושר או ייחוס)",
+        "ar": "الغرور (بسبب العلم أو الثروة أو النسب)",
+        "tr": "kibir (bilgi, servet veya soyluluk nedeniyle)",
+        "sw": "majivuno (kwa sababu ya maarifa, utajiri au nasaba)"
+      },
+      "transliteration": {
+        "he": "דַרְפַּה",
+        "ar": "دارباه",
+        "tr": "darpaḥ",
+        "sw": "darpaḥ"
+      }
+    },
+    "22615": {
+      "meaning": {
+        "he": "שיכורים מעושר וגאווה",
+        "ar": "سكارى من الثروة والكبرياء",
+        "tr": "servet ve kibirle sarhoş",
+        "sw": "wamelevwa na utajiri na kiburi"
+      },
+      "transliteration": {
+        "he": "דְהַנַה מָאנַה מַדַה אַנְוִיתָאָה",
+        "ar": "دانا مانا مادا أنفيتاه",
+        "tr": "dhana-māna-mada-anvitāḥ",
+        "sw": "dhana-māna-mada-anvitāḥ"
+      }
+    },
+    "22509": {
+      "meaning": {
+        "he": "שני סוגי הטבע של יצורים",
+        "ar": "هذان النوعان من طباع الكائنات",
+        "tr": "varlıkların bu iki doğası",
+        "sw": "hizi aina mbili za asili za viumbe"
+      },
+      "transliteration": {
+        "he": "דְוַאוּ אֵוַה בְּהוּתַה סַרְגַּאוּ",
+        "ar": "دفاو إيفا بهوتا سارغاو",
+        "tr": "dvau eva bhūta-sargau",
+        "sw": "dvau eva bhūta-sargau"
+      }
+    },
+    "22690": {
+      "meaning": {
+        "he": "בעולם הזה של פעולה",
+        "ar": "في عالم العمل هذا",
+        "tr": "bu eylem dünyasında",
+        "sw": "katika ulimwengu huu wa vitendo"
+      },
+      "transliteration": {
+        "he": "אִיהַ",
+        "ar": "إيها",
+        "tr": "iha",
+        "sw": "iha"
+      }
+    },
+    "22532": {
+      "meaning": {
+        "he": "העולם חסר אמת",
+        "ar": "العالم بلا حقيقة",
+        "tr": "dünya gerçek değildir",
+        "sw": "ulimwengu hauna ukweli"
+      },
+      "transliteration": {
+        "he": "גָ'גַת אַסַטְיַם",
+        "ar": "جاغات أساتيام",
+        "tr": "jagat asatyam",
+        "sw": "jagat asatyam"
+      }
+    },
+    "22548": {
+      "meaning": {
+        "he": "של העולם",
+        "ar": "للعالم",
+        "tr": "dünyanın",
+        "sw": "wa ulimwengu"
+      },
+      "transliteration": {
+        "he": "גָ'גַתַה",
+        "ar": "جاغاتاه",
+        "tr": "jagataḥ",
+        "sw": "jagataḥ"
+      }
+    },
+    "22537": {
+      "meaning": {
+        "he": "מה יש מעבר לזה?",
+        "ar": "ما هناك وراء هذا؟",
+        "tr": "bundan ötesi ne var?",
+        "sw": "kuna nini zaidi ya hili?"
+      },
+      "transliteration": {
+        "he": "כִּים אַנְיַת",
+        "ar": "كيم أنيات",
+        "tr": "kim anyat",
+        "sw": "kim anyat"
+      }
+    },
+    "22572": {
+      "meaning": {
+        "he": "למימוש משאלותיהם",
+        "ar": "لتحقيق رغباتهم",
+        "tr": "arzularının yerine gelmesi için",
+        "sw": "kwa ajili ya kutimiza tamaa zao"
+      },
+      "transliteration": {
+        "he": "כָּאמַה בְּהוֹגַה אַרְתְּהַם",
+        "ar": "كاما بهوجا أرثام",
+        "tr": "kāma-bhoga-artham",
+        "sw": "kāma-bhoga-artham"
+      }
+    },
+    "22460": {
+      "meaning": {
+        "he": "חוסר פחד",
+        "ar": "الشجاعة",
+        "tr": "korkusuzluk",
+        "sw": "kutokuwa na hofu"
+      },
+      "transliteration": {
+        "he": "אַבְּהַיַם",
+        "ar": "أبهيام",
+        "tr": "abhayam",
+        "sw": "abhayam"
+      }
+    },
+    "22461": {
+      "meaning": {
+        "he": "טוהר הלב",
+        "ar": "طهارة القلب",
+        "tr": "kalp saflığı",
+        "sw": "usafi wa moyo"
+      },
+      "transliteration": {
+        "he": "סַתְוַוַה סַמְשׁוּדְּהִי",
+        "ar": "ساتفا سامشودهي",
+        "tr": "sattva-saṁśuddhi",
+        "sw": "sattva-saṁśuddhi"
+      }
+    },
+    "22462": {
+      "meaning": {
+        "he": "ידע רוחני",
+        "ar": "المعرفة الروحية",
+        "tr": "ruhani bilgi",
+        "sw": "maarifa ya kiroho"
+      },
+      "transliteration": {
+        "he": "גְ'נָאנַה יוֹגַה",
+        "ar": "جنانا يوجا",
+        "tr": "jñāna-yoga",
+        "sw": "jñāna-yoga"
+      }
+    },
+    "22463": {
+      "meaning": {
+        "he": "יציבות והתמדה",
+        "ar": "الثبات والاستمرارية",
+        "tr": "istikrar ve sebat",
+        "sw": "uthabiti na kuendelea"
+      },
+      "transliteration": {
+        "he": "וְיַוַסְתְּהִיתִי",
+        "ar": "فياڤاستهيتي",
+        "tr": "vyavasthiti",
+        "sw": "vyavasthiti"
+      }
+    },
+    "22464": {
+      "meaning": {
+        "he": "נדיבות",
+        "ar": "الكرم",
+        "tr": "cömertlik",
+        "sw": "ukarimu"
+      },
+      "transliteration": {
+        "he": "דָּאנַם",
+        "ar": "دانام",
+        "tr": "dānam",
+        "sw": "dānam"
+      }
+    },
+    "22465": {
+      "meaning": {
+        "he": "שליטה עצמית",
+        "ar": "ضبط النفس",
+        "tr": "özdenetim",
+        "sw": "kujidhibiti"
+      },
+      "transliteration": {
+        "he": "דַמַה",
+        "ar": "داماه",
+        "tr": "damaḥ",
+        "sw": "damaḥ"
+      }
+    },
+    "22466": {
+      "meaning": {
+        "he": "קורבן",
+        "ar": "التضحية",
+        "tr": "kurban",
+        "sw": "sadaka"
+      },
+      "transliteration": {
+        "he": "יַגְ'נָ'ה",
+        "ar": "ياجنا",
+        "tr": "yajñaḥ",
+        "sw": "yajñaḥ"
+      }
+    },
+    "22467": {
+      "meaning": {
+        "he": "לימוד כתבי הקודש",
+        "ar": "دراسة الكتب المقدسة",
+        "tr": "kutsal yazıları inceleme",
+        "sw": "kusoma maandiko matakatifu"
+      },
+      "transliteration": {
+        "he": "סְוָאדְהְיָאיַה",
+        "ar": "سفادهيايا",
+        "tr": "svādhyāyaḥ",
+        "sw": "svādhyāyaḥ"
+      }
+    },
+    "22468": {
+      "meaning": {
+        "he": "סיגוף",
+        "ar": "الزهد",
+        "tr": "çilecilik",
+        "sw": "kujikanya"
+      },
+      "transliteration": {
+        "he": "טַפַּה",
+        "ar": "تاباه",
+        "tr": "tapaḥ",
+        "sw": "tapaḥ"
+      }
+    },
+    "22469": {
+      "meaning": {
+        "he": "כנות",
+        "ar": "الصدق",
+        "tr": "içtenlik",
+        "sw": "uaminifu"
+      },
+      "transliteration": {
+        "he": "אָארְדְ'וַם",
+        "ar": "أرجافام",
+        "tr": "ārjavam",
+        "sw": "ārjavam"
+      }
+    },
+    "22470": {
+      "meaning": {
+        "he": "אי-אלימות",
+        "ar": "اللاعنف",
+        "tr": "şiddetsizlik",
+        "sw": "kutotumia nguvu"
+      },
+      "transliteration": {
+        "he": "אַהִימְסָא",
+        "ar": "أهيما",
+        "tr": "ahiṁsā",
+        "sw": "ahiṁsā"
+      }
+    },
+    "22471": {
+      "meaning": {
+        "he": "אמת",
+        "ar": "الحقيقة",
+        "tr": "doğruluk",
+        "sw": "ukweli"
+      },
+      "transliteration": {
+        "he": "סַטְיַם",
+        "ar": "ساتيام",
+        "tr": "satyam",
+        "sw": "satyam"
+      }
+    },
+    "22472": {
+      "meaning": {
+        "he": "חירות מכעס",
+        "ar": "التحرر من الغضب",
+        "tr": "öfkeden uzaklık",
+        "sw": "kutokuwa na hasira"
+      },
+      "transliteration": {
+        "he": "אַכְּרוֹדְהַה",
+        "ar": "أكرودها",
+        "tr": "akrodhaḥ",
+        "sw": "akrodhaḥ"
+      }
+    },
+    "22473": {
+      "meaning": {
+        "he": "ויתור",
+        "ar": "التجرد",
+        "tr": "dünyevi bağlardan vazgeçme",
+        "sw": "kujitoa"
+      },
+      "transliteration": {
+        "he": "טְיָאגַה",
+        "ar": "تياجاه",
+        "tr": "tyāgaḥ",
+        "sw": "tyāgaḥ"
+      }
+    },
+    "22474": {
+      "meaning": {
+        "he": "שלווה",
+        "ar": "السلام",
+        "tr": "huzur",
+        "sw": "amani"
+      },
+      "transliteration": {
+        "he": "שָׁאנְתִי",
+        "ar": "شانتي",
+        "tr": "śāntiḥ",
+        "sw": "śāntiḥ"
+      }
+    },
+    "22475": {
+      "meaning": {
+        "he": "אי-הוצאת דיבה",
+        "ar": "عدم البحث عن عيوب الآخرين",
+        "tr": "başkalarında kusur aramama",
+        "sw": "kutafuta makosa kwa wengine"
+      },
+      "transliteration": {
+        "he": "אַפַּאישׁוּנַם",
+        "ar": "أبايشونام",
+        "tr": "apaiśunam",
+        "sw": "apaiśunam"
+      }
+    },
+    "22476": {
+      "meaning": {
+        "he": "חמלה",
+        "ar": "الرحمة",
+        "tr": "merhamet",
+        "sw": "huruma"
+      },
+      "transliteration": {
+        "he": "דַיָא",
+        "ar": "دايا",
+        "tr": "dayā",
+        "sw": "dayā"
+      }
+    },
+    "22477": {
+      "meaning": {
+        "he": "לכל היצורים",
+        "ar": "لجميع الكائنات",
+        "tr": "tüm canlılara",
+        "sw": "kwa viumbe vyote"
+      },
+      "transliteration": {
+        "he": "בְּהוּתֵשׁוּ",
+        "ar": "بهوتيشو",
+        "tr": "bhūteṣu",
+        "sw": "bhūteṣu"
+      }
+    },
+    "22479": {
+      "meaning": {
+        "he": "רכות",
+        "ar": "اللين",
+        "tr": "yumuşaklık",
+        "sw": "upole"
+      },
+      "transliteration": {
+        "he": "מָארְדַוַם",
+        "ar": "ماردافام",
+        "tr": "mārdavam",
+        "sw": "mārdavam"
+      }
+    },
+    "22480": {
+      "meaning": {
+        "he": "צניעות",
+        "ar": "التواضع",
+        "tr": "mütevazılık",
+        "sw": "unyenyekevu"
+      },
+      "transliteration": {
+        "he": "הְרִי",
+        "ar": "هري",
+        "tr": "hrī",
+        "sw": "hrī"
+      }
+    },
+    "22481": {
+      "meaning": {
+        "he": "יציבות",
+        "ar": "الثبات",
+        "tr": "sebat",
+        "sw": "uthabiti"
+      },
+      "transliteration": {
+        "he": "אַצָ'אפַּלַם",
+        "ar": "أتشاپالام",
+        "tr": "acāpalam",
+        "sw": "acāpalam"
+      }
+    },
+    "22482": {
+      "meaning": {
+        "he": "מרץ",
+        "ar": "النشاط",
+        "tr": "enerji",
+        "sw": "nguvu"
+      },
+      "transliteration": {
+        "he": "טֵגָ'ה",
+        "ar": "تيجا",
+        "tr": "tejaḥ",
+        "sw": "tejaḥ"
+      }
+    },
+    "22483": {
+      "meaning": {
+        "he": "סליחה",
+        "ar": "المغفرة",
+        "tr": "affedicilik",
+        "sw": "kusamehe"
+      },
+      "transliteration": {
+        "he": "קְשַׁמָא",
+        "ar": "كشاما",
+        "tr": "kṣamā",
+        "sw": "kṣamā"
+      }
+    },
+    "22484": {
+      "meaning": {
+        "he": "סבלנות",
+        "ar": "الصبر",
+        "tr": "sabır",
+        "sw": "uvumilivu"
+      },
+      "transliteration": {
+        "he": "דְהְרִיתִי",
+        "ar": "دهريتي",
+        "tr": "dhṛtiḥ",
+        "sw": "dhṛtiḥ"
+      }
+    },
+    "22485": {
+      "meaning": {
+        "he": "ניקיון",
+        "ar": "النظافة",
+        "tr": "temizlik",
+        "sw": "usafi"
+      },
+      "transliteration": {
+        "he": "שָׁאוּצַ'ם",
+        "ar": "شاوتشام",
+        "tr": "śaucam",
+        "sw": "śaucam"
+      }
+    },
+    "22486": {
+      "meaning": {
+        "he": "אי-שנאה",
+        "ar": "عدم الكراهية",
+        "tr": "nefret etmeme",
+        "sw": "kutokuwa na chuki"
+      },
+      "transliteration": {
+        "he": "אַדְרוֹהַה",
+        "ar": "أدروها",
+        "tr": "adrohaḥ",
+        "sw": "adrohaḥ"
+      }
+    },
+    "22487": {
+      "meaning": {
+        "he": "חוסר התנשאות",
+        "ar": "عدم التكبر",
+        "tr": "kibirli olmama",
+        "sw": "kutokuwa na majivuno"
+      },
+      "transliteration": {
+        "he": "נָאטִימָאנִיתָא",
+        "ar": "ناتي مانيتا",
+        "tr": "nātimānitā",
+        "sw": "nātimānitā"
+      }
+    },
+    "22491": {
+      "meaning": {
+        "he": "צביעות",
+        "ar": "النفاق",
+        "tr": "ikiyüzlülük",
+        "sw": "unafiki"
+      },
+      "transliteration": {
+        "he": "דַמְבְּהַה",
+        "ar": "دامبها",
+        "tr": "dambhaḥ",
+        "sw": "dambhaḥ"
+      }
+    },
+    "22492": {
+      "meaning": {
+        "he": "גאווה",
+        "ar": "الكبرياء",
+        "tr": "kibir",
+        "sw": "kiburi"
+      },
+      "transliteration": {
+        "he": "דַרְפַּה",
+        "ar": "دارباه",
+        "tr": "darpaḥ",
+        "sw": "darpaḥ"
+      }
+    },
+    "22494": {
+      "meaning": {
+        "he": "גאווה עצמית",
+        "ar": "العجب بالنفس",
+        "tr": "benlik gururu",
+        "sw": "majivuno ya nafsi"
+      },
+      "transliteration": {
+        "he": "אַבְּהִימָאנַה",
+        "ar": "أبهيمانا",
+        "tr": "abhimānaḥ",
+        "sw": "abhimānaḥ"
+      }
+    },
+    "22495": {
+      "meaning": {
+        "he": "כעס",
+        "ar": "الغضب",
+        "tr": "öfke",
+        "sw": "hasira"
+      },
+      "transliteration": {
+        "he": "כְּרוֹדְהַה",
+        "ar": "كرودها",
+        "tr": "krodhaḥ",
+        "sw": "krodhaḥ"
+      }
+    },
+    "22496": {
+      "meaning": {
+        "he": "אכזריות",
+        "ar": "القسوة",
+        "tr": "zalimlik",
+        "sw": "ukatili"
+      },
+      "transliteration": {
+        "he": "פָּארֻשְׁיַם",
+        "ar": "باروشيام",
+        "tr": "pāruṣyam",
+        "sw": "pāruṣyam"
+      }
+    },
+    "22497": {
+      "meaning": {
+        "he": "בורות",
+        "ar": "الجهل",
+        "tr": "cehalet",
+        "sw": "ujinga"
+      },
+      "transliteration": {
+        "he": "אַגְ'נָ'אנַם",
+        "ar": "أجنانام",
+        "tr": "ajñānam",
+        "sw": "ajñānam"
+      }
+    },
+    "22498": {
+      "meaning": {
+        "he": "אלוהי",
+        "ar": "إلهي",
+        "tr": "ilahi",
+        "sw": "ya kimungu"
+      },
+      "transliteration": {
+        "he": "דַיוִוִי",
+        "ar": "دايفي",
+        "tr": "daivī",
+        "sw": "daivī"
+      }
+    },
+    "22499": {
+      "meaning": {
+        "he": "טבע",
+        "ar": "طبيعة",
+        "tr": "doğa",
+        "sw": "asili"
+      },
+      "transliteration": {
+        "he": "סַמְפַּד",
+        "ar": "سامباد",
+        "tr": "sampad",
+        "sw": "sampad"
+      }
+    },
+    "22500": {
+      "meaning": {
+        "he": "לשחרור",
+        "ar": "للتحرر",
+        "tr": "kurtuluş için",
+        "sw": "kwa ukombozi"
+      },
+      "transliteration": {
+        "he": "וִימוֹקְשָׁאיַה",
+        "ar": "في موكشايا",
+        "tr": "vimokṣāya",
+        "sw": "vimokṣāya"
+      }
+    },
+    "22501": {
+      "meaning": {
+        "he": "לשעבוד",
+        "ar": "للعبودية",
+        "tr": "kölelik için",
+        "sw": "kwa utumwa"
+      },
+      "transliteration": {
+        "he": "נִיבַּנְדְהָאיַה",
+        "ar": "ني باندهايا",
+        "tr": "nibandhāya",
+        "sw": "nibandhāya"
+      }
+    },
+    "22502": {
+      "meaning": {
+        "he": "שטני",
+        "ar": "شيطاني",
+        "tr": "şeytani",
+        "sw": "ya kishetani"
+      },
+      "transliteration": {
+        "he": "אָאסוּרִי",
+        "ar": "أسوري",
+        "tr": "āsurī",
+        "sw": "āsurī"
+      }
+    },
+    "22504": {
+      "meaning": {
+        "he": "נחשב",
+        "ar": "يُعتبر",
+        "tr": "sayılır",
+        "sw": "inachukuliwa"
+      },
+      "transliteration": {
+        "he": "מָאתָא",
+        "ar": "ماتا",
+        "tr": "mātā",
+        "sw": "mātā"
+      }
+    },
+    "22507": {
+      "meaning": {
+        "he": "אל תתאבל",
+        "ar": "لا تحزن",
+        "tr": "üzülme",
+        "sw": "usihuzunike"
+      },
+      "transliteration": {
+        "he": "מָא שׁוּצַ'ה",
+        "ar": "ما شوچه",
+        "tr": "mā śucaḥ",
+        "sw": "mā śucaḥ"
+      }
+    },
+    "22508": {
+      "meaning": {
+        "he": "שניים",
+        "ar": "اثنان",
+        "tr": "iki",
+        "sw": "mbili"
+      },
+      "transliteration": {
+        "he": "דְוַאוּ",
+        "ar": "دفاو",
+        "tr": "dvau",
+        "sw": "dvau"
+      }
+    },
+    "22510": {
+      "meaning": {
+        "he": "בעולם",
+        "ar": "في العالم",
+        "tr": "dünyada",
+        "sw": "katika ulimwengu"
+      },
+      "transliteration": {
+        "he": "לוֹקֵה",
+        "ar": "لوكي",
+        "tr": "loke",
+        "sw": "loke"
+      }
+    },
+    "22511": {
+      "meaning": {
+        "he": "בזה",
+        "ar": "في هذا",
+        "tr": "bu",
+        "sw": "hii"
+      },
+      "transliteration": {
+        "he": "אַסְמִין",
+        "ar": "أسمين",
+        "tr": "asmin",
+        "sw": "asmin"
+      }
+    },
+    "22512": {
+      "meaning": {
+        "he": "אלוהי",
+        "ar": "إلهي",
+        "tr": "ilahi",
+        "sw": "ya kimungu"
+      },
+      "transliteration": {
+        "he": "דַיוֹה",
+        "ar": "دايفا",
+        "tr": "daivaḥ",
+        "sw": "daivaḥ"
+      }
+    },
+    "22513": {
+      "meaning": {
+        "he": "שטני",
+        "ar": "شيطاني",
+        "tr": "şeytani",
+        "sw": "ya kishetani"
+      },
+      "transliteration": {
+        "he": "אָאסוּרַה",
+        "ar": "أسورا",
+        "tr": "āsuraḥ",
+        "sw": "āsuraḥ"
+      }
+    },
+    "22514": {
+      "meaning": {
+        "he": "אכן",
+        "ar": "حقاً",
+        "tr": "gerçekten",
+        "sw": "kweli"
+      },
+      "transliteration": {
+        "he": "אֵוַה",
+        "ar": "إيفا",
+        "tr": "eva",
+        "sw": "eva"
+      }
+    },
+    "22515": {
+      "meaning": {
+        "he": "ו",
+        "ar": "و",
+        "tr": "ve",
+        "sw": "na"
+      },
+      "transliteration": {
+        "he": "צָ'ה",
+        "ar": "تشا",
+        "tr": "ca",
+        "sw": "ca"
+      }
+    },
+    "22516": {
+      "meaning": {
+        "he": "אלוהי",
+        "ar": "الإلهي",
+        "tr": "ilahi olan",
+        "sw": "ya kimungu"
+      },
+      "transliteration": {
+        "he": "דַיוֹה",
+        "ar": "دايفا",
+        "tr": "daivaḥ",
+        "sw": "daivaḥ"
+      }
+    },
+    "22517": {
+      "meaning": {
+        "he": "בפירוט",
+        "ar": "بالتفصيل",
+        "tr": "ayrıntılı olarak",
+        "sw": "kwa undani"
+      },
+      "transliteration": {
+        "he": "וִיסְתַּרַשַׁה",
+        "ar": "فيستاراशा",
+        "tr": "vistaraśaḥ",
+        "sw": "vistaraśaḥ"
+      }
+    },
+    "22518": {
+      "meaning": {
+        "he": "נאמר",
+        "ar": "قيل",
+        "tr": "söylendi",
+        "sw": "imesemwa"
+      },
+      "transliteration": {
+        "he": "פְּרוֹקְתַּה",
+        "ar": "بروكتا",
+        "tr": "proktaḥ",
+        "sw": "proktaḥ"
+      }
+    },
+    "22519": {
+      "meaning": {
+        "he": "שטני",
+        "ar": "الشيطاني",
+        "tr": "şeytani olanı",
+        "sw": "ya kishetani"
+      },
+      "transliteration": {
+        "he": "אָאסוּרַם",
+        "ar": "أسورام",
+        "tr": "āsuram",
+        "sw": "āsuram"
+      }
+    },
+    "22520": {
+      "meaning": {
+        "he": "ממני",
+        "ar": "مني",
+        "tr": "benden",
+        "sw": "kutoka kwangu"
+      },
+      "transliteration": {
+        "he": "מֵה",
+        "ar": "مي",
+        "tr": "me",
+        "sw": "me"
+      }
+    },
+    "22521": {
+      "meaning": {
+        "he": "שמע",
+        "ar": "اسمع",
+        "tr": "dinle",
+        "sw": "sikiliza"
+      },
+      "transliteration": {
+        "he": "שְׁרִינֻה",
+        "ar": "شرينو",
+        "tr": "śṛṇu",
+        "sw": "śṛṇu"
+      }
+    },
+    "22522": {
+      "meaning": {
+        "he": "בעלי הטבע השטני",
+        "ar": "أصحاب الطبيعة الشيطانية",
+        "tr": "şeytani doğaya sahip olanlar",
+        "sw": "wenye asili ya kishetani"
+      },
+      "transliteration": {
+        "he": "אָאסוּרִים יוֹנִים",
+        "ar": "أسوريم يونيم",
+        "tr": "āsurīṁ yonim",
+        "sw": "āsurīṁ yonim"
+      }
+    },
+    "22523": {
+      "meaning": {
+        "he": "לא יודעים",
+        "ar": "لا يعرفون",
+        "tr": "bilmezler",
+        "sw": "hawajui"
+      },
+      "transliteration": {
+        "he": "נָה וִידוּ",
+        "ar": "نا فيدو",
+        "tr": "na viduḥ",
+        "sw": "na viduḥ"
+      }
+    },
+    "22524": {
+      "meaning": {
+        "he": "פעולה",
+        "ar": "العمل",
+        "tr": "eylem",
+        "sw": "kitendo"
+      },
+      "transliteration": {
+        "he": "פְּרַוְרִיתִּי",
+        "ar": "برافرتي",
+        "tr": "pravṛttiṁ",
+        "sw": "pravṛttiṁ"
+      }
+    },
+    "22525": {
+      "meaning": {
+        "he": "וגם לא",
+        "ar": "ولا أيضاً",
+        "tr": "ve de",
+        "sw": "wala pia"
+      },
+      "transliteration": {
+        "he": "נָה צָ'ה",
+        "ar": "نا تشا",
+        "tr": "na ca",
+        "sw": "na ca"
+      }
+    },
+    "22526": {
+      "meaning": {
+        "he": "הימנעות",
+        "ar": "الامتناع",
+        "tr": "kaçınma",
+        "sw": "kuepuka"
+      },
+      "transliteration": {
+        "he": "נִיוְרִיתִּי",
+        "ar": "نيفرتي",
+        "tr": "nivṛttiṁ",
+        "sw": "nivṛttiṁ"
+      }
+    },
+    "22527": {
+      "meaning": {
+        "he": "אין",
+        "ar": "لا",
+        "tr": "yoktur",
+        "sw": "hakuna"
+      },
+      "transliteration": {
+        "he": "נָה",
+        "ar": "نا",
+        "tr": "na",
+        "sw": "na"
+      }
+    },
+    "22528": {
+      "meaning": {
+        "he": "טוהר",
+        "ar": "الطهارة",
+        "tr": "saflık",
+        "sw": "usafi"
+      },
+      "transliteration": {
+        "he": "שָׁאוּצַ'ם",
+        "ar": "شاوتشام",
+        "tr": "śaucam",
+        "sw": "śaucam"
+      }
+    },
+    "22529": {
+      "meaning": {
+        "he": "וגם לא",
+        "ar": "ولا أيضاً",
+        "tr": "ve de",
+        "sw": "wala pia"
+      },
+      "transliteration": {
+        "he": "נָה אַפִּי",
+        "ar": "نا أبي",
+        "tr": "na api",
+        "sw": "na api"
+      }
+    },
+    "22530": {
+      "meaning": {
+        "he": "התנהגות נכונה",
+        "ar": "السلوك القويم",
+        "tr": "doğru davranış",
+        "sw": "tabia nzuri"
+      },
+      "transliteration": {
+        "he": "אָ'צָ'ארַה",
+        "ar": "آچارا",
+        "tr": "ācāraḥ",
+        "sw": "ācāraḥ"
+      }
+    },
+    "22531": {
+      "meaning": {
+        "he": "אמת",
+        "ar": "الحقيقة",
+        "tr": "doğruluk",
+        "sw": "ukweli"
+      },
+      "transliteration": {
+        "he": "סַטְיַם",
+        "ar": "ساتيام",
+        "tr": "satyam",
+        "sw": "satyam"
+      }
+    },
+    "22533": {
+      "meaning": {
+        "he": "ללא בסיס",
+        "ar": "بلا أساس",
+        "tr": "temelsiz",
+        "sw": "bila msingi"
+      },
+      "transliteration": {
+        "he": "אַפְּרַתִישְׁטְהַם",
+        "ar": "أبراتishtام",
+        "tr": "apratiṣṭham",
+        "sw": "apratiṣṭham"
+      }
+    },
+    "22534": {
+      "meaning": {
+        "he": "ללא אל",
+        "ar": "بلا إله",
+        "tr": "Tanrı'sız",
+        "sw": "bila Mungu"
+      },
+      "transliteration": {
+        "he": "אַנִישְׁוַרַם",
+        "ar": "أنيشورام",
+        "tr": "anīśvaram",
+        "sw": "anīśvaram"
+      }
+    },
+    "22536": {
+      "meaning": {
+        "he": "נולד",
+        "ar": "وُلد",
+        "tr": "doğmuştur",
+        "sw": "kimezaliwa"
+      },
+      "transliteration": {
+        "he": "פַּרַסְפַּרַה",
+        "ar": "باراسبارا",
+        "tr": "paraspara",
+        "sw": "paraspara"
+      }
+    },
+    "22538": {
+      "meaning": {
+        "he": "מה סיבה?",
+        "ar": "ما السبب؟",
+        "tr": "hangi nedenle?",
+        "sw": "kwa sababu gani?"
+      },
+      "transliteration": {
+        "he": "כִּים הֵתוּה",
+        "ar": "كيم هيتو",
+        "tr": "kim hetuḥ",
+        "sw": "kim hetuḥ"
+      }
+    },
+    "22539": {
+      "meaning": {
+        "he": "אחרת",
+        "ar": "أخرى",
+        "tr": "başka",
+        "sw": "nyingine"
+      },
+      "transliteration": {
+        "he": "אַנְיַת",
+        "ar": "أنيات",
+        "tr": "anyat",
+        "sw": "anyat"
+      }
+    },
+    "22540": {
+      "meaning": {
+        "he": "אוחזים",
+        "ar": "متشبثون",
+        "tr": "sarılıp",
+        "sw": "wakiwa wameshikilia"
+      },
+      "transliteration": {
+        "he": "אֵתָאם",
+        "ar": "إيتام",
+        "tr": "etām",
+        "sw": "etām"
+      }
+    },
+    "22541": {
+      "meaning": {
+        "he": "דעה",
+        "ar": "رأي",
+        "tr": "görüşe",
+        "sw": "mtazamo"
+      },
+      "transliteration": {
+        "he": "דְרִישְׁטִים",
+        "ar": "دريشتيم",
+        "tr": "dṛṣṭim",
+        "sw": "dṛṣṭim"
+      }
+    },
+    "22542": {
+      "meaning": {
+        "he": "האבודים",
+        "ar": "الضالون",
+        "tr": "kaybolmuş",
+        "sw": "wapotevu"
+      },
+      "transliteration": {
+        "he": "נַשְׁטָאטְמָאנַה",
+        "ar": "ناشتاتمانا",
+        "tr": "naṣṭātmānaḥ",
+        "sw": "naṣṭātmānaḥ"
+      }
+    },
+    "22543": {
+      "meaning": {
+        "he": "הבנה קטנה",
+        "ar": "فهم ضعيف",
+        "tr": "düşük anlayışlı",
+        "sw": "wale wenye uelewa mdogo"
+      },
+      "transliteration": {
+        "he": "אַלְפַּה בֻּדְּהַיַה",
+        "ar": "ألفا بودايا",
+        "tr": "alpa-buddhayaḥ",
+        "sw": "alpa-buddhayaḥ"
+      }
+    },
+    "22544": {
+      "meaning": {
+        "he": "מעשים אכזריים",
+        "ar": "أعمال وحشية",
+        "tr": "zalim eylemler",
+        "sw": "matendo ya kikatili"
+      },
+      "transliteration": {
+        "he": "אוּגְרַה קַרְמָאנַה",
+        "ar": "أوغرا كارمانا",
+        "tr": "ugra-karmāṇaḥ",
+        "sw": "ugra-karmāṇaḥ"
+      }
+    },
+    "22545": {
+      "meaning": {
+        "he": "מחריבי עולם",
+        "ar": "مدمرو العالم",
+        "tr": "dünya yıkıcıları",
+        "sw": "waharibifu wa ulimwengu"
+      },
+      "transliteration": {
+        "he": "פְּרַבְהַוַנְתִי",
+        "ar": "بربهافانتي",
+        "tr": "prabhavanti",
+        "sw": "prabhavanti"
+      }
+    },
+    "22546": {
+      "meaning": {
+        "he": "לחורבן",
+        "ar": "لخراب",
+        "tr": "yıkım için",
+        "sw": "kwa uharibifu"
+      },
+      "transliteration": {
+        "he": "גָ'גַתַה הִיתַיַה",
+        "ar": "جاغاتا هيتايا",
+        "tr": "jagataḥ hitāya",
+        "sw": "jagataḥ hitāya"
+      }
+    },
+    "22547": {
+      "meaning": {
+        "he": "העולם",
+        "ar": "العالم",
+        "tr": "dünyanın",
+        "sw": "wa ulimwengu"
+      },
+      "transliteration": {
+        "he": "גָ'גַתַה",
+        "ar": "جاغاتا",
+        "tr": "jagataḥ",
+        "sw": "jagataḥ"
+      }
+    },
+    "22549": {
+      "meaning": {
+        "he": "לצורך",
+        "ar": "من أجل",
+        "tr": "için",
+        "sw": "kwa ajili ya"
+      },
+      "transliteration": {
+        "he": "אַרְתְּהַם",
+        "ar": "أرثام",
+        "tr": "artham",
+        "sw": "artham"
+      }
+    },
+    "22550": {
+      "meaning": {
+        "he": "תשוקה",
+        "ar": "الرغبة",
+        "tr": "arzu",
+        "sw": "tamaa"
+      },
+      "transliteration": {
+        "he": "כָּאמַה",
+        "ar": "كاما",
+        "tr": "kāmam",
+        "sw": "kāmam"
+      }
+    },
+    "22551": {
+      "meaning": {
+        "he": "נסמכים",
+        "ar": "معتمدون",
+        "tr": "dayanarak",
+        "sw": "wakitegemea"
+      },
+      "transliteration": {
+        "he": "אָ'שְׁרִיתְיַה",
+        "ar": "آشريتا",
+        "tr": "āśritya",
+        "sw": "āśritya"
+      }
+    },
+    "22552": {
+      "meaning": {
+        "he": "בלתי ניתנת לסיפוק",
+        "ar": "لا تشبع",
+        "tr": "doyumsuz",
+        "sw": "isiyotosheka"
+      },
+      "transliteration": {
+        "he": "דוּשְׁפּוּרַם",
+        "ar": "دوشبورام",
+        "tr": "duṣpūram",
+        "sw": "duṣpūram"
+      }
+    },
+    "22554": {
+      "meaning": {
+        "he": "מתוך אשליה",
+        "ar": "من الوهم",
+        "tr": "yanılsamadan",
+        "sw": "kutoka kwa udanganyifu"
+      },
+      "transliteration": {
+        "he": "מוֹהָאד",
+        "ar": "موهاد",
+        "tr": "mohād",
+        "sw": "mohād"
+      }
+    },
+    "22556": {
+      "meaning": {
+        "he": "אמונות טמאות",
+        "ar": "معتقدات نجسة",
+        "tr": "kirli inançlar",
+        "sw": "imani najisi"
+      },
+      "transliteration": {
+        "he": "אַסַת גְּרָאהָאן",
+        "ar": "أسات غراهاان",
+        "tr": "asat-grāhān",
+        "sw": "asat-grāhān"
+      }
+    },
+    "22557": {
+      "meaning": {
+        "he": "אוחזים",
+        "ar": "متمسكون",
+        "tr": "sarılarak",
+        "sw": "wakiwa wameshikilia"
+      },
+      "transliteration": {
+        "he": "גְּרִיהִיטְוַוא",
+        "ar": "غريهيتفا",
+        "tr": "gṛhītvā",
+        "sw": "gṛhītvā"
+      }
+    },
+    "22558": {
+      "meaning": {
+        "he": "מתוך בורות",
+        "ar": "من جهل",
+        "tr": "cehaletten",
+        "sw": "kwa ujinga"
+      },
+      "transliteration": {
+        "he": "אַוִידְהִי פּוּרְוַאכַּם",
+        "ar": "أفيدي بورفاكام",
+        "tr": "avidhi-pūrvakam",
+        "sw": "avidhi-pūrvakam"
+      }
+    },
+    "22559": {
+      "meaning": {
+        "he": "נחוש",
+        "ar": "عازم",
+        "tr": "kararlı",
+        "sw": "wameazimia"
+      },
+      "transliteration": {
+        "he": "פְּרַצַ'רִית",
+        "ar": "براتشاريتا",
+        "tr": "pracarita",
+        "sw": "pracarita"
+      }
+    },
+    "22560": {
+      "meaning": {
+        "he": "עד המוות",
+        "ar": "حتى الموت",
+        "tr": "ölüme kadar",
+        "sw": "hadi kifo"
+      },
+      "transliteration": {
+        "he": "פְּרַלַיַּאנְתָאם",
+        "ar": "برالاينتام",
+        "tr": "pralayāntām",
+        "sw": "pralayāntām"
+      }
+    },
+    "22561": {
+      "meaning": {
+        "he": "דאגות",
+        "ar": "هموم",
+        "tr": "kaygılar",
+        "sw": "wasiwasi"
+      },
+      "transliteration": {
+        "he": "צִ'ינְתָּאם",
+        "ar": "تشينتام",
+        "tr": "cintām",
+        "sw": "cintām"
+      }
+    },
+    "22562": {
+      "meaning": {
+        "he": "אין-קץ",
+        "ar": "لا حصر لها",
+        "tr": "sayısız",
+        "sw": "zisizo na kikomo"
+      },
+      "transliteration": {
+        "he": "אַנֵכָּא",
+        "ar": "أنيكا",
+        "tr": "anekā",
+        "sw": "anekā"
+      }
+    },
+    "22563": {
+      "meaning": {
+        "he": "עד",
+        "ar": "حتى",
+        "tr": "kadar",
+        "sw": "hadi"
+      },
+      "transliteration": {
+        "he": "אֵוַה",
+        "ar": "إيفا",
+        "tr": "eva",
+        "sw": "eva"
+      }
+    },
+    "22564": {
+      "meaning": {
+        "he": "זו היא",
+        "ar": "هذه هي",
+        "tr": "bu",
+        "sw": "hii ndiyo"
+      },
+      "transliteration": {
+        "he": "אֵתַוַד",
+        "ar": "إيتافاد",
+        "tr": "etāvad",
+        "sw": "etāvad"
+      }
+    },
+    "22565": {
+      "meaning": {
+        "he": "בטוחים",
+        "ar": "مقتنعون",
+        "tr": "ikna olmuş",
+        "sw": "wamehakikishwa"
+      },
+      "transliteration": {
+        "he": "אִיתִי",
+        "ar": "إيتي",
+        "tr": "iti",
+        "sw": "iti"
+      }
+    },
+    "22566": {
+      "meaning": {
+        "he": "נישטפים",
+        "ar": "غارقون",
+        "tr": "kapılmış",
+        "sw": "wamezama"
+      },
+      "transliteration": {
+        "he": "אָ'שְׁרִיתְיַה",
+        "ar": "آشريتا",
+        "tr": "āśritya",
+        "sw": "āśritya"
+      }
+    },
+    "22567": {
+      "meaning": {
+        "he": "תשוקה",
+        "ar": "الرغبة",
+        "tr": "arzu",
+        "sw": "tamaa"
+      },
+      "transliteration": {
+        "he": "כָּאמַה",
+        "ar": "كاما",
+        "tr": "kāmam",
+        "sw": "kāmam"
+      }
+    },
+    "22568": {
+      "meaning": {
+        "he": "וכעס",
+        "ar": "والغضب",
+        "tr": "ve öfke",
+        "sw": "na hasira"
+      },
+      "transliteration": {
+        "he": "כְּרוֹדְהַה צָ'ה",
+        "ar": "كرودها تشا",
+        "tr": "krodhaḥ ca",
+        "sw": "krodhaḥ ca"
+      }
+    },
+    "22569": {
+      "meaning": {
+        "he": "שואפים",
+        "ar": "يسعون",
+        "tr": "çabalarlar",
+        "sw": "wanatafuta"
+      },
+      "transliteration": {
+        "he": "אִישְׁנַנְתִי",
+        "ar": "إيشنانتي",
+        "tr": "iśnanti",
+        "sw": "iśnanti"
+      }
+    },
+    "22570": {
+      "meaning": {
+        "he": "עושר",
+        "ar": "الثروة",
+        "tr": "servet",
+        "sw": "utajiri"
+      },
+      "transliteration": {
+        "he": "אַרְתְּהָאן",
+        "ar": "أرثان",
+        "tr": "arthān",
+        "sw": "arthān"
+      }
+    },
+    "22571": {
+      "meaning": {
+        "he": "לא צודק",
+        "ar": "غير عادل",
+        "tr": "haksız",
+        "sw": "zisizo za haki"
+      },
+      "transliteration": {
+        "he": "אַנְיָאיֵנַה",
+        "ar": "أنياينا",
+        "tr": "anyāyena",
+        "sw": "anyāyena"
+      }
+    },
+    "22573": {
+      "meaning": {
+        "he": "כך",
+        "ar": "هكذا",
+        "tr": "böyle",
+        "sw": "hivyo"
+      },
+      "transliteration": {
+        "he": "אִיתִי",
+        "ar": "إيتي",
+        "tr": "iti",
+        "sw": "iti"
+      }
+    },
+    "22574": {
+      "meaning": {
+        "he": "מדמיינים",
+        "ar": "يتخيلون",
+        "tr": "hayal ederler",
+        "sw": "wanafikiria"
+      },
+      "transliteration": {
+        "he": "קַלְפַּיַנְתֵּה",
+        "ar": "كالباينتي",
+        "tr": "kalpayante",
+        "sw": "kalpayante"
+      }
+    },
+    "22575": {
+      "meaning": {
+        "he": "הרוס",
+        "ar": "مُهلك",
+        "tr": "yok edilmiş",
+        "sw": "imeangamizwa"
+      },
+      "transliteration": {
+        "he": "הַיתַה",
+        "ar": "هيتا",
+        "tr": "hataḥ",
+        "sw": "hataḥ"
+      }
+    },
+    "22576": {
+      "meaning": {
+        "he": "אויב",
+        "ar": "عدو",
+        "tr": "düşman",
+        "sw": "adui"
+      },
+      "transliteration": {
+        "he": "אַרִי",
+        "ar": "أري",
+        "tr": "ari",
+        "sw": "ari"
+      }
+    },
+    "22577": {
+      "meaning": {
+        "he": "גם",
+        "ar": "أيضاً",
+        "tr": "de",
+        "sw": "pia"
+      },
+      "transliteration": {
+        "he": "צָ'ה",
+        "ar": "تشا",
+        "tr": "ca",
+        "sw": "ca"
+      }
+    },
+    "22578": {
+      "meaning": {
+        "he": "אחרים",
+        "ar": "آخرين",
+        "tr": "diğerleri",
+        "sw": "wengine"
+      },
+      "transliteration": {
+        "he": "אַנְיָאן",
+        "ar": "أنيان",
+        "tr": "anyān",
+        "sw": "anyān"
+      }
+    },
+    "22579": {
+      "meaning": {
+        "he": "אני",
+        "ar": "أنا",
+        "tr": "ben",
+        "sw": "mimi"
+      },
+      "transliteration": {
+        "he": "אַהַם",
+        "ar": "أهام",
+        "tr": "aham",
+        "sw": "aham"
+      }
+    },
+    "22580": {
+      "meaning": {
+        "he": "אדון",
+        "ar": "سيد",
+        "tr": "efendi",
+        "sw": "bwana"
+      },
+      "transliteration": {
+        "he": "אִישְׁוַרַה",
+        "ar": "إيشوارا",
+        "tr": "īśvaraḥ",
+        "sw": "īśvaraḥ"
+      }
+    },
+    "22581": {
+      "meaning": {
+        "he": "אני נהנה",
+        "ar": "أنا أستمتع",
+        "tr": "zevk alırım",
+        "sw": "nanufaika"
+      },
+      "transliteration": {
+        "he": "אַהַם בְּהוֹגִי",
+        "ar": "أهام بهوجي",
+        "tr": "aham bhogī",
+        "sw": "aham bhogī"
+      }
+    },
+    "22582": {
+      "meaning": {
+        "he": "מושלם",
+        "ar": "مثالي",
+        "tr": "mükemmel",
+        "sw": "mkamilifu"
+      },
+      "transliteration": {
+        "he": "סִידְּהַה",
+        "ar": "سيدها",
+        "tr": "siddhaḥ",
+        "sw": "siddhaḥ"
+      }
+    },
+    "22583": {
+      "meaning": {
+        "he": "חזק",
+        "ar": "قوي",
+        "tr": "güçlü",
+        "sw": "mwenye nguvu"
+      },
+      "transliteration": {
+        "he": "בַּלִיוַואן",
+        "ar": "باليافان",
+        "tr": "balīvān",
+        "sw": "balīvān"
+      }
+    },
+    "22584": {
+      "meaning": {
+        "he": "מאושר",
+        "ar": "سعيد",
+        "tr": "mutlu",
+        "sw": "mwenye furaha"
+      },
+      "transliteration": {
+        "he": "סוּכִּי",
+        "ar": "سوخي",
+        "tr": "sukhī",
+        "sw": "sukhī"
+      }
+    },
+    "22585": {
+      "meaning": {
+        "he": "עשיר",
+        "ar": "غني",
+        "tr": "zengin",
+        "sw": "tajiri"
+      },
+      "transliteration": {
+        "he": "דְהַנִי",
+        "ar": "داني",
+        "tr": "dhanī",
+        "sw": "dhanī"
+      }
+    },
+    "22586": {
+      "meaning": {
+        "he": "אציל יליד",
+        "ar": "وُلدت نبيلًا",
+        "tr": "soylu doğdum",
+        "sw": "nimezaliwa mwenye hadhi"
+      },
+      "transliteration": {
+        "he": "אַבְּהִיגָ'נַוַואן",
+        "ar": "أبهيجنافان",
+        "tr": "abhijānavān",
+        "sw": "abhijānavān"
+      }
+    },
+    "22587": {
+      "meaning": {
+        "he": "מי כמוני?",
+        "ar": "من مثلي؟",
+        "tr": "kim var benim gibi?",
+        "sw": "nani kama mimi?"
+      },
+      "transliteration": {
+        "he": "כַּה אִיוֹה סַמָאנַה",
+        "ar": "كا إيو سامانا",
+        "tr": "kaḥ iyo samānaḥ",
+        "sw": "kaḥ iyo samānaḥ"
+      }
+    },
+    "22588": {
+      "meaning": {
+        "he": "אתרום",
+        "ar": "سأتبرع",
+        "tr": "bağışta bulunacağım",
+        "sw": "nitatoa sadaka"
+      },
+      "transliteration": {
+        "he": "יַקְשְׁיָאמִי",
+        "ar": "ياكشيامي",
+        "tr": "yakṣyāmi",
+        "sw": "yakṣyāmi"
+      }
+    },
+    "22589": {
+      "meaning": {
+        "he": "אתענג",
+        "ar": "سأستمتع",
+        "tr": "zevk alacağım",
+        "sw": "nitanufaika"
+      },
+      "transliteration": {
+        "he": "מוֹדִישְׁיָאמִי",
+        "ar": "موديشيامي",
+        "tr": "modiṣyāmi",
+        "sw": "modiṣyāmi"
+      }
+    },
+    "22590": {
+      "meaning": {
+        "he": "אשמח",
+        "ar": "سأفرح",
+        "tr": "sevineceğim",
+        "sw": "nitafurahi"
+      },
+      "transliteration": {
+        "he": "רַמִישְׁיָאמִי",
+        "ar": "راميشيامي",
+        "tr": "ramiṣyāmi",
+        "sw": "ramiṣyāmi"
+      }
+    },
+    "22591": {
+      "meaning": {
+        "he": "כך",
+        "ar": "هكذا",
+        "tr": "böyle",
+        "sw": "hivyo"
+      },
+      "transliteration": {
+        "he": "אִיתִי",
+        "ar": "إيتي",
+        "tr": "iti",
+        "sw": "iti"
+      }
+    },
+    "22592": {
+      "meaning": {
+        "he": "מבולבלים",
+        "ar": "مشوشون",
+        "tr": "şaşkın",
+        "sw": "wamechanganyikiwa"
+      },
+      "transliteration": {
+        "he": "אַגְ'נָ'אנַה וִימוֹהִיתַה",
+        "ar": "أجنانا فيموهيتا",
+        "tr": "ajñāna-vimohitāḥ",
+        "sw": "ajñāna-vimohitāḥ"
+      }
+    },
+    "22595": {
+      "meaning": {
+        "he": "רבים",
+        "ar": "كثيرون",
+        "tr": "birçok",
+        "sw": "mingi"
+      },
+      "transliteration": {
+        "he": "אָנֵכָּא",
+        "ar": "أنيكا",
+        "tr": "anekā",
+        "sw": "anekā"
+      }
+    },
+    "22596": {
+      "meaning": {
+        "he": "דאגות",
+        "ar": "هموم",
+        "tr": "kaygı",
+        "sw": "wasiwasi"
+      },
+      "transliteration": {
+        "he": "צִ'ינְתָּאבִּיהִי",
+        "ar": "تشينتابيهي",
+        "tr": "cintābhiḥ",
+        "sw": "cintābhiḥ"
+      }
+    },
+    "22597": {
+      "meaning": {
+        "he": "מוכים",
+        "ar": "مضروبون",
+        "tr": "vurulmuş",
+        "sw": "wamepigwa"
+      },
+      "transliteration": {
+        "he": "וְיַאפְּתָא",
+        "ar": "فيابتا",
+        "tr": "vyāptāḥ",
+        "sw": "vyāptāḥ"
+      }
+    },
+    "22598": {
+      "meaning": {
+        "he": "שקועים",
+        "ar": "منغمسون",
+        "tr": "dalmış",
+        "sw": "wamezamia"
+      },
+      "transliteration": {
+        "he": "מַגְנָא",
+        "ar": "ماغنا",
+        "tr": "magnāḥ",
+        "sw": "magnāḥ"
+      }
+    },
+    "22599": {
+      "meaning": {
+        "he": "בהנאות חושים",
+        "ar": "في ملذات الحواس",
+        "tr": "duyusal zevklere",
+        "sw": "katika starehe za hisia"
+      },
+      "transliteration": {
+        "he": "כָּאמַה סוּכְּהֵשׁוּ",
+        "ar": "كاما سوكيشو",
+        "tr": "kāma-sukheṣu",
+        "sw": "kāma-sukheṣu"
+      }
+    },
+    "22600": {
+      "meaning": {
+        "he": "נופלים",
+        "ar": "يسقطون",
+        "tr": "düşerler",
+        "sw": "huanguka"
+      },
+      "transliteration": {
+        "he": "פַּרַוַנְתֵּה",
+        "ar": "بارافانتي",
+        "tr": "pravartante",
+        "sw": "pravartante"
+      }
+    },
+    "22601": {
+      "meaning": {
+        "he": "גיהינום טמא",
+        "ar": "جحيم نجس",
+        "tr": "kirli cehennem",
+        "sw": "kuzimu najisi"
+      },
+      "transliteration": {
+        "he": "נַרַאכֵּה אַשׁוּצָ'אוּ",
+        "ar": "ناراك أسوشاو",
+        "tr": "narake aśucau",
+        "sw": "narake aśucau"
+      }
+    },
+    "22602": {
+      "meaning": {
+        "he": "מלאים בעצמי",
+        "ar": "ممتلئون بالذات",
+        "tr": "benlikleriyle dolu",
+        "sw": "wamejaa ubinafsi"
+      },
+      "transliteration": {
+        "he": "אָאטְמַה סַמְפַּדִּיתַם",
+        "ar": "أاتما سامباديتام",
+        "tr": "ātma-sampaditam",
+        "sw": "ātma-sampaditam"
+      }
+    },
+    "22603": {
+      "meaning": {
+        "he": "עקשנים",
+        "ar": "عندون",
+        "tr": "inatçı",
+        "sw": "wamezidi"
+      },
+      "transliteration": {
+        "he": "דַמְבְּהַה מָאנַה",
+        "ar": "دامبها مانا",
+        "tr": "dambha-māna",
+        "sw": "dambha-māna"
+      }
+    },
+    "22604": {
+      "meaning": {
+        "he": "שיכורים",
+        "ar": "سكارى",
+        "tr": "sarhoş",
+        "sw": "wamelevwa"
+      },
+      "transliteration": {
+        "he": "מַדַה אַנְוִיתַם",
+        "ar": "مادا أنفيتام",
+        "tr": "mada-anvitam",
+        "sw": "mada-anvitam"
+      }
+    },
+    "22605": {
+      "meaning": {
+        "he": "מקריבים קורבנות",
+        "ar": "يقرّبون القرابين",
+        "tr": "kurban sunarlar",
+        "sw": "hutoa sadaka"
+      },
+      "transliteration": {
+        "he": "יַגְ'נְתֵּה",
+        "ar": "ياجنتي",
+        "tr": "yajante",
+        "sw": "yajante"
+      }
+    },
+    "22607": {
+      "meaning": {
+        "he": "לשם ראווה",
+        "ar": "للرياء",
+        "tr": "gösteriş için",
+        "sw": "kwa ajili ya majivuno"
+      },
+      "transliteration": {
+        "he": "נָאמַה יַגְ'נָא",
+        "ar": "ناما ياجنا",
+        "tr": "nāma-yajñāḥ",
+        "sw": "nāma-yajñāḥ"
+      }
+    },
+    "22608": {
+      "meaning": {
+        "he": "אגו",
+        "ar": "الأنا",
+        "tr": "ego",
+        "sw": "ubinafsi"
+      },
+      "transliteration": {
+        "he": "אַהַנְקָארַם",
+        "ar": "أهنكارام",
+        "tr": "ahaṅkāram",
+        "sw": "ahaṅkāram"
+      }
+    },
+    "22609": {
+      "meaning": {
+        "he": "כוח",
+        "ar": "القوة",
+        "tr": "güç",
+        "sw": "nguvu"
+      },
+      "transliteration": {
+        "he": "בַּלַם",
+        "ar": "بالام",
+        "tr": "balam",
+        "sw": "balam"
+      }
+    },
+    "22610": {
+      "meaning": {
+        "he": "גאווה",
+        "ar": "الكبرياء",
+        "tr": "kibir",
+        "sw": "kiburi"
+      },
+      "transliteration": {
+        "he": "דַרְפַּם",
+        "ar": "داربام",
+        "tr": "darpam",
+        "sw": "darpam"
+      }
+    },
+    "22611": {
+      "meaning": {
+        "he": "תשוקה",
+        "ar": "الرغبة",
+        "tr": "arzu",
+        "sw": "tamaa"
+      },
+      "transliteration": {
+        "he": "כָּאמַם",
+        "ar": "كامام",
+        "tr": "kāmam",
+        "sw": "kāmam"
+      }
+    },
+    "22612": {
+      "meaning": {
+        "he": "וכעס",
+        "ar": "والغضب",
+        "tr": "ve öfke",
+        "sw": "na hasira"
+      },
+      "transliteration": {
+        "he": "כְּרוֹדְהַם צָ'ה",
+        "ar": "كرودهام تشا",
+        "tr": "krodhaṁ ca",
+        "sw": "krodhaṁ ca"
+      }
+    },
+    "22613": {
+      "meaning": {
+        "he": "מקנאים",
+        "ar": "يحسدون",
+        "tr": "imrenirler",
+        "sw": "wanavya"
+      },
+      "transliteration": {
+        "he": "אַבְּהְיַסוּיַנְתַה",
+        "ar": "أبهياسوانتا",
+        "tr": "abhyasūyantaḥ",
+        "sw": "abhyasūyantaḥ"
+      }
+    },
+    "22614": {
+      "meaning": {
+        "he": "שוכן בגוף",
+        "ar": "ساكن الجسد",
+        "tr": "bedende oturan",
+        "sw": "aliyekaa mwilini"
+      },
+      "transliteration": {
+        "he": "פְּרַתְיַדֵוַהִישׁוּ",
+        "ar": "براتيديفيشو",
+        "tr": "pratyadehiṣu",
+        "sw": "pratyadehiṣu"
+      }
+    },
+    "22616": {
+      "meaning": {
+        "he": "שונאים",
+        "ar": "يبغضون",
+        "tr": "nefret ederler",
+        "sw": "wanachukia"
+      },
+      "transliteration": {
+        "he": "דְוִישַׁנְתַה",
+        "ar": "دفيشانتا",
+        "tr": "dviṣantaḥ",
+        "sw": "dviṣantaḥ"
+      }
+    },
+    "22618": {
+      "meaning": {
+        "he": "אני",
+        "ar": "أنا",
+        "tr": "ben",
+        "sw": "mimi"
+      },
+      "transliteration": {
+        "he": "מָאם",
+        "ar": "مام",
+        "tr": "mām",
+        "sw": "mām"
+      }
+    },
+    "22619": {
+      "meaning": {
+        "he": "אכזריים",
+        "ar": "قساة",
+        "tr": "zalim",
+        "sw": "wakatili"
+      },
+      "transliteration": {
+        "he": "תָּאן",
+        "ar": "تان",
+        "tr": "tān",
+        "sw": "tān"
+      }
+    },
+    "22620": {
+      "meaning": {
+        "he": "השפלים",
+        "ar": "الأدنى",
+        "tr": "en alçak",
+        "sw": "wa chini kabisa"
+      },
+      "transliteration": {
+        "he": "נִירָאיַאן",
+        "ar": "نيرايان",
+        "tr": "nirayān",
+        "sw": "nirayān"
+      }
+    },
+    "22621": {
+      "meaning": {
+        "he": "בבני האדם",
+        "ar": "بين البشر",
+        "tr": "insanlar arasında",
+        "sw": "kati ya binadamu"
+      },
+      "transliteration": {
+        "he": "אָאסוּרִיגָ'נָא",
+        "ar": "أسوريجانا",
+        "tr": "āsurījānān",
+        "sw": "āsurījānān"
+      }
+    },
+    "22622": {
+      "meaning": {
+        "he": "משליך",
+        "ar": "أقذف",
+        "tr": "atarım",
+        "sw": "huwatupa"
+      },
+      "transliteration": {
+        "he": "קְשִׁיפָּאמִי",
+        "ar": "كشيبامي",
+        "tr": "kṣipāmi",
+        "sw": "kṣipāmi"
+      }
+    },
+    "22623": {
+      "meaning": {
+        "he": "תמיד",
+        "ar": "دائماً",
+        "tr": "sürekli",
+        "sw": "milele"
+      },
+      "transliteration": {
+        "he": "אַגָ'סְרַם",
+        "ar": "أجاسرام",
+        "tr": "ajasram",
+        "sw": "ajasram"
+      }
+    },
+    "22624": {
+      "meaning": {
+        "he": "למעגלי",
+        "ar": "في دورات",
+        "tr": "döngülere",
+        "sw": "katika mizunguko"
+      },
+      "transliteration": {
+        "he": "יוֹנִישׁוּ",
+        "ar": "يونيشو",
+        "tr": "yoniṣu",
+        "sw": "yoniṣu"
+      }
+    },
+    "22625": {
+      "meaning": {
+        "he": "שטניים",
+        "ar": "شيطانية",
+        "tr": "şeytani",
+        "sw": "ya kishetani"
+      },
+      "transliteration": {
+        "he": "אָאסוּרִישׁוּ",
+        "ar": "أسوريشو",
+        "tr": "āsurīṣu",
+        "sw": "āsurīṣu"
+      }
+    },
+    "22626": {
+      "meaning": {
+        "he": "נכנסים",
+        "ar": "يدخلون",
+        "tr": "girerler",
+        "sw": "huingia"
+      },
+      "transliteration": {
+        "he": "פַּרַאפְּיַה",
+        "ar": "بارابيا",
+        "tr": "prāpya",
+        "sw": "prāpya"
+      }
+    },
+    "22627": {
+      "meaning": {
+        "he": "רחם",
+        "ar": "رحم",
+        "tr": "rahim",
+        "sw": "tumbo"
+      },
+      "transliteration": {
+        "he": "יוֹנִים",
+        "ar": "يونيم",
+        "tr": "yonim",
+        "sw": "yonim"
+      }
+    },
+    "22628": {
+      "meaning": {
+        "he": "שטניות",
+        "ar": "شيطانية",
+        "tr": "şeytani",
+        "sw": "ya kishetani"
+      },
+      "transliteration": {
+        "he": "אָאסוּרִישׁוּ",
+        "ar": "أسوريشو",
+        "tr": "āsurīṣu",
+        "sw": "āsurīṣu"
+      }
+    },
+    "22629": {
+      "meaning": {
+        "he": "אובדים",
+        "ar": "يهلكون",
+        "tr": "mahvolurlar",
+        "sw": "hupotea"
+      },
+      "transliteration": {
+        "he": "צָ'אטוּרְוַוארְנֵשׁוּ",
+        "ar": "تشاتورفارنيشو",
+        "tr": "cāturvarnyeṣu",
+        "sw": "cāturvarnyeṣu"
+      }
+    },
+    "22630": {
+      "meaning": {
+        "he": "בכל לידה",
+        "ar": "في كل ولادة",
+        "tr": "her doğumda",
+        "sw": "katika kila kuzaliwa"
+      },
+      "transliteration": {
+        "he": "גַרְבְּהָאן",
+        "ar": "غارهان",
+        "tr": "garbhān",
+        "sw": "garbhān"
+      }
+    },
+    "22631": {
+      "meaning": {
+        "he": "לא מגיעים",
+        "ar": "لا يصلون",
+        "tr": "ulaşamazlar",
+        "sw": "hawafiki"
+      },
+      "transliteration": {
+        "he": "יַאנְתִי",
+        "ar": "يانتي",
+        "tr": "yanti",
+        "sw": "yanti"
+      }
+    },
+    "22633": {
+      "meaning": {
+        "he": "שלושה",
+        "ar": "ثلاثة",
+        "tr": "üç",
+        "sw": "tatu"
+      },
+      "transliteration": {
+        "he": "תְּרִיוִידְהַם",
+        "ar": "تريفيدهام",
+        "tr": "trividham",
+        "sw": "trividham"
+      }
+    },
+    "22634": {
+      "meaning": {
+        "he": "שער",
+        "ar": "باب",
+        "tr": "kapı",
+        "sw": "mlango"
+      },
+      "transliteration": {
+        "he": "נַרַאכַּסְיַה",
+        "ar": "ناراكاسيا",
+        "tr": "narakaḥ",
+        "sw": "narakaḥ"
+      }
+    },
+    "22635": {
+      "meaning": {
+        "he": "של גיהינום",
+        "ar": "للجحيم",
+        "tr": "cehennemin",
+        "sw": "wa kuzimu"
+      },
+      "transliteration": {
+        "he": "נַרַאכַּה",
+        "ar": "ناراكاه",
+        "tr": "narakaḥ",
+        "sw": "narakaḥ"
+      }
+    },
+    "22636": {
+      "meaning": {
+        "he": "מאבד",
+        "ar": "مفقود",
+        "tr": "kayba götüren",
+        "sw": "inayopoteza"
+      },
+      "transliteration": {
+        "he": "נַשָׁנַם",
+        "ar": "ناشانام",
+        "tr": "nāśanam",
+        "sw": "nāśanam"
+      }
+    },
+    "22637": {
+      "meaning": {
+        "he": "של הנשמה",
+        "ar": "للنفس",
+        "tr": "ruhun",
+        "sw": "wa roho"
+      },
+      "transliteration": {
+        "he": "אָאטְמַנַה",
+        "ar": "أاتمانا",
+        "tr": "ātmanaḥ",
+        "sw": "ātmanaḥ"
+      }
+    },
+    "22638": {
+      "meaning": {
+        "he": "תשוקה",
+        "ar": "الرغبة",
+        "tr": "arzu",
+        "sw": "tamaa"
+      },
+      "transliteration": {
+        "he": "כָּאמַה",
+        "ar": "كاما",
+        "tr": "kāmaḥ",
+        "sw": "kāmaḥ"
+      }
+    },
+    "22639": {
+      "meaning": {
+        "he": "כעס",
+        "ar": "الغضب",
+        "tr": "öfke",
+        "sw": "hasira"
+      },
+      "transliteration": {
+        "he": "כְּרוֹדְהַה",
+        "ar": "كرودها",
+        "tr": "krodhaḥ",
+        "sw": "krodhaḥ"
+      }
+    },
+    "22640": {
+      "meaning": {
+        "he": "חמדנות",
+        "ar": "الجشع",
+        "tr": "açgözlülük",
+        "sw": "pupa"
+      },
+      "transliteration": {
+        "he": "תְּרִיתְיַם",
+        "ar": "تريتيام",
+        "tr": "tathā",
+        "sw": "tathā"
+      }
+    },
+    "22641": {
+      "meaning": {
+        "he": "וגם",
+        "ar": "وأيضاً",
+        "tr": "ve",
+        "sw": "na"
+      },
+      "transliteration": {
+        "he": "תְּרִיתְיַם",
+        "ar": "تريتيام",
+        "tr": "tathā",
+        "sw": "tathā"
+      }
+    },
+    "22642": {
+      "meaning": {
+        "he": "לכן",
+        "ar": "لذلك",
+        "tr": "bu yüzden",
+        "sw": "kwa hiyo"
+      },
+      "transliteration": {
+        "he": "תַסְמָאד",
+        "ar": "تاسماد",
+        "tr": "tasmāt",
+        "sw": "tasmāt"
+      }
+    },
+    "22644": {
+      "meaning": {
+        "he": "שנחלץ",
+        "ar": "الذي يتحرر",
+        "tr": "kurtulan",
+        "sw": "anayeokoka"
+      },
+      "transliteration": {
+        "he": "וִימֻקְתַה",
+        "ar": "فيموكتا",
+        "tr": "vimuktaḥ",
+        "sw": "vimuktaḥ"
+      }
+    },
+    "22645": {
+      "meaning": {
+        "he": "אדם",
+        "ar": "الإنسان",
+        "tr": "insan",
+        "sw": "mtu"
+      },
+      "transliteration": {
+        "he": "נַרַה",
+        "ar": "نارا",
+        "tr": "naraḥ",
+        "sw": "naraḥ"
+      }
+    },
+    "22646": {
+      "meaning": {
+        "he": "מאלו",
+        "ar": "من هذه",
+        "tr": "bu",
+        "sw": "hizi"
+      },
+      "transliteration": {
+        "he": "אֵתַיוִישׁ",
+        "ar": "إيتافيش",
+        "tr": "etairviḥ",
+        "sw": "etairviḥ"
+      }
+    },
+    "22647": {
+      "meaning": {
+        "he": "שערי אופל",
+        "ar": "أبواب الظلام",
+        "tr": "karanlık kapıları",
+        "sw": "milango ya giza"
+      },
+      "transliteration": {
+        "he": "תַּמַה דְוַארַיוִישׁ",
+        "ar": "تاما دواريفيش",
+        "tr": "tamairdvibhiḥ",
+        "sw": "tamairdvibhiḥ"
+      }
+    },
+    "22648": {
+      "meaning": {
+        "he": "עושה טוב",
+        "ar": "يفعل الخير",
+        "tr": "iyilik yapar",
+        "sw": "hufanya mema"
+      },
+      "transliteration": {
+        "he": "אָ'צַ'רַתְיַה",
+        "ar": "آتشاراتيا",
+        "tr": "ācaraty",
+        "sw": "ācaraty"
+      }
+    },
+    "22649": {
+      "meaning": {
+        "he": "לנפשו",
+        "ar": "لروحه",
+        "tr": "ruhu için",
+        "sw": "kwa roho yake"
+      },
+      "transliteration": {
+        "he": "אָאטְמַנַה",
+        "ar": "أاتمانا",
+        "tr": "ātmanaḥ",
+        "sw": "ātmanaḥ"
+      }
+    },
+    "22650": {
+      "meaning": {
+        "he": "ומגיע",
+        "ar": "ويصل",
+        "tr": "ve ulaşır",
+        "sw": "na hufikia"
+      },
+      "transliteration": {
+        "he": "יָאתִי",
+        "ar": "ياتي",
+        "tr": "yāti",
+        "sw": "yāti"
+      }
+    },
+    "22651": {
+      "meaning": {
+        "he": "למטרה העליונה",
+        "ar": "إلى الهدف الأسمى",
+        "tr": "en yüce hedefe",
+        "sw": "lengo kuu"
+      },
+      "transliteration": {
+        "he": "פָּארַם גַתִים",
+        "ar": "بارام غاتيم",
+        "tr": "pārāṁ gatim",
+        "sw": "pārāṁ gatim"
+      }
+    },
+    "22652": {
+      "meaning": {
+        "he": "מי שזונח",
+        "ar": "من يهجر",
+        "tr": "terk eden",
+        "sw": "anayeacha"
+      },
+      "transliteration": {
+        "he": "יַה שָׁאסְתְּרַה",
+        "ar": "يا شاسترا",
+        "tr": "yaḥ śāstra",
+        "sw": "yaḥ śāstra"
+      }
+    },
+    "22653": {
+      "meaning": {
+        "he": "הוראות הכתבים",
+        "ar": "تعاليم الكتب",
+        "tr": "kutsal yazıların öğretilerini",
+        "sw": "mafundisho ya maandiko"
+      },
+      "transliteration": {
+        "he": "וִידְהִים",
+        "ar": "فيدهيم",
+        "tr": "vidhim",
+        "sw": "vidhim"
+      }
+    },
+    "22654": {
+      "meaning": {
+        "he": "פועל",
+        "ar": "يعمل",
+        "tr": "hareket eden",
+        "sw": "anayetenda"
+      },
+      "transliteration": {
+        "he": "וְרַתֵּה",
+        "ar": "فراتي",
+        "tr": "vartate",
+        "sw": "vartate"
+      }
+    },
+    "22655": {
+      "meaning": {
+        "he": "לפי יצרו",
+        "ar": "وفق هواه",
+        "tr": "kendi arzularına göre",
+        "sw": "kufuatana na tamaa zake"
+      },
+      "transliteration": {
+        "he": "אִישְׁטַה פּוּרְתִים",
+        "ar": "إيشتا بورتيم",
+        "tr": "iṣṭa-pūrtim",
+        "sw": "iṣṭa-pūrtim"
+      }
+    },
+    "22656": {
+      "meaning": {
+        "he": "לא יגיע",
+        "ar": "لا يصل",
+        "tr": "ulaşamaz",
+        "sw": "hafiki"
+      },
+      "transliteration": {
+        "he": "נַה סַה",
+        "ar": "نا سا",
+        "tr": "na sa",
+        "sw": "na sa"
+      }
+    },
+    "22657": {
+      "meaning": {
+        "he": "לשלמות",
+        "ar": "إلى الكمال",
+        "tr": "mükemmelliğe",
+        "sw": "ukamilifu"
+      },
+      "transliteration": {
+        "he": "סִידְּהִים",
+        "ar": "سيدهيم",
+        "tr": "siddhim",
+        "sw": "siddhim"
+      }
+    },
+    "22658": {
+      "meaning": {
+        "he": "לא לאושר",
+        "ar": "ولا للسعادة",
+        "tr": "ne mutluluğa",
+        "sw": "wala furaha"
+      },
+      "transliteration": {
+        "he": "נַה סוּכְּהַם",
+        "ar": "نا سوخام",
+        "tr": "na sukham",
+        "sw": "na sukham"
+      }
+    },
+    "22659": {
+      "meaning": {
+        "he": "ולא למטרה העליונה",
+        "ar": "ولا للهدف الأسمى",
+        "tr": "ne de en yüce hedefe",
+        "sw": "wala lengo kuu"
+      },
+      "transliteration": {
+        "he": "פָּארַם גַתִים אַפִּי",
+        "ar": "بارام غاتيم أبي",
+        "tr": "pārāṁ gatim api",
+        "sw": "pārāṁ gatim api"
+      }
+    },
+    "22660": {
+      "meaning": {
+        "he": "לכן",
+        "ar": "لذلك",
+        "tr": "bu yüzden",
+        "sw": "kwa hiyo"
+      },
+      "transliteration": {
+        "he": "תַסְמָאד",
+        "ar": "تاسماد",
+        "tr": "tasmāt",
+        "sw": "tasmāt"
+      }
+    },
+    "22661": {
+      "meaning": {
+        "he": "כתבי הקודש",
+        "ar": "الكتب المقدسة",
+        "tr": "kutsal yazılar",
+        "sw": "maandiko matakatifu"
+      },
+      "transliteration": {
+        "he": "שָׁאסְתְּרַם",
+        "ar": "شاسترام",
+        "tr": "śāstram",
+        "sw": "śāstram"
+      }
+    },
+    "22662": {
+      "meaning": {
+        "he": "תהא",
+        "ar": "ليكن",
+        "tr": "olsun",
+        "sw": "iwe"
+      },
+      "transliteration": {
+        "he": "תֵּה",
+        "ar": "تي",
+        "tr": "te",
+        "sw": "te"
+      }
+    },
+    "22663": {
+      "meaning": {
+        "he": "סמכותך",
+        "ar": "سلطتك",
+        "tr": "yetkin",
+        "sw": "mamlaka yako"
+      },
+      "transliteration": {
+        "he": "פְּרַמָאנַם",
+        "ar": "برامانام",
+        "tr": "pramāṇam",
+        "sw": "pramāṇam"
+      }
+    },
+    "22664": {
+      "meaning": {
+        "he": "לקבוע",
+        "ar": "لتحديد",
+        "tr": "belirlemek için",
+        "sw": "kubainisha"
+      },
+      "transliteration": {
+        "he": "קָארְיַה",
+        "ar": "كاريا",
+        "tr": "kārya",
+        "sw": "kārya"
+      }
+    },
+    "22665": {
+      "meaning": {
+        "he": "אי-פעולה",
+        "ar": "عدم العمل",
+        "tr": "eylemsizlik",
+        "sw": "kutotenda"
+      },
+      "transliteration": {
+        "he": "אַקָארְיַה",
+        "ar": "أكاريا",
+        "tr": "akārya",
+        "sw": "akārya"
+      }
+    },
+    "22666": {
+      "meaning": {
+        "he": "ידיעת",
+        "ar": "معرفة",
+        "tr": "bilerek",
+        "sw": "ukijua"
+      },
+      "transliteration": {
+        "he": "גְ'נָאתְוָוא",
+        "ar": "جنياتفا",
+        "tr": "jñātvā",
+        "sw": "jñātvā"
+      }
+    },
+    "22667": {
+      "meaning": {
+        "he": "מה שאמרו הכתבים",
+        "ar": "ما قالته الكتب",
+        "tr": "yazıların söylediği",
+        "sw": "ambayo maandiko yamesema"
+      },
+      "transliteration": {
+        "he": "שָׁאסְתְּרַה וִידְהָאנַה",
+        "ar": "شاسترا فيدهانا",
+        "tr": "śāstra-vidhāna",
+        "sw": "śāstra-vidhāna"
+      }
+    },
+    "22668": {
+      "meaning": {
+        "he": "פעולה",
+        "ar": "العمل",
+        "tr": "eylem",
+        "sw": "kitendo"
+      },
+      "transliteration": {
+        "he": "קַרְמַה",
+        "ar": "كارما",
+        "tr": "karma",
+        "sw": "karma"
+      }
+    },
+    "22669": {
+      "meaning": {
+        "he": "לעשות",
+        "ar": "لفعل",
+        "tr": "yapmak",
+        "sw": "kufanya"
+      },
+      "transliteration": {
+        "he": "קַרְתוּם",
+        "ar": "كارتوم",
+        "tr": "kartum",
+        "sw": "kartum"
+      }
+    },
+    "22670": {
+      "meaning": {
+        "he": "אתה צריך",
+        "ar": "يجب أن",
+        "tr": "melisin",
+        "sw": "unapaswa"
+      },
+      "transliteration": {
+        "he": "אַרְהַסִי",
+        "ar": "أرهاسي",
+        "tr": "arhasi",
+        "sw": "arhasi"
+      }
+    }
+  }
+}

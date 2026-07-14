@@ -1,0 +1,304 @@
+{
+  "vocabulary": {
+    "(guṇa bhedāt)": {
+      "meaning": "לפי שלושת אופני הטבע החומרי",
+      "transliteration": "גוּנָה בְּהֵדָאת"
+    },
+    "(he) bhārata": {
+      "meaning": "הו צאצא של בהאראטה",
+      "transliteration": "בְּהָארַתָה"
+    },
+    "(he) pārtha": {
+      "meaning": "הו בנה של קונטי",
+      "transliteration": "פָּארְתָּה"
+    },
+    "(karśayantaḥ) mām cha eva": {
+      "meaning": "וגם מענים אותי, בדמות החלקיק שלי, הנשמה הרוחנית, הג'יוואטמן",
+      "transliteration": "קַרְשָׁיַנְתָה מָאם צָ'ה אֵוָה"
+    },
+    "adakṣiṇam": {
+      "meaning": "ללא הצעות מתאימות לכוהנים",
+      "transliteration": "אָדַקְשִׁינַם"
+    },
+    "adeśa-kāle": {
+      "meaning": "במקום ובזמן הלא נכונים",
+      "transliteration": "אָדֵשָׁה-קָאלֵה"
+    },
+    "amedhyam cha": {
+      "meaning": "ומזונות טמאים שאינם ראויים לקורבן (בשר, יין, בצלים וכו')",
+      "transliteration": "אָמֵדְהְיַם צָ'ה"
+    },
+    "antaḥ śarīra-stham": {
+      "meaning": "בתוך הגוף",
+      "transliteration": "אַנְטָה שָׁרִירָה-סְתָהם"
+    },
+    "anupakāriṇe iti": {
+      "meaning": "ללא ציפייה לתמורה",
+      "transliteration": "אָנוּפַּקָארִינֵה אִיטִי"
+    },
+    "aphala-ākāṅkṣibhiḥ": {
+      "meaning": "על ידי מי שאינו מתאוה לפרי המעשה",
+      "transliteration": "אַפָּהלָה-אָקָאנְקְשִׁיבִּיה"
+    },
+    "asṛṣṭa-annam": {
+      "meaning": "ללא חלוקת מזון וכדומה",
+      "transliteration": "אַסְרִישְׁטָה-אַנַּם"
+    },
+    "aśāstra-vihitam": {
+      "meaning": "ללא אישור הכתבים הקדושים",
+      "transliteration": "אַשָׁאסְטְרָה-וִיהִיתַם"
+    },
+    "brahma-vādinām": {
+      "meaning": "של עוקבי הוודות",
+      "transliteration": "בְּרָהְמָה-וָואדִינָאם"
+    },
+    "brahmaṇaḥ": {
+      "meaning": "ברהמה, הרוח העליונה",
+      "transliteration": "בְּרָהְמַנָה"
+    },
+    "dambha-ahaṅkāra-saṁyuktāḥ": {
+      "meaning": "מלאים גאווה ואגואיזם",
+      "transliteration": "דַמְבְּהָה-אַהַנְקָארָה-סַמְיוּקְטָאה"
+    },
+    "dambha-artham api cha eva": {
+      "meaning": "ושזהו מופע של ראווה והדר",
+      "transliteration": "דַמְבְּהָה-אַרְתָּם אָפִּי צָ'ה אֵוָה"
+    },
+    "dambhena cha eva": {
+      "meaning": "ומבוצע בגאווה רבה",
+      "transliteration": "דַמְבֵּנָה צָ'ה אֵוָה"
+    },
+    "dattam": {
+      "meaning": "נדבה ניתנת",
+      "transliteration": "דַתַּם"
+    },
+    "dehinām": {
+      "meaning": "של היצורים החיים",
+      "transliteration": "דֵהִינָאם"
+    },
+    "deva-dvija-guru-prājña-pūjanam": {
+      "meaning": "סגידה לאל, לברהמין, לגורו ולנשמה הנאורה",
+      "transliteration": "דֵוָה-דְוִיגָ'ה-גוּרוּ-פְּרָאגְ'נָה-פּוּגָ'נַם"
+    },
+    "devān": {
+      "meaning": "חצאי-אלים של טבע הטוב",
+      "transliteration": "דֵוָאן"
+    },
+    "dāna-kriyāḥ cha": {
+      "meaning": "ומעשי צדקה",
+      "transliteration": "דָּאנָה-קְרִייָאה צָ'ה"
+    },
+    "dātavyam cha": {
+      "meaning": "ועם ההכרה שיש לתת זאת",
+      "transliteration": "דָּאטַוְיַם צָ'ה"
+    },
+    "hutam": {
+      "meaning": "קורבן מוקרב",
+      "transliteration": "הוּטַם"
+    },
+    "kaṭu-amla-lavaṇa-ati-uṣṇa-tīkṣṇa-rukṣa-vidāhinaḥ": {
+      "meaning": "שהוא מר מדי, חמוץ מדי, מלוח מדי, חם מדי, חריף מדי, יבש מדי וגורם לחום",
+      "transliteration": "קַטוּ-אַמְלָה-לָוַנָה-אַטִי-אוּשְׁנָה-טִיקְשְׁנָה-רוּקְשָׁה-וִידָאהִינָה"
+    },
+    "kāma-rāga-bala-anvitāḥ": {
+      "meaning": "ומניעים מתשוקה, היקשרות וכוח",
+      "transliteration": "קָאמָה-רָאגָה-בָּלָה-אַנְוִיתָאה"
+    },
+    "kṛtam": {
+      "meaning": "פעולה מבוצעת",
+      "transliteration": "קְרִיתַם"
+    },
+    "manaḥ samādhāya": {
+      "meaning": "עם ההחלטה הנחושה",
+      "transliteration": "מָנָה סָמָאדָהְיָה"
+    },
+    "mokṣa-kāṅkṣibhiḥ": {
+      "meaning": "אנשים השואפים לשחרור",
+      "transliteration": "מוֹקְשָׁה-קָאנְקְשִׁיבִּיה"
+    },
+    "na cha pretya": {
+      "meaning": "וגם לא בחיים הבאים",
+      "transliteration": "נָה צָ'ה פְּרֵטְיָה"
+    },
+    "niṣṭhā": {
+      "meaning": "הוא המעמד",
+      "transliteration": "נִישְׁטָהא"
+    },
+    "om iti": {
+      "meaning": "ההברה אום, המייצגת את ברהמה, המוחלט",
+      "transliteration": "אוֹם אִיטִי"
+    },
+    "phalam": {
+      "meaning": "עבור הפירות",
+      "transliteration": "פָּהלַם"
+    },
+    "phalam uddiśya": {
+      "meaning": "למטרת קבלת פרס",
+      "transliteration": "פָּהלַם אוּדִישְׁיָה"
+    },
+    "prati-upakāra-artham": {
+      "meaning": "עם ציפייה לתמורה",
+      "transliteration": "פְּרָטִי-אוּפַּקָארָה-אַרְתָּם"
+    },
+    "pretān bhūta-gaṇān cha": {
+      "meaning": "הרוחות והרפאים של טבע הבערות",
+      "transliteration": "פְּרֵטָאן בְּהוּטָה-גַנָאן צָ'ה"
+    },
+    "priya-hitam cha": {
+      "meaning": "ונעים אך מועיל",
+      "transliteration": "פְּרִייָה-הִיתַם צָ'ה"
+    },
+    "purā": {
+      "meaning": "בימים קדומים, בהיווצרות היקום",
+      "transliteration": "פּוּרָא"
+    },
+    "rājasam": {
+      "meaning": "שהוא מטבע התשוקה",
+      "transliteration": "רָאגָ'סַם"
+    },
+    "rājasasya": {
+      "meaning": "לבעלי התשוקה",
+      "transliteration": "רָאגָ'סַסְיָה"
+    },
+    "rājasāḥ": {
+      "meaning": "אלו בעלי אמונה של טבע התשוקה",
+      "transliteration": "רָאגָ'סָאה"
+    },
+    "sat iti": {
+      "meaning": "המילה סאט, המייצגת את ברהמה, המוחלט",
+      "transliteration": "סָאט אִיטִי"
+    },
+    "sat iti eva": {
+      "meaning": "על ידי המילה סאט",
+      "transliteration": "סָאט אִיטִי אֵוָה"
+    },
+    "sat-bhāve": {
+      "meaning": "כדי לציין את האמת, טבעו של ברהמה",
+      "transliteration": "סָאט-בְּהָאוֵה"
+    },
+    "satkāra-māna-pūja-artham": {
+      "meaning": "למען רווח, פולחן ותהילה",
+      "transliteration": "סָאטְקָארָה-מָאנָה-פּוּגָ'ה-אַרְתָּם"
+    },
+    "sattva-anurūpā": {
+      "meaning": "לפי התודעה שלהם",
+      "transliteration": "סָאטְווָה-אַנוּרוּפָּא"
+    },
+    "smṛtaḥ": {
+      "meaning": "מוכרים בכתבים כ-",
+      "transliteration": "סְמְרִיתָה"
+    },
+    "svabhāva-jā": {
+      "meaning": "נולדת מהטבע העצמי שנרכש מרשמים של חיים קודמים",
+      "transliteration": "סְוָובְּהָאוָה-גָ'א"
+    },
+    "svādhyāya-abhyasanam cha eva": {
+      "meaning": "וקריאה סדירה של הוודות",
+      "transliteration": "סְוָואדְהְיָאיה-אַבְּהְיָאסָנַם צָ'ה אֵוָה"
+    },
+    "sādhu-bhāve cha": {
+      "meaning": "ואנשים המסורים לאמת, יודעי ברהמה",
+      "transliteration": "סָאדְהוּ-בְּהָאוֵה צָ'ה"
+    },
+    "sāttvika-priyāḥ": {
+      "meaning": "חביבים על בעלי טבע הטוב",
+      "transliteration": "סָאטְוִיקָה-פְּרִייָאה"
+    },
+    "sāttvikam": {
+      "meaning": "שהוא מטבע הטוב",
+      "transliteration": "סָאטְוִיקַם"
+    },
+    "sāttvikaḥ": {
+      "meaning": "הוא קורבן של טבע הטוב",
+      "transliteration": "סָאטְוִיקָה"
+    },
+    "sāttvikāḥ": {
+      "meaning": "אלו בעלי אמונה של טבע הטוב",
+      "transliteration": "סָאטְוִיקָאה"
+    },
+    "tapaḥ taptam": {
+      "meaning": "סיגוף נסבל",
+      "transliteration": "טָפָּהה טָפְּטַם"
+    },
+    "tat iti": {
+      "meaning": "המילה טאט, המייצגת את ברהמה, המוחלט",
+      "transliteration": "טָאט אִיטִי"
+    },
+    "tat-arthīyam": {
+      "meaning": "לסיפוקו של הריבון העליון",
+      "transliteration": "טָאט-אַרְתִ'יָּם"
+    },
+    "tri-vidham tapaḥ": {
+      "meaning": "סיגוף משולש (גופני, מילולי ומנטלי)",
+      "transliteration": "טְרִי-וִידְהַם טָפָּהה"
+    },
+    "tri-vidhaḥ āhāraḥ": {
+      "meaning": "שלושה סוגי מזון",
+      "transliteration": "טְרִי-וִידְהָה אָהָארָה"
+    },
+    "tām śṛṇu": {
+      "meaning": "שמע על כך עתה",
+      "transliteration": "טָאם שְׁרִינוּ"
+    },
+    "tāmasa-priyam": {
+      "meaning": "חביב על הבורים",
+      "transliteration": "טָאמַסָה-פְּרִייַם"
+    },
+    "tāmasam": {
+      "meaning": "שהוא מטבע הבערות",
+      "transliteration": "טָאמַסַם"
+    },
+    "uchchhiṣṭam api": {
+      "meaning": "שאריות (אחרות מאלו של אנשים הראויים לסגידה)",
+      "transliteration": "אוּצְ'צְ'הִישְׁטַם אָפִּי"
+    },
+    "vidhi-diṣṭaḥ": {
+      "meaning": "לפי הצווים של הכתבים",
+      "transliteration": "וִידְהִי-דִישְׁטָה"
+    },
+    "vividhāḥ yajña-tapaḥ-kriyāḥ": {
+      "meaning": "מעשים מסוגים שונים של קורבן וסיגוף",
+      "transliteration": "וִיוִידְהָאה יָאגְ'נָ'ה-טָפָּהה-קְרִייָאה"
+    },
+    "yajña-dāna-tapaḥ-kriyāḥ": {
+      "meaning": "חובות הקורבן, הנדבה והסיגוף",
+      "transliteration": "יָאגְ'נָ'ה-דָּאנָה-טָפָּהה-קְרִייָאה"
+    },
+    "yakṣa-rakṣāṁsi": {
+      "meaning": "חצאי-האלים יקשה והשדים ראקשה של טבע התשוקה",
+      "transliteration": "יָקְשָׁה-רָקְשָׁאמְסִי"
+    },
+    "yat tu": {
+      "meaning": "ואת אשר",
+      "transliteration": "יָאט טוּ"
+    },
+    "yaḥ ijyate": {
+      "meaning": "אשר מבוצעת",
+      "transliteration": "יָה אִיגְ'יָאטֵה"
+    },
+    "yuktaiḥ": {
+      "meaning": "על ידי המסורים",
+      "transliteration": "יוּקְטָאיְה"
+    },
+    "yāta-yāmam": {
+      "meaning": "מבושל, אך הונח עד שנעשה קר",
+      "transliteration": "יָאטָה-יָאמַם"
+    },
+    "āsura-niśchayān": {
+      "meaning": "שהם בעלי שכנוע שדי",
+      "transliteration": "אָסוּרָה-נִישְׁצָ'איָאן"
+    },
+    "āyuḥ-sattva-bala-ārogya-sukha-prīti-vivardhanāḥ": {
+      "meaning": "שמגדילים אריכות ימים, חיוניות, כוח, בריאות, אושר ואהבה",
+      "transliteration": "אָיוּה-סָאטְווָה-בָּלָה-אָרוֹגְיָה-סוּקְהָה-פְּרִיטִי-וִיוָרְדְהנָאה"
+    },
+    "śarīra-stham": {
+      "meaning": "בתוך הגוף",
+      "transliteration": "שָׁרִירָה-סְתָהם"
+    },
+    "śaucham": {
+      "meaning": "טוהר פנימי וחיצוני",
+      "transliteration": "שָׁאוּצָ'ם"
+    }
+  }
+}

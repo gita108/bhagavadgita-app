@@ -1,0 +1,1228 @@
+{
+  "vocabulary": {
+    "7400": {
+      "meaning": "至高なる主",
+      "transliteration": "シュリー バガヴァーン"
+    },
+    "7401": {
+      "meaning": "言われた",
+      "transliteration": "ウヴァーチャ"
+    },
+    "7402": {
+      "meaning": "上に",
+      "transliteration": "ウルドヴァ"
+    },
+    "7403": {
+      "meaning": "根",
+      "transliteration": "ムーラム"
+    },
+    "7404": {
+      "meaning": "下に",
+      "transliteration": "アダハ"
+    },
+    "7405": {
+      "meaning": "枝",
+      "transliteration": "シャーカム"
+    },
+    "7406": {
+      "meaning": "アシュヴァッタ樹",
+      "transliteration": ""
+    },
+    "7407": {
+      "meaning": "と言われる",
+      "transliteration": "プラーフフ"
+    },
+    "7408": {
+      "meaning": "ヴェーダの讃歌",
+      "transliteration": "チャンダームシ"
+    },
+    "7409": {
+      "meaning": "樹の",
+      "transliteration": "ヤスヤ"
+    },
+    "7410": {
+      "meaning": "葉",
+      "transliteration": "パルナーニ"
+    },
+    "7411": {
+      "meaning": "誰",
+      "transliteration": "ヤハ"
+    },
+    "7412": {
+      "meaning": "それを",
+      "transliteration": "タム"
+    },
+    "7413": {
+      "meaning": "知る",
+      "transliteration": "ヴェーダ"
+    },
+    "7414": {
+      "meaning": "彼",
+      "transliteration": "サハ"
+    },
+    "7415": {
+      "meaning": "ヴェーダを知る者",
+      "transliteration": "ヴェーダヴィット"
+    },
+    "7416": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7417": {
+      "meaning": "下へ",
+      "transliteration": "アダハ"
+    },
+    "7418": {
+      "meaning": "上へ",
+      "transliteration": "ウルドヴァム"
+    },
+    "7419": {
+      "meaning": "伸びる",
+      "transliteration": "プラスリターハ"
+    },
+    "7420": {
+      "meaning": "その樹の",
+      "transliteration": "タスヤ"
+    },
+    "7421": {
+      "meaning": "枝々",
+      "transliteration": "シャーハー"
+    },
+    "7422": {
+      "meaning": "グナに養われ",
+      "transliteration": "グナプラヴリッダーハ"
+    },
+    "7423": {
+      "meaning": "感覚の対象",
+      "transliteration": "ヴィシャヤプラヴァーラーハ"
+    },
+    "7424": {
+      "meaning": "若芽",
+      "transliteration": "プラヴァーラーハ"
+    },
+    "7425": {
+      "meaning": "根",
+      "transliteration": "ムーラーニ"
+    },
+    "7426": {
+      "meaning": "下に",
+      "transliteration": "アダハ"
+    },
+    "7427": {
+      "meaning": "も",
+      "transliteration": "チャ"
+    },
+    "7428": {
+      "meaning": "気根",
+      "transliteration": "ムーラーニ"
+    },
+    "7429": {
+      "meaning": "伸びた",
+      "transliteration": "アヌサンタターニ"
+    },
+    "7430": {
+      "meaning": "カルマ",
+      "transliteration": "カルマ"
+    },
+    "7431": {
+      "meaning": "束縛する",
+      "transliteration": "アヌバンディーニ"
+    },
+    "7432": {
+      "meaning": "人間界において",
+      "transliteration": "マヌシャローケ"
+    },
+    "7433": {
+      "meaning": "ない",
+      "transliteration": "ナ"
+    },
+    "7434": {
+      "meaning": "形相",
+      "transliteration": "ルーパム"
+    },
+    "7435": {
+      "meaning": "この樹の",
+      "transliteration": "アスヤ"
+    },
+    "7436": {
+      "meaning": "この世で",
+      "transliteration": "イハ"
+    },
+    "7437": {
+      "meaning": "そのように",
+      "transliteration": "タター"
+    },
+    "7438": {
+      "meaning": "理解される",
+      "transliteration": "ウパラブヤテ"
+    },
+    "7439": {
+      "meaning": "ない",
+      "transliteration": "ナ"
+    },
+    "7440": {
+      "meaning": "終わり",
+      "transliteration": "アンタハ"
+    },
+    "7441": {
+      "meaning": "ない",
+      "transliteration": "ナ"
+    },
+    "7442": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7443": {
+      "meaning": "始まり",
+      "transliteration": "アーディハ"
+    },
+    "7444": {
+      "meaning": "ない",
+      "transliteration": "ナ"
+    },
+    "7445": {
+      "meaning": "また",
+      "transliteration": "チャ"
+    },
+    "7446": {
+      "meaning": "基盤",
+      "transliteration": "サンプラティシュター"
+    },
+    "7447": {
+      "meaning": "アシュヴァッタ樹",
+      "transliteration": "アシュヴァッタム"
+    },
+    "7448": {
+      "meaning": "この",
+      "transliteration": "エーナム"
+    },
+    "7449": {
+      "meaning": "よく",
+      "transliteration": "スーヴィルーダ"
+    },
+    "7450": {
+      "meaning": "根",
+      "transliteration": "ムーラム"
+    },
+    "7451": {
+      "meaning": "無執着",
+      "transliteration": "アサンガ"
+    },
+    "7452": {
+      "meaning": "武器で",
+      "transliteration": "シャストレーナ"
+    },
+    "7453": {
+      "meaning": "堅固な",
+      "transliteration": "ドリデナ"
+    },
+    "7454": {
+      "meaning": "切って",
+      "transliteration": "チットヴァ"
+    },
+    "7455": {
+      "meaning": "その後",
+      "transliteration": "タタハ"
+    },
+    "7456": {
+      "meaning": "その境地",
+      "transliteration": "タットパダム"
+    },
+    "7457": {
+      "meaning": "探求すべき",
+      "transliteration": "プラリマーガタヴャム"
+    },
+    "7458": {
+      "meaning": "そこに",
+      "transliteration": "ヤスミン"
+    },
+    "7459": {
+      "meaning": "行った者",
+      "transliteration": "ガターハ"
+    },
+    "7460": {
+      "meaning": "ない",
+      "transliteration": "ナ"
+    },
+    "7461": {
+      "meaning": "戻る",
+      "transliteration": "ニヴァダンティ"
+    },
+    "7462": {
+      "meaning": "再び",
+      "transliteration": "ブーヤハ"
+    },
+    "7463": {
+      "meaning": "その方に",
+      "transliteration": "タム"
+    },
+    "7464": {
+      "meaning": "まさに",
+      "transliteration": "エーヴァ"
+    },
+    "7465": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7466": {
+      "meaning": "原初の",
+      "transliteration": "アーディヤム"
+    },
+    "7467": {
+      "meaning": "人格神",
+      "transliteration": "プルシャム"
+    },
+    "7468": {
+      "meaning": "我は帰依す",
+      "transliteration": "プラパディエ"
+    },
+    "7469": {
+      "meaning": "誰から",
+      "transliteration": "ヤタハ"
+    },
+    "7470": {
+      "meaning": "活動",
+      "transliteration": "プラヴリッティハ"
+    },
+    "7471": {
+      "meaning": "伸びた",
+      "transliteration": "プラスリター"
+    },
+    "7472": {
+      "meaning": "古の",
+      "transliteration": "プラーニー"
+    },
+    "7473": {
+      "meaning": "ない",
+      "transliteration": "ニハ"
+    },
+    "7474": {
+      "meaning": "慢心",
+      "transliteration": "マーナ"
+    },
+    "7475": {
+      "meaning": "と迷い",
+      "transliteration": "モーハーハ"
+    },
+    "7476": {
+      "meaning": "勝利した",
+      "transliteration": "ジタ"
+    },
+    "7477": {
+      "meaning": "交わり",
+      "transliteration": "サンガ"
+    },
+    "7478": {
+      "meaning": "過失",
+      "transliteration": "ドーシャーハ"
+    },
+    "7479": {
+      "meaning": "霊的な",
+      "transliteration": "アディヤートマ"
+    },
+    "7480": {
+      "meaning": "永遠の",
+      "transliteration": "ニターハ"
+    },
+    "7481": {
+      "meaning": "完全に克服した",
+      "transliteration": "ヴィニヴリッタ"
+    },
+    "7482": {
+      "meaning": "欲望",
+      "transliteration": "カーマーハ"
+    },
+    "7483": {
+      "meaning": "二元性によって",
+      "transliteration": "ドヴァーン ドヴァイハ"
+    },
+    "7484": {
+      "meaning": "完全に解放された",
+      "transliteration": "ヴィムクタハ"
+    },
+    "7485": {
+      "meaning": "喜び",
+      "transliteration": "スッカ"
+    },
+    "7486": {
+      "meaning": "と悲しみ",
+      "transliteration": "ドゥッカ"
+    },
+    "7487": {
+      "meaning": "と呼ばれる",
+      "transliteration": "サンジュニャハ"
+    },
+    "7488": {
+      "meaning": "彼らは達する",
+      "transliteration": "ガッチャンティ"
+    },
+    "7489": {
+      "meaning": "迷わぬ者",
+      "transliteration": "アムーダハーハ"
+    },
+    "7490": {
+      "meaning": "住処",
+      "transliteration": "パダム"
+    },
+    "7491": {
+      "meaning": "不滅の",
+      "transliteration": "アヴィヤヤム"
+    },
+    "7492": {
+      "meaning": "その",
+      "transliteration": "タット"
+    },
+    "7493": {
+      "meaning": "ない",
+      "transliteration": "ナ"
+    },
+    "7494": {
+      "meaning": "それを",
+      "transliteration": "タット"
+    },
+    "7495": {
+      "meaning": "照らす",
+      "transliteration": "バーサヤテ"
+    },
+    "7496": {
+      "meaning": "太陽",
+      "transliteration": "スーリヤハ"
+    },
+    "7497": {
+      "meaning": "ない",
+      "transliteration": "ナ"
+    },
+    "7498": {
+      "meaning": "月",
+      "transliteration": "シャシャンカハ"
+    },
+    "7499": {
+      "meaning": "ない",
+      "transliteration": "ナ"
+    },
+    "7500": {
+      "meaning": "火",
+      "transliteration": "パーヴァカハ"
+    },
+    "7501": {
+      "meaning": "そこに",
+      "transliteration": "ヤット"
+    },
+    "7502": {
+      "meaning": "到達して",
+      "transliteration": "ガットヴァ"
+    },
+    "7503": {
+      "meaning": "ない",
+      "transliteration": "ナ"
+    },
+    "7504": {
+      "meaning": "彼らは戻る",
+      "transliteration": "ニヴァダンテ"
+    },
+    "7505": {
+      "meaning": "それ",
+      "transliteration": "タット"
+    },
+    "7506": {
+      "meaning": "住処",
+      "transliteration": "ダーマ"
+    },
+    "7507": {
+      "meaning": "最高の",
+      "transliteration": "パラマム"
+    },
+    "7508": {
+      "meaning": "私の",
+      "transliteration": "ママ"
+    },
+    "7509": {
+      "meaning": "私の",
+      "transliteration": "ママ"
+    },
+    "7510": {
+      "meaning": "まさに",
+      "transliteration": "エーヴァ"
+    },
+    "7511": {
+      "meaning": "一片",
+      "transliteration": "アムシャハ"
+    },
+    "7512": {
+      "meaning": "生命界において",
+      "transliteration": "ジーヴァローケ"
+    },
+    "7513": {
+      "meaning": "生き物として",
+      "transliteration": "ジーヴァブータハ"
+    },
+    "7514": {
+      "meaning": "永遠の",
+      "transliteration": "サナータナハ"
+    },
+    "7515": {
+      "meaning": "心",
+      "transliteration": "マナハ"
+    },
+    "7516": {
+      "meaning": "六つ",
+      "transliteration": "シャシュターニ"
+    },
+    "7517": {
+      "meaning": "感覚",
+      "transliteration": "インドリヤーニ"
+    },
+    "7518": {
+      "meaning": "自然の",
+      "transliteration": "プラクリティ"
+    },
+    "7519": {
+      "meaning": "位置する",
+      "transliteration": "スターニ"
+    },
+    "7520": {
+      "meaning": "引きずる",
+      "transliteration": "カルシャティ"
+    },
+    "7521": {
+      "meaning": "身体",
+      "transliteration": "シャリーラム"
+    },
+    "7522": {
+      "meaning": "何を",
+      "transliteration": "ヤット"
+    },
+    "7523": {
+      "meaning": "獲得する",
+      "transliteration": "アヴァープノティ"
+    },
+    "7524": {
+      "meaning": "何を",
+      "transliteration": "ヤット"
+    },
+    "7525": {
+      "meaning": "そしてまた",
+      "transliteration": "チャアピ"
+    },
+    "7526": {
+      "meaning": "去る",
+      "transliteration": "ウトクラーマティ"
+    },
+    "7527": {
+      "meaning": "主宰者",
+      "transliteration": "イーシュヴァラハ"
+    },
+    "7528": {
+      "meaning": "持って",
+      "transliteration": "グリヒートヴァ"
+    },
+    "7529": {
+      "meaning": "これらを",
+      "transliteration": "エーターニ"
+    },
+    "7530": {
+      "meaning": "彼は行く",
+      "transliteration": "サンヤーティ"
+    },
+    "7531": {
+      "meaning": "風",
+      "transliteration": "ヴァーユハ"
+    },
+    "7532": {
+      "meaning": "香り",
+      "transliteration": "ガンダーン"
+    },
+    "7533": {
+      "meaning": "まさに",
+      "transliteration": "イヴァ"
+    },
+    "7534": {
+      "meaning": "その源から",
+      "transliteration": "アーシャヤート"
+    },
+    "7535": {
+      "meaning": "耳",
+      "transliteration": "ショートラム"
+    },
+    "7536": {
+      "meaning": "目",
+      "transliteration": "チャクシュハ"
+    },
+    "7537": {
+      "meaning": "触覚",
+      "transliteration": "スパルシャナム"
+    },
+    "7538": {
+      "meaning": "と",
+      "transliteration": "チャ"
+    },
+    "7539": {
+      "meaning": "舌",
+      "transliteration": "ラサナム"
+    },
+    "7540": {
+      "meaning": "鼻",
+      "transliteration": "グラーナム"
+    },
+    "7541": {
+      "meaning": "まさに",
+      "transliteration": "エーヴァ"
+    },
+    "7542": {
+      "meaning": "居して",
+      "transliteration": "アディシュターヤ"
+    },
+    "7543": {
+      "meaning": "心",
+      "transliteration": "マナハ"
+    },
+    "7544": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7545": {
+      "meaning": "この",
+      "transliteration": "アヤム"
+    },
+    "7546": {
+      "meaning": "対象",
+      "transliteration": "ヴィシャヤーン"
+    },
+    "7547": {
+      "meaning": "享受する",
+      "transliteration": "ウパセーヴァテ"
+    },
+    "7548": {
+      "meaning": "去る",
+      "transliteration": "ウトクラーマンタム"
+    },
+    "7549": {
+      "meaning": "留まる",
+      "transliteration": "スティタム"
+    },
+    "7550": {
+      "meaning": "または",
+      "transliteration": "ヴァ"
+    },
+    "7551": {
+      "meaning": "たとえ",
+      "transliteration": "アピ"
+    },
+    "7552": {
+      "meaning": "享受する",
+      "transliteration": "ブーンジャーム"
+    },
+    "7553": {
+      "meaning": "または",
+      "transliteration": "ヴァ"
+    },
+    "7554": {
+      "meaning": "グナ",
+      "transliteration": "グナ"
+    },
+    "7555": {
+      "meaning": "伴う",
+      "transliteration": "アンヴィタム"
+    },
+    "7556": {
+      "meaning": "迷える者",
+      "transliteration": "ヴィムーダハーハ"
+    },
+    "7557": {
+      "meaning": "ない",
+      "transliteration": "ナ"
+    },
+    "7558": {
+      "meaning": "見る",
+      "transliteration": "アヌパシャンティ"
+    },
+    "7559": {
+      "meaning": "見る",
+      "transliteration": "パシャンティ"
+    },
+    "7560": {
+      "meaning": "知識",
+      "transliteration": "ジュニャーナ"
+    },
+    "7561": {
+      "meaning": "眼",
+      "transliteration": "チャクシュシャハ"
+    },
+    "7562": {
+      "meaning": "努力する",
+      "transliteration": "ヤッタンタハ"
+    },
+    "7563": {
+      "meaning": "ヨーギー",
+      "transliteration": "ヨーギナハ"
+    },
+    "7564": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7565": {
+      "meaning": "これを",
+      "transliteration": "エーナム"
+    },
+    "7566": {
+      "meaning": "見る",
+      "transliteration": "パシャンティ"
+    },
+    "7567": {
+      "meaning": "自己の中に",
+      "transliteration": "アートマニ"
+    },
+    "7568": {
+      "meaning": "安住する",
+      "transliteration": "アヴァスティタム"
+    },
+    "7569": {
+      "meaning": "努力",
+      "transliteration": "ヤッタンタハ"
+    },
+    "7570": {
+      "meaning": "たとえ",
+      "transliteration": "アピ"
+    },
+    "7571": {
+      "meaning": "未成就の自己",
+      "transliteration": "アクリタアートマノー"
+    },
+    "7572": {
+      "meaning": "ない",
+      "transliteration": "ナ"
+    },
+    "7573": {
+      "meaning": "これを",
+      "transliteration": "エーナム"
+    },
+    "7574": {
+      "meaning": "見る",
+      "transliteration": "パシャンティ"
+    },
+    "7575": {
+      "meaning": "無意識の者",
+      "transliteration": "アチェータサハ"
+    },
+    "7576": {
+      "meaning": "何を",
+      "transliteration": "ヤット"
+    },
+    "7577": {
+      "meaning": "太陽における",
+      "transliteration": "アーディティヤガタム"
+    },
+    "7578": {
+      "meaning": "光輝",
+      "transliteration": "テージャハ"
+    },
+    "7579": {
+      "meaning": "世界",
+      "transliteration": "ジャガット"
+    },
+    "7580": {
+      "meaning": "照らす",
+      "transliteration": "バーサヤテ"
+    },
+    "7581": {
+      "meaning": "全ての",
+      "transliteration": "アキラム"
+    },
+    "7582": {
+      "meaning": "何を",
+      "transliteration": "ヤット"
+    },
+    "7583": {
+      "meaning": "月における",
+      "transliteration": "チャンドラマシ"
+    },
+    "7584": {
+      "meaning": "何を",
+      "transliteration": "ヤット"
+    },
+    "7585": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7586": {
+      "meaning": "火における",
+      "transliteration": "アグナウ"
+    },
+    "7587": {
+      "meaning": "それを",
+      "transliteration": "タット"
+    },
+    "7588": {
+      "meaning": "光輝",
+      "transliteration": "テージャハ"
+    },
+    "7589": {
+      "meaning": "知れ",
+      "transliteration": "ヴィッディ"
+    },
+    "7590": {
+      "meaning": "私の",
+      "transliteration": "ーママカム"
+    },
+    "7591": {
+      "meaning": "大地",
+      "transliteration": "ガーム"
+    },
+    "7592": {
+      "meaning": "入り",
+      "transliteration": "アーヴィシャヤ"
+    },
+    "7593": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7594": {
+      "meaning": "生物",
+      "transliteration": "ブーターニ"
+    },
+    "7595": {
+      "meaning": "我は支える",
+      "transliteration": "ダーラヤーミ"
+    },
+    "7596": {
+      "meaning": "我",
+      "transliteration": "アハム"
+    },
+    "7597": {
+      "meaning": "エネルギー",
+      "transliteration": "オージャサー"
+    },
+    "7598": {
+      "meaning": "我は養う",
+      "transliteration": "プシャナーミ"
+    },
+    "7599": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7600": {
+      "meaning": "薬草",
+      "transliteration": "オーシャディーハ"
+    },
+    "7601": {
+      "meaning": "全ての",
+      "transliteration": "サルヴァーハ"
+    },
+    "7602": {
+      "meaning": "月",
+      "transliteration": "ソーマハ"
+    },
+    "7603": {
+      "meaning": "なって",
+      "transliteration": "ブートヴァ"
+    },
+    "7604": {
+      "meaning": "液に満ちた",
+      "transliteration": "ラサートマカハ"
+    },
+    "7605": {
+      "meaning": "我",
+      "transliteration": "アハム"
+    },
+    "7606": {
+      "meaning": "消化の火",
+      "transliteration": "ヴァイシュヴァナーラハ"
+    },
+    "7607": {
+      "meaning": "なって",
+      "transliteration": "ブートヴァ"
+    },
+    "7608": {
+      "meaning": "生物の",
+      "transliteration": "プラーニーナム"
+    },
+    "7609": {
+      "meaning": "身体",
+      "transliteration": "デーハム"
+    },
+    "7610": {
+      "meaning": "依拠して",
+      "transliteration": "アーシュリタハ"
+    },
+    "7611": {
+      "meaning": "と共に",
+      "transliteration": "サマーユクタハ"
+    },
+    "7612": {
+      "meaning": "下行気",
+      "transliteration": "プラーナーパーナ"
+    },
+    "7613": {
+      "meaning": "联合して",
+      "transliteration": "サマーユクタハ"
+    },
+    "7614": {
+      "meaning": "我は消化する",
+      "transliteration": "パジャーミ"
+    },
+    "7615": {
+      "meaning": "食物",
+      "transliteration": "アンナム"
+    },
+    "7616": {
+      "meaning": "四",
+      "transliteration": "チャトゥフ"
+    },
+    "7617": {
+      "meaning": "種の",
+      "transliteration": "ヴィダム"
+    },
+    "7618": {
+      "meaning": "全ての",
+      "transliteration": "サルヴァスヤ"
+    },
+    "7619": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7620": {
+      "meaning": "我",
+      "transliteration": "アハム"
+    },
+    "7621": {
+      "meaning": "心の中に",
+      "transliteration": "フリディ"
+    },
+    "7622": {
+      "meaning": "座する",
+      "transliteration": "サンニヴィシュト"
+    },
+    "7623": {
+      "meaning": "我から",
+      "transliteration": "マッタハ"
+    },
+    "7624": {
+      "meaning": "記憶",
+      "transliteration": "スムリティハ"
+    },
+    "7625": {
+      "meaning": "知識",
+      "transliteration": "ジュニャーナム"
+    },
+    "7626": {
+      "meaning": "忘却",
+      "transliteration": "アポーハナム"
+    },
+    "7627": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7628": {
+      "meaning": "ヴェーダによって",
+      "transliteration": "ヴェーダイフ"
+    },
+    "7629": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7630": {
+      "meaning": "全ての",
+      "transliteration": "サルヴァイフ"
+    },
+    "7631": {
+      "meaning": "我",
+      "transliteration": "アハム"
+    },
+    "7632": {
+      "meaning": "まさに",
+      "transliteration": "エーヴァ"
+    },
+    "7633": {
+      "meaning": "知られるべき",
+      "transliteration": "ヴェーディヨー"
+    },
+    "7634": {
+      "meaning": "ヴェーダンタの創造者",
+      "transliteration": "ヴェーダンタクリト"
+    },
+    "7635": {
+      "meaning": "ヴェーダを知る者",
+      "transliteration": "ヴェーダヴィット"
+    },
+    "7636": {
+      "meaning": "まさに",
+      "transliteration": "エーヴァ"
+    },
+    "7637": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7638": {
+      "meaning": "我",
+      "transliteration": "アハム"
+    },
+    "7639": {
+      "meaning": "二つ",
+      "transliteration": "ドヴァーウ"
+    },
+    "7640": {
+      "meaning": "これらの",
+      "transliteration": "イマウ"
+    },
+    "7641": {
+      "meaning": "人",
+      "transliteration": "プルシャウ"
+    },
+    "7642": {
+      "meaning": "世界に",
+      "transliteration": "ローケ"
+    },
+    "7643": {
+      "meaning": "朽ちる",
+      "transliteration": "クシャラハ"
+    },
+    "7644": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7645": {
+      "meaning": "不滅なる",
+      "transliteration": "アクシャラエーヴァ"
+    },
+    "7646": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7647": {
+      "meaning": "朽ちる",
+      "transliteration": "クシャラハ"
+    },
+    "7648": {
+      "meaning": "全ての",
+      "transliteration": "サルヴァーニ"
+    },
+    "7649": {
+      "meaning": "生物",
+      "transliteration": "ブーターニ"
+    },
+    "7650": {
+      "meaning": "不変の",
+      "transliteration": "クータスタハ"
+    },
+    "7651": {
+      "meaning": "不滅なる",
+      "transliteration": "アクシャラハ"
+    },
+    "7652": {
+      "meaning": "と言われる",
+      "transliteration": "ウッチャーテ"
+    },
+    "7653": {
+      "meaning": "最高の",
+      "transliteration": "ウッタマハ"
+    },
+    "7654": {
+      "meaning": "人",
+      "transliteration": "プルシャハ"
+    },
+    "7655": {
+      "meaning": "しかし",
+      "transliteration": "トゥ"
+    },
+    "7656": {
+      "meaning": "他の",
+      "transliteration": "アンヤハ"
+    },
+    "7657": {
+      "meaning": "超霊",
+      "transliteration": "パラマートマ"
+    },
+    "7658": {
+      "meaning": "と言われる",
+      "transliteration": "イティ"
+    },
+    "7659": {
+      "meaning": "宣言された",
+      "transliteration": "ウダーフリタハ"
+    },
+    "7660": {
+      "meaning": "誰",
+      "transliteration": "ヤハ"
+    },
+    "7661": {
+      "meaning": "三界",
+      "transliteration": "ローカトラヤム"
+    },
+    "7662": {
+      "meaning": "入り",
+      "transliteration": "アーヴィシャヤ"
+    },
+    "7663": {
+      "meaning": "支える",
+      "transliteration": "ビブリティ"
+    },
+    "7664": {
+      "meaning": "不滅の",
+      "transliteration": "アヴィヤヤ"
+    },
+    "7665": {
+      "meaning": "主宰者",
+      "transliteration": "イーシュヴァラハ"
+    },
+    "7666": {
+      "meaning": "なぜなら",
+      "transliteration": "ヤスマート"
+    },
+    "7667": {
+      "meaning": "朽ちる",
+      "transliteration": "クシャラム"
+    },
+    "7668": {
+      "meaning": "超越して",
+      "transliteration": "アティート"
+    },
+    "7669": {
+      "meaning": "我",
+      "transliteration": "アハム"
+    },
+    "7670": {
+      "meaning": "不滅なる",
+      "transliteration": "アクシャラート"
+    },
+    "7671": {
+      "meaning": "たとえ",
+      "transliteration": "アピ"
+    },
+    "7672": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7673": {
+      "meaning": "より高い",
+      "transliteration": ""
+    },
+    "7674": {
+      "meaning": "だから",
+      "transliteration": "アタハ"
+    },
+    "7675": {
+      "meaning": "である",
+      "transliteration": "アスミ"
+    },
+    "7676": {
+      "meaning": "世界で",
+      "transliteration": "ローケ"
+    },
+    "7677": {
+      "meaning": "私は讃えられる",
+      "transliteration": "プラティタハ"
+    },
+    "7678": {
+      "meaning": "至高なる人格",
+      "transliteration": "プルシャウッタマハ"
+    },
+    "7679": {
+      "meaning": "誰",
+      "transliteration": "ヤハ"
+    },
+    "7680": {
+      "meaning": "私を",
+      "transliteration": "マーム"
+    },
+    "7681": {
+      "meaning": "このように",
+      "transliteration": "エーヴァム"
+    },
+    "7682": {
+      "meaning": "迷わず",
+      "transliteration": "アサンムーダハ"
+    },
+    "7683": {
+      "meaning": "知る",
+      "transliteration": "ジャーナティ"
+    },
+    "7684": {
+      "meaning": "至高なる人格",
+      "transliteration": "プルシャウッタマム"
+    },
+    "7685": {
+      "meaning": "彼",
+      "transliteration": "サハ"
+    },
+    "7686": {
+      "meaning": "全知者",
+      "transliteration": "サルヴァヴィット"
+    },
+    "7687": {
+      "meaning": "礼拝する",
+      "transliteration": "バジャティ"
+    },
+    "7688": {
+      "meaning": "私を",
+      "transliteration": "マーム"
+    },
+    "7689": {
+      "meaning": "全て",
+      "transliteration": "サルヴァ"
+    },
+    "7690": {
+      "meaning": "心で",
+      "transliteration": "バーヴェーナ"
+    },
+    "7691": {
+      "meaning": "バーラタの裔",
+      "transliteration": "バーラタ"
+    },
+    "7692": {
+      "meaning": "このように",
+      "transliteration": "イティ"
+    },
+    "7693": {
+      "meaning": "最も秘密の",
+      "transliteration": "グヤタマム"
+    },
+    "7694": {
+      "meaning": "聖典",
+      "transliteration": "シャーストラム"
+    },
+    "7695": {
+      "meaning": "この",
+      "transliteration": "イダム"
+    },
+    "7696": {
+      "meaning": "語られた",
+      "transliteration": "ウクタム"
+    },
+    "7697": {
+      "meaning": "私によって",
+      "transliteration": "マヤー"
+    },
+    "7698": {
+      "meaning": "罪なき",
+      "transliteration": "アナガ"
+    },
+    "7699": {
+      "meaning": "これを",
+      "transliteration": "エータット"
+    },
+    "7700": {
+      "meaning": "理解して",
+      "transliteration": "ブッディトヴァ"
+    },
+    "7701": {
+      "meaning": "賢者",
+      "transliteration": "ブッディマーン"
+    },
+    "7702": {
+      "meaning": "なる",
+      "transliteration": "シャート"
+    },
+    "7703": {
+      "meaning": "成就した者",
+      "transliteration": "クリタクリヤハ"
+    },
+    "7704": {
+      "meaning": "そして",
+      "transliteration": "チャ"
+    },
+    "7705": {
+      "meaning": "バーラタの裔",
+      "transliteration": "バーラタ"
+    }
+  }
+}

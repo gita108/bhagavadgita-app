@@ -1,0 +1,45 @@
+{
+  "@@locale": "ru",
+  "settingsTitle": "Настройки",
+  "settingsSectionLanguages": "ЯЗЫКИ",
+  "settingsSectionDisplay": "ПОКАЗЫВАТЬ",
+  "settingsSectionAudio": "АУДИО",
+  "settingsSectionInterpretations": "ТРАКТОВКИ",
+
+  "settingsContentLanguagesTitle": "Языки контента",
+  "settingsContentLanguagesChooseTitle": "Выбор языка",
+  "settingsContentLanguagesAtLeastOne": "Нужно оставить хотя бы один язык контента.",
+
+  "settingsAppLanguageTitle": "Язык приложения",
+  "settingsAppLanguageChooseTitle": "Язык приложения",
+  "settingsAppLanguageSystemDefault": "Системный",
+
+  "settingsShowSanskrit": "Санскрит",
+  "settingsShowTransliteration": "Транскрипция",
+  "settingsShowTranslation": "Перевод",
+  "settingsShowComment": "Комментарии",
+  "settingsShowVocabulary": "Пословный перевод",
+
+  "settingsAudioTranslation": "Перевод (аудио)",
+  "settingsAudioSanskrit": "Санскрит (аудио)",
+  "settingsAudioAutoPlay": "Проигрывать автоматически",
+
+  "confirmDownloadTitle": "Скачать",
+  "confirmDeleteTitle": "Удалить",
+  "confirmCancel": "Отмена",
+  "confirmOk": "OK",
+  "confirmYes": "Да",
+
+  "confirmDownloadAudioTranslation": "Скачать аудио перевод?",
+  "confirmDownloadAudioSanskrit": "Скачать аудио санскрит?",
+  "confirmDeleteAudioTranslation": "Удалить аудио перевод?",
+  "confirmDeleteAudioSanskrit": "Удалить аудио санскрит?",
+
+  "loadingEllipsis": "Загрузка…",
+
+  "languageName_en": "English",
+  "languageName_ru": "Русский",
+  "languageName_de": "Deutsch",
+  "languageName_spa": "Español"
+}
+

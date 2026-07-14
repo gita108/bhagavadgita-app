@@ -1,0 +1,467 @@
+{
+  "chapter": 18,
+  "title": {
+    "he": "יוגת השחרור - מוקשה יוגה",
+    "ar": "يوغا التحرر - موكشا يوغا",
+    "tr": "Kurtuluş Yogası - Mokṣa Yogası",
+    "sw": "Yoga ya Uhuru - Yoga ya Moksha"
+  },
+  "slokas": {
+    "18.1": {
+      "he": {"text": "ארג'ונה אמר: הו גיבור רב-עוצמה, הורג השד קשי! הו אדון החושים, אני מבקש להבין את ההבדל בין ויתור (סניאסה) לבין התנתקות (טיאגה).", "approved": false},
+      "ar": {"text": "قال أرجونا: يا أيها القوي الذراع، قاتل الشيطان كيشي! يا رب الحواس، أريد أن أفهم الفرق بين التخلي (السانياس) وبين عدم التعلق (التياغا).", "approved": false},
+      "tr": {"text": "Arjuna dedi: Ey güçlü kollu kahraman, Keşi iblisini öldüren! Ey duyuların efendisi, vazgeçiş (sannyāsa) ile detachment (tyāga) arasındaki farkı anlamak istiyorum.", "approved": false},
+      "sw": {"text": "Arjuna alisema: Ewe mshujaa mwenye mikono yenye nguvu, muuaji wa shetani Keshi! Ewe Bwana wa hisia, ninataka kuelewa tofauti kati ya kuachilia (sannyāsa) na kutokushikamana (tyāga).", "approved": false}
+    },
+    "18.2": {
+      "he": {"text": "האל העליון אמר: החכמים הנאורים יודעים את נטישת הפעולה המניבה פירות כויתור, ואת נטישת פירות כל הפעולות כהתנתקות.", "approved": false},
+      "ar": {"text": "قال الرب الأعلى: العارفون المستنيرون يعرفون ترك العمل المثمر على أنه تخلي، وترك ثمار كل الأعمال على أنه عدم تعلق.", "approved": false},
+      "tr": {"text": "Yüce Rab dedi: Bilge, aydınlanmış kişiler meyveli eylemin terk edilmesini vazgeçiş olarak, tüm eylemlerin meyvelerinin terk edilmesini ise detachment olarak bilirler.", "approved": false},
+      "sw": {"text": "Bwana Mkuu alisema: Watu wenye elimu na walioangaziwa wanajua kuacha vitendo vya matunda kama kuachilia, na kuacha matunda ya vitendo vyote kama kutokushikamana.", "approved": false}
+    },
+    "18.3": {
+      "he": {"text": "פילוסופים מסוימים סוברים שיש לנטוש כל פעולה כפגומה. אחרים טוענים שלעולם אין לנטוש פעולות של קרבן, צדקה וסיגוף.", "approved": false},
+      "ar": {"text": "بعض الفلاسفة يرون أن العمل يجب التخلي عنه لأنه ناقص. آخرون يرون أن عمل التضحية والصدقة والزهد لا يجب التخلي عنه أبداً.", "approved": false},
+      "tr": {"text": "Bazı filozoflar eylemin kusurlu olduğu için terk edilmesi gerektiğini savunur. Diğerleri ise kurban, sadaka ve çile doğası gereği eylemlerin asla terk edilmemesi gerektiğini söyler.", "approved": false},
+      "sw": {"text": "Wanafalsafa wengine wanasema kwamba vitendo vinapaswa kuachiliwa kama visivyo kamili. Wengine wanasema kwamba vitendo vya sadaka, hisani, na ukalipu havipaswi kuachiliwa kamwe.", "approved": false}
+    },
+    "18.4": {
+      "he": {"text": "הו הטוב שבבهارתות, הקשב למסקנתי המושלמת בנוגע להתנתקות. הו הטוב שבאנשים! כתבי הקודש מכריזים שההתנתקות היא משלושה סוגים.", "approved": false},
+      "ar": {"text": "يا أفضل البهاراتاس، اسمع خلاصتي الكاملة بشأن عدم التعلق. يا أفضل الرجال! تعلن الكتب المقدسة أن عدم التعلق من ثلاثة أنواع.", "approved": false},
+      "tr": {"text": "Ey Bhāratas'ın en iyisi, detachment hakkındaki mükemmel sonucumu dinle. Ey erkeklerin en iyisi! Kutsal yazılar detachment'ın üç türde olduğunu ilan eder.", "approved": false},
+      "sw": {"text": "Ewe bora wa Bhāratas, sikiliza hitimisho langu kamili kuhusu kutokushikamana. Ewe bora wa wanaume! Maandiko matakatu yanatangaza kwamba kutokushikamana ni kwa aina tatu.", "approved": false}
+    },
+    "18.5": {
+      "he": {"text": "לעולם אין לנטוש חובות הקשורות בקרבנות, צדקה וסיגוף. יש לבצען, שכן הן מטהרות אף את החכמים.", "approved": false},
+      "ar": {"text": "لا يجب التخلي أبداً عن واجبات التضحية والصدقة والزهد. يجب أداؤها لأنها تطهر حتى الحكماء.", "approved": false},
+      "tr": {"text": "Kurban, sadaka ve çile ile ilgili görevler asla terk edilmemelidir. Bunlar bilge kişileri bile arındırdığı için yerine getirilmelidir.", "approved": false},
+      "sw": {"text": "Majukumu ya sadaka, hisani, na ukalipu hayapaswi kuachiliwa kamwe. Yanapaswa kufanywa kwa sababu yanawasafisha hata wenye elimu.", "approved": false}
+    },
+    "18.6": {
+      "he": {"text": "יש לבצע את כל הפעולות הללו ללא היצמדות וללא ציפייה לתגמול. זוהי דעתי הסופית והמוחלטת.", "approved": false},
+      "ar": {"text": "يجب أداء كل هذه الأعمال دون تعلق ودون توقع للمكافأة. هذا هو رأيي النهائي والحاسم.", "approved": false},
+      "tr": {"text": "Tüm bu eylemler bağlılık olmadan ve ödül beklemeden yapılmalıdır. Bu benim nihai ve kesin görüşümdür.", "approved": false},
+      "sw": {"text": "Vitendo hivi vyote vinapaswa kufanywa bila kushikamana na bila kutarajia thawabu. Hili ndilo maoni yangu ya mwisho na ya uhakika.", "approved": false}
+    },
+    "18.7": {
+      "he": {"text": "נטישת חובות קבועות היא שגויה. אי-ביצוען מתוך אשליה מוגדרת כתכונת הבערות.", "approved": false},
+      "ar": {"text": "ترك الواجبات المقررة خطأ. عدم أدائها بسبب الوهم يُعرف بأنه من صفة الجهل.", "approved": false},
+      "tr": {"text": "Belirlenmiş görevlerin terk edilmesi yanlıştır. Bunları yanılsama nedeniyle yapmamak cehalet niteliği olarak bilinir.", "approved": false},
+      "sw": {"text": "Kuachilia majukumu yaliyoamriwa ni kosa. Kushindwa kuyafanya kwa sababu ya udanganyifu hujulikana kama sifa ya ujinga.", "approved": false}
+    },
+    "18.8": {
+      "he": {"text": "הנמנע מפעולה מתוך פחד מגוף או מאי-נוחות, פעולתו נשלטת על ידי תכונת הרגש. הוא לא ישיג את פרי הויתור.", "approved": false},
+      "ar": {"text": "من يتخلى عن العمل خوفاً من الجسد أو من الانزعاج، فإن عمله محكوم بصفة العاطفة. لن يحقق ثمرة التخلي.", "approved": false},
+      "tr": {"text": "Bedenden veya rahatsızlıktan korkarak eylemden vazgeçen kişinin eylemi tutku niteliği tarafından yönetilir. Vazgeçişin meyvesine ulaşamaz.", "approved": false},
+      "sw": {"text": "Anayeacha vitendo kwa sababu ya kuogopa mwili au usumbufu, vitendo vyake vinatawaliwa na sifa ya hisia. Hatafiki matunda ya kuachilia.", "approved": false}
+    },
+    "18.9": {
+      "he": {"text": "הו ארג'ונה! כאשר חובה מבוצעת מתוך הכרה ש'יש לפעול', ללא היצמדות וללא חיבה או שנאה לפרי הפעולה - זוהי התנתקות טהורה.", "approved": false},
+      "ar": {"text": "يا أرجونا! عندما يُؤدى الواجب إدراكاً أنه 'يجب فعله'، دون تعلق ودون حب أو كره لثمرته - هذا هو عدم التعلق النقي.", "approved": false},
+      "tr": {"text": "Ey Arjuna! Bir görev 'yapılmalı' bilinciyle, bağlılık olmadan ve eylemin meyvesine sevgi veya nefret etmeden yapıldığında - bu saf detachment'tır.", "approved": false},
+      "sw": {"text": "Ewe Arjuna! Pale jukumu linapofanywa kwa ufahamu kwamba 'linapaswa kufanywa', bila kushikamana na bila upendo au chuki kwa matunda yake - huo ndio utakatifu wa kutokushikamana.", "approved": false}
+    },
+    "18.10": {
+      "he": {"text": "המוותר החכם, חופשי מספק, בעל תכונת הטוב, לא ירתע מפעולה קשה ולא יישאר חייב לפעולה מהנה.", "approved": false},
+      "ar": {"text": "المتخلي الحكيم، الحر من الشك، الممتلك لصفة الخير، لا يتردد عن عمل صعب ولا يبقى مديناً لعمل ممتع.", "approved": false},
+      "tr": {"text": "Bilge vazgeçen, şüpheden özgür, iyilik niteliğine sahip olan, zor bir eylemden çekinmez ve hoş bir eyleme borçlu kalmaz.", "approved": false},
+      "sw": {"text": "Mtu mwenye elimu aliyeachilia, huru kutoka shaka, mwenye sifa ya wema, hasitasiti kutenda kitendo kigumu wala hakubaki na deni la kitendo kinachofurahisha.", "approved": false}
+    },
+    "18.11": {
+      "he": {"text": "כל עוד האדם בגוף, לא יכול לוותר לחלוטין על הפעולה. אך מי שמוותר על פרי הפעולה - הוא המוותר האמיתי.", "approved": false},
+      "ar": {"text": "طالما الإنسان في الجسد، لا يمكنه التخلي كلياً عن العمل. لكن من يتخلى عن ثمر العمل - هو المتخلي الحقيقي.", "approved": false},
+      "tr": {"text": "İnsan bedende olduğu sürece eylemden tamamen vazgeçemez. Ama eylemin meyvesinden vazgeçen - o gerçek vazgeçendir.", "approved": false},
+      "sw": {"text": "Mradi binadamu yuko mwilini, hawezi kuachilia kabisa vitendo. Lakini anayeachilia matunda ya vitendo - ndiye aliyeachilia wa kweli.", "approved": false}
+    },
+    "18.12": {
+      "he": {"text": "למי שלא ויתר, לאחר המוות מגיעים שלושה סוגי תוצאות: רצויות, לא רצויות ומעורבות. אך למוותרים אין תוצאה לאחר המוות.", "approved": false},
+      "ar": {"text": "لمن لم يتخل، بعد الموت تأتي ثلاثة أنواع من النتائج: مرغوبة، غير مرغوبة، ومختلطة. أما للمتخلين فلا نتيجة بعد الموت.", "approved": false},
+      "tr": {"text": "Vazgeçmeyenler için ölümden sonra üç tür sonuç gelir: istenen, istenmeyen ve karışık. Vazgeçenler için ise ölümden sonra sonuç yoktur.", "approved": false},
+      "sw": {"text": "Kwa wasioachilia, baada ya kifo huja aina tatu za matokeo: yanayotakata, yasiyotakata, na yaliyochanganyika. Lakini kwa walioachilia hakuna matokeo baada ya kifo.", "approved": false}
+    },
+    "18.13": {
+      "he": {"text": "הו גיבור רב-עוצמה! למד את חמשת הגורמים להשלמת כל פעולה, כפי שמלמדים הפילוסופיה הסאנkhיה.", "approved": false},
+      "ar": {"text": "يا أيها القوي الذراع! تعلم العوامل الخمسة لإتمام كل عمل، كما تُعلّم فلسفة السامخيا.", "approved": false},
+      "tr": {"text": "Ey güçlü kollu kahraman! Her eylemin tamamlanması için beş faktörü öğren, tıpkı Sāṅkhya felsefesinin öğrettiği gibi.", "approved": false},
+      "sw": {"text": "Ewe mshujaa mwenye nguvu! Jifunze sababu tano za kukamilisha kila kitendo, kama inavyofundishwa na falsafa ya Sāṅkhya.", "approved": false}
+    },
+    "18.14": {
+      "he": {"text": "הגוף, הפועל, החושים השונים, הפעולות השונות והאלוהות - אלו הם חמשת הגורמים.", "approved": false},
+      "ar": {"text": "الجسد، الفاعل، الحواس المختلفة، الأفعال المختلفة، والإله - هذه هي العوامل الخمسة.", "approved": false},
+      "tr": {"text": "Beden, fail, çeşitli duyular, çeşitli eylemler ve ilahi olan - bunlar beş faktördür.", "approved": false},
+      "sw": {"text": "Mwili, mtenda, hisia mbalimbali, vitendo mbalimbali, na uungu - hizi ndizo sababu tano.", "approved": false}
+    },
+    "18.15": {
+      "he": {"text": "כל פעולה שאדם מבצע בגוף, בדיבור או במחשבה, צודקת או שגויה - אלו הם חמשת הגורמים לה.", "approved": false},
+      "ar": {"text": "كل عمل يفعله الإنسان بجسده أو كلامه أو فكره، صحيحاً كان أم خاطئاً - هذه هي العوامل الخمسة له.", "approved": false},
+      "tr": {"text": "İnsanın bedeni, sözü veya düşüncesiyle yaptığı her eylem, doğru veya yanlış - bunlar onun beş faktörüdür.", "approved": false},
+      "sw": {"text": "Kila kitendo mtu anachofanya kwa mwili wake, maneno yake, au mawazo yake, iwe sahihi au siyo - hizi ndizo sababu tano zake.", "approved": false}
+    },
+    "18.16": {
+      "he": {"text": "מי שרואה בעצמו את הפועל הבלעדי, מתוך חוסר הבנה, לא רואה נכונה. הוא חסר הבנה.", "approved": false},
+      "ar": {"text": "من يرى نفسه كفاعل وحيد، من قلة الفهم، لا يرى بشكل صحيح. إنه عديم الفهم.", "approved": false},
+      "tr": {"text": "Kendisini tek fail olarak gören, anlayış eksikliği nedeniyle, doğru görmez. O anlayıştan yoksundur.", "approved": false},
+      "sw": {"text": "Anayejiiona mwenyewe kama mtenda pekee, kwa sababu ya ukosefu wa uelewa, haoni kwa usahihi. Yeye hana uelewa.", "approved": false}
+    },
+    "18.17": {
+      "he": {"text": "מי שאינו מונע על ידי האגו, ושכלו אינו זוהם - גם אם הורג את כל העולמות, לא הורג ולא נכבל.", "approved": false},
+      "ar": {"text": "من لا يحركه الأنا، وعقله غير ملوث - حتى لو قتل كل العوالم، لا يقتل ولا يُقيد.", "approved": false},
+      "tr": {"text": "Ego tarafından hareket etmeyen, zihni kirletilmemiş olan - tüm dünyaları öldürse bile, öldürmez ve bağlanmaz.", "approved": false},
+      "sw": {"text": "Asiyehamishwa na ego, na akili yake haijanajisika - hata kama angeua ulimwengu wote, haui wala hafungwi.", "approved": false}
+    },
+    "18.18": {
+      "he": {"text": "ידע, נושא הידע והידוע - אלו הם שלושת הדחפים לפעולה. הגוף, הפעולה והפועל - אלו הם שלושת המרכיבים של הפעולה.", "approved": false},
+      "ar": {"text": "المعرفة، موضوع المعرفة، والعارف - هذه هي الدوافع الثلاثة للعمل. الجسد، العمل، والفاعل - هذه هي المكونات الثلاثة للعمل.", "approved": false},
+      "tr": {"text": "Bilgi, bilginin konusu ve bilen - bunlar eylemin üç dürtüsüdür. Beden, eylem ve fail - bunlar eylemin üç bileşenidir.", "approved": false},
+      "sw": {"text": "Elimu, mada ya elimu, na mwenye kujua - hizi ndizo hamu tatu za kitendo. Mwili, kitendo, na mtenda - hivi ndivyo vipengele vitatu vya kitendo.", "approved": false}
+    },
+    "18.19": {
+      "he": {"text": "הידע, הפעולה והפועל מוגדרים כשלושה לפי תכונות הטבע. הקשב לתיאור שלהם לפי הסדר.", "approved": false},
+      "ar": {"text": "المعرفة، العمل، والفاعل مُعرّفة كثلاثة حسب صفات الطبيعة. استمع لوصفها حسب الترتيب.", "approved": false},
+      "tr": {"text": "Bilgi, eylem ve fail, doğanın niteliklerine göre üç olarak tanımlanır. Sıralarına göre tanımlarını dinle.", "approved": false},
+      "sw": {"text": "Elimu, kitendo, na mtenda vinafafanuliwa kuwa vitatu kulingana na sifa za asili. Sikiliza maelezo yake kulingana na mpangilio.", "approved": false}
+    },
+    "18.20": {
+      "he": {"text": "הידע הרואה את הקיום האחד והנצחי בכל היצורים, למרות ריבוי הצורות - הוא ידע מתכונת הטוב.", "approved": false},
+      "ar": {"text": "المعرفة التي ترى الوجود الواحد والأبدي في كل الكائنات، رغم تعدد الأشكال - هي معرفة من صفة الخير.", "approved": false},
+      "tr": {"text": "Çeşitli formlara rağmen tüm varlıklarda tek ve ebedi varlığı gören bilgi - bu iyilik niteliğinden bilgidir.", "approved": false},
+      "sw": {"text": "Elimu inayoona uwepo mmoja na wa milele katika viumbe vyote, licha ya umbo nyingi - ni elimu ya sifa ya wema.", "approved": false}
+    },
+    "18.21": {
+      "he": {"text": "הידע הרואה קיומים נפרדים ביצורים שונים - דע שידע זה הוא מתכונת הרגש.", "approved": false},
+      "ar": {"text": "المعرفة التي ترى وجودات منفصلة في كائنات مختلفة - اعلم أن هذه المعرفة من صفة العاطفة.", "approved": false},
+      "tr": {"text": "Farklı varlıklarda ayrı varlıklar gören bilgi - bil ki bu bilgi tutku niteliğindendir.", "approved": false},
+      "sw": {"text": "Elimu inayoona uwepo tofauti katika viumbe mbalimbali - jua kwamba elimu hii ni ya sifa ya hisia.", "approved": false}
+    },
+    "18.22": {
+      "he": {"text": "הידע הנצמד לדבר אחד כאילו הוא הכל, חסר יסוד וחסר עומק - הוא ידע מתכונת הבערות.", "approved": false},
+      "ar": {"text": "المعرفة التي تتمسك بشيء واحد وكأنه كل شيء، بلا أساس وبلا عمق - هي معرفة من صفة الجهل.", "approved": false},
+      "tr": {"text": "Bir şeye sanki her şeymiş gibi bağlanan, temelsiz ve derinliksiz bilgi - bu cehalet niteliğinden bilgidir.", "approved": false},
+      "sw": {"text": "Elimu inayoshikamana na kitu kimoja kana kwamba ni kila kitu, bila msingi na bila kina - ni elimu ya sifa ya ujinga.", "approved": false}
+    },
+    "18.23": {
+      "he": {"text": "פעולה הנעשית מתוך חובה, ללא היצמדות, ללא אהבה או שנאה, ללא רצון לתגמול - היא פעולה מתכונת הטוב.", "approved": false},
+      "ar": {"text": "العمل الذي يُؤدى من واجب، دون تعلق، دون حب أو كره، دون رغبة في مكافأة - هو عمل من صفة الخير.", "approved": false},
+      "tr": {"text": "Görevden yapılan, bağlılık olmadan, sevgi veya nefret etmeden, ödül isteği olmadan yapılan eylem - bu iyilik niteliğinden eylemdir.", "approved": false},
+      "sw": {"text": "Kitendo kinachofanywa kwa sababu ya jukumu, bila kushikamana, bila upendo au chuki, bila hamu ya thawabu - ni kitendo cha sifa ya wema.", "approved": false}
+    },
+    "18.24": {
+      "he": {"text": "פעולה הנעשית מתוך תשוקה, עם מאמץ רב של האגו - דע שפעולה זו היא מתכונת הרגש.", "approved": false},
+      "ar": {"text": "العمل الذي يُؤدى من رغبة، مع جهد كبير من الأنا - اعلم أن هذا العمل من صفة العاطفة.", "approved": false},
+      "tr": {"text": "Arzudan yapılan, egonun büyük çabasıyla yapılan eylem - bil ki bu eylem tutku niteliğindendir.", "approved": false},
+      "sw": {"text": "Kitendo kinachofanywa kwa sababu ya tamaa, kwa juhudi kubwa ya ego - jua kwamba kitendo hiki ni cha sifa ya hisia.", "approved": false}
+    },
+    "18.25": {
+      "he": {"text": "פעולה הנעשית מתוך אשליה, ללא התחשבות בתוצאה, באובדן או בפגיעה באחרים - היא פעולה מתכונת הבערות.", "approved": false},
+      "ar": {"text": "العمل الذي يُؤدى من وهم، دون اعتبار للنتيجة، بخسارة أو بإيذاء الآخرين - هو عمل من صفة الجهل.", "approved": false},
+      "tr": {"text": "Yanılsamadan yapılan, sonuç gözetmeden, kayıpla veya başkalarına zarar vererek yapılan eylem - bu cehalet niteliğinden eylemdir.", "approved": false},
+      "sw": {"text": "Kitendo kinachofanywa kwa sababu ya udanganyifu, bila kuzingatia matokeo, kwa hasara au kwa kudhuru wengine - ni kitendo cha sifa ya ujinga.", "approved": false}
+    },
+    "18.26": {
+      "he": {"text": "הפועל החופשי מהיצמדות, ללא דיבור יהיר, נחוש ונמרץ, אדיש להצלחה או כישלון - הוא פועל מתכונת הטוב.", "approved": false},
+      "ar": {"text": "الفاعل الحر من التعلق، بلا كلام متعجرف، حازم ونشيط، غير مبالٍ بالنجاح أو الفشل - هو فاعل من صفة الخير.", "approved": false},
+      "tr": {"text": "Bağlılıktan özgür, kibirli konuşma olmadan, kararlı ve enerjik, başarı veya başarısızlığa kayıtsız olan fail - bu iyilik niteliğinden faildir.", "approved": false},
+      "sw": {"text": "Mtenda huru kutoka kushikamana, bila maneno ya kiburi, imara na mwenye nguvu, asiyjali mafanikio au kushindwa - ni mtenda wa sifa ya wema.", "approved": false}
+    },
+    "18.27": {
+      "he": {"text": "הפועל המונע מתוך תשוקה, מחפש הנאה, חמדן, אלים, טמא, שמח ומתאבל לסירוגין - הוא פועל מתכונת הרגש.", "approved": false},
+      "ar": {"text": "الفاعل المحرك من رغبة، باحث عن المتعة، جشع، عنيف، نجس، فرح وحزين بالتناوب - هو فاعل من صفة العاطفة.", "approved": false},
+      "tr": {"text": "Arzudan hareket eden, haz arayan, açgözlü, şiddet yanlısı, kirli, sevinç ve keder arasında gidip gelen fail - bu tutku niteliğinden faildir.", "approved": false},
+      "sw": {"text": "Mtenda anayehamishwa na tamaa, anayetafuta furaha, mchoyo, mwenye vurugu, mwenye uchafu, akifurahi na kuhuzunika mara kwa mara - ni mtenda wa sifa ya hisia.", "approved": false}
+    },
+    "18.28": {
+      "he": {"text": "הפועל חסר המשמעת, גס, עקשן, רמאי, זדוני, עצלן, מיואש וממהר - הוא פועל מתכונת הבערות.", "approved": false},
+      "ar": {"text": "الفاعل عديم الانضباط، فظ، عنيد، محتال، خبيث، كسول، يائس ومسرع - هو فاعل من صفة الجهل.", "approved": false},
+      "tr": {"text": "Disiplinsiz, kaba, inatçı, dolandırıcı, kötü niyetli, tembel, umutsuz ve aceleci fail - bu cehalet niteliğinden faildir.", "approved": false},
+      "sw": {"text": "Mtenda asiye na nidhamu, mkatili, mgumu, mwongo, mwenye nia mbaya, mvivu, aliyekata tamaa na mwenye haraka - ni mtenda wa sifa ya ujinga.", "approved": false}
+    },
+    "18.29": {
+      "he": {"text": "הו מנצח העושר! הקשב כעת לתיאור השכל והנחישות, לפי שלושת סוגי תכונות הטבע.", "approved": false},
+      "ar": {"text": "يا قاهر الثروة! استمع الآن لوصف العقل والعزيمة، حسب الأنواع الثلاثة لصفات الطبيعة.", "approved": false},
+      "tr": {"text": "Ey servetin fatihi! Şimdi aklın ve kararlılığın tanımını dinle, doğanın niteliklerinin üç türüne göre.", "approved": false},
+      "sw": {"text": "Ewe mshindi wa utajiri! Sikiliza sasa maelezo ya akili na azimio, kulingana na aina tatu za sifa za asili.", "approved": false}
+    },
+    "18.30": {
+      "he": {"text": "השכל היודע להבחין בין פעולה לויתור, בין מה שיש לעשות ומה שלא, בין פחד לביטחון, בין כבילה לשחרור - הוא שכל מתכונת הטוב.", "approved": false},
+      "ar": {"text": "العقل الذي يعرف التمييز بين العمل والتخلي، بين ما يجب فعله وما لا يجب، بين الخوف والأمان، بين القيد والتحرر - هو عقل من صفة الخير.", "approved": false},
+      "tr": {"text": "Eylem ve vazgeçiş arasında, yapılması gereken ve yapılmaması gereken arasında, korku ve güvenlik arasında, bağlanma ve özgürlük arasında ayrım yapan akıl - bu iyilik niteliğinden akıldır.", "approved": false},
+      "sw": {"text": "Akili inayojua kutofautisha kati ya kitendo na kuachilia, kati ya kinachopaswa kufanywa na kisichopaswa, kati ya woga na usalama, kati ya kufungwa na uhuru - ni akili ya sifa ya wema.", "approved": false}
+    },
+    "18.31": {
+      "he": {"text": "השכל שאינו מבין נכונה בין דהרמה לאדהרמה, בין מה שיש לעשות למה שלא - הוא שכל מתכונת הרגש.", "approved": false},
+      "ar": {"text": "العقل الذي لا يفهم بشكل صحيح بين الدارما والأدارما، بين ما يجب فعله وما لا يجب - هو عقل من صفة العاطفة.", "approved": false},
+      "tr": {"text": "Dharma ve adharma arasında, yapılması gereken ve yapılmaması gereken arasında doğru anlamayan akıl - bu tutku niteliğinden akıldır.", "approved": false},
+      "sw": {"text": "Akili isiyoelewa kwa usahihi kati ya dharma na adharma, kati ya kinachopaswa kufanywa na kisichopaswa - ni akili ya sifa ya hisia.", "approved": false}
+    },
+    "18.32": {
+      "he": {"text": "השכל העטוף בבערות, הרואה את הלא-נכון כנכון, המכוון להפך מכל ערך - הוא שכל מתכונת הבערות.", "approved": false},
+      "ar": {"text": "العقل المغلف بالجهل، الذي يرى غير الصحيح كصحيح، الموجه عكس كل قيمة - هو عقل من صفة الجهل.", "approved": false},
+      "tr": {"text": "Cehaletle sarılmış, yanlışı doğru olarak gören, her değerin tersine yönelen akıl - bu cehalet niteliğinden akıldır.", "approved": false},
+      "sw": {"text": "Akili iliyofunikwa na ujinga, inayoona yasiyo sahihi kama sahihi, inayoelekea kinyume cha kila thamani - ni akili ya sifa ya ujinga.", "approved": false}
+    },
+    "18.33": {
+      "he": {"text": "הנחישות שבה האדם שומר על פעולת הלב, הנשימה, החושים והשכל באמצעות יוגה - היא נחישות מתכונת הטוב.", "approved": false},
+      "ar": {"text": "العزيمة التي يحافظ بها الإنسان على عمل القلب، والنفس، والحواس، والعقل عبر اليوغا - هي عزيمة من صفة الخير.", "approved": false},
+      "tr": {"text": "İnsanın yoga yoluyla kalp, nefes, duyular ve akıl eylemini sürdürdüğü kararlılık - bu iyilik niteliğinden kararlılıktır.", "approved": false},
+      "sw": {"text": "Azimio ambalo mtu hulishika matendo ya moyo, pumzi, hisia, na akili kupitia yoga - ni azimio la sifa ya wema.", "approved": false}
+    },
+    "18.34": {
+      "he": {"text": "הנחישות שבה האדם מחזיק בדהרמה, בקאמה (תשוקה) ובארת'ה (רווחה), מתוך רצון לתגמול - היא נחישות מתכונת הרגש.", "approved": false},
+      "ar": {"text": "العزيمة التي يتمسك بها الإنسان بالدارما، والكاما (الرغبة)، والأرتا (الرفاه)، من رغبة في مكافأة - هي عزيمة من صفة العاطفة.", "approved": false},
+      "tr": {"text": "İnsanın dharma, kāma (arzu) ve artha (refah) için, ödül isteğiyle tutunduğu kararlılık - bu tutku niteliğinden kararlılıktır.", "approved": false},
+      "sw": {"text": "Azimio ambalo mtu hushikilia dharma, kāma (tamaa), na artha (ustawi), kwa hamu ya thawabu - ni azimio la sifa ya hisia.", "approved": false}
+    },
+    "18.35": {
+      "he": {"text": "הנחישות שבה האדם לא נוטש שינה, פחד, אבל, ייאוש ושחצנות - היא נחישות מתכונת הבערות.", "approved": false},
+      "ar": {"text": "العزيمة التي لا يترك بها الإنسان النوم، والخوف، والحزن، واليأس، والغطرسة - هي عزيمة من صفة الجهل.", "approved": false},
+      "tr": {"text": "İnsanın uyku, korku, keder, umutsuzluk ve kibri terk etmediği kararlılık - bu cehalet niteliğinden kararlılıktır.", "approved": false},
+      "sw": {"text": "Azimio ambalo mtu haachi usingizi, woga, huzuni, kukata tamaa, na kiburi - ni azimio la sifa ya ujinga.", "approved": false}
+    },
+    "18.36": {
+      "he": {"text": "הו הטוב שבבهارתות! הקשב כעת לתיאור שלושת סוגי האושר, המגיע מתרגול ממושך ומסיום הסבל.", "approved": false},
+      "ar": {"text": "يا أفضل البهاراتاس! استمع الآن لوصف الأنواع الثلاثة من السعادة، التي تأتي من الممارسة الطويلة وإنهاء المعاناة.", "approved": false},
+      "tr": {"text": "Ey Bhāratas'ın en iyisi! Şimdi üç tür mutluluğun tanımını dinle, uzun uygulamadan ve ıtırabın sona ermesinden gelen.", "approved": false},
+      "sw": {"text": "Ewe bora wa Bhāratas! Sikiliza sasa maelezo ya aina tatu za furaha, zinazokuja kutoka mazoezi marefu na kumaliza mateso.", "approved": false}
+    },
+    "18.37": {
+      "he": {"text": "מה שנראה בתחילה כרעל, אך בסופו כצוף - אושר זה הוא מתכונת הטוב, הנולד מהבנת העצמי.", "approved": false},
+      "ar": {"text": "ما يبدو في البداية كسم، لكن في النهاية كعسل - هذه السعادة من صفة الخير، المولودة من فهم الذات.", "approved": false},
+      "tr": {"text": "Başta zehir gibi görünen, ama sonunda bal gibi olan - bu mutluluk iyilik niteliğindendir, benlik anlayışından doğar.", "approved": false},
+      "sw": {"text": "Kinachoonekana mwanzo kama sumu, lakini mwishoni kama asali - furaha hii ni ya sifa ya wema, imezaliwa kutoka kuelewa nafsi.", "approved": false}
+    },
+    "18.38": {
+      "he": {"text": "האושר הנולד ממגע החושים עם אובייקטיהם, הנראה בתחילה כצוף אך בסופו כרעל - הוא אושר מתכונת הרגש.", "approved": false},
+      "ar": {"text": "السعادة المولودة من ملامسة الحواس لأشياءها، التي تبدو في البداية كعسل لكن في النهاية كسم - هي سعادة من صفة العاطفة.", "approved": false},
+      "tr": {"text": "Duyuların nesneleriyle temasından doğan, başta bal gibi görünen ama sonunda zehir gibi olan mutluluk - bu tutku niteliğinden mutluluktur.", "approved": false},
+      "sw": {"text": "Furaha inayozaliwa kutoka kuguswa kwa hisia na vitu vyake, inayoonekana mwanzo kama asali lakini mwishoni kama sumu - ni furaha ya sifa ya hisia.", "approved": false}
+    },
+    "18.39": {
+      "he": {"text": "האושר המעוור את הנשמה, הנולד משינה, עצלות ורשלנות - הוא אושר מתכונת הבערות.", "approved": false},
+      "ar": {"text": "السعادة التي تعمي الروح، المولودة من النوم، والكسل، والإهمال - هي سعادة من صفة الجهل.", "approved": false},
+      "tr": {"text": "Ruhu kör eden, uyku, tembellik ve ihmalden doğan mutluluk - bu cehalet niteliğinden mutluluktur.", "approved": false},
+      "sw": {"text": "Furaha inayopofusha roho, inayozaliwa kutoka usingizi, uvivu, na upuuzi - ni furaha ya sifa ya ujinga.", "approved": false}
+    },
+    "18.40": {
+      "he": {"text": "אין יצור בגן עדן, בארץ או בין הכוכבים, החופשי משלוש תכונות הטבע הנולדות מהבראה.", "approved": false},
+      "ar": {"text": "لا يوجد كائن في الجنة، أو في الأرض، أو بين النجوم، حر من صفات الطبيعة الثلاث المولودة من الخلق.", "approved": false},
+      "tr": {"text": "Cennette, yeryüzünde veya yıldızlar arasında, yaratılıştan doğan doğanın üç niteliğinden özgür hiçbir varlık yoktur.", "approved": false},
+      "sw": {"text": "Hakuna kiumbe mbinguni, duniani, au kati ya nyota, huru kutoka sifa tatu za asili zinazozaliwa kutoka uumbaji.", "approved": false}
+    },
+    "18.41": {
+      "he": {"text": "חובות הברהמינים, הקשטריים, הוישיות והשודרות מופרדות לפי טבען, הו מנצח האויבים!", "approved": false},
+      "ar": {"text": "واجبات البراهمة، والكشاترياس، والفايشياس، والشودراس مفصولة حسب طبيعتها، يا قاهر الأعداء!", "approved": false},
+      "tr": {"text": "Brahmanalar, Kshatriyalar, Vaishyalar ve Shudraların görevleri doğalarına göre ayrılmıştır, ey düşmanların fatihi!", "approved": false},
+      "sw": {"text": "Majukumu ya Brahmanas, Kshatriyas, Vaishyas, na Shudras yametengwa kulingana na asili yake, ewe mshindi wa maadui!", "approved": false}
+    },
+    "18.42": {
+      "he": {"text": "שלווה, איפוק, סיגוף, טוהר, סבלנות, יושר, ידע, הבנה ואמונה באלוהים - אלו הם חובות הברהמינים, הנולדות מטבעם.", "approved": false},
+      "ar": {"text": "السلام، ضبط النفس، الزهد، النقاء، الصبر، الاستقامة، المعرفة، الفهم، والإيمان بالله - هذه هي واجبات البراهمة، المولودة من طبيعتهم.", "approved": false},
+      "tr": {"text": "Huzur, öz-denetim, çile, saflık, sabır, dürüstlük, bilgi, anlayış ve Tanrı'ya inanç - bunlar Brahmanaların görevleridir, doğalarından doğar.", "approved": false},
+      "sw": {"text": "Amani, kujidhibiti, ukalipu, usafishaji, uvumilivu, uadilifu, elimu, uelewa, na imani kwa Mungu - hivi ndivyo majukumu ya Brahmanas, yalizaliwa kutoka asili yake.", "approved": false}
+    },
+    "18.43": {
+      "he": {"text": "גבורה, הדר, נחישות, זריזות, לא לברוח בקרב, נדיבות ויכולת הנהגה - אלו הם חובות הקשטריים, הנולדות מטבעם.", "approved": false},
+      "ar": {"text": "الشجاعة، المجد، العزيمة، النشاط، عدم الهروب في المعركة، الكرم، والقدرة على القيادة - هذه هي واجبات الكشاترياس، المولودة من طبيعتهم.", "approved": false},
+      "tr": {"text": "Cesaret, görkem, kararlılık, çeviklik, savaşta kaçmama, cömertlik ve liderlik yeteneği - bunlar Kshatriyaların görevleridir, doğalarından doğar.", "approved": false},
+      "sw": {"text": "Ushujaa, utukufu, azimio, chapukazi, kutokukimbia vitani, ukarimu, na uwezo wa kuongoza - hivi ndivyo majukumu ya Kshatriyas, yalizaliwa kutoka asili yake.", "approved": false}
+    },
+    "18.44": {
+      "he": {"text": "חקלאות, הגנת בקר ומסחר - אלו הם חובות הוישיות, הנולדות מטבען. עבודת שירות היא חובת השודרות, הנולדת מטבען.", "approved": false},
+      "ar": {"text": "الزراعة، حماية الماشية، والتجارة - هذه هي واجبات الفايشياس، المولودة من طبيعتهم. وعمل الخدمة هو واجب الشودراس، المولود من طبيعتهم.", "approved": false},
+      "tr": {"text": "Tarım, sığır koruma ve ticaret - bunlar Vaishyaların görevleridir, doğalarından doğar. Hizmet işi Shudraların görevidir, doğalarından doğar.", "approved": false},
+      "sw": {"text": "Kilimo, kulinda mifugo, na biashara - hivi ndivyo majukumu ya Vaishyas, yalizaliwa kutoka asili yake. Na kazi ya huduma ni jukumu la Shudras, linalozaliwa kutoka asili yake.", "approved": false}
+    },
+    "18.45": {
+      "he": {"text": "אדם המשיג שלמות על ידי ביצוע חובתו הטבעית - כך יגיע לשלמות. הקשב כיצד.", "approved": false},
+      "ar": {"text": "الإنسان الذي يبلغ الكمال بأداء واجبه الطبيعي - هكذا يصل إلى الكمال. استمع كيف.", "approved": false},
+      "tr": {"text": "İnsan doğal görevini yerine getirerek mükemmelliğe ulaşır - işte böyle mükemmelliğe ulaşılır. Nasıl olduğunu dinle.", "approved": false},
+      "sw": {"text": "Mtu anayefikia ukamilifu kwa kufanya jukumu lake la asili - ndivyo anavyofikia ukamilifu. Sikiliza jinsi.", "approved": false}
+    },
+    "18.46": {
+      "he": {"text": "מתוך סגידה לאלוהים, ממנו נובע הכל וממנו נפרש הכל, אדם משיג שלמות על ידי ביצוע חובתו.", "approved": false},
+      "ar": {"text": "من عبادة الله، الذي منه ينبع كل شيء ومنه ينتشر كل شيء، الإنسان يبلغ الكمال بأداء واجبه.", "approved": false},
+      "tr": {"text": "Her şeyin kendisinden kaynaklandığı ve yayıldığı Tanrı'ya tapınarak, insan görevini yerine getirerek mükemmelliğe ulaşır.", "approved": false},
+      "sw": {"text": "Kutoka kuabudu Mungu, ambaye kutoka kwake kunatoka kila kitu na kutoka kwake kumeenezwa kila kitu, mtu hufikia ukamilifu kwa kufanya jukumu lake.", "approved": false}
+    },
+    "18.47": {
+      "he": {"text": "מוטב לבצע את חובתך שלך, אף אם חסר שלמות, מאשר לבצע את חובתו של אחר בשלמות. העושה את החובה שנקבעה על ידי טבעו - לא חוטא.", "approved": false},
+      "ar": {"text": "أفضل أداء واجبك الخاص، حتى لو كان ناقصاً، من أداء واجب الآخر بكمال. من يفعل الواجب المحدد بطبيعته - لا يخطئ.", "approved": false},
+      "tr": {"text": "Kendi görevini kusurlu da olsa yapmak, başkasının görevini mükemmel yapmaktan iyidir. Doğası tarafından belirlenen görevi yapan - günah işlemez.", "approved": false},
+      "sw": {"text": "Ni bora kufanya jukumu lako mwenyewe, hata kama halikamilika, kuliko kufanya jukumu la mwingine kwa ukamilifu. Anayefanya jukumu lililoamuliwa na asili yake - hatendi dhambi.", "approved": false}
+    },
+    "18.48": {
+      "he": {"text": "אל לאדם לנטוש את חובתו הטבעית, הו קונטיה-בן! אף אם היא פגומה. כל פעולה עטופה בפגם, כאש בעשן.", "approved": false},
+      "ar": {"text": "لا يجب على الإنسان التخلي عن واجبه الطبيعي، يا ابن كونتي! حتى لو كان ناقصاً. كل عمل مغلف بنقص، كالنار بالدخان.", "approved": false},
+      "tr": {"text": "İnsan doğal görevini terk etmemeli, ey Kunti oğlu! Kusurlu olsa bile. Her eylem kusurla sarılmıştır, tıpkı ateşin dumanla.", "approved": false},
+      "sw": {"text": "Mtu hapaswi kuachilia jukumu lake la asili, ewe mwana wa Kunti! Hata kama halina kamili. Kila kitendo kimefungwa na kasoro, kama moto na moshi.", "approved": false}
+    },
+    "18.49": {
+      "he": {"text": "מי ששכלו בלתי קשור לכל, ששולט בעצמו, חסר תשוקה, משיג דרך נטישה את השלמות העליונה של חוסר-פעולה.", "approved": false},
+      "ar": {"text": "من عقله غير مرتبط بأي شيء، من يتحكم في نفسه، عديم الرغبة، يبلغ عبر التخلي الكمال الأعلى لعدم العمل.", "approved": false},
+      "tr": {"text": "Aklı hiçbir şeye bağlı olmayan, kendini kontrol eden, arzusu olmayan, vazgeçiş yoluyla eylemsizliğin en yüksek mükemmelliğine ulaşır.", "approved": false},
+      "sw": {"text": "Ambaye akili yake haijahusishwa na chochote, anayejidhibiti, asiye na tamaa, hufikia kupitia kuachilia ukamilifu wa juu wa kutokufanya.", "approved": false}
+    },
+    "18.50": {
+      "he": {"text": "למד ממני בקיצור, הו קונטיה-בן, כיצד מי שהשיג שלמות זו מגיע לברהמן - השיא של הידע.", "approved": false},
+      "ar": {"text": "تعلم مني بإيجاز، يا ابن كونتي، كيف من بلغ هذا الكمال يصل إلى البراهمان - قمة المعرفة.", "approved": false},
+      "tr": {"text": "Benden kısaca öğren, ey Kunti oğlu, bu mükemmelliğe ulaşan nasıl Brahman'a ulaşır - bilginin zirvesi.", "approved": false},
+      "sw": {"text": "Jifunze kutoka kwangu kwa ufupi, ewe mwana wa Kunti, jinsi aliyefikia ukamilifu huu anavyofikia Brahman - kilele cha elimu.", "approved": false}
+    },
+    "18.51": {
+      "he": {"text": "בעל שכל טהור, השולט בעצמו בנחישות, מוותר על קול ואובייקטי חושים אחרים, דוחה אהבה ושנאה.", "approved": false},
+      "ar": {"text": "ذو العقل النقي، المتحكم في نفسه بالعزيمة، يتخلى عن الصوت وأشياء الحواس الأخرى، يرفض الحب والكراهية.", "approved": false},
+      "tr": {"text": "Saf akla sahip, kendini kararlılıkla kontrol eden, ses ve diğer duyuların nesnelerinden vazgeçen, sevgi ve nefreti reddeden.", "approved": false},
+      "sw": {"text": "Mwenye akili saf, anayejidhibiti kwa azimio, anayeachilia sauti na vitu vingine vya hisia, anayekataa upendo na chuki.", "approved": false}
+    },
+    "18.52": {
+      "he": {"text": "חי במקום מבודד, אוכל מעט, שולט בדיבור, בגוף ובנפש, תמיד בשקיעה במדיטציה, חסר תשוקה.", "approved": false},
+      "ar": {"text": "يعيش في مكان منعزل، يأكل قليلاً، يتحكم في الكلام، والجسد، والعقل، دائماً منغمساً في التأمل، عديم الرغبة.", "approved": false},
+      "tr": {"text": "Yalnız bir yerde yaşayan, az yiyen, konuşma, beden ve zihin kontrolü sağlayan, sürekli meditasyona dalmış, arzusu olmayan.", "approved": false},
+      "sw": {"text": "Anaishi mahali pa pekee, hula kidogo, anadhibiti maneno, mwili, na akili, daima akizama katika meditetesheni, asiye na tamaa.", "approved": false}
+    },
+    "18.53": {
+      "he": {"text": "חסר אגו, אלימות, גאווה, תשוקה, כעס ורכושנות, נטול תחושת 'אני' - ראוי להפוך לברהמן.", "approved": false},
+      "ar": {"text": "عديم الأنا، والعنف، والكبرياء، والرغبة، والغضب، وامتلاك الأشياء، خالٍ من إحساس 'الأنا' - جدير بأن يصبح براهمان.", "approved": false},
+      "tr": {"text": "Ego, şiddet, kibir, arzu, öfke ve sahiplenmeden yoksun, 'ben' hissinden arınmış - Brahman olmaya layıktır.", "approved": false},
+      "sw": {"text": "Asiye na ego, vurugu, kiburi, tamaa, hasira, na umiliki, hana hisia ya 'mimi' - anastahili kuwa Brahman.", "approved": false}
+    },
+    "18.54": {
+      "he": {"text": "בהיותו ברהמן, בעל לב שקט, לא מתאבל ולא משתוקק, שווה לכל היצורים - משיג את אהבתי העליונה.", "approved": false},
+      "ar": {"text": "بكونه براهمان، ذا قلب هادئ، لا يحزن ولا يشتاق، متساوٍ لكل الكائنات - يبلغ حبي الأعلى.", "approved": false},
+      "tr": {"text": "Brahman olarak, sakin kalbe sahip, keder etmeyen ve arzu etmeyen, tüm varlıklara eşit - en yüksek sevgime ulaşır.", "approved": false},
+      "sw": {"text": "Akiwa Brahman, mwenye moyo mtulivu, hahuzuniki wala hakutaka, sawa kwa viumbe vyote - hufikia upendo wangu wa juu.", "approved": false}
+    },
+    "18.55": {
+      "he": {"text": "רק דרך מסירות ניתן להכיר את האל באמת, הו ארג'ונה. בהכירו אותי באמת, הוא נכנס לתוכי.", "approved": false},
+      "ar": {"text": "فقط عبر التفاني يمكن معرفة الله حقاً، يا أرجونا. بمعرفتي حقاً، يدخل فيّ.", "approved": false},
+      "tr": {"text": "Sadece adanmışlıkla Tanrı gerçekten bilinir, ey Arjuna. Beni gerçekten bilerek, içime girer.", "approved": false},
+      "sw": {"text": "Tu kupitia ibada ndipo Mungu anaweza kujulikana kweli, ewe Arjuna. Kwanjua mimi kweli, anaingia ndani yangu.", "approved": false}
+    },
+    "18.56": {
+      "he": {"text": "גם אם מבצע כל פעולה, מי שמבטח בי כחסד, משיג דרך חסדי את המקום הנצחי.", "approved": false},
+      "ar": {"text": "حتى لو فعل كل عمل، من يتوكل عليّ كنعمة، يبلغ عبر نعمتي المكان الأبدي.", "approved": false},
+      "tr": {"text": "Tüm eylemleri yapsa bile, bana lütuf olarak güvenen, lütfum yoluyla ebedi yere ulaşır.", "approved": false},
+      "sw": {"text": "Hata kama anafanya kila kitendo, anayeaminini kama neema, hufikia mahali pa milele kupitia neema yangu.", "approved": false}
+    },
+    "18.57": {
+      "he": {"text": "הקדש לי בלבך כל מעשיך, שים בי כחסד, ובהיותך מרוכז בשכל היוגה - חשוב עלי תמיד.", "approved": false},
+      "ar": {"text": "كرس لي في قلبك كل أعمالك، توكل عليّ كنعمة، وبكونك مركزاً في يوغا العقل - فكر فيّ دائماً.", "approved": false},
+      "tr": {"text": "Kalbinde tüm eylemlerini bana ad, bana lütuf olarak güven, ve akıl yogasında odaklanmış olarak - her zaman beni düşün.", "approved": false},
+      "sw": {"text": "Katibu kwangu moyoni mwako vitendo vyako vyote, amini kwangu kama neema, na ukiwa umelenga katika yoga ya akili - nifikirie daima.", "approved": false}
+    },
+    "18.58": {
+      "he": {"text": "בהיותך מרוכז בי, דרך חסדי תתגבר על כל המכשולים. אך אם מתוך אגו לא תקשיב - תאבד.", "approved": false},
+      "ar": {"text": "بكونك مركزاً فيّ، عبر نعمتي ستتغلب على كل العقبات. لكن إذا من الأنا لم تستمع - ستضيع.", "approved": false},
+      "tr": {"text": "Bende odaklanmış olarak, lütfumla tüm engelleri aşarsın. Ama egodan dolayı dinlemezsen - kaybolursun.", "approved": false},
+      "sw": {"text": "Ukiwa umelenga kwangu, kupitia neema yangu utashinda vizuizi vyote. Lakini kama kutoka ego hutaskiliza - utapotea.", "approved": false}
+    },
+    "18.59": {
+      "he": {"text": "אם מתוך אגו תחשוב 'לא אלחם' - מחשבתך תהיה שווא. טבעך יכריח אותך.", "approved": false},
+      "ar": {"text": "إذا من الأنا فكرت 'لن أقاتل' - فكرك سيكون باطلاً. طبيعتك ستجبرك.", "approved": false},
+      "tr": {"text": "Egodan dolayı 'Savaşmayacağım' diye düşünürsen - düşüncen boşuna olacak. Doğan seni zorlayacak.", "approved": false},
+      "sw": {"text": "Kama kutoka ego utafikiri 'Sitalipigana' - fikira lako litakuwa bure. Asili yako itakulazimisha.", "approved": false}
+    },
+    "18.60": {
+      "he": {"text": "הו קונטיה-בן! מתוך טבעך תבצע את מה שמתוך אשליה לא רצית לעשות. כבול תהיה לפעולתך.", "approved": false},
+      "ar": {"text": "يا ابن كونتي! من طبيعتك ستفعل ما من وهم لم ترد فعله. مقيداً ستكون بعملك.", "approved": false},
+      "tr": {"text": "Ey Kunti oğlu! Doğan nedeniyle yanılsamadan yapmak istemediğini yapacaksın. Eylemine bağlı olacaksın.", "approved": false},
+      "sw": {"text": "Ewe mwana wa Kunti! Kutoka asili yako utafanya kile ambacho kutoka udanganyifu hukutaka kufanya. Utakuwa umefungwa na kitendo chako.", "approved": false}
+    },
+    "18.61": {
+      "he": {"text": "האל יושב בלב כל היצורים, הו ארג'ונה! ומסובב את כולם דרך כוח האשליה, כאילו היו בובות על חוט.", "approved": false},
+      "ar": {"text": "الله يجلس في قلب كل الكائنات، يا أرجونا! ويدور بالجميع عبر قوة الوهم، كأنهم دمى على خيط.", "approved": false},
+      "tr": {"text": "Tanrı tüm varlıkların kalbinde oturur, ey Arjuna! Ve yanılsama gücüyle hepsini döndürür, sanki ipte kuklalar gibi.", "approved": false},
+      "sw": {"text": "Mungu anaketi moyoni mwa kila kiumbe, ewe Arjuna! Na anazungusha wote kupitia nguvu ya udanganyifu, kana kwamba ni wanamchezo kwenye kamba.", "approved": false}
+    },
+    "18.62": {
+      "he": {"text": "התמסר לו בכל לבך, הו בхарתה! דרך חסדו תשיג שלווה עליונה ומקום נצחי.", "approved": false},
+      "ar": {"text": "تفانَ له بكل قلبك، يا بهاراتا! عبر نعمته ستبلغ سلاماً أعلى ومكاناً أبدياً.", "approved": false},
+      "tr": {"text": "Ona tüm kalbinle adan, ey Bhārata! Lütfuyla en yüksek huzuru ve ebedi yeri elde edersin.", "approved": false},
+      "sw": {"text": "Jitoe kwake kwa moyo wako wote, ewe Bhārata! Kupitia neema yake utafikia amani ya juu na mahali pa milele.", "approved": false}
+    },
+    "18.63": {
+      "he": {"text": "כך לימדתיך ידע סודי יותר מכל סוד. הרהר בו כרצונך, ועשה כרצונך.", "approved": false},
+      "ar": {"text": "هكذا علمتك معرفة أسرية أكثر من كل سر. تأمل فيها كما تشاء، وافعل كما تشاء.", "approved": false},
+      "tr": {"text": "İşte sana her sırdan daha gizli bilgiyi öğrettim. Dilediğin gibi düşün, ve dilediğini yap.", "approved": false},
+      "sw": {"text": "Hivyo nimelisha elimu ya siri zaidi ya kila siri. Fikiria kama unavyotaka, na fanya kama unavyotaka.", "approved": false}
+    },
+    "18.64": {
+      "he": {"text": "שמע שוב את דברי הסוד העליונים. כי אתה אהוב מאוד בעיני, ולכן אדבר למענך לטובתך.", "approved": false},
+      "ar": {"text": "اسمع مرة أخرى كلماتي السرية العليا. لأنك محبوب جداً في عيني، ولذلك سأتحدث من أجلك لخيرك.", "approved": false},
+      "tr": {"text": "En yüksek gizli sözlerimi tekrar dinle. Çünkü sen gözümde çok sevilensin, bu yüzden senin için iyiliğine konuşacağım.", "approved": false},
+      "sw": {"text": "Sikiliza tena maneno yangu ya siri ya juu. Kwa sababu wewe unapendwa sana machoni pangu, na hivyo nitaongea kwa ajili yako kwa manufaa yako.", "approved": false}
+    },
+    "18.65": {
+      "he": {"text": "חשוב עלי תמיד, היה חסדי, סגוד לי, השתחוו לי. כך תבוא אלי - מבטיח לך באמת, כי אתה יקר לי.", "approved": false},
+      "ar": {"text": "فكر فيّ دائماً، كن متفانياً لي، اسجد لي، انحنِ لي. هكذا ستأتي إليّ - أعدك حقاً، لأنك عزيز عليّ.", "approved": false},
+      "tr": {"text": "Her zaman beni düşün, bana adanmış ol, bana tapın, bana eğil. Böylece bana geleceksin - sana gerçekten söz veriyorum, çünkü sen benim için değerlisin.", "approved": false},
+      "sw": {"text": "Nifikirie daima, kuwa mtumishi wangu, niabudu, nijinamie. Hivyo utakuja kwangu - ninakuahidi kweli, kwa sababu wewe ni mpenzi kwangu.", "approved": false}
+    },
+    "18.66": {
+      "he": {"text": "נטוש כל דהרמה והתמסר לי לבדי. אשחררך מכל חטא - אל תתאבל!", "approved": false},
+      "ar": {"text": "اترك كل دارما وتفانَ لي وحدي. سأحررك من كل خطيئة - لا تحزن!", "approved": false},
+      "tr": {"text": "Tüm dharma'yı terk et ve sadece bana adan. Seni tüm günahlardan özgür kılacağım - keder etme!", "approved": false},
+      "sw": {"text": "Acha kila dharma na jitoa kwangu peke yangu. Nitakuokoa kutoka kila dhambi - usihuzunike!", "approved": false}
+    },
+    "18.67": {
+      "he": {"text": "דבר זה לעולם אל תאמר למי שאין סיגוף, למי שאין מסירות, למי שאינו מוכן לשמוע, או למי שמגחך עלי.", "approved": false},
+      "ar": {"text": "هذا أبداً لا تقله لمن لا زهد له، لمن لا تفاني، لمن لا يستعد للسمع، أو لمن يسخر مني.", "approved": false},
+      "tr": {"text": "Bunu asla çilesi olmayana, adanmışlığı olmayana, dinlemeye hazır olmayana veya benimle alay edene söyleme.", "approved": false},
+      "sw": {"text": "Hili kamwe usiliseme kwa asiye na ukalipu, kwa asiye na ibada, kwa asiye tayari kusikiliza, au kwa anayenicheka.", "approved": false}
+    },
+    "18.68": {
+      "he": {"text": "מי שלימד מסירות זו לתלמידיו - יבוא אלי בוודאי.", "approved": false},
+      "ar": {"text": "من علّم هذا التفاني لتلاميذه - سيأتي إليّ بالتأكيد.", "approved": false},
+      "tr": {"text": "Bu adanmışlığı öğrencilerine öğreten - kesinlikle bana gelir.", "approved": false},
+      "sw": {"text": "Anayefundisha ibada hii kwa wanafunzi wake - hakika atakuja kwangu.", "approved": false}
+    },
+    "18.69": {
+      "he": {"text": "אין אדם שעשה למעני יותר ממך, ואין אדם יקר לי יותר ממך בעולם.", "approved": false},
+      "ar": {"text": "لا يوجد إنسان فعل من أجلي أكثر منك، ولا يوجد إنسان أعز عليّ منك في العالم.", "approved": false},
+      "tr": {"text": "Benim için senden daha fazla yapan hiçbir insan yok, ve dünyada benden senden daha değerli hiçbir insan yok.", "approved": false},
+      "sw": {"text": "Hakuna mtu amefanya kwa ajili yangu zaidi kuliko wewe, wala hakuna mtu mpenzi kwangu zaidi kuliko wewe duniani.", "approved": false}
+    },
+    "18.70": {
+      "he": {"text": "וגם מי שיקרא את שיח הקודש הזה בינינו - יסגוד לי דרך קרבן הידע. כך אני סבור.", "approved": false},
+      "ar": {"text": "وأيضاً من يقرأ هذا الحوار المقدس بيننا - سيسجد لي عبر قربان المعرفة. هكذا أعتقد.", "approved": false},
+      "tr": {"text": "Ve bizim aramızdaki bu kutsal diyaloğu okuyan - bilgi kurbanı yoluyla bana tapınacak. Böyle düşünüyorum.", "approved": false},
+      "sw": {"text": "Na pia anayesoma mazungumzo matakatu hizi kati yetu - atanisujudu kupitia sadaka ya elimu. Hivyo ninaamini.", "approved": false}
+    },
+    "18.71": {
+      "he": {"text": "וגם איש בעל אמונה, שלא ילעוג, יקשיב - אף הוא ישתחרר ויגיע לעולמות הצדיקים.", "approved": false},
+      "ar": {"text": "وأيضاً رجل ذو إيمان، الذي لا يسخر، سيستمع - هو أيضاً سيتحرر ويصل إلى عوالم الصالحين.", "approved": false},
+      "tr": {"text": "Ve ayrıca inancı olan, alay etmeyen, dinleyen adam - o da özgürleşecek ve salihlerin dünyalarına ulaşacak.", "approved": false},
+      "sw": {"text": "Na pia mtu mwenye imani, asiyecheka, atasikiliza - naye huko atakombolewa na kufikia ulimwengu wa wanyofu.", "approved": false}
+    },
+    "18.72": {
+      "he": {"text": "האם הקשבת לדברי בקשב רב, הו ארג'ונה? האם אשלייתך, שנבעה מהבורות, נהרסה?", "approved": false},
+      "ar": {"text": "هل استمعت لكلامي بانتباه شديد، يا أرجونا؟ هل وهمك، الذي نبع من الجهل، قد دُمر؟", "approved": false},
+      "tr": {"text": "Sözlerimi dikkatle dinledin mi, ey Arjuna? Cahillikten doğan yanılsaman yok edildi mi?", "approved": false},
+      "sw": {"text": "Umesikiliza maneno yangu kwa makini, ewe Arjuna? Udanganyifu wako, uliozaliwa kutoka ujinga, umeangamizwa?", "approved": false}
+    },
+    "18.73": {
+      "he": {"text": "ארג'ונה אמר: נהרסה אשלייתי, הו קרישנה! דרך חסדך השגתי זיכרון. איתן אני, חסר ספק, אפעל כדברך.", "approved": false},
+      "ar": {"text": "قال أرجونا: دُمر وهمي، يا كريشنا! عبر نعمتك حصلت على الذاكرة. أنا ثابت، عديم الشك، سأفعل ككلامك.", "approved": false},
+      "tr": {"text": "Arjuna dedi: Yanılsamam yok edildi, ey Krishna! Lütfunla hafızayı elde ettim. Sağlamım, şüphesizim, sözün gibi yapacağım.", "approved": false},
+      "sw": {"text": "Arjuna alisema: Udanganyifu wangu umeangamizwa, ewe Krishna! Kupitia neema yangu nimepata kumbukumbu. Mimi nimeimarika, sina shaka, nitafanya kama neno lako.", "approved": false}
+    },
+    "18.74": {
+      "he": {"text": "סנג'איה אמר: כך שמעתי את השיח הנפלא הזה בין קרישנה וארג'ונה, המעורר פליאה.", "approved": false},
+      "ar": {"text": "قال سنجايا: هكذا سمعت هذا الحوار الرائع بين كريشنا وأرجونا، المدهش.", "approved": false},
+      "tr": {"text": "Sanjaya dedi: İşte Krishna ve Arjuna arasındaki bu harika diyaloğu dinledim, hayret uyandırıcı.", "approved": false},
+      "sw": {"text": "Sanjaya alisema: Hivyo nimesikiliza mazungumzo ya ajabu hizi kati ya Krishna na Arjuna, yanayostaajabisha.", "approved": false}
+    },
+    "18.75": {
+      "he": {"text": "דרך חסד ויאסה שמעתי את הסוד העליון הזה על יוגה, ישירות מקרישנה, אדון כל היוגים.", "approved": false},
+      "ar": {"text": "عبر نعمة فياسا سمعت هذا السر الأعلى عن اليوغا، مباشرة من كريشنا، سيد كل اليوغيين.", "approved": false},
+      "tr": {"text": "Vyasa'nın lütfuyla yogayla ilgili bu en yüksek sırrı doğrudan Krishna'dan, tüm yogilerin efendisinden dinledim.", "approved": false},
+      "sw": {"text": "Kupitia neema ya Vyasa nimesikiliza siri hii ya juu kuhusu yoga, moja kwa moja kutoka Krishna, bwana wa yote yogis.", "approved": false}
+    }
+  },
+  "meta": {
+    "source": "/Users/anton/proj/gita/data/chapters/ch-18/chapter-source.json",
+    "generated": "2026-03-27",
+    "languages": ["he", "ar", "tr", "sw"],
+    "approved": false
+  }
+}

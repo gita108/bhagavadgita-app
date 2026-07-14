@@ -1,0 +1,1228 @@
+{
+  "vocabulary": {
+    "7400": {
+      "meaning": "지고의 주",
+      "transliteration": "슈리 바가반"
+    },
+    "7401": {
+      "meaning": "말씀하셨다",
+      "transliteration": "우바차"
+    },
+    "7402": {
+      "meaning": "위로",
+      "transliteration": "우르드바"
+    },
+    "7403": {
+      "meaning": "뿌리",
+      "transliteration": "물람"
+    },
+    "7404": {
+      "meaning": "아래로",
+      "transliteration": "아다하"
+    },
+    "7405": {
+      "meaning": "가지",
+      "transliteration": "샤캄"
+    },
+    "7406": {
+      "meaning": "아슈밧타 나무",
+      "transliteration": ""
+    },
+    "7407": {
+      "meaning": "말해진다",
+      "transliteration": "프라후후"
+    },
+    "7408": {
+      "meaning": "베다의 찬가",
+      "transliteration": "찬다암시"
+    },
+    "7409": {
+      "meaning": "나무의",
+      "transliteration": "야스야"
+    },
+    "7410": {
+      "meaning": "잎",
+      "transliteration": "팔라니"
+    },
+    "7411": {
+      "meaning": "누구",
+      "transliteration": "야하"
+    },
+    "7412": {
+      "meaning": "그것을",
+      "transliteration": "탐"
+    },
+    "7413": {
+      "meaning": "안다",
+      "transliteration": "베다"
+    },
+    "7414": {
+      "meaning": "그",
+      "transliteration": "사하"
+    },
+    "7415": {
+      "meaning": "베다를 아는 자",
+      "transliteration": "베다빗"
+    },
+    "7416": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7417": {
+      "meaning": "아래로",
+      "transliteration": "아다하"
+    },
+    "7418": {
+      "meaning": "위로",
+      "transliteration": "우르드바므"
+    },
+    "7419": {
+      "meaning": "뻗어나간",
+      "transliteration": "프라스리타하"
+    },
+    "7420": {
+      "meaning": "그 나무의",
+      "transliteration": "타스야"
+    },
+    "7421": {
+      "meaning": "가지들",
+      "transliteration": "샤카하"
+    },
+    "7422": {
+      "meaning": "양상에 의해 양육된",
+      "transliteration": "구나 프라브르다하"
+    },
+    "7423": {
+      "meaning": "감각의 대상들",
+      "transliteration": "비샤야 프라바라하"
+    },
+    "7424": {
+      "meaning": "새싹",
+      "transliteration": "프라바라하"
+    },
+    "7425": {
+      "meaning": "뿌리",
+      "transliteration": "물라니"
+    },
+    "7426": {
+      "meaning": "아래로",
+      "transliteration": "아다하"
+    },
+    "7427": {
+      "meaning": "또한",
+      "transliteration": "차"
+    },
+    "7428": {
+      "meaning": "공중뿌리",
+      "transliteration": "물라니"
+    },
+    "7429": {
+      "meaning": "뻗은",
+      "transliteration": "아누산타타니"
+    },
+    "7430": {
+      "meaning": "업",
+      "transliteration": "카르마"
+    },
+    "7431": {
+      "meaning": "속박하는",
+      "transliteration": "아누반디니"
+    },
+    "7432": {
+      "meaning": "인간계에서",
+      "transliteration": "마누샤 로케"
+    },
+    "7433": {
+      "meaning": "않다",
+      "transliteration": "나"
+    },
+    "7434": {
+      "meaning": "형상",
+      "transliteration": "루팜"
+    },
+    "7435": {
+      "meaning": "이 나무의",
+      "transliteration": "아스야"
+    },
+    "7436": {
+      "meaning": "이 세상에서",
+      "transliteration": "이하"
+    },
+    "7437": {
+      "meaning": "그렇게",
+      "transliteration": "타타"
+    },
+    "7438": {
+      "meaning": "이해된다",
+      "transliteration": "우파라브야테"
+    },
+    "7439": {
+      "meaning": "없다",
+      "transliteration": "나"
+    },
+    "7440": {
+      "meaning": "끝",
+      "transliteration": "안타하"
+    },
+    "7441": {
+      "meaning": "없다",
+      "transliteration": "나"
+    },
+    "7442": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7443": {
+      "meaning": "시작",
+      "transliteration": "아디하"
+    },
+    "7444": {
+      "meaning": "없다",
+      "transliteration": "나"
+    },
+    "7445": {
+      "meaning": "또한",
+      "transliteration": "차"
+    },
+    "7446": {
+      "meaning": "기반",
+      "transliteration": "삼 프라티슈타"
+    },
+    "7447": {
+      "meaning": "아슈밧타 나무",
+      "transliteration": "아슈밧탐"
+    },
+    "7448": {
+      "meaning": "이",
+      "transliteration": "에남"
+    },
+    "7449": {
+      "meaning": "잘",
+      "transliteration": "수 비 루 다"
+    },
+    "7450": {
+      "meaning": "뿌리",
+      "transliteration": "물람"
+    },
+    "7451": {
+      "meaning": "무집착",
+      "transliteration": "아상가"
+    },
+    "7452": {
+      "meaning": "무기로",
+      "transliteration": "샤스트레나"
+    },
+    "7453": {
+      "meaning": "견고한",
+      "transliteration": "드리데나"
+    },
+    "7454": {
+      "meaning": "잘라",
+      "transliteration": "치트바"
+    },
+    "7455": {
+      "meaning": "그 후에",
+      "transliteration": "타타하"
+    },
+    "7456": {
+      "meaning": "그 경지",
+      "transliteration": "타트 파담"
+    },
+    "7457": {
+      "meaning": "구해야 한다",
+      "transliteration": "프라 리 마 가 타 뱌므"
+    },
+    "7458": {
+      "meaning": "거기에",
+      "transliteration": "야스민"
+    },
+    "7459": {
+      "meaning": "간 자들",
+      "transliteration": "가타하"
+    },
+    "7460": {
+      "meaning": "않는다",
+      "transliteration": "나"
+    },
+    "7461": {
+      "meaning": "돌아온다",
+      "transliteration": "니바단티"
+    },
+    "7462": {
+      "meaning": "다시",
+      "transliteration": "부야하"
+    },
+    "7463": {
+      "meaning": "그분께",
+      "transliteration": "탐"
+    },
+    "7464": {
+      "meaning": "정말로",
+      "transliteration": "에바"
+    },
+    "7465": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7466": {
+      "meaning": "태초의",
+      "transliteration": "아디얌"
+    },
+    "7467": {
+      "meaning": "인격신",
+      "transliteration": "푸루샴"
+    },
+    "7468": {
+      "meaning": "나는 귀의한다",
+      "transliteration": "프라 파디에"
+    },
+    "7469": {
+      "meaning": "누구로부터",
+      "transliteration": "야타하"
+    },
+    "7470": {
+      "meaning": "활동",
+      "transliteration": "프라브르티하"
+    },
+    "7471": {
+      "meaning": "뻗어나간",
+      "transliteration": "프라스리타"
+    },
+    "7472": {
+      "meaning": "옛적의",
+      "transliteration": "프라니"
+    },
+    "7473": {
+      "meaning": "없는",
+      "transliteration": "니하"
+    },
+    "7474": {
+      "meaning": "교만",
+      "transliteration": "마나"
+    },
+    "7475": {
+      "meaning": "와 망상",
+      "transliteration": "모하하"
+    },
+    "7476": {
+      "meaning": "이긴",
+      "transliteration": "지타"
+    },
+    "7477": {
+      "meaning": "교제",
+      "transliteration": "상가"
+    },
+    "7478": {
+      "meaning": "과실",
+      "transliteration": "도샤하"
+    },
+    "7479": {
+      "meaning": "영적인",
+      "transliteration": "아디야트마"
+    },
+    "7480": {
+      "meaning": "영원한",
+      "transliteration": "니타하"
+    },
+    "7481": {
+      "meaning": "완전히 극복한",
+      "transliteration": "비니브르타"
+    },
+    "7482": {
+      "meaning": "욕망",
+      "transliteration": "카마하"
+    },
+    "7483": {
+      "meaning": "이원성에 의해",
+      "transliteration": "드반 드바이하"
+    },
+    "7484": {
+      "meaning": "완전히 해방된",
+      "transliteration": "비묵타하"
+    },
+    "7485": {
+      "meaning": "기쁨",
+      "transliteration": "수카"
+    },
+    "7486": {
+      "meaning": "와 슬픔",
+      "transliteration": "두카"
+    },
+    "7487": {
+      "meaning": "불리는",
+      "transliteration": "산쥬냐하"
+    },
+    "7488": {
+      "meaning": "그들은 도달한다",
+      "transliteration": "가찬티"
+    },
+    "7489": {
+      "meaning": "미혹되지 않은 자",
+      "transliteration": "아무다하하"
+    },
+    "7490": {
+      "meaning": "거처",
+      "transliteration": "파담"
+    },
+    "7491": {
+      "meaning": "불멸의",
+      "transliteration": "아비야얌"
+    },
+    "7492": {
+      "meaning": "그",
+      "transliteration": "타트"
+    },
+    "7493": {
+      "meaning": "않다",
+      "transliteration": "나"
+    },
+    "7494": {
+      "meaning": "그것을",
+      "transliteration": "타트"
+    },
+    "7495": {
+      "meaning": "비추다",
+      "transliteration": "바사야테"
+    },
+    "7496": {
+      "meaning": "태양",
+      "transliteration": "수리야하"
+    },
+    "7497": {
+      "meaning": "않다",
+      "transliteration": "나"
+    },
+    "7498": {
+      "meaning": "달",
+      "transliteration": "샤샹카하"
+    },
+    "7499": {
+      "meaning": "않다",
+      "transliteration": "나"
+    },
+    "7500": {
+      "meaning": "불",
+      "transliteration": "파바카하"
+    },
+    "7501": {
+      "meaning": "거기에",
+      "transliteration": "야트"
+    },
+    "7502": {
+      "meaning": "도달하여",
+      "transliteration": "갓트바"
+    },
+    "7503": {
+      "meaning": "않는다",
+      "transliteration": "나"
+    },
+    "7504": {
+      "meaning": "그들은 돌아온다",
+      "transliteration": "니바단테"
+    },
+    "7505": {
+      "meaning": "그것",
+      "transliteration": "타트"
+    },
+    "7506": {
+      "meaning": "거처",
+      "transliteration": "다마"
+    },
+    "7507": {
+      "meaning": "최고의",
+      "transliteration": "파라맘"
+    },
+    "7508": {
+      "meaning": "나의",
+      "transliteration": "마마"
+    },
+    "7509": {
+      "meaning": "나의",
+      "transliteration": "마마"
+    },
+    "7510": {
+      "meaning": "정말로",
+      "transliteration": "에바"
+    },
+    "7511": {
+      "meaning": "조각",
+      "transliteration": "암샤하"
+    },
+    "7512": {
+      "meaning": "생명계에서",
+      "transliteration": "지바 로케"
+    },
+    "7513": {
+      "meaning": "생명체로서",
+      "transliteration": "지바 부타하"
+    },
+    "7514": {
+      "meaning": "영원한",
+      "transliteration": "사나타나하"
+    },
+    "7515": {
+      "meaning": "마음",
+      "transliteration": "마나하"
+    },
+    "7516": {
+      "meaning": "여섯",
+      "transliteration": "샤슈타니"
+    },
+    "7517": {
+      "meaning": "감각",
+      "transliteration": "인드리야니"
+    },
+    "7518": {
+      "meaning": "자연의",
+      "transliteration": "프라크리티"
+    },
+    "7519": {
+      "meaning": "위치한",
+      "transliteration": "스타니"
+    },
+    "7520": {
+      "meaning": "끌어당긴다",
+      "transliteration": "카르샤티"
+    },
+    "7521": {
+      "meaning": "몸",
+      "transliteration": "샤리람"
+    },
+    "7522": {
+      "meaning": "무엇을",
+      "transliteration": "야트"
+    },
+    "7523": {
+      "meaning": "얻는다",
+      "transliteration": "아바프노티"
+    },
+    "7524": {
+      "meaning": "무엇을",
+      "transliteration": "야트"
+    },
+    "7525": {
+      "meaning": "그리고 또한",
+      "transliteration": "차 아피"
+    },
+    "7526": {
+      "meaning": "떠난다",
+      "transliteration": "우트 크라마티"
+    },
+    "7527": {
+      "meaning": "주재자",
+      "transliteration": "이슈바라하"
+    },
+    "7528": {
+      "meaning": "가지고",
+      "transliteration": "그리히트바"
+    },
+    "7529": {
+      "meaning": "이것들을",
+      "transliteration": "에타니"
+    },
+    "7530": {
+      "meaning": "그는 간다",
+      "transliteration": "산야티"
+    },
+    "7531": {
+      "meaning": "바람",
+      "transliteration": "바유하"
+    },
+    "7532": {
+      "meaning": "향기",
+      "transliteration": "간다안"
+    },
+    "7533": {
+      "meaning": "마치",
+      "transliteration": "이바"
+    },
+    "7534": {
+      "meaning": "그 근원에서",
+      "transliteration": "아샤야트"
+    },
+    "7535": {
+      "meaning": "귀",
+      "transliteration": "쇼트람"
+    },
+    "7536": {
+      "meaning": "눈",
+      "transliteration": "차크슈하"
+    },
+    "7537": {
+      "meaning": "촉각",
+      "transliteration": "스파르샤남"
+    },
+    "7538": {
+      "meaning": "와",
+      "transliteration": "차"
+    },
+    "7539": {
+      "meaning": "혀",
+      "transliteration": "라사남"
+    },
+    "7540": {
+      "meaning": "코",
+      "transliteration": "그라남"
+    },
+    "7541": {
+      "meaning": "정말로",
+      "transliteration": "에바"
+    },
+    "7542": {
+      "meaning": "거하여",
+      "transliteration": "아디슈타야"
+    },
+    "7543": {
+      "meaning": "마음",
+      "transliteration": "마나하"
+    },
+    "7544": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7545": {
+      "meaning": "이",
+      "transliteration": "아얌"
+    },
+    "7546": {
+      "meaning": "대상",
+      "transliteration": "비샤얀"
+    },
+    "7547": {
+      "meaning": "향유한다",
+      "transliteration": "우파세바테"
+    },
+    "7548": {
+      "meaning": "떠나는",
+      "transliteration": "우트 크라만탐"
+    },
+    "7549": {
+      "meaning": "머무는",
+      "transliteration": "스티탐"
+    },
+    "7550": {
+      "meaning": "또는",
+      "transliteration": "바"
+    },
+    "7551": {
+      "meaning": "비록",
+      "transliteration": "아피"
+    },
+    "7552": {
+      "meaning": "향유하는",
+      "transliteration": "분자남"
+    },
+    "7553": {
+      "meaning": "또는",
+      "transliteration": "바"
+    },
+    "7554": {
+      "meaning": "양상",
+      "transliteration": "구나"
+    },
+    "7555": {
+      "meaning": "동반한",
+      "transliteration": "안비탐"
+    },
+    "7556": {
+      "meaning": "미혹된 자",
+      "transliteration": "비무다하하"
+    },
+    "7557": {
+      "meaning": "않는다",
+      "transliteration": "나"
+    },
+    "7558": {
+      "meaning": "본다",
+      "transliteration": "아누파샨티"
+    },
+    "7559": {
+      "meaning": "본다",
+      "transliteration": "파샨티"
+    },
+    "7560": {
+      "meaning": "지식",
+      "transliteration": "쥬냐나"
+    },
+    "7561": {
+      "meaning": "눈",
+      "transliteration": "차크슈샤하"
+    },
+    "7562": {
+      "meaning": "노력하는",
+      "transliteration": "야탄타하"
+    },
+    "7563": {
+      "meaning": "요기",
+      "transliteration": "요기나하"
+    },
+    "7564": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7565": {
+      "meaning": "이것을",
+      "transliteration": "에남"
+    },
+    "7566": {
+      "meaning": "본다",
+      "transliteration": "파샨티"
+    },
+    "7567": {
+      "meaning": "자아 안에",
+      "transliteration": "아트마니"
+    },
+    "7568": {
+      "meaning": "안주하는",
+      "transliteration": "아바스티탐"
+    },
+    "7569": {
+      "meaning": "노력",
+      "transliteration": "야탄타하"
+    },
+    "7570": {
+      "meaning": "비록",
+      "transliteration": "아피"
+    },
+    "7571": {
+      "meaning": "성취되지 않은 자아",
+      "transliteration": "아크리타 아트마노"
+    },
+    "7572": {
+      "meaning": "않는다",
+      "transliteration": "나"
+    },
+    "7573": {
+      "meaning": "이것을",
+      "transliteration": "에남"
+    },
+    "7574": {
+      "meaning": "본다",
+      "transliteration": "파샨티"
+    },
+    "7575": {
+      "meaning": "무의식한 자",
+      "transliteration": "아체타사하"
+    },
+    "7576": {
+      "meaning": "무엇을",
+      "transliteration": "야트"
+    },
+    "7577": {
+      "meaning": "태양에 있는",
+      "transliteration": "아디티야 가탐"
+    },
+    "7578": {
+      "meaning": "광휘",
+      "transliteration": "테자하"
+    },
+    "7579": {
+      "meaning": "세계",
+      "transliteration": "자갓"
+    },
+    "7580": {
+      "meaning": "비추는",
+      "transliteration": "바사야테"
+    },
+    "7581": {
+      "meaning": "모든",
+      "transliteration": "아킬람"
+    },
+    "7582": {
+      "meaning": "무엇을",
+      "transliteration": "야트"
+    },
+    "7583": {
+      "meaning": "달에 있는",
+      "transliteration": "찬드라마시"
+    },
+    "7584": {
+      "meaning": "무엇을",
+      "transliteration": "야트"
+    },
+    "7585": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7586": {
+      "meaning": "불에 있는",
+      "transliteration": "아그나우"
+    },
+    "7587": {
+      "meaning": "그것을",
+      "transliteration": "타트"
+    },
+    "7588": {
+      "meaning": "광휘",
+      "transliteration": "테자하"
+    },
+    "7589": {
+      "meaning": "알라",
+      "transliteration": "비디"
+    },
+    "7590": {
+      "meaning": "나의",
+      "transliteration": "마마캄"
+    },
+    "7591": {
+      "meaning": "대지",
+      "transliteration": "감"
+    },
+    "7592": {
+      "meaning": "들어가",
+      "transliteration": "아비샤야"
+    },
+    "7593": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7594": {
+      "meaning": "중생",
+      "transliteration": "부타니"
+    },
+    "7595": {
+      "meaning": "나는 지탱한다",
+      "transliteration": "다라야미"
+    },
+    "7596": {
+      "meaning": "나",
+      "transliteration": "아함"
+    },
+    "7597": {
+      "meaning": "에너지",
+      "transliteration": "오자사"
+    },
+    "7598": {
+      "meaning": "나는 양육한다",
+      "transliteration": "푸샤나미"
+    },
+    "7599": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7600": {
+      "meaning": "약초",
+      "transliteration": "오샤디하"
+    },
+    "7601": {
+      "meaning": "모든",
+      "transliteration": "사르바하"
+    },
+    "7602": {
+      "meaning": "달",
+      "transliteration": "소마하"
+    },
+    "7603": {
+      "meaning": "되어",
+      "transliteration": "부트바"
+    },
+    "7604": {
+      "meaning": "즙으로 가득 찬",
+      "transliteration": "라사트마카하"
+    },
+    "7605": {
+      "meaning": "나",
+      "transliteration": "아함"
+    },
+    "7606": {
+      "meaning": "소화의 불",
+      "transliteration": "바이슈바나라하"
+    },
+    "7607": {
+      "meaning": "되어",
+      "transliteration": "부트바"
+    },
+    "7608": {
+      "meaning": "중생의",
+      "transliteration": "프라니남"
+    },
+    "7609": {
+      "meaning": "몸",
+      "transliteration": "데함"
+    },
+    "7610": {
+      "meaning": "의지하여",
+      "transliteration": "아슈리타하"
+    },
+    "7611": {
+      "meaning": "~와 함께",
+      "transliteration": "사마유타하"
+    },
+    "7612": {
+      "meaning": "하행기",
+      "transliteration": "프라나 파나"
+    },
+    "7613": {
+      "meaning": "연합하여",
+      "transliteration": "사마유타하"
+    },
+    "7614": {
+      "meaning": "나는 소화한다",
+      "transliteration": "파자미"
+    },
+    "7615": {
+      "meaning": "음식",
+      "transliteration": "안남"
+    },
+    "7616": {
+      "meaning": "네",
+      "transliteration": "차투후"
+    },
+    "7617": {
+      "meaning": "종류의",
+      "transliteration": "비담"
+    },
+    "7618": {
+      "meaning": "모든",
+      "transliteration": "사르바스야"
+    },
+    "7619": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7620": {
+      "meaning": "나",
+      "transliteration": "아함"
+    },
+    "7621": {
+      "meaning": "마음 속에",
+      "transliteration": "흐리디"
+    },
+    "7622": {
+      "meaning": "앉아 계신",
+      "transliteration": "삼니비슈토"
+    },
+    "7623": {
+      "meaning": "나로부터",
+      "transliteration": "맛타하"
+    },
+    "7624": {
+      "meaning": "기억",
+      "transliteration": "스므리티하"
+    },
+    "7625": {
+      "meaning": "지식",
+      "transliteration": "쥬냐남"
+    },
+    "7626": {
+      "meaning": "망각",
+      "transliteration": "아포하남"
+    },
+    "7627": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7628": {
+      "meaning": "베다에 의해",
+      "transliteration": "베다이후"
+    },
+    "7629": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7630": {
+      "meaning": "모든",
+      "transliteration": "사르바이후"
+    },
+    "7631": {
+      "meaning": "나",
+      "transliteration": "아함"
+    },
+    "7632": {
+      "meaning": "정말로",
+      "transliteration": "에바"
+    },
+    "7633": {
+      "meaning": "알려져야 할",
+      "transliteration": "베디요"
+    },
+    "7634": {
+      "meaning": "베단타의 창조자",
+      "transliteration": "베단타 크리트"
+    },
+    "7635": {
+      "meaning": "베다를 아는 자",
+      "transliteration": "베다빗"
+    },
+    "7636": {
+      "meaning": "정말로",
+      "transliteration": "에바"
+    },
+    "7637": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7638": {
+      "meaning": "나",
+      "transliteration": "아함"
+    },
+    "7639": {
+      "meaning": "둘",
+      "transliteration": "드바우"
+    },
+    "7640": {
+      "meaning": "이",
+      "transliteration": "이마우"
+    },
+    "7641": {
+      "meaning": "인간",
+      "transliteration": "푸루샤우"
+    },
+    "7642": {
+      "meaning": "세상에",
+      "transliteration": "로케"
+    },
+    "7643": {
+      "meaning": "소멸하는",
+      "transliteration": "크샤라하"
+    },
+    "7644": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7645": {
+      "meaning": "불멸하는",
+      "transliteration": "아크샤라 에바"
+    },
+    "7646": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7647": {
+      "meaning": "소멸하는",
+      "transliteration": "크샤라하"
+    },
+    "7648": {
+      "meaning": "모든",
+      "transliteration": "사르바니"
+    },
+    "7649": {
+      "meaning": "중생",
+      "transliteration": "부타니"
+    },
+    "7650": {
+      "meaning": "불변의",
+      "transliteration": "쿠타스타하"
+    },
+    "7651": {
+      "meaning": "불멸하는",
+      "transliteration": "아크샤라하"
+    },
+    "7652": {
+      "meaning": "말해진다",
+      "transliteration": "우챠테"
+    },
+    "7653": {
+      "meaning": "최고의",
+      "transliteration": "우타마하"
+    },
+    "7654": {
+      "meaning": "인간",
+      "transliteration": "푸루샤하"
+    },
+    "7655": {
+      "meaning": "그러나",
+      "transliteration": "투"
+    },
+    "7656": {
+      "meaning": "다른",
+      "transliteration": "안야하"
+    },
+    "7657": {
+      "meaning": "초월영혼",
+      "transliteration": "빠라마뜨마"
+    },
+    "7658": {
+      "meaning": "말해진다",
+      "transliteration": "이티"
+    },
+    "7659": {
+      "meaning": "선포된",
+      "transliteration": "우다후리타하"
+    },
+    "7660": {
+      "meaning": "누구",
+      "transliteration": "야하"
+    },
+    "7661": {
+      "meaning": "삼계",
+      "transliteration": "로카 트라얌"
+    },
+    "7662": {
+      "meaning": "들어가",
+      "transliteration": "아비샤야"
+    },
+    "7663": {
+      "meaning": "지탱한다",
+      "transliteration": "비브리티"
+    },
+    "7664": {
+      "meaning": "불멸의",
+      "transliteration": "아비야야"
+    },
+    "7665": {
+      "meaning": "주재자",
+      "transliteration": "이슈바라하"
+    },
+    "7666": {
+      "meaning": "왜냐하면",
+      "transliteration": "야스마트"
+    },
+    "7667": {
+      "meaning": "소멸하는",
+      "transliteration": "크샤람"
+    },
+    "7668": {
+      "meaning": "초월하여",
+      "transliteration": "아티트"
+    },
+    "7669": {
+      "meaning": "나",
+      "transliteration": "아함"
+    },
+    "7670": {
+      "meaning": "불멸하는",
+      "transliteration": "아크샤라트"
+    },
+    "7671": {
+      "meaning": "비록",
+      "transliteration": "아피"
+    },
+    "7672": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7673": {
+      "meaning": "더 높은",
+      "transliteration": ""
+    },
+    "7674": {
+      "meaning": "그러므로",
+      "transliteration": "아타하"
+    },
+    "7675": {
+      "meaning": "이다",
+      "transliteration": "아스미"
+    },
+    "7676": {
+      "meaning": "세상에서",
+      "transliteration": "로케"
+    },
+    "7677": {
+      "meaning": "나는 찬양받는다",
+      "transliteration": "프라티타하"
+    },
+    "7678": {
+      "meaning": "지고의 인격신",
+      "transliteration": "푸루샤 우타마하"
+    },
+    "7679": {
+      "meaning": "누구",
+      "transliteration": "야하"
+    },
+    "7680": {
+      "meaning": "나를",
+      "transliteration": "마암"
+    },
+    "7681": {
+      "meaning": "이렇게",
+      "transliteration": "에밤"
+    },
+    "7682": {
+      "meaning": "망각 없이",
+      "transliteration": "아삼무다하"
+    },
+    "7683": {
+      "meaning": "안다",
+      "transliteration": "자나티"
+    },
+    "7684": {
+      "meaning": "지고의 인격신",
+      "transliteration": "푸루샤 우타마맘"
+    },
+    "7685": {
+      "meaning": "그",
+      "transliteration": "사하"
+    },
+    "7686": {
+      "meaning": "전지자",
+      "transliteration": "사르바빗"
+    },
+    "7687": {
+      "meaning": "숭배한다",
+      "transliteration": "바자티"
+    },
+    "7688": {
+      "meaning": "나를",
+      "transliteration": "마암"
+    },
+    "7689": {
+      "meaning": "온",
+      "transliteration": "사르바"
+    },
+    "7690": {
+      "meaning": "마음으로",
+      "transliteration": "바베나"
+    },
+    "7691": {
+      "meaning": "바라타의 후손",
+      "transliteration": "바라타"
+    },
+    "7692": {
+      "meaning": "이렇게",
+      "transliteration": "이티"
+    },
+    "7693": {
+      "meaning": "가장 비밀스러운",
+      "transliteration": "구햐타맘"
+    },
+    "7694": {
+      "meaning": "성전",
+      "transliteration": "샤스트람"
+    },
+    "7695": {
+      "meaning": "이",
+      "transliteration": "이담"
+    },
+    "7696": {
+      "meaning": "말씀하신",
+      "transliteration": "우크탐"
+    },
+    "7697": {
+      "meaning": "나에 의해",
+      "transliteration": "마야"
+    },
+    "7698": {
+      "meaning": "죄 없는",
+      "transliteration": "아나가"
+    },
+    "7699": {
+      "meaning": "이것을",
+      "transliteration": "에타트"
+    },
+    "7700": {
+      "meaning": "이해하여",
+      "transliteration": "붓디트바"
+    },
+    "7701": {
+      "meaning": "지혜로운 자",
+      "transliteration": "붓디만"
+    },
+    "7702": {
+      "meaning": "될 것이다",
+      "transliteration": "샤트"
+    },
+    "7703": {
+      "meaning": "성취한 자",
+      "transliteration": "크리타 크리야하"
+    },
+    "7704": {
+      "meaning": "그리고",
+      "transliteration": "차"
+    },
+    "7705": {
+      "meaning": "바라타의 후손",
+      "transliteration": "바라타"
+    }
+  }
+}

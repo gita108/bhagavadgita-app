@@ -1,0 +1,143 @@
+Id,BookId,Name,Order
+1,1,Осмотр Армий,1
+2,1,Душа в мире материи,2
+3,1,Йога деятельности,3
+4,1,Йога обретения духовного знания,4
+5,1,Деятельность в отречении,5
+6,1,Медитативная йога,6
+7,1,Постижение Абсолюта и Его энергий,7
+8,1,Достижение высшей Реальности,8
+9,1,Тайное сокровище преданности,9
+10,1,Величие и красота Господа,10
+11,1,Созерцание вселенского образа,11
+12,1,Йога преданности,12
+13,1,Подчиненное и господствующее начала,13
+14,1,Три гуны материального мира,14
+15,1,Высшая Личность,15
+16,1,Божественные и демонические качества,16
+17,1,Три вида веры,17
+18,1,Йога освобождения,18
+19,2,Observing the Armies,1
+20,2,The Constitution of the Soul,2
+21,2,The Path of Action,3
+22,2,The Path of Knowledge,4
+23,2,The Path of Renunciation of Action,5
+24,2,The Path of Meditation,6
+25,2,Knowledge and Realisation of the Supreme,7
+26,2,The Merciful Absolute,8
+27,2,The Hidden Treasure of Devotion,9
+28,2,The Divine Glories of the Lord,10
+29,2,The Vision of the Universal Form,11
+30,2,The Path of Devotion,12
+31,2,Distinction Between Matter and Spirit,13
+32,2,The Three Divisions of Material Nature,14
+33,2,The Supreme Person,15
+34,2,The Godly and Ungodly Natures,16
+35,2,The Three Types of Faith,17
+36,2,The Path of Liberation,18
+73,5,Observing the Armies,1
+74,5,The Constitution of the Soul,2
+75,5,The Path of Action,3
+76,5,The Path of Knowledge,4
+77,5,The Path of Renunciation of Action,5
+78,5,The Path of Meditation,6
+79,5,Knowledge and Realisation of the Supreme,7
+80,5,The Merciful Absolute,8
+81,5,The Hidden Treasure of Devotion,9
+82,5,The Divine Glories of the Lord,10
+83,5,The Vision of the Universal Form,11
+84,5,The Path of Devotion,12
+85,5,Distinction Between Matter and Spirit,13
+86,5,The Three Divisions of Material Nature,14
+87,5,The Supreme Person,15
+88,5,The Godly and Ungodly Natures,16
+89,5,The Three Types of Faith,17
+90,5,The Path of Liberation,18
+109,8,Observing the Armies,1
+110,8,Chapter Two,2
+111,8,Chapter Three,3
+112,8,Chapter Four,4
+113,8,Chapter Five,5
+114,8,Chapter Six,6
+115,8,Chapter Seven,7
+116,8,Chapter Eight,8
+117,8,Chapter Nine,9
+118,8,Chapter Ten,10
+119,8,Chapter Eleven,11
+120,8,Chapter Twelve,12
+121,8,Chapter Thirteen,13
+122,8,Chapter Fourteen,14
+123,8,Chapter Fifteen,15
+124,8,Chapter Sixteen,16
+125,8,Chapter Seventeen,17
+126,8,Chapter Eightteen,18
+145,11,"ERSTES KAPITEL
+Sainya-Darśana
+Blick über die armeen",1
+146,11,"ZWEITES KAPITEL
+Sāṅkhya-Yoga
+Die beschaffenheit der Seele",2
+147,11,"DRITTES KAPITEL
+Karma-Yoga
+Der Pfad des Handelns",3
+148,11,"VIERTES KAPITEL
+Jñāna-Yoga
+Der Pfad des Wissens",4
+149,11,"FÜNFTES KAPITEL
+Karmasannyāsa-Yoga
+Der Pfad der Entsagung des Handelns",5
+150,11,SECHSTES KAPITEL Dhyāna-YogaDer Pfad Der Meditation,6
+151,11,SIEBTES KAPITEL Jñāna-Vijñāna-YogaWissen und Erkenntnis vom Höchsten,7
+152,11,"ACHTES KAPITEL
+Tāraka-Brahma-Yoga
+Der barmherzige Absolute",8
+153,11,"NEUNTES KAPITEL
+Rāja-Guhya-Yoga
+Der verborgene Schatz der Hingabe",9
+154,11,"ZEHNTES KAPITEL
+Vibhūti-Yoga
+Die göttliche Glorie des Herrn",10
+155,11,"ELFTES KAPITEL
+Viśvarūpa-Darśana-Yoga
+Die Vision der kosmischen Gestalt",11
+156,11,"ZWÖLFTES KAPITEL
+Bhakti-Yoga
+Der Pfad der Hingabe",12
+157,11,"DREIZEHNTES KAPITEL
+Prakṛti-Puruṣa-Viveka-Yoga
+Der Pfad des Unterscheidens
+zwischen Spirituellem
+und Materiellem",13
+158,11,"VIERZEHNTES KAPITEL
+Guṇatraya-Vibhāga-Yoga
+Die Dreiteilung der materiellen Natur",14
+159,11,"FÜNFZEHNTES KAPITEL
+Puruṣottama-Yoga
+Die Höchste Person",15
+160,11,"SECHZEHNTES KAPITEL
+Daivāsura-Sampad-Vibhāga-Yoga
+Die Göttlichen und die Gottlosen",16
+161,11,"SIEBZEHNTES KAPITEL
+Śraddhātraya-Vibhāga-Yoga
+Die drei Arten von Glauben",17
+162,11,"ACHTZEHNTES KAPITEL
+Mokṣa-Yoga
+Der Pfad der Erlösung",18
+181,14,Sainya-darshan. Los dos ejércitos,1
+182,14,Sankhya-yoga. La materia y la conciencia,2
+183,14,Karma-Yoga. El sendero de la acción,3
+184,14,Guiana-Yoga. El sendero del Conocimiento Divino,4
+185,14,Karma-sannyasa-yoga. El sendero de la Armonía Divina,5
+186,14,Dhyana–yoga. El sendero de la Meditación,6
+187,14,Guiana-viguiana-yoga. Los conceptos Relativo y Absoluto del Supremo,7
+188,14,Taraka-brahma-yoga. El sendero de la Libertad Absoluta,8
+189,14,Radzha-guhya-yoga. El tesoro oculto,9
+190,14,Vibhuti–yoga. El gran tesoro,10
+191,14,Vishva-rupa-darshana-yoga. La forma Universal,11
+192,14,Bhakti-yoga. El sendero de la devoción,12
+193,14,Pakriti–purusha–viveka–yoga. La Conciencia y la Materia: El Predominante y el Predominado,13
+194,14,Gunatraya-vibhaga-yoga. La Materia y sus tres estados,14
+195,14,Purushottama–yoga. La Suprema Persona,15
+196,14,Daivasura–sampad–vibhaga–yoga. La naturaleza divina y la naturaleza demoníaca.,16
+197,14,Shraddhatraya–vibhaga–yoga. Los tres tipos de Fé,17
+198,14,Moksha–yoga. La libertad Absoluta,18

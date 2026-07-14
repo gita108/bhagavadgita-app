@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml" hash="1691590" filehash="fffff31ba0e5a274" flags="110000" assembly="Gita.Web.Publish" type="ASP._Page_Areas_HelpPage_Views_Help_DisplayTemplates_HelpPageApiModel_cshtml">
+  <filedeps>
+    <filedep name="/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml" />
+  </filedeps>
+</preserve>

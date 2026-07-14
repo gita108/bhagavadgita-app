@@ -1,0 +1,1556 @@
+{
+  "chapter": 10,
+  "meta": {
+    "source": "/Users/anton/proj/gita/data/chapters/ch-10/vocabulary-source.json",
+    "generated": "2026-03-27",
+    "languages": [
+      "th",
+      "zh-TW",
+      "ja",
+      "ko"
+    ],
+    "approved": false
+  },
+  "vocabulary": {
+    "20385": {
+      "meaning": {
+        "th": "โอ้พระเจ้าแห่งสรรพสัตว์ทั้งปวง",
+        "zh-TW": "眾生之主",
+        "ja": "全生命の主よ",
+        "ko": "만유의 주님이시여"
+      },
+      "transliteration": {
+        "th": "(เห) ภูตา-อีศา",
+        "zh-TW": "(赫) 布塔 - 伊沙",
+        "ja": "(ヘー) ブータ・イーシャ",
+        "ko": "(헤) 부타-이사"
+      }
+    },
+    "20386": {
+      "meaning": {
+        "th": "โอ้พระเจ้าแห่งเทพทั้งปวง",
+        "zh-TW": "眾神之神",
+        "ja": "神々の神よ",
+        "ko": "신들의 신이시여"
+      },
+      "transliteration": {
+        "th": "(เห) เทวะ-เทวะ",
+        "zh-TW": "(赫) 戴瓦 - 戴瓦",
+        "ja": "(ヘー) デーヴァ・デーヴァ",
+        "ko": "(헤) 데바-데바"
+      }
+    },
+    "20387": {
+      "meaning": {
+        "th": "โอ้พระชัคนนาถ พระเจ้าแห่งจักรวาล",
+        "zh-TW": "宇宙之主札格納特",
+        "ja": "宇宙の主ジャガンナートよ",
+        "ko": "우주의 주 자간나트시여"
+      },
+      "transliteration": {
+        "th": "(เห) ชคต-ปาเต",
+        "zh-TW": "(赫) 札格特 - 帕泰",
+        "ja": "(ヘー) ジャガット・パテー",
+        "ko": "(헤) 자갓-파테"
+      }
+    },
+    "20665": {
+      "meaning": {
+        "th": "โอ้ผู้ลงโทษศัตรู",
+        "zh-TW": "降伏敵人者",
+        "ja": "敵を調伏する者よ",
+        "ko": "원수를 징벌하는 자여"
+      },
+      "transliteration": {
+        "th": "(เห) ปรันตปะ",
+        "zh-TW": "(赫) 帕蘭塔帕",
+        "ja": "(ヘー) パランタパ",
+        "ko": "(헤) 파란타파"
+      }
+    },
+    "20403": {
+      "meaning": {
+        "th": "โอ้พระโยคมายา พระเจ้าแห่งพลังอันศักดิ์สิทธิ์",
+        "zh-TW": "瑜伽幻力之主",
+        "ja": "ヨーガマーヤーの主、神聖なる力の主よ",
+        "ko": "요가마야의 주님, 신성한 힘의 주님이시여"
+      },
+      "transliteration": {
+        "th": "(เห) โยคิน",
+        "zh-TW": "(赫) 瑜伽士",
+        "ja": "(ヘー) ヨーギン",
+        "ko": "(헤) 요긴"
+      }
+    },
+    "20591": {
+      "meaning": {
+        "th": "และของผู้สร้าง",
+        "zh-TW": "和創造者",
+        "ja": "そして創造者たちの",
+        "ko": "그리고 창조자들의"
+      },
+      "transliteration": {
+        "th": "(สรัษฏราม จา)",
+        "zh-TW": "(斯拉斯特蘭 查)",
+        "ja": "(スラシュトリーム・チャ)",
+        "ko": "(스라슈트람 차)"
+      }
+    },
+    "20450": {
+      "meaning": {
+        "th": "เราคืออาทิตยะที่รู้จักกันในนามวิษณุ",
+        "zh-TW": "我是稱為毗濕奴的阿底提亞",
+        "ja": "我はヴィシュヌとして知られるアーディティヤなり",
+        "ko": "나는 비슈누라고 불리는 아디티야니라"
+      },
+      "transliteration": {
+        "th": "อะฮัม อัสมิ วิษณุห์",
+        "zh-TW": "阿哈姆 阿斯米 毗濕奴",
+        "ja": "アハム・アスミ・ヴィシュヌフ",
+        "ko": "아함 아스미 비슈누"
+      }
+    },
+    "20590": {
+      "meaning": {
+        "th": "เราผู้เดียวเป็นกาลเวลาอันนิรันดร์",
+        "zh-TW": "我獨自是永恆的時間之流",
+        "ja": "我のみが永遠の時流れなり",
+        "ko": "나 홀로 영원한 시간의 흐름이니라"
+      },
+      "transliteration": {
+        "th": "อะฮัม เอวะ อักษะยะห์ กาละห์",
+        "zh-TW": "阿哈姆 艾瓦 阿克沙亞 卡拉",
+        "ja": "アハム・エーヴァ・アクシャヤフ・カーラフ",
+        "ko": "아함 에바 악샤야 칼라"
+      }
+    },
+    "20576": {
+      "meaning": {
+        "th": "เราเป็นเบื้องต้น",
+        "zh-TW": "我是開始",
+        "ja": "我は初めなり",
+        "ko": "나는 시작이니라"
+      },
+      "transliteration": {
+        "th": "อะฮัม เอวะ อาดิห์",
+        "zh-TW": "阿哈姆 艾瓦 阿迪",
+        "ja": "アハム・エーヴァ・アーディフ",
+        "ko": "아함 에바 아디"
+      }
+    },
+    "20614": {
+      "meaning": {
+        "th": "เราคือคยาตรีมันตรา",
+        "zh-TW": "我是伽耶特裡咒語",
+        "ja": "我はガーヤトリー・マントラなり",
+        "ko": "나는 가야트리 만트라니라"
+      },
+      "transliteration": {
+        "th": "อะฮัม คยาตรี",
+        "zh-TW": "阿哈姆 伽耶特裡",
+        "ja": "アハム・ガーヤトリー",
+        "ko": "아함 가야트리"
+      }
+    },
+    "20616": {
+      "meaning": {
+        "th": "เราคือเดือนอัครหายณะ เดือนแห่งการเก็บเกี่ยว",
+        "zh-TW": "我是阿格拉哈亞納月，收穫之月",
+        "ja": "我は収穫の月アグラーヤヤナなり",
+        "ko": "나는 수확의 마르가시라월이니라"
+      },
+      "transliteration": {
+        "th": "อะฮัม มารคะ-ศีรฺษะห์",
+        "zh-TW": "阿哈姆 馬爾加 - 希爾沙",
+        "ja": "アハム・マルガ・シルシャフ",
+        "ko": "아함 마르가 시르샤"
+      }
+    },
+    "20313": {
+      "meaning": {
+        "th": "เราคือสัจจะอันสูงสุด สวะยัม ภควาน หรือพระผู้เป็นเจ้าดั้งเดิม ผู้เป็นสาเหตุ",
+        "zh-TW": "我是至高絕對真理，自生世尊或原始至尊主，萬因之因",
+        "ja": "我は至高の絶対真理、スヴァヤム・バガヴァーン、すなわち原初の至高主、原因なり",
+        "ko": "나는 지고한 절대 진리, 스바얌 바가반 곧 원래의 지존한 주님, 원인이니라"
+      },
+      "transliteration": {
+        "th": "อะฮัม ประภวะห์",
+        "zh-TW": "阿哈姆 普拉巴瓦",
+        "ja": "アハム・プラバヴァフ",
+        "ko": "아함 프라바바"
+      }
+    },
+    "20582": {
+      "meaning": {
+        "th": "เราคือปรัชญา",
+        "zh-TW": "我是哲學",
+        "ja": "我は哲学なり",
+        "ko": "나는 철학이니라"
+      },
+      "transliteration": {
+        "th": "อะฮัม วาทะห์",
+        "zh-TW": "阿哈姆 瓦達",
+        "ja": "アハム・ヴァーダフ",
+        "ko": "아함 바다"
+      }
+    },
+    "20445": {
+      "meaning": {
+        "th": "เราเป็นเบื้องต้น",
+        "zh-TW": "我是開始",
+        "ja": "我は初めなり",
+        "ko": "나는 시작이니라"
+      },
+      "transliteration": {
+        "th": "อะฮัม อาดิห์",
+        "zh-TW": "阿哈姆 阿迪",
+        "ja": "アハム・アーディフ",
+        "ko": "아함 아디"
+      }
+    },
+    "20442": {
+      "meaning": {
+        "th": "เราคือปรมัตมา",
+        "zh-TW": "我是超靈",
+        "ja": "我は超魂なり",
+        "ko": "나는 초영혼이니라"
+      },
+      "transliteration": {
+        "th": "อะฮัม อาตมา",
+        "zh-TW": "阿哈姆 阿特曼",
+        "ja": "アハム・アートマー",
+        "ko": "아함 아트마"
+      }
+    },
+    "20260": {
+      "meaning": {
+        "th": "ในฐานะผู้ไม่เกิด",
+        "zh-TW": "作為無生者",
+        "ja": "生れなきものとして",
+        "ko": "태어남이 없는 자로서"
+      },
+      "transliteration": {
+        "th": "อะชัม",
+        "zh-TW": "阿賈姆",
+        "ja": "アジャム",
+        "ko": "아잠"
+      }
+    },
+    "20348": {
+      "meaning": {
+        "th": "เกิดจากความไม่รู้",
+        "zh-TW": "生於無明",
+        "ja": "無明より生ずる",
+        "ko": "무지에서 태어난"
+      },
+      "transliteration": {
+        "th": "อัญญาณะ-ชัม",
+        "zh-TW": "阿傑納納 - 賈姆",
+        "ja": "アジュニャーナ・ジャム",
+        "ko": "아즈냐나 잠"
+      }
+    },
+    "20519": {
+      "meaning": {
+        "th": "ผู้เกิดจากการกวนน้ำอมฤต",
+        "zh-TW": "生於攪拌甘露",
+        "ja": "不死の甘露をかき混ぜて生まれたる",
+        "ko": "감로수를 휘저어 태어난"
+      },
+      "transliteration": {
+        "th": "อมฤต-อุดภะวัม",
+        "zh-TW": "阿姆利塔 - 烏德巴瓦姆",
+        "ja": "アムリタ・ウドバヴァム",
+        "ko": "암리타 우드바밤"
+      }
+    },
+    "20341": {
+      "meaning": {
+        "th": "ออกด้วยความเมตตา",
+        "zh-TW": "出於慈悲",
+        "ja": "慈悲によって",
+        "ko": "자비로써"
+      },
+      "transliteration": {
+        "th": "อนุกัมปา-อรรถัม",
+        "zh-TW": "阿努坎帕 - 阿塔姆",
+        "ja": "アヌカンパー・アルタム",
+        "ko": "아누캄파 아르탐"
+      }
+    },
+    "20508": {
+      "meaning": {
+        "th": "(เราคือ) ต้นอศวัตถะ",
+        "zh-TW": "（我是）阿濕瓦他樹",
+        "ja": "（我は）アシュヴァッタ樹なり",
+        "ko": "(나는) 아슈밧다 나무니라"
+      },
+      "transliteration": {
+        "th": "อศวัตถะห์",
+        "zh-TW": "阿濕瓦他",
+        "ja": "アシュヴァッタフ",
+        "ko": "아슈밧다"
+      }
+    },
+    "20684": {
+      "meaning": {
+        "th": "ในฐานะที่เกิดจากส่วนหนึ่ง",
+        "zh-TW": "作為部分所生",
+        "ja": "一部の化身として生まれた",
+        "ko": "일부분으로부터 태어난 자로서"
+      },
+      "transliteration": {
+        "th": "อัมศา-สัมภะวัม",
+        "zh-TW": "阿姆沙 - 桑巴瓦姆",
+        "ja": "アムシャ・サンバヴァム",
+        "ko": "암샤 삼바밤"
+      }
+    },
+    "20598": {
+      "meaning": {
+        "th": "ของการเปลี่ยนแปลงหกประการที่กำหนดไว้ของสรรพสัตว์",
+        "zh-TW": "眾生注定的六種轉變",
+        "ja": "衆生の定められた六つの変容の",
+        "ko": "중생의 예정된 여섯 변화의"
+      },
+      "transliteration": {
+        "th": "ภวิษยะตาม",
+        "zh-TW": "巴維什亞塔姆",
+        "ja": "バヴィシュヤターム",
+        "ko": "바비샤탐"
+      }
+    },
+    "20346": {
+      "meaning": {
+        "th": "ด้วยโคมไฟแห่งความรู้ที่ส่องสว่าง",
+        "zh-TW": "以知識的明燈",
+        "ja": "知識の輝ける灯りをもって",
+        "ko": "지혜의 빛나는 등불로"
+      },
+      "transliteration": {
+        "th": "ภาสวะตา ชญาณะ-ทีเปนะ",
+        "zh-TW": "巴阿斯瓦塔 傑納 - 迪佩納",
+        "ja": "バースヴァター・ジュニャーナ・ディーペーナ",
+        "ko": "바스와타 즈냐나 디페나"
+      }
+    },
+    "20321": {
+      "meaning": {
+        "th": "ในความสัมพันธ์อันศักดิ์สิทธิ์ของพวกเขา เช่น การรับใช้ มิตรภาพ ฯลฯ",
+        "zh-TW": "在他們與神的關係中，如僕人、朋友等",
+        "ja": "奉仕、友情などの神聖なる関係において",
+        "ko": "섬김, 우정 등의 신성한 관계로"
+      },
+      "transliteration": {
+        "th": "ภาวะ-สะมันวิตาห์",
+        "zh-TW": "巴瓦 - 薩曼維塔",
+        "ja": "バーヴァ・サマンヴィターフ",
+        "ko": "바바 사만비타"
+      }
+    },
+    "20471": {
+      "meaning": {
+        "th": "ของทุกชีวิต",
+        "zh-TW": "一切眾生",
+        "ja": "すべての生きるものの",
+        "ko": "모든 생명체의"
+      },
+      "transliteration": {
+        "th": "ภูตานาม",
+        "zh-TW": "布塔南",
+        "ja": "ブーターナーム",
+        "ko": "부타남"
+      }
+    },
+    "20327": {
+      "meaning": {
+        "th": "enlightening one another with the nectar of their devotional realisations",
+        "zh-TW": "enlightening one another with the nectar of their devotional realisations",
+        "ja": "enlightening one another with the nectar of their devotional realisations",
+        "ko": "enlightening one another with the nectar of their devotional realisations"
+      },
+      "transliteration": {
+        "th": "bodhayantaḥ parasparam (santaḥ)",
+        "zh-TW": "bodhayantaḥ parasparam (santaḥ)",
+        "ja": "bodhayantaḥ parasparam (santaḥ)",
+        "ko": "bodhayantaḥ parasparam (santaḥ)"
+      }
+    },
+    "20370": {
+      "meaning": {
+        "th": "เรา",
+        "zh-TW": "我",
+        "ja": "我を",
+        "ko": "나를"
+      },
+      "transliteration": {
+        "th": "bravīṣi me",
+        "zh-TW": "bravīṣi me",
+        "ja": "bravīṣi me",
+        "ko": "bravīṣi me"
+      }
+    },
+    "20273": {
+      "meaning": {
+        "th": "เรา",
+        "zh-TW": "我",
+        "ja": "我を",
+        "ko": "나를"
+      },
+      "transliteration": {
+        "th": "buddhiḥ",
+        "zh-TW": "buddhiḥ",
+        "ja": "buddhiḥ",
+        "ko": "buddhiḥ"
+      }
+    },
+    "20320": {
+      "meaning": {
+        "th": "persons of fine theistic intelligence",
+        "zh-TW": "persons of fine theistic intelligence",
+        "ja": "persons of fine theistic intelligence",
+        "ko": "persons of fine theistic intelligence"
+      },
+      "transliteration": {
+        "th": "budhāḥ",
+        "zh-TW": "budhāḥ",
+        "ja": "budhāḥ",
+        "ko": "budhāḥ"
+      }
+    },
+    "20611": {
+      "meaning": {
+        "th": "(I am) the mantra prayer to Lord Indra",
+        "zh-TW": "(I am) the mantra prayer to Lord Indra",
+        "ja": "(I am) the mantra prayer to Lord Indra",
+        "ko": "(I am) the mantra prayer to Lord Indra"
+      },
+      "transliteration": {
+        "th": "bṛhat-sāma",
+        "zh-TW": "bṛhat-sāma",
+        "ja": "bṛhat-sāma",
+        "ko": "bṛhat-sāma"
+      }
+    },
+    "20661": {
+      "meaning": {
+        "th": "moving and stationary",
+        "zh-TW": "moving and stationary",
+        "ja": "moving and stationary",
+        "ko": "moving and stationary"
+      },
+      "transliteration": {
+        "th": "chara-acharam",
+        "zh-TW": "chara-acharam",
+        "ja": "chara-acharam",
+        "ko": "chara-acharam"
+      }
+    },
+    "20296": {
+      "meaning": {
+        "th": "the four sages Sanaka, Sanandana, Sanat Kumār, and Sanātan, all known as brahmarṣis",
+        "zh-TW": "the four sages Sanaka, Sanandana, Sanat Kumār, and Sanātan, all known as brahmarṣis",
+        "ja": "the four sages Sanaka, Sanandana, Sanat Kumār, and Sanātan, all known as brahmarṣis",
+        "ko": "the four sages Sanaka, Sanandana, Sanat Kumār, and Sanātan, all known as brahmarṣis"
+      },
+      "transliteration": {
+        "th": "chatvārah",
+        "zh-TW": "chatvārah",
+        "ja": "chatvārah",
+        "ko": "chatvārah"
+      }
+    },
+    "20550": {
+      "meaning": {
+        "th": "Of the descendents of Diti",
+        "zh-TW": "Of the descendents of Diti",
+        "ja": "Of the descendents of Diti",
+        "ko": "Of the descendents of Diti"
+      },
+      "transliteration": {
+        "th": "daityānām",
+        "zh-TW": "daityānām",
+        "ja": "daityānām",
+        "ko": "daityānām"
+      }
+    },
+    "20278": {
+      "meaning": {
+        "th": "control of the external senses",
+        "zh-TW": "control of the external senses",
+        "ja": "control of the external senses",
+        "ko": "control of the external senses"
+      },
+      "transliteration": {
+        "th": "damaḥ",
+        "zh-TW": "damaḥ",
+        "ja": "damaḥ",
+        "ko": "damaḥ"
+      }
+    },
+    "20358": {
+      "meaning": {
+        "th": "เทพเจ้า",
+        "zh-TW": "眾神",
+        "ja": "神々",
+        "ko": "신들"
+      },
+      "transliteration": {
+        "th": "deva-ṛṣiḥ nāradaḥ",
+        "zh-TW": "deva-ṛṣiḥ nāradaḥ",
+        "ja": "deva-ṛṣiḥ nāradaḥ",
+        "ko": "deva-ṛṣiḥ nāradaḥ"
+      }
+    },
+    "20462": {
+      "meaning": {
+        "th": "Of the demigods",
+        "zh-TW": "Of the demigods",
+        "ja": "Of the demigods",
+        "ko": "Of the demigods"
+      },
+      "transliteration": {
+        "th": "devānām",
+        "zh-TW": "devānām",
+        "ja": "devānām",
+        "ko": "devānām"
+      }
+    },
+    "20589": {
+      "meaning": {
+        "th": "(I am) the dual compound word",
+        "zh-TW": "(I am) the dual compound word",
+        "ja": "(I am) the dual compound word",
+        "ko": "(I am) the dual compound word"
+      },
+      "transliteration": {
+        "th": "dvandvaḥ",
+        "zh-TW": "dvandvaḥ",
+        "ja": "dvandvaḥ",
+        "ko": "dvandvaḥ"
+      }
+    },
+    "20431": {
+      "meaning": {
+        "th": "O best of the Kurus",
+        "zh-TW": "O best of the Kurus",
+        "ja": "O best of the Kurus",
+        "ko": "O best of the Kurus"
+      },
+      "transliteration": {
+        "th": "hanta kuru-śreṣṭha",
+        "zh-TW": "hanta kuru-śreṣṭha",
+        "ja": "hanta kuru-śreṣṭha",
+        "ko": "hanta kuru-śreṣṭha"
+      }
+    },
+    "20506": {
+      "meaning": {
+        "th": "(I am) the Himālayas",
+        "zh-TW": "(I am) the Himālayas",
+        "ja": "(I am) the Himālayas",
+        "ko": "(I am) the Himālayas"
+      },
+      "transliteration": {
+        "th": "himālayaḥ",
+        "zh-TW": "himālayaḥ",
+        "ja": "himālayaḥ",
+        "ko": "himālayaḥ"
+      }
+    },
+    "20465": {
+      "meaning": {
+        "th": "Of the senses",
+        "zh-TW": "Of the senses",
+        "ja": "Of the senses",
+        "ko": "Of the senses"
+      },
+      "transliteration": {
+        "th": "indriyāṇām",
+        "zh-TW": "indriyāṇām",
+        "ja": "indriyāṇām",
+        "ko": "indriyāṇām"
+      }
+    },
+    "20503": {
+      "meaning": {
+        "th": "เรา",
+        "zh-TW": "我",
+        "ja": "我を",
+        "ko": "나를"
+      },
+      "transliteration": {
+        "th": "japa-yajñaḥ",
+        "zh-TW": "japa-yajñaḥ",
+        "ja": "japa-yajñaḥ",
+        "ko": "japa-yajñaḥ"
+      }
+    },
+    "20645": {
+      "meaning": {
+        "th": "Of those desiring to conquer",
+        "zh-TW": "Of those desiring to conquer",
+        "ja": "Of those desiring to conquer",
+        "ko": "Of those desiring to conquer"
+      },
+      "transliteration": {
+        "th": "jigīṣatām",
+        "zh-TW": "jigīṣatām",
+        "ja": "jigīṣatām",
+        "ko": "jigīṣatām"
+      }
+    },
+    "20451": {
+      "meaning": {
+        "th": "Of the luminaries",
+        "zh-TW": "Of the luminaries",
+        "ja": "Of the luminaries",
+        "ko": "Of the luminaries"
+      },
+      "transliteration": {
+        "th": "jyotiṣām",
+        "zh-TW": "jyotiṣām",
+        "ja": "jyotiṣām",
+        "ko": "jyotiṣām"
+      }
+    },
+    "20652": {
+      "meaning": {
+        "th": "of the learned",
+        "zh-TW": "of the learned",
+        "ja": "of the learned",
+        "ko": "of the learned"
+      },
+      "transliteration": {
+        "th": "jñāna-vatām",
+        "zh-TW": "jñāna-vatām",
+        "ja": "jñāna-vatām",
+        "ko": "jñāna-vatām"
+      }
+    },
+    "20274": {
+      "meaning": {
+        "th": "ability to discriminate between spirit and matter",
+        "zh-TW": "ability to discriminate between spirit and matter",
+        "ja": "ability to discriminate between spirit and matter",
+        "ko": "ability to discriminate between spirit and matter"
+      },
+      "transliteration": {
+        "th": "jñānam",
+        "zh-TW": "jñānam",
+        "ja": "jñānam",
+        "ko": "jñānam"
+      }
+    },
+    "20573": {
+      "meaning": {
+        "th": "(I am) the Jāhnavī, the Ganges",
+        "zh-TW": "(I am) the Jāhnavī, the Ganges",
+        "ja": "(I am) the Jāhnavī, the Ganges",
+        "ko": "(I am) the Jāhnavī, the Ganges"
+      },
+      "transliteration": {
+        "th": "jāhnavī",
+        "zh-TW": "jāhnavī",
+        "ja": "jāhnavī",
+        "ko": "jāhnavī"
+      }
+    },
+    "20553": {
+      "meaning": {
+        "th": "and of subduers",
+        "zh-TW": "and of subduers",
+        "ja": "and of subduers",
+        "ko": "and of subduers"
+      },
+      "transliteration": {
+        "th": "kalayatām cha",
+        "zh-TW": "kalayatām cha",
+        "ja": "kalayatām cha",
+        "ko": "kalayatām cha"
+      }
+    },
+    "20515": {
+      "meaning": {
+        "th": "(I am) the sage Kapila",
+        "zh-TW": "(I am) the sage Kapila",
+        "ja": "(I am) the sage Kapila",
+        "ko": "(I am) the sage Kapila"
+      },
+      "transliteration": {
+        "th": "kapilaḥ muniḥ",
+        "zh-TW": "kapilaḥ muniḥ",
+        "ja": "kapilaḥ muniḥ",
+        "ko": "kapilaḥ muniḥ"
+      }
+    },
+    "20640": {
+      "meaning": {
+        "th": "of knowers of the scriptures",
+        "zh-TW": "of knowers of the scriptures",
+        "ja": "of knowers of the scriptures",
+        "ko": "of knowers of the scriptures"
+      },
+      "transliteration": {
+        "th": "kavīnām",
+        "zh-TW": "kavīnām",
+        "ja": "kavīnām",
+        "ko": "kavīnām"
+      }
+    },
+    "20609": {
+      "meaning": {
+        "th": "forgiveness (or the seven wives of Dharma)",
+        "zh-TW": "forgiveness (or the seven wives of Dharma)",
+        "ja": "forgiveness (or the seven wives of Dharma)",
+        "ko": "forgiveness (or the seven wives of Dharma)"
+      },
+      "transliteration": {
+        "th": "kṣamā",
+        "zh-TW": "kṣamā",
+        "ja": "kṣamā",
+        "ko": "kṣamā"
+      }
+    },
+    "20262": {
+      "meaning": {
+        "th": "เรา",
+        "zh-TW": "我",
+        "ja": "我を",
+        "ko": "나를"
+      },
+      "transliteration": {
+        "th": "loka-mahā-īśvaram cha",
+        "zh-TW": "loka-mahā-īśvaram cha",
+        "ja": "loka-mahā-īśvaram cha",
+        "ko": "loka-mahā-īśvaram cha"
+      }
+    },
+    "20256": {
+      "meaning": {
+        "th": "มหาฤาษี",
+        "zh-TW": "大聖人們",
+        "ja": "大聖者たち",
+        "ko": "대성자들"
+      },
+      "transliteration": {
+        "th": "mahā-ṛṣīṇām cha",
+        "zh-TW": "mahā-ṛṣīṇām cha",
+        "ja": "mahā-ṛṣīṇām cha",
+        "ko": "mahā-ṛṣīṇām cha"
+      }
+    },
+    "20455": {
+      "meaning": {
+        "th": "Of the Vāyu demigods",
+        "zh-TW": "Of the Vāyu demigods",
+        "ja": "Of the Vāyu demigods",
+        "ko": "Of the Vāyu demigods"
+      },
+      "transliteration": {
+        "th": "marutām",
+        "zh-TW": "marutām",
+        "ja": "marutām",
+        "ko": "marutām"
+      }
+    },
+    "20456": {
+      "meaning": {
+        "th": "(I am) the Vāyu known as Marīchi",
+        "zh-TW": "(I am) the Vāyu known as Marīchi",
+        "ja": "(I am) the Vāyu known as Marīchi",
+        "ko": "(I am) the Vāyu known as Marīchi"
+      },
+      "transliteration": {
+        "th": "marīchiḥ",
+        "zh-TW": "marīchiḥ",
+        "ja": "marīchiḥ",
+        "ko": "marīchiḥ"
+      }
+    },
+    "20325": {
+      "meaning": {
+        "th": "เรา",
+        "zh-TW": "我",
+        "ja": "我を",
+        "ko": "나를"
+      },
+      "transliteration": {
+        "th": "mat-chittāḥ",
+        "zh-TW": "mat-chittāḥ",
+        "ja": "mat-chittāḥ",
+        "ko": "mat-chittāḥ"
+      }
+    },
+    "20324": {
+      "meaning": {
+        "th": "เรา",
+        "zh-TW": "我",
+        "ja": "我を",
+        "ko": "나를"
+      },
+      "transliteration": {
+        "th": "mat-gata-prāṇāḥ",
+        "zh-TW": "mat-gata-prāṇāḥ",
+        "ja": "mat-gata-prāṇāḥ",
+        "ko": "mat-gata-prāṇāḥ"
+      }
+    },
+    "20637": {
+      "meaning": {
+        "th": "of the sages",
+        "zh-TW": "of the sages",
+        "ja": "of the sages",
+        "ko": "of the sages"
+      },
+      "transliteration": {
+        "th": "munīnām",
+        "zh-TW": "munīnām",
+        "ja": "munīnām",
+        "ko": "munīnām"
+      }
+    },
+    "20259": {
+      "meaning": {
+        "th": "เรา",
+        "zh-TW": "我",
+        "ja": "我を",
+        "ko": "나를"
+      },
+      "transliteration": {
+        "th": "mām",
+        "zh-TW": "mām",
+        "ja": "mām",
+        "ko": "mām"
+      }
+    },
+    "20294": {
+      "meaning": {
+        "th": "are born of My mind, which is manifest as Hiraṇyagarbha, Lord Brahmā",
+        "zh-TW": "are born of My mind, which is manifest as Hiraṇyagarbha, Lord Brahmā",
+        "ja": "are born of My mind, which is manifest as Hiraṇyagarbha, Lord Brahmā",
+        "ko": "are born of My mind, which is manifest as Hiraṇyagarbha, Lord Brahmā"
+      },
+      "transliteration": {
+        "th": "mānasāḥ jātāḥ",
+        "zh-TW": "mānasāḥ jātāḥ",
+        "ja": "mānasāḥ jātāḥ",
+        "ko": "mānasāḥ jātāḥ"
+      }
+    },
+    "20615": {
+      "meaning": {
+        "th": "Of the months",
+        "zh-TW": "Of the months",
+        "ja": "Of the months",
+        "ko": "Of the months"
+      },
+      "transliteration": {
+        "th": "māsānām",
+        "zh-TW": "māsānām",
+        "ja": "māsānām",
+        "ko": "māsānām"
+      }
+    },
+    "20666": {
+      "meaning": {
+        "th": "there is no",
+        "zh-TW": "there is no",
+        "ja": "there is no",
+        "ko": "there is no"
+      },
+      "transliteration": {
+        "th": "na asti",
+        "zh-TW": "na asti",
+        "ja": "na asti",
+        "ko": "na asti"
+      }
+    },
+    "20379": {
+      "meaning": {
+        "th": "neither the demigods nor the demons",
+        "zh-TW": "neither the demigods nor the demons",
+        "ja": "neither the demigods nor the demons",
+        "ko": "neither the demigods nor the demons"
+      },
+      "transliteration": {
+        "th": "na devāḥ na dānavāḥ",
+        "zh-TW": "na devāḥ na dānavāḥ",
+        "ja": "na devāḥ na dānavāḥ",
+        "ko": "na devāḥ na dānavāḥ"
+      }
+    },
+    "20312": {
+      "meaning": {
+        "th": "there is no doubt",
+        "zh-TW": "there is no doubt",
+        "ja": "there is no doubt",
+        "ko": "there is no doubt"
+      },
+      "transliteration": {
+        "th": "na saṁśayaḥ (asti)",
+        "zh-TW": "na saṁśayaḥ (asti)",
+        "ja": "na saṁśayaḥ (asti)",
+        "ko": "na saṁśayaḥ (asti)"
+      }
+    },
+    "20457": {
+      "meaning": {
+        "th": "and of the stars",
+        "zh-TW": "and of the stars",
+        "ja": "and of the stars",
+        "ko": "and of the stars"
+      },
+      "transliteration": {
+        "th": "nakṣatrāṇām",
+        "zh-TW": "nakṣatrāṇām",
+        "ja": "nakṣatrāṇām",
+        "ko": "nakṣatrāṇām"
+      }
+    },
+    "20524": {
+      "meaning": {
+        "th": "(I am) the king",
+        "zh-TW": "(I am) the king",
+        "ja": "(I am) the king",
+        "ko": "(I am) the king"
+      },
+      "transliteration": {
+        "th": "nara-adhipam",
+        "zh-TW": "nara-adhipam",
+        "ja": "nara-adhipam",
+        "ko": "nara-adhipam"
+      }
+    },
+    "20538": {
+      "meaning": {
+        "th": "Of the multi-headed non-poisonous serpents",
+        "zh-TW": "Of the multi-headed non-poisonous serpents",
+        "ja": "Of the multi-headed non-poisonous serpents",
+        "ko": "Of the multi-headed non-poisonous serpents"
+      },
+      "transliteration": {
+        "th": "nāgānām",
+        "zh-TW": "nāgānām",
+        "ja": "nāgānām",
+        "ko": "nāgānām"
+      }
+    },
+    "20352": {
+      "meaning": {
+        "th": "เรา",
+        "zh-TW": "我",
+        "ja": "我を",
+        "ko": "나를"
+      },
+      "transliteration": {
+        "th": "param brahma",
+        "zh-TW": "param brahma",
+        "ja": "param brahma",
+        "ko": "param brahma"
+      }
+    },
+    "20353": {
+      "meaning": {
+        "th": "เรา",
+        "zh-TW": "我",
+        "ja": "我を",
+        "ko": "나를"
+      },
+      "transliteration": {
+        "th": "param dhāma",
+        "zh-TW": "param dhāma",
+        "ja": "param dhāma",
+        "ko": "param dhāma"
+      }
+    },
+    "20562": {
+      "meaning": {
+        "th": "Of sanctifiers or of the rapid",
+        "zh-TW": "Of sanctifiers or of the rapid",
+        "ja": "Of sanctifiers or of the rapid",
+        "ko": "Of sanctifiers or of the rapid"
+      },
+      "transliteration": {
+        "th": "pavatām",
+        "zh-TW": "pavatām",
+        "ja": "pavatām",
+        "ko": "pavatām"
+      }
+    },
+    "20545": {
+      "meaning": {
+        "th": "Of the deified ancestors",
+        "zh-TW": "Of the deified ancestors",
+        "ja": "Of the deified ancestors",
+        "ko": "Of the deified ancestors"
+      },
+      "transliteration": {
+        "th": "pitṝṇām",
+        "zh-TW": "pitṝṇām",
+        "ja": "pitṝṇām",
+        "ko": "pitṝṇām"
+      }
+    },
+    "20635": {
+      "meaning": {
+        "th": "of the Pāṇḍavas",
+        "zh-TW": "of the Pāṇḍavas",
+        "ja": "of the Pāṇḍavas",
+        "ko": "of the Pāṇḍavas"
+      },
+      "transliteration": {
+        "th": "pāṇḍavānām",
+        "zh-TW": "pāṇḍavānām",
+        "ja": "pāṇḍavānām",
+        "ko": "pāṇḍavānām"
+      }
+    },
+    "20472": {
+      "meaning": {
+        "th": "Of the eleven Rudras",
+        "zh-TW": "Of the eleven Rudras",
+        "ja": "Of the eleven Rudras",
+        "ko": "Of the eleven Rudras"
+      },
+      "transliteration": {
+        "th": "rudrāṇām",
+        "zh-TW": "rudrāṇām",
+        "ja": "rudrāṇām",
+        "ko": "rudrāṇām"
+      }
+    },
+    "20287": {
+      "meaning": {
+        "th": "equanimity, seeing the happiness and unhappiness of all beings as one’s own",
+        "zh-TW": "equanimity, seeing the happiness and unhappiness of all beings as one’s own",
+        "ja": "equanimity, seeing the happiness and unhappiness of all beings as one’s own",
+        "ko": "equanimity, seeing the happiness and unhappiness of all beings as one’s own"
+      },
+      "transliteration": {
+        "th": "samatā",
+        "zh-TW": "samatā",
+        "ja": "samatā",
+        "ko": "samatā"
+      }
+    },
+    "20575": {
+      "meaning": {
+        "th": "of the manifest",
+        "zh-TW": "of the manifest",
+        "ja": "of the manifest",
+        "ko": "of the manifest"
+      },
+      "transliteration": {
+        "th": "sargāṇām",
+        "zh-TW": "sargāṇām",
+        "ja": "sargāṇām",
+        "ko": "sargāṇām"
+      }
+    },
+    "20443": {
+      "meaning": {
+        "th": "situated within the heart of all beings",
+        "zh-TW": "situated within the heart of all beings",
+        "ja": "situated within the heart of all beings",
+        "ko": "situated within the heart of all beings"
+      },
+      "transliteration": {
+        "th": "sarva-bhūta-āśaya-sthitaḥ",
+        "zh-TW": "sarva-bhūta-āśaya-sthitaḥ",
+        "ja": "sarva-bhūta-āśaya-sthitaḥ",
+        "ko": "sarva-bhūta-āśaya-sthitaḥ"
+      }
+    },
+    "20596": {
+      "meaning": {
+        "th": "the vanquisher of all",
+        "zh-TW": "the vanquisher of all",
+        "ja": "the vanquisher of all",
+        "ko": "the vanquisher of all"
+      },
+      "transliteration": {
+        "th": "sarva-haraḥ",
+        "zh-TW": "sarva-haraḥ",
+        "ja": "sarva-haraḥ",
+        "ko": "sarva-haraḥ"
+      }
+    },
+    "20267": {
+      "meaning": {
+        "th": "จากบาปทั้งปวง",
+        "zh-TW": "從一切罪惡",
+        "ja": "すべての罪から",
+        "ko": "모든 죄에서"
+      },
+      "transliteration": {
+        "th": "sarva-pāpaiḥ",
+        "zh-TW": "sarva-pāpaiḥ",
+        "ja": "sarva-pāpaiḥ",
+        "ko": "sarva-pāpaiḥ"
+      }
+    },
+    "20315": {
+      "meaning": {
+        "th": "All activity in the universe of matter and spirit, and the Vedas and allied scriptures",
+        "zh-TW": "All activity in the universe of matter and spirit, and the Vedas and allied scriptures",
+        "ja": "All activity in the universe of matter and spirit, and the Vedas and allied scriptures",
+        "ko": "All activity in the universe of matter and spirit, and the Vedas and allied scriptures"
+      },
+      "transliteration": {
+        "th": "sarvam",
+        "zh-TW": "sarvam",
+        "ja": "sarvam",
+        "ko": "sarvam"
+      }
+    },
+    "20314": {
+      "meaning": {
+        "th": "of all causes, including Brahma, Paramātmā, and Bhagavān",
+        "zh-TW": "of all causes, including Brahma, Paramātmā, and Bhagavān",
+        "ja": "of all causes, including Brahma, Paramātmā, and Bhagavān",
+        "ko": "of all causes, including Brahma, Paramātmā, and Bhagavān"
+      },
+      "transliteration": {
+        "th": "sarvasya",
+        "zh-TW": "sarvasya",
+        "ja": "sarvasya",
+        "ko": "sarvasya"
+      }
+    },
+    "20631": {
+      "meaning": {
+        "th": "of the truthful",
+        "zh-TW": "of the truthful",
+        "ja": "of the truthful",
+        "ko": "of the truthful"
+      },
+      "transliteration": {
+        "th": "sattva-vatām",
+        "zh-TW": "sattva-vatām",
+        "ja": "sattva-vatām",
+        "ko": "sattva-vatām"
+      }
+    },
+    "20630": {
+      "meaning": {
+        "th": "the power of truth",
+        "zh-TW": "the power of truth",
+        "ja": "the power of truth",
+        "ko": "the power of truth"
+      },
+      "transliteration": {
+        "th": "sattvam",
+        "zh-TW": "sattvam",
+        "ja": "sattvam",
+        "ko": "sattvam"
+      }
+    },
+    "20505": {
+      "meaning": {
+        "th": "of the immovable",
+        "zh-TW": "of the immovable",
+        "ja": "of the immovable",
+        "ko": "of the immovable"
+      },
+      "transliteration": {
+        "th": "sthāvarāṇām",
+        "zh-TW": "sthāvarāṇām",
+        "ja": "sthāvarāṇām",
+        "ko": "sthāvarāṇām"
+      }
+    },
+    "20494": {
+      "meaning": {
+        "th": "(I am) the ocean",
+        "zh-TW": "(I am) the ocean",
+        "ja": "(I am) the ocean",
+        "ko": "(I am) the ocean"
+      },
+      "transliteration": {
+        "th": "sāgaraḥ",
+        "zh-TW": "sāgaraḥ",
+        "ja": "sāgaraḥ",
+        "ko": "sāgaraḥ"
+      }
+    },
+    "20610": {
+      "meaning": {
+        "th": "Of all the mantras in the Sāma-veda",
+        "zh-TW": "Of all the mantras in the Sāma-veda",
+        "ja": "Of all the mantras in the Sāma-veda",
+        "ko": "Of all the mantras in the Sāma-veda"
+      },
+      "transliteration": {
+        "th": "sāmnām",
+        "zh-TW": "sāmnām",
+        "ja": "sāmnām",
+        "ko": "sāmnām"
+      }
+    },
+    "20289": {
+      "meaning": {
+        "th": "austerity as directed in the Vedas",
+        "zh-TW": "austerity as directed in the Vedas",
+        "ja": "austerity as directed in the Vedas",
+        "ko": "austerity as directed in the Vedas"
+      },
+      "transliteration": {
+        "th": "tapaḥ",
+        "zh-TW": "tapaḥ",
+        "ja": "tapaḥ",
+        "ko": "tapaḥ"
+      }
+    },
+    "20683": {
+      "meaning": {
+        "th": "each of them",
+        "zh-TW": "each of them",
+        "ja": "each of them",
+        "ko": "each of them"
+      },
+      "transliteration": {
+        "th": "tat tat",
+        "zh-TW": "tat tat",
+        "ja": "tat tat",
+        "ko": "tat tat"
+      }
+    },
+    "20297": {
+      "meaning": {
+        "th": "and the fourteen Manus headed by Svayambhuva",
+        "zh-TW": "and the fourteen Manus headed by Svayambhuva",
+        "ja": "and the fourteen Manus headed by Svayambhuva",
+        "ko": "and the fourteen Manus headed by Svayambhuva"
+      },
+      "transliteration": {
+        "th": "tathā manavaḥ",
+        "zh-TW": "tathā manavaḥ",
+        "ja": "tathā manavaḥ",
+        "ko": "tathā manavaḥ"
+      }
+    },
+    "20361": {
+      "meaning": {
+        "th": "and the great sage Vyās",
+        "zh-TW": "and the great sage Vyās",
+        "ja": "and the great sage Vyās",
+        "ko": "and the great sage Vyās"
+      },
+      "transliteration": {
+        "th": "tathā vyāsaḥ",
+        "zh-TW": "tathā vyāsaḥ",
+        "ja": "tathā vyāsaḥ",
+        "ko": "tathā vyāsaḥ"
+      }
+    },
+    "20688": {
+      "meaning": {
+        "th": "what is your need",
+        "zh-TW": "what is your need",
+        "ja": "what is your need",
+        "ko": "what is your need"
+      },
+      "transliteration": {
+        "th": "tava kim",
+        "zh-TW": "tava kim",
+        "ja": "tava kim",
+        "ko": "tava kim"
+      }
+    },
+    "20243": {
+      "meaning": {
+        "th": "เรา",
+        "zh-TW": "我",
+        "ja": "我を",
+        "ko": "나를"
+      },
+      "transliteration": {
+        "th": "te prīyamāṇāya",
+        "zh-TW": "te prīyamāṇāya",
+        "ja": "te prīyamāṇāya",
+        "ko": "te prīyamāṇāya"
+      }
+    },
+    "20623": {
+      "meaning": {
+        "th": "Of the splendid",
+        "zh-TW": "Of the splendid",
+        "ja": "Of the splendid",
+        "ko": "Of the splendid"
+      },
+      "transliteration": {
+        "th": "tejasvinām",
+        "zh-TW": "tejasvinām",
+        "ja": "tejasvinām",
+        "ko": "tejasvinām"
+      }
+    },
+    "20599": {
+      "meaning": {
+        "th": "(I am) the first, as birth",
+        "zh-TW": "(I am) the first, as birth",
+        "ja": "(I am) the first, as birth",
+        "ko": "(I am) the first, as birth"
+      },
+      "transliteration": {
+        "th": "udbhavaḥ",
+        "zh-TW": "udbhavaḥ",
+        "ja": "udbhavaḥ",
+        "ko": "udbhavaḥ"
+      }
+    },
+    "20527": {
+      "meaning": {
+        "th": "the thunderbolt, the weapon of Lord Indra",
+        "zh-TW": "the thunderbolt, the weapon of Lord Indra",
+        "ja": "the thunderbolt, the weapon of Lord Indra",
+        "ko": "the thunderbolt, the weapon of Lord Indra"
+      },
+      "transliteration": {
+        "th": "vajram",
+        "zh-TW": "vajram",
+        "ja": "vajram",
+        "ko": "vajram"
+      }
+    },
+    "20479": {
+      "meaning": {
+        "th": "Of the eight Vasus",
+        "zh-TW": "Of the eight Vasus",
+        "ja": "Of the eight Vasus",
+        "ko": "Of the eight Vasus"
+      },
+      "transliteration": {
+        "th": "vasūnām",
+        "zh-TW": "vasūnām",
+        "ja": "vasūnām",
+        "ko": "vasūnām"
+      }
+    },
+    "20459": {
+      "meaning": {
+        "th": "Of the Vedas",
+        "zh-TW": "Of the Vedas",
+        "ja": "Of the Vedas",
+        "ko": "Of the Vedas"
+      },
+      "transliteration": {
+        "th": "vedānām",
+        "zh-TW": "vedānām",
+        "ja": "vedānām",
+        "ko": "vedānām"
+      }
+    },
+    "20368": {
+      "meaning": {
+        "th": "the all-pervading Lord, the fountain-head of all opulences",
+        "zh-TW": "the all-pervading Lord, the fountain-head of all opulences",
+        "ja": "the all-pervading Lord, the fountain-head of all opulences",
+        "ko": "the all-pervading Lord, the fountain-head of all opulences"
+      },
+      "transliteration": {
+        "th": "vibhum",
+        "zh-TW": "vibhum",
+        "ja": "vibhum",
+        "ko": "vibhum"
+      }
+    },
+    "20440": {
+      "meaning": {
+        "th": "to the expanse of My glories",
+        "zh-TW": "to the expanse of My glories",
+        "ja": "to the expanse of My glories",
+        "ko": "to the expanse of My glories"
+      },
+      "transliteration": {
+        "th": "vistarasya me",
+        "zh-TW": "vistarasya me",
+        "ja": "vistarasya me",
+        "ko": "vistarasya me"
+      }
+    },
+    "20671": {
+      "meaning": {
+        "th": "of the expanse",
+        "zh-TW": "of the expanse",
+        "ja": "of the expanse",
+        "ko": "of the expanse"
+      },
+      "transliteration": {
+        "th": "vistaraḥ",
+        "zh-TW": "vistaraḥ",
+        "ja": "vistaraḥ",
+        "ko": "vistaraḥ"
+      }
+    },
+    "20537": {
+      "meaning": {
+        "th": "(I am) Vāsuki, the king of snakes",
+        "zh-TW": "(I am) Vāsuki, the king of snakes",
+        "ja": "(I am) Vāsuki, the king of snakes",
+        "ko": "(I am) Vāsuki, the king of snakes"
+      },
+      "transliteration": {
+        "th": "vāsukiḥ",
+        "zh-TW": "vāsukiḥ",
+        "ja": "vāsukiḥ",
+        "ko": "vāsukiḥ"
+      }
+    },
+    "20632": {
+      "meaning": {
+        "th": "Of the Yādavas",
+        "zh-TW": "Of the Yādavas",
+        "ja": "Of the Yādavas",
+        "ko": "Of the Yādavas"
+      },
+      "transliteration": {
+        "th": "vṛṣṇīnām",
+        "zh-TW": "vṛṣṇīnām",
+        "ja": "vṛṣṇīnām",
+        "ko": "vṛṣṇīnām"
+      }
+    },
+    "20501": {
+      "meaning": {
+        "th": "Of all types of sacrifices",
+        "zh-TW": "Of all types of sacrifices",
+        "ja": "Of all types of sacrifices",
+        "ko": "Of all types of sacrifices"
+      },
+      "transliteration": {
+        "th": "yajñānām",
+        "zh-TW": "yajñānām",
+        "ja": "yajñānām",
+        "ko": "yajñānām"
+      }
+    },
+    "20476": {
+      "meaning": {
+        "th": "of the Yakṣas and Rākṣasas",
+        "zh-TW": "of the Yakṣas and Rākṣasas",
+        "ja": "of the Yakṣas and Rākṣasas",
+        "ko": "of the Yakṣas and Rākṣasas"
+      },
+      "transliteration": {
+        "th": "yakṣa-rakṣasām",
+        "zh-TW": "yakṣa-rakṣasām",
+        "ja": "yakṣa-rakṣasām",
+        "ko": "yakṣa-rakṣasām"
+      }
+    },
+    "20675": {
+      "meaning": {
+        "th": "Of each and every",
+        "zh-TW": "Of each and every",
+        "ja": "Of each and every",
+        "ko": "Of each and every"
+      },
+      "transliteration": {
+        "th": "yat yat eva",
+        "zh-TW": "yat yat eva",
+        "ja": "yat yat eva",
+        "ko": "yat yat eva"
+      }
+    },
+    "20310": {
+      "meaning": {
+        "th": "knowledge of essential truth",
+        "zh-TW": "knowledge of essential truth",
+        "ja": "knowledge of essential truth",
+        "ko": "knowledge of essential truth"
+      },
+      "transliteration": {
+        "th": "yogena",
+        "zh-TW": "yogena",
+        "ja": "yogena",
+        "ko": "yogena"
+      }
+    },
+    "20449": {
+      "meaning": {
+        "th": "Of the twelve Ādityas",
+        "zh-TW": "Of the twelve Ādityas",
+        "ja": "Of the twelve Ādityas",
+        "ko": "Of the twelve Ādityas"
+      },
+      "transliteration": {
+        "th": "ādityānām",
+        "zh-TW": "ādityānām",
+        "ja": "ādityānām",
+        "ko": "ādityānām"
+      }
+    },
+    "20422": {
+      "meaning": {
+        "th": "the process of devotional union with You (bhakti-yoga)",
+        "zh-TW": "the process of devotional union with You (bhakti-yoga)",
+        "ja": "the process of devotional union with You (bhakti-yoga)",
+        "ko": "the process of devotional union with You (bhakti-yoga)"
+      },
+      "transliteration": {
+        "th": "ātmanaḥ yogam",
+        "zh-TW": "ātmanaḥ yogam",
+        "ja": "ātmanaḥ yogam",
+        "ko": "ātmanaḥ yogam"
+      }
+    },
+    "20279": {
+      "meaning": {
+        "th": "control of the internal senses",
+        "zh-TW": "control of the internal senses",
+        "ja": "control of the internal senses",
+        "ko": "control of the internal senses"
+      },
+      "transliteration": {
+        "th": "śamaḥ",
+        "zh-TW": "śamaḥ",
+        "ja": "śamaḥ",
+        "ko": "śamaḥ"
+      }
+    },
+    "20458": {
+      "meaning": {
+        "th": "(I am) the moon",
+        "zh-TW": "(I am) the moon",
+        "ja": "(I am) the moon",
+        "ko": "(I am) the moon"
+      },
+      "transliteration": {
+        "th": "śaśī",
+        "zh-TW": "śaśī",
+        "ja": "śaśī",
+        "ko": "śaśī"
+      }
+    },
+    "20482": {
+      "meaning": {
+        "th": "of the mountains",
+        "zh-TW": "of the mountains",
+        "ja": "of the mountains",
+        "ko": "of the mountains"
+      },
+      "transliteration": {
+        "th": "śikhariṇām",
+        "zh-TW": "śikhariṇām",
+        "ja": "śikhariṇām",
+        "ko": "śikhariṇām"
+      }
+    },
+    "20618": {
+      "meaning": {
+        "th": "of the seasons",
+        "zh-TW": "of the seasons",
+        "ja": "of the seasons",
+        "ko": "of the seasons"
+      },
+      "transliteration": {
+        "th": "ṛtūnām",
+        "zh-TW": "ṛtūnām",
+        "ja": "ṛtūnām",
+        "ko": "ṛtūnām"
+      }
+    }
+  }
+}

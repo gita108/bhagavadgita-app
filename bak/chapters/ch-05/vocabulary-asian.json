@@ -1,0 +1,5126 @@
+{
+  "chapter": 5,
+  "meta": {
+    "source": "/Users/anton/proj/gita/data/chapters/ch-05/vocabulary-source.json",
+    "generated": "2026-03-27",
+    "languages": [
+      "th",
+      "zh-TW",
+      "ja",
+      "ko"
+    ],
+    "approved": false
+  },
+  "vocabulary": {
+    "18497": {
+      "meaning": {
+        "th": "โอ้ best of the valiant",
+        "zh-TW": "哦 best of the valiant",
+        "ja": "おお best of the valiant",
+        "ko": "오 best of the valiant"
+      },
+      "transliteration": {
+        "th": "หเอ) มอะหอา-พอาหโอ",
+        "zh-TW": "哈埃) 瑪阿哈阿-巴阿哈奧",
+        "ja": "ハエ) マアハアー-バアーハオ",
+        "ko": "하에) 마아하아-바아하오"
+      }
+    },
+    "18629": {
+      "meaning": {
+        "th": "such seers are to be known as",
+        "zh-TW": "such seers are to be known as",
+        "ja": "such seers are to be known as",
+        "ko": "such seers are to be known as"
+      },
+      "transliteration": {
+        "th": "กอะถยอะตเอ",
+        "zh-TW": "卡阿塔亞阿塔埃",
+        "ja": "クアタヤアタエ",
+        "ko": "크아타야아타에"
+      }
+    },
+    "18712": {
+      "meaning": {
+        "th": "which enter the จิต",
+        "zh-TW": "which enter the 心",
+        "ja": "which enter the 心",
+        "ko": "which enter the 마음"
+      },
+      "transliteration": {
+        "th": "มอะนอะหะ ปรอะวอิษฏอาน",
+        "zh-TW": "瑪阿那阿哈 帕拉阿瓦伊夏塔阿那",
+        "ja": "マアナアハ パラアヴァイシャタアーナ",
+        "ko": "마아나아하 파라아바이샤타아나"
+      }
+    },
+    "18506": {
+      "meaning": {
+        "th": "is able to attain to",
+        "zh-TW": "is able to attain to",
+        "ja": "is able to attain to",
+        "ko": "is able to attain to"
+      },
+      "transliteration": {
+        "th": "อะธอิคอะฉฉหอะตอิ",
+        "zh-TW": "阿達伊嘎阿恰恰哈阿塔伊",
+        "ja": "アダイグアチャチャハアタイ",
+        "ko": "아다이그아차차하아타이"
+      }
+    },
+    "18601": {
+      "meaning": {
+        "th": "by ignorance – by the Lord’s external potency avidyā-śakti to fulfill the living being’s ความปรารถนา to enjoy the วัตถุ world",
+        "zh-TW": "by ignorance – by the Lord’s external potency avidyā-śakti to fulfill the living being’s 慾望 to enjoy the 物質 world",
+        "ja": "by ignorance – by the Lord’s external potency avidyā-śakti to fulfill the living being’s 欲望 to enjoy the 物質 world",
+        "ko": "by ignorance – by the Lord’s external potency avidyā-śakti to fulfill the living being’s 욕망 to enjoy the 물질 world"
+      },
+      "transliteration": {
+        "th": "อะชญอานเอนอะ",
+        "zh-TW": "阿佳尼阿那埃那阿",
+        "ja": "アジャニャアーナエナア",
+        "ko": "아자냐아나에나아"
+      }
+    },
+    "18690": {
+      "meaning": {
+        "th": "sees the illumination within",
+        "zh-TW": "sees the illumination within",
+        "ja": "sees the illumination within",
+        "ko": "sees the illumination within"
+      },
+      "transliteration": {
+        "th": "อะนตอะหะ-ชยโอตอิหะ",
+        "zh-TW": "阿那塔阿哈-佳亞奧塔伊哈",
+        "ja": "アナタアハ-ジャヤオタイハ",
+        "ko": "아나타아하-자야오타이하"
+      }
+    },
+    "18686": {
+      "meaning": {
+        "th": "experiences the joy of the self within",
+        "zh-TW": "experiences the joy of the self within",
+        "ja": "experiences the joy of the self within",
+        "ko": "experiences the joy of the self within"
+      },
+      "transliteration": {
+        "th": "อะนตอะหะ-สอุขอะหะ",
+        "zh-TW": "阿那塔阿哈-薩烏卡阿哈",
+        "ja": "アナタアハ-サウクアハ",
+        "ko": "아나타아하-사우크아하"
+      }
+    },
+    "18687": {
+      "meaning": {
+        "th": "who delights in the self within",
+        "zh-TW": "who delights in the self within",
+        "ja": "who delights in the self within",
+        "ko": "who delights in the self within"
+      },
+      "transliteration": {
+        "th": "อะนตอะหะ-อารอามอะหะ",
+        "zh-TW": "阿那塔阿哈-阿拉阿瑪阿哈",
+        "ja": "アナタアハ-アーラアーマアハ",
+        "ko": "아나타아하-아라아마아하"
+      }
+    },
+    "18516": {
+      "meaning": {
+        "th": "athough engaged in the functions of",
+        "zh-TW": "athough engaged in the functions of",
+        "ja": "athough engaged in the functions of",
+        "ko": "athough engaged in the functions of"
+      },
+      "transliteration": {
+        "th": "อะปอิ",
+        "zh-TW": "阿帕伊",
+        "ja": "アパイ",
+        "ko": "아파이"
+      }
+    },
+    "18560": {
+      "meaning": {
+        "th": "and even by the senses",
+        "zh-TW": "and even by the senses",
+        "ja": "and even by the senses",
+        "ko": "and even by the senses"
+      },
+      "transliteration": {
+        "th": "อะปอิ อินทรอิยไอหะ",
+        "zh-TW": "阿帕伊 伊那達拉伊亞艾哈",
+        "ja": "アパイ イナダライヤアイハ",
+        "ko": "아파이 이나다라이야아이하"
+      }
+    },
+    "18652": {
+      "meaning": {
+        "th": "The person with จิต detached",
+        "zh-TW": "The person with 心 detached",
+        "ja": "The person with 心 detached",
+        "ko": "The person with 마음 detached"
+      },
+      "transliteration": {
+        "th": "อะสอะกตอะ-อาตมอา",
+        "zh-TW": "阿薩阿卡塔阿-阿塔瑪阿",
+        "ja": "アサアクタア-アータマアー",
+        "ko": "아사아크타아-아타마아"
+      }
+    },
+    "18646": {
+      "meaning": {
+        "th": "devoid of the delusion of considering one’s ร่างกาย and its attachments as ‘me’ and ‘mine’",
+        "zh-TW": "devoid of the delusion of considering one’s 身體 and its attachments as ‘me’ and ‘mine’",
+        "ja": "devoid of the delusion of considering one’s 身体 and its attachments as ‘me’ and ‘mine’",
+        "ko": "devoid of the delusion of considering one’s 육체 and its attachments as ‘me’ and ‘mine’"
+      },
+      "transliteration": {
+        "th": "อะสอะมมอูธอะหะ",
+        "zh-TW": "阿薩阿瑪瑪烏達阿哈",
+        "ja": "アサアママウーダアハ",
+        "ko": "아사아마마우다아하"
+      }
+    },
+    "18733": {
+      "meaning": {
+        "th": "as the maintainer or worshippable objective",
+        "zh-TW": "as the maintainer or worshippable objective",
+        "ja": "as the maintainer or worshippable objective",
+        "ko": "as the maintainer or worshippable objective"
+      },
+      "transliteration": {
+        "th": "ภโอกตอารอะม",
+        "zh-TW": "巴奧卡塔阿拉阿瑪",
+        "ja": "バオクタアーラアマ",
+        "ko": "바오크타아라아마"
+      }
+    },
+    "18692": {
+      "meaning": {
+        "th": "attaining the transcendental state",
+        "zh-TW": "attaining the transcendental state",
+        "ja": "attaining the transcendental state",
+        "ko": "attaining the transcendental state"
+      },
+      "transliteration": {
+        "th": "พรอะหมอะ-ภอูตอะหะ",
+        "zh-TW": "巴拉阿哈瑪阿-巴烏塔阿哈",
+        "ja": "バラアハマア-バウータアハ",
+        "ko": "바라아하마아-바우타아하"
+      }
+    },
+    "18701": {
+      "meaning": {
+        "th": "การหลุดพ้น from the mundane plane",
+        "zh-TW": "解脫 from the mundane plane",
+        "ja": "解脱 from the mundane plane",
+        "ko": "해탈 from the mundane plane"
+      },
+      "transliteration": {
+        "th": "พรอะหมอะ-นอิรวอาณอะม",
+        "zh-TW": "巴拉阿哈瑪阿-那伊拉瓦阿那阿瑪",
+        "ja": "バラアハマア-ナイラヴァアーナアマ",
+        "ko": "바라아하마아-나이라바아나아마"
+      }
+    },
+    "18647": {
+      "meaning": {
+        "th": "one in ความรู้ of Brahma",
+        "zh-TW": "one in 知識 of Brahma",
+        "ja": "one in 知識 of Brahma",
+        "ko": "one in 지식 of Brahma"
+      },
+      "transliteration": {
+        "th": "พรอะหมอะ-วอิต",
+        "zh-TW": "巴拉阿哈瑪阿-瓦伊塔",
+        "ja": "バラアハマア-ヴァイタ",
+        "ko": "바라아하마아-바이타"
+      }
+    },
+    "18659": {
+      "meaning": {
+        "th": "absorbing himself in การทำสมาธิ on the Absolute",
+        "zh-TW": "absorbing himself in 冥想 on the Absolute",
+        "ja": "absorbing himself in 瞑想 on the Absolute",
+        "ko": "absorbing himself in 명상 on the Absolute"
+      },
+      "transliteration": {
+        "th": "พรอะหมอะ-ยโอคอะ-ยอุกตอะ-อาตมอา",
+        "zh-TW": "巴拉阿哈瑪阿-亞奧嘎阿-亞烏卡塔阿-阿塔瑪阿",
+        "ja": "バラアハマア-ヤオグア-ヤウクタア-アータマアー",
+        "ko": "바라아하마아-야오그아-야우크타아-아타마아"
+      }
+    },
+    "18543": {
+      "meaning": {
+        "th": "unto the Supreme Lord",
+        "zh-TW": "unto the Supreme Lord",
+        "ja": "unto the Supreme Lord",
+        "ko": "unto the Supreme Lord"
+      },
+      "transliteration": {
+        "th": "พรอะหมอะณอิ",
+        "zh-TW": "巴拉阿哈瑪阿那伊",
+        "ja": "バラアハマアナイ",
+        "ko": "바라아하마아나이"
+      }
+    },
+    "18559": {
+      "meaning": {
+        "th": "by the intelligence",
+        "zh-TW": "by the intelligence",
+        "ja": "by the intelligence",
+        "ko": "by the intelligence"
+      },
+      "transliteration": {
+        "th": "พอุทธยอา",
+        "zh-TW": "巴烏達達亞阿",
+        "ja": "バウダダヤアー",
+        "ko": "바우다다야아"
+      }
+    },
+    "18711": {
+      "meaning": {
+        "th": "external sense objects of sound etc",
+        "zh-TW": "external sense objects of sound etc",
+        "ja": "external sense objects of sound etc",
+        "ko": "external sense objects of sound etc"
+      },
+      "transliteration": {
+        "th": "พอาหยอาน สปอะรศอาน",
+        "zh-TW": "巴阿哈亞阿那 薩帕阿拉夏阿那",
+        "ja": "バアーハヤアーナ サパアラシャアーナ",
+        "ko": "바아하야아나 사파아라샤아나"
+      }
+    },
+    "18473": {
+      "meaning": {
+        "th": "The childish the unwise",
+        "zh-TW": "The childish the unwise",
+        "ja": "The childish the unwise",
+        "ko": "The childish the unwise"
+      },
+      "transliteration": {
+        "th": "พอาลอาหะ",
+        "zh-TW": "巴阿拉阿哈",
+        "ja": "バアーラアーハ",
+        "ko": "바아라아하"
+      }
+    },
+    "18501": {
+      "meaning": {
+        "th": "the cause of ความโศกเศร้า",
+        "zh-TW": "the cause of 悲傷",
+        "ja": "the cause of 悲しみ",
+        "ko": "the cause of 슬픔"
+      },
+      "transliteration": {
+        "th": "ทอุหะขอะม อาปตอุม",
+        "zh-TW": "達烏哈卡阿瑪 阿帕塔烏瑪",
+        "ja": "ダウハクアマ アーパタウマ",
+        "ko": "다우하크아마 아파타우마"
+      }
+    },
+    "18450": {
+      "meaning": {
+        "th": "of the two",
+        "zh-TW": "of the two",
+        "ja": "of the two",
+        "ko": "of the two"
+      },
+      "transliteration": {
+        "th": "เอตอะยโอหะ",
+        "zh-TW": "埃塔阿亞奧哈",
+        "ja": "エタアヤオハ",
+        "ko": "에타아야오하"
+      }
+    },
+    "18527": {
+      "meaning": {
+        "th": "grasping objects in the hands",
+        "zh-TW": "grasping objects in the hands",
+        "ja": "grasping objects in the hands",
+        "ko": "grasping objects in the hands"
+      },
+      "transliteration": {
+        "th": "คริหณอะน",
+        "zh-TW": "嘎利哈那阿那",
+        "ja": "グリハナアナ",
+        "ko": "그리하나아나"
+      }
+    },
+    "18534": {
+      "meaning": {
+        "th": "in relation to their respective sense objects of form etc",
+        "zh-TW": "in relation to their respective sense objects of form etc",
+        "ja": "in relation to their respective sense objects of form etc",
+        "ko": "in relation to their respective sense objects of form etc"
+      },
+      "transliteration": {
+        "th": "อินทรอิยอะ-อะรถเอษอุ",
+        "zh-TW": "伊那達拉伊亞阿-阿拉塔埃夏烏",
+        "ja": "イナダライヤア-アラタエシャウ",
+        "ko": "이나다라이야아-아라타에샤우"
+      }
+    },
+    "18511": {
+      "meaning": {
+        "th": "who has mastery over the senses",
+        "zh-TW": "who has mastery over the senses",
+        "ja": "who has mastery over the senses",
+        "ko": "who has mastery over the senses"
+      },
+      "transliteration": {
+        "th": "ชอิตอะ-อินทรอิยอะหะ",
+        "zh-TW": "佳伊塔阿-伊那達拉伊亞阿哈",
+        "ja": "ジャイタア-イナダライヤアハ",
+        "ko": "자이타아-이나다라이야아하"
+      }
+    },
+    "18462": {
+      "meaning": {
+        "th": "it is to be known that",
+        "zh-TW": "it is to be known that",
+        "ja": "it is to be known that",
+        "ko": "it is to be known that"
+      },
+      "transliteration": {
+        "th": "ชญเอยอะหะ",
+        "zh-TW": "佳尼埃亞阿哈",
+        "ja": "ジャニャエヤアハ",
+        "ko": "자냐에야아하"
+      }
+    },
+    "18564": {
+      "meaning": {
+        "th": "the fruits of การกระทำ",
+        "zh-TW": "the fruits of 行動",
+        "ja": "the fruits of 行為",
+        "ko": "the fruits of 행위"
+      },
+      "transliteration": {
+        "th": "กอะรมอะ-ผอะลอะม",
+        "zh-TW": "卡阿拉瑪阿-帕阿拉阿瑪",
+        "ja": "クアラマア-パアラアマ",
+        "ko": "크아라마아-파아라아마"
+      }
+    },
+    "18460": {
+      "meaning": {
+        "th": "to renunciation of การกระทำ",
+        "zh-TW": "to renunciation of 行動",
+        "ja": "to renunciation of 行為",
+        "ko": "to renunciation of 행위"
+      },
+      "transliteration": {
+        "th": "กอะรมอะ-สอะนนยอาสอาต",
+        "zh-TW": "卡阿拉瑪阿-薩阿那那亞阿薩阿塔",
+        "ja": "クアラマア-サアナナヤアーサアータ",
+        "ko": "크아라마아-사아나나야아사아타"
+      }
+    },
+    "18458": {
+      "meaning": {
+        "th": "the path of selfless การกระทำ",
+        "zh-TW": "the path of selfless 行動",
+        "ja": "the path of selfless 行為",
+        "ko": "the path of selfless 행위"
+      },
+      "transliteration": {
+        "th": "กอะรมอะ-ยโอคอะ",
+        "zh-TW": "卡阿拉瑪阿-亞奧嘎阿",
+        "ja": "クアラマア-ヤオグア",
+        "ko": "크아라마아-야오그아"
+      }
+    },
+    "18587": {
+      "meaning": {
+        "th": "ego of considering themselves ‘the doer’",
+        "zh-TW": "ego of considering themselves ‘the doer’",
+        "ja": "ego of considering themselves ‘the doer’",
+        "ko": "ego of considering themselves ‘the doer’"
+      },
+      "transliteration": {
+        "th": "กอะรตริตวอะม",
+        "zh-TW": "卡阿拉塔利塔瓦阿瑪",
+        "ja": "クアラタリタヴァアマ",
+        "ko": "크아라타리타바아마"
+      }
+    },
+    "18677": {
+      "meaning": {
+        "th": "the impulses of ความปรารถนา and ความโกรธ",
+        "zh-TW": "the impulses of 慾望 and 憤怒",
+        "ja": "the impulses of 欲望 and 怒り",
+        "ko": "the impulses of 욕망 and 분노"
+      },
+      "transliteration": {
+        "th": "กอามอะ-กรโอธอะ-อุทภอะวอะม วเอคอะม",
+        "zh-TW": "卡阿瑪阿-卡拉奧達阿-烏達巴阿瓦阿瑪 瓦埃嘎阿瑪",
+        "ja": "クアーマア-クラオダア-ウダバアヴァアマ ヴァエグアマ",
+        "ko": "크아마아-크라오다아-우다바아바아마 바에그아마"
+      }
+    },
+    "18705": {
+      "meaning": {
+        "th": "and free from ความปรารถนา and ความโกรธ",
+        "zh-TW": "and free from 慾望 and 憤怒",
+        "ja": "and free from 欲望 and 怒り",
+        "ko": "and free from 욕망 and 분노"
+      },
+      "transliteration": {
+        "th": "กอามอะ-กรโอธอะ-วอิมอุกตอานอาม",
+        "zh-TW": "卡阿瑪阿-卡拉奧達阿-瓦伊瑪烏卡塔阿那阿瑪",
+        "ja": "クアーマア-クラオダア-ヴァイマウクタアーナアーマ",
+        "ko": "크아마아-크라오다아-바이마우크타아나아마"
+      }
+    },
+    "18557": {
+      "meaning": {
+        "th": "by the ร่างกาย",
+        "zh-TW": "by the 身體",
+        "ja": "by the 身体",
+        "ko": "by the 육체"
+      },
+      "transliteration": {
+        "th": "กอายเอนอะ",
+        "zh-TW": "卡阿亞埃那阿",
+        "ja": "クアーヤエナア",
+        "ko": "크아야에나아"
+      }
+    },
+    "18558": {
+      "meaning": {
+        "th": "by the จิต",
+        "zh-TW": "by the 心",
+        "ja": "by the 心",
+        "ko": "by the 마음"
+      },
+      "transliteration": {
+        "th": "มอะนอะสอา",
+        "zh-TW": "瑪阿那阿薩阿",
+        "ja": "マアナアサアー",
+        "ko": "마아나아사아"
+      }
+    },
+    "18722": {
+      "meaning": {
+        "th": "dedicated to การหลุดพ้น",
+        "zh-TW": "dedicated to 解脫",
+        "ja": "dedicated to 解脱",
+        "ko": "dedicated to 해탈"
+      },
+      "transliteration": {
+        "th": "มโอกษอะ-ปอะรอายอะณอะหะ",
+        "zh-TW": "瑪奧卡夏阿-帕阿拉阿亞阿那阿哈",
+        "ja": "マオクシャア-パアラアーヤアナアハ",
+        "ko": "마오크샤아-파아라아야아나아하"
+      }
+    },
+    "23804": {
+      "meaning": {
+        "th": "are deluded thinking the ร่างกาย to be the self",
+        "zh-TW": "are deluded thinking the 身體 to be the self",
+        "ja": "are deluded thinking the 身体 to be the self",
+        "ko": "are deluded thinking the 육체 to be the self"
+      },
+      "transliteration": {
+        "th": "มอุหยอะนตอิ",
+        "zh-TW": "瑪烏哈亞阿那塔伊",
+        "ja": "マウハヤアナタイ",
+        "ko": "마우하야아나타이"
+      }
+    },
+    "18724": {
+      "meaning": {
+        "th": "a contemplative seeker of the self",
+        "zh-TW": "a contemplative seeker of the self",
+        "ja": "a contemplative seeker of the self",
+        "ko": "a contemplative seeker of the self"
+      },
+      "transliteration": {
+        "th": "มอุนอิหะ",
+        "zh-TW": "瑪烏那伊哈",
+        "ja": "マウナイハ",
+        "ko": "마우나이하"
+      }
+    },
+    "18504": {
+      "meaning": {
+        "th": "being a man of ความรู้",
+        "zh-TW": "being a man of 知識",
+        "ja": "being a man of 知識",
+        "ko": "being a man of 지식"
+      },
+      "transliteration": {
+        "th": "มอุนอิหะ (สอะน",
+        "zh-TW": "瑪烏那伊哈 (薩阿那",
+        "ja": "マウナイハ (サアナ",
+        "ko": "마우나이하 (사아나"
+      }
+    },
+    "18589": {
+      "meaning": {
+        "th": "nor their association with the fruits of actions",
+        "zh-TW": "nor their association with the fruits of actions",
+        "ja": "nor their association with the fruits of actions",
+        "ko": "nor their association with the fruits of actions"
+      },
+      "transliteration": {
+        "th": "นอะ กอะรมอะ-ผอะลอะ-สอะṁยโอคอะม",
+        "zh-TW": "那阿 卡阿拉瑪阿-帕阿拉阿-薩阿ṁ亞奧嘎阿瑪",
+        "ja": "ナア クアラマア-パアラア-サアṁヤオグアマ",
+        "ko": "나아 크아라마아-파아라아-사아ṁ야오그아마"
+      }
+    },
+    "18583": {
+      "meaning": {
+        "th": "nor causing work for others",
+        "zh-TW": "nor causing work for others",
+        "ja": "nor causing work for others",
+        "ko": "nor causing work for others"
+      },
+      "transliteration": {
+        "th": "นอะ กอารอะยอะน",
+        "zh-TW": "那阿 卡阿拉阿亞阿那",
+        "ja": "ナア クアーラアヤアナ",
+        "ko": "나아 크아라아야아나"
+      }
+    },
+    "18595": {
+      "meaning": {
+        "th": "neither the sin",
+        "zh-TW": "neither the sin",
+        "ja": "neither the sin",
+        "ko": "neither the sin"
+      },
+      "transliteration": {
+        "th": "นอะ ปอาปอะม",
+        "zh-TW": "那阿 帕阿帕阿瑪",
+        "ja": "ナア パアーパアマ",
+        "ko": "나아 파아파아마"
+      }
+    },
+    "18581": {
+      "meaning": {
+        "th": "in the city of nine gates",
+        "zh-TW": "in the city of nine gates",
+        "ja": "in the city of nine gates",
+        "ko": "in the city of nine gates"
+      },
+      "transliteration": {
+        "th": "นอะวอะ-ทวอารเอ ปอุรเอ",
+        "zh-TW": "那阿瓦阿-達瓦阿拉埃 帕烏拉埃",
+        "ja": "ナアヴァア-ダヴァアーラエ パウラエ",
+        "ko": "나아바아-다바아라에 파우라에"
+      }
+    },
+    "18529": {
+      "meaning": {
+        "th": "and closing the eyes or blinking",
+        "zh-TW": "and closing the eyes or blinking",
+        "ja": "and closing the eyes or blinking",
+        "ko": "and closing the eyes or blinking"
+      },
+      "transliteration": {
+        "th": "นอิมอิษอะน",
+        "zh-TW": "那伊瑪伊夏阿那",
+        "ja": "ナイマイシャアナ",
+        "ko": "나이마이샤아나"
+      }
+    },
+    "18640": {
+      "meaning": {
+        "th": "and being faultless free from การยึดติด and hatred",
+        "zh-TW": "and being faultless free from 執著 and hatred",
+        "ja": "and being faultless free from 執着 and hatred",
+        "ko": "and being faultless free from 집착 and hatred"
+      },
+      "transliteration": {
+        "th": "นอิรทโอษอะม",
+        "zh-TW": "那伊拉達奧夏阿瑪",
+        "ja": "ナイラダオシャアマ",
+        "ko": "나이라다오샤아마"
+      }
+    },
+    "18469": {
+      "meaning": {
+        "th": "one who is free from duality",
+        "zh-TW": "one who is free from duality",
+        "ja": "one who is free from duality",
+        "ko": "one who is free from duality"
+      },
+      "transliteration": {
+        "th": "นอิรทวอะนทวอะหะ",
+        "zh-TW": "那伊拉達瓦阿那達瓦阿哈",
+        "ja": "ナイラダヴァアナダヴァアハ",
+        "ko": "나이라다바아나다바아하"
+      }
+    },
+    "18719": {
+      "meaning": {
+        "th": "flowing through the nostrils",
+        "zh-TW": "flowing through the nostrils",
+        "ja": "flowing through the nostrils",
+        "ko": "flowing through the nostrils"
+      },
+      "transliteration": {
+        "th": "นอาสอา-อะภยอะนตอะรอะ-ฉอารอิณเอา",
+        "zh-TW": "那阿薩阿-阿巴亞阿那塔阿拉阿-恰阿拉伊那奧",
+        "ja": "ナアーサアー-アバヤアナタアラア-チャアーライナアウ",
+        "ko": "나아사아-아바야아나타아라아-차아라이나아우"
+      }
+    },
+    "18572": {
+      "meaning": {
+        "th": "to the fruits of การกระทำ",
+        "zh-TW": "to the fruits of 行動",
+        "ja": "to the fruits of 行為",
+        "ko": "to the fruits of 행위"
+      },
+      "transliteration": {
+        "th": "ผอะลเอ",
+        "zh-TW": "帕阿拉埃",
+        "ja": "パアラエ",
+        "ko": "파아라에"
+      }
+    },
+    "18718": {
+      "meaning": {
+        "th": "inhalation and exhalation",
+        "zh-TW": "inhalation and exhalation",
+        "ja": "inhalation and exhalation",
+        "ko": "inhalation and exhalation"
+      },
+      "transliteration": {
+        "th": "ปรอาณอะ-อะปอานเอา",
+        "zh-TW": "帕拉阿那阿-阿帕阿那奧",
+        "ja": "パラアーナア-アパアーナアウ",
+        "ko": "파라아나아-아파아나아우"
+      }
+    },
+    "18622": {
+      "meaning": {
+        "th": "Those who see with equanimity who see Brahma transcendence",
+        "zh-TW": "Those who see with equanimity who see Brahma transcendence",
+        "ja": "Those who see with equanimity who see Brahma transcendence",
+        "ko": "Those who see with equanimity who see Brahma transcendence"
+      },
+      "transliteration": {
+        "th": "สอะมอะ-ทอะรศอินอะหะ เอวอะ",
+        "zh-TW": "薩阿瑪阿-達阿拉夏伊那阿哈 埃瓦阿",
+        "ja": "サアマア-ダアラシャイナアハ エヴァア",
+        "ko": "사아마아-다아라샤이나아하 에바아"
+      }
+    },
+    "18454": {
+      "meaning": {
+        "th": "renunciation of การกระทำ and the path of selfless การกระทำ",
+        "zh-TW": "renunciation of 行動 and the path of selfless 行動",
+        "ja": "renunciation of 行為 and the path of selfless 行為",
+        "ko": "renunciation of 행위 and the path of selfless 행위"
+      },
+      "transliteration": {
+        "th": "สอะนนยอาสอะหะ กอะรมอะ-ยโอคอะหะ ฉอะ",
+        "zh-TW": "薩阿那那亞阿薩阿哈 卡阿拉瑪阿-亞奧嘎阿哈 恰阿",
+        "ja": "サアナナヤアーサアハ クアラマア-ヤオグアハ チャア",
+        "ko": "사아나나야아사아하 크아라마아-야오그아하 차아"
+      }
+    },
+    "18635": {
+      "meaning": {
+        "th": "the cycle of birth and death",
+        "zh-TW": "the cycle of birth and death",
+        "ja": "the cycle of birth and death",
+        "ko": "the cycle of birth and death"
+      },
+      "transliteration": {
+        "th": "สอะรคอะหะ",
+        "zh-TW": "薩阿拉嘎阿哈",
+        "ja": "サアラグアハ",
+        "ko": "사아라그아하"
+      }
+    },
+    "18699": {
+      "meaning": {
+        "th": "dedicated to the welfare of all",
+        "zh-TW": "dedicated to the welfare of all",
+        "ja": "dedicated to the welfare of all",
+        "ko": "dedicated to the welfare of all"
+      },
+      "transliteration": {
+        "th": "สอะรวอะ-ภอูตอะ-หอิตเอ-รอะตอาหะ",
+        "zh-TW": "薩阿拉瓦阿-巴烏塔阿-哈伊塔埃-拉阿塔阿哈",
+        "ja": "サアラヴァア-バウータア-ハイタエ-ラアタアーハ",
+        "ko": "사아라바아-바우타아-하이타에-라아타아하"
+      }
+    },
+    "18514": {
+      "meaning": {
+        "th": "having reached the state in which his whole being is pervaded with affection and compassion for all beings",
+        "zh-TW": "having reached the state in which his whole being is pervaded with affection and compassion for all beings",
+        "ja": "having reached the state in which his whole being is pervaded with affection and compassion for all beings",
+        "ko": "having reached the state in which his whole being is pervaded with affection and compassion for all beings"
+      },
+      "transliteration": {
+        "th": "สอะรวอะ-ภอูตอะ-อาตมอะภอูตอะ-อาตมอา (สอะน",
+        "zh-TW": "薩阿拉瓦阿-巴烏塔阿-阿塔瑪阿巴烏塔阿-阿塔瑪阿 (薩阿那",
+        "ja": "サアラヴァア-バウータア-アータマアバウータア-アータマアー (サアナ",
+        "ko": "사아라바아-바우타아-아타마아바우타아-아타마아 (사아나"
+      }
+    },
+    "23805": {
+      "meaning": {
+        "th": "the worshippable Supreme Lord of all planes Lord Nārāyaṇ",
+        "zh-TW": "the worshippable Supreme Lord of all planes Lord Nārāyaṇ",
+        "ja": "the worshippable Supreme Lord of all planes Lord Nārāyaṇ",
+        "ko": "the worshippable Supreme Lord of all planes Lord Nārāyaṇ"
+      },
+      "transliteration": {
+        "th": "สอะรวอะ-ลโอกอะ-มอะหอา-อีศวอะรอะม",
+        "zh-TW": "薩阿拉瓦阿-拉奧卡阿-瑪阿哈阿-伊夏瓦阿拉阿瑪",
+        "ja": "サアラヴァア-ラオクア-マアハアー-イーシャヴァアラアマ",
+        "ko": "사아라바아-라오크아-마아하아-이샤바아라아마"
+      }
+    },
+    "18691": {
+      "meaning": {
+        "th": "such a niṣkām karma yogī follower of the โยคะ of selfless การกระทำ",
+        "zh-TW": "such a niṣkām karma yogī follower of the 瑜伽 of selfless 行動",
+        "ja": "such a niṣkām karma yogī follower of the ヨーガ of selfless 行為",
+        "ko": "such a niṣkām karma yogī follower of the 요가 of selfless 행위"
+      },
+      "transliteration": {
+        "th": "สอะหะ ยโอคอี",
+        "zh-TW": "薩阿哈 亞奧嘎伊",
+        "ja": "サアハ ヤオグイー",
+        "ko": "사아하 야오그이"
+      }
+    },
+    "18666": {
+      "meaning": {
+        "th": "born of the senses contacting their objects",
+        "zh-TW": "born of the senses contacting their objects",
+        "ja": "born of the senses contacting their objects",
+        "ko": "born of the senses contacting their objects"
+      },
+      "transliteration": {
+        "th": "สอะṁสปอะรศอะ-ชอาหะ",
+        "zh-TW": "薩阿ṁ薩帕阿拉夏阿-佳阿哈",
+        "ja": "サアṁサパアラシャア-ジャアーハ",
+        "ko": "사아ṁ사파아라샤아-자아하"
+      }
+    },
+    "18553": {
+      "meaning": {
+        "th": "การยึดติด to the fruits of การกระทำ",
+        "zh-TW": "執著 to the fruits of 行動",
+        "ja": "執着 to the fruits of 行為",
+        "ko": "집착 to the fruits of 행위"
+      },
+      "transliteration": {
+        "th": "สอะงคอะม",
+        "zh-TW": "薩阿昂嘎阿瑪",
+        "ja": "サアングアマ",
+        "ko": "사아응그아마"
+      }
+    },
+    "18645": {
+      "meaning": {
+        "th": "endowed with steady intelligence",
+        "zh-TW": "endowed with steady intelligence",
+        "ja": "endowed with steady intelligence",
+        "ko": "endowed with steady intelligence"
+      },
+      "transliteration": {
+        "th": "สถอิรอะ-พอุทธอิหะ",
+        "zh-TW": "薩塔伊拉阿-巴烏達達伊哈",
+        "ja": "サタイラア-バウダダイハ",
+        "ko": "사타이라아-바우다다이하"
+      }
+    },
+    "23806": {
+      "meaning": {
+        "th": "and the benefactor of all living beings by mercifully teaching pure ความภักดี to Me through My devotees since I am the adorable friend of the devotees Lord Kṛṣṇa",
+        "zh-TW": "and the benefactor of all living beings by mercifully teaching pure 奉愛 to Me through My devotees since I am the adorable friend of the devotees Lord Kṛṣṇa",
+        "ja": "and the benefactor of all living beings by mercifully teaching pure 献身 to Me through My devotees since I am the adorable friend of the devotees Lord Kṛṣṇa",
+        "ko": "and the benefactor of all living beings by mercifully teaching pure 헌신 to Me through My devotees since I am the adorable friend of the devotees Lord Kṛṣṇa"
+      },
+      "transliteration": {
+        "th": "สอุหริทอะม สอะรวอะ-ภอูตอานอาม",
+        "zh-TW": "薩烏哈利達阿瑪 薩阿拉瓦阿-巴烏塔阿那阿瑪",
+        "ja": "サウハリダアマ サアラヴァア-バウータアーナアーマ",
+        "ko": "사우하리다아마 사아라바아-바우타아나아마"
+      }
+    },
+    "18596": {
+      "meaning": {
+        "th": "nor the peity",
+        "zh-TW": "nor the peity",
+        "ja": "nor the peity",
+        "ko": "nor the peity"
+      },
+      "transliteration": {
+        "th": "สอุกริตอะม ฉอะ นอะ เอวอะ",
+        "zh-TW": "薩烏卡利塔阿瑪 恰阿 那阿 埃瓦阿",
+        "ja": "サウクリタアマ チャア ナア エヴァア",
+        "ko": "사우크리타아마 차아 나아 에바아"
+      }
+    },
+    "18475": {
+      "meaning": {
+        "th": "the paths of renunciation and karma โยคะ",
+        "zh-TW": "the paths of renunciation and karma 瑜伽",
+        "ja": "the paths of renunciation and karma ヨーガ",
+        "ko": "the paths of renunciation and karma 요가"
+      },
+      "transliteration": {
+        "th": "สอางขยอะ-ยโอคเอา",
+        "zh-TW": "薩阿昂卡亞阿-亞奧嘎奧",
+        "ja": "サアーンクヤア-ヤオグアウ",
+        "ko": "사아응크야아-야오그아우"
+      }
+    },
+    "18494": {
+      "meaning": {
+        "th": "both sannyās and karma-yoga",
+        "zh-TW": "both sannyās and karma-yoga",
+        "ja": "both sannyās and karma-yoga",
+        "ko": "both sannyās and karma-yoga"
+      },
+      "transliteration": {
+        "th": "สอางขยอะม ฉอะ ยโอคอะม ฉอะ",
+        "zh-TW": "薩阿昂卡亞阿瑪 恰阿 亞奧嘎阿瑪 恰阿",
+        "ja": "サアーンクヤアマ チャア ヤオグアマ チャア",
+        "ko": "사아응크야아마 차아 야오그아마 차아"
+      }
+    },
+    "18615": {
+      "meaning": {
+        "th": "who think constantly of the Supreme Lord",
+        "zh-TW": "who think constantly of the Supreme Lord",
+        "ja": "who think constantly of the Supreme Lord",
+        "ko": "who think constantly of the Supreme Lord"
+      },
+      "transliteration": {
+        "th": "ตอะต-พอุทธอะยอะหะ",
+        "zh-TW": "塔阿塔-巴烏達達阿亞阿哈",
+        "ja": "タアタ-バウダダアヤアハ",
+        "ko": "타아타-바우다다아야아하"
+      }
+    },
+    "18618": {
+      "meaning": {
+        "th": "and who are devoted to hearing and singing His glories",
+        "zh-TW": "and who are devoted to hearing and singing His glories",
+        "ja": "and who are devoted to hearing and singing His glories",
+        "ko": "and who are devoted to hearing and singing His glories"
+      },
+      "transliteration": {
+        "th": "ตอะต-ปอะรอายอะณอาหะ",
+        "zh-TW": "塔阿塔-帕阿拉阿亞阿那阿哈",
+        "ja": "タアタ-パアラアーヤアナアーハ",
+        "ko": "타아타-파아라아야아나아하"
+      }
+    },
+    "18667": {
+      "meaning": {
+        "th": "are the origin of misery",
+        "zh-TW": "are the origin of misery",
+        "ja": "are the origin of misery",
+        "ko": "are the origin of misery"
+      },
+      "transliteration": {
+        "th": "ตเอ ทอุหะขอะ-ยโอนอะยอะหะ เอวอะ",
+        "zh-TW": "塔埃 達烏哈卡阿-亞奧那阿亞阿哈 埃瓦阿",
+        "ja": "タエ ダウハクア-ヤオナアヤアハ エヴァア",
+        "ko": "타에 다우하크아-야오나아야아하 에바아"
+      }
+    },
+    "18704": {
+      "meaning": {
+        "th": "who are knowers of the element tvam the วิญญาณ",
+        "zh-TW": "who are knowers of the element tvam the 靈魂",
+        "ja": "who are knowers of the element tvam the 魂",
+        "ko": "who are knowers of the element tvam the 영혼"
+      },
+      "transliteration": {
+        "th": "วอิทอิตอะ-อาตมอะนอาม",
+        "zh-TW": "瓦伊達伊塔阿-阿塔瑪阿那阿瑪",
+        "ja": "ヴァイダイタア-アータマアナアーマ",
+        "ko": "바이다이타아-아타마아나아마"
+      }
+    },
+    "18623": {
+      "meaning": {
+        "th": "in a learned and humble",
+        "zh-TW": "in a learned and humble",
+        "ja": "in a learned and humble",
+        "ko": "in a learned and humble"
+      },
+      "transliteration": {
+        "th": "วอิทยอา-วอินอะยอะ-สอะมปอะนนเอ",
+        "zh-TW": "瓦伊達亞阿-瓦伊那阿亞阿-薩阿瑪帕阿那那埃",
+        "ja": "ヴァイダヤアー-ヴァイナアヤア-サアマパアナナエ",
+        "ko": "바이다야아-바이나아야아-사아마파아나나에"
+      }
+    },
+    "18723": {
+      "meaning": {
+        "th": "free from ความปรารถนา ความกลัว and ความโกรธ",
+        "zh-TW": "free from 慾望 恐懼 and 憤怒",
+        "ja": "free from 欲望 恐れ and 怒り",
+        "ko": "free from 욕망 공포 and 분노"
+      },
+      "transliteration": {
+        "th": "วอิคอะตอะ-อิฉฉหอา-ภอะยอะ-กรโอธอะหะ",
+        "zh-TW": "瓦伊嘎阿塔阿-伊恰恰哈阿-巴阿亞阿-卡拉奧達阿哈",
+        "ja": "ヴァイグアタア-イチャチャハアー-バアヤア-クラオダアハ",
+        "ko": "바이그아타아-이차차하아-바아야아-크라오다아하"
+      }
+    },
+    "18734": {
+      "meaning": {
+        "th": "of the karmīs’ sacrifices and the jñānīs’ austerities",
+        "zh-TW": "of the karmīs’ sacrifices and the jñānīs’ austerities",
+        "ja": "of the karmīs’ sacrifices and the jñānīs’ austerities",
+        "ko": "of the karmīs’ sacrifices and the jñānīs’ austerities"
+      },
+      "transliteration": {
+        "th": "ยอะชญอะ-ตอะปอะสอาม",
+        "zh-TW": "亞阿佳尼阿-塔阿帕阿薩阿瑪",
+        "ja": "ヤアジャニャア-タアパアサアーマ",
+        "ko": "야아자냐아-타아파아사아마"
+      }
+    },
+    "18657": {
+      "meaning": {
+        "th": "which is experienced in self-realisation",
+        "zh-TW": "which is experienced in self-realisation",
+        "ja": "which is experienced in self-realisation",
+        "ko": "which is experienced in self-realisation"
+      },
+      "transliteration": {
+        "th": "ยอะต อาตมอะนอิ (อะนอุภอูยอะมอานเอ",
+        "zh-TW": "亞阿塔 阿塔瑪阿那伊 (阿那烏巴烏亞阿瑪阿那埃",
+        "ja": "ヤアタ アータマアナイ (アナウバウーヤアマアーナエ",
+        "ko": "야아타 아타마아나이 (아나우바우야아마아나에"
+      }
+    },
+    "18703": {
+      "meaning": {
+        "th": "who have controlled their thoughts conquered the subtle ร่างกาย",
+        "zh-TW": "who have controlled their thoughts conquered the subtle 身體",
+        "ja": "who have controlled their thoughts conquered the subtle 身体",
+        "ko": "who have controlled their thoughts conquered the subtle 육체"
+      },
+      "transliteration": {
+        "th": "ยอะตอะ-ฉเอตอะสอาม",
+        "zh-TW": "亞阿塔阿-恰埃塔阿薩阿瑪",
+        "ja": "ヤアタア-チャエタアサアーマ",
+        "ko": "야아타아-차에타아사아마"
+      }
+    },
+    "18721": {
+      "meaning": {
+        "th": "is a controller of the senses จิต and intelligence",
+        "zh-TW": "is a controller of the senses 心 and intelligence",
+        "ja": "is a controller of the senses 心 and intelligence",
+        "ko": "is a controller of the senses 마음 and intelligence"
+      },
+      "transliteration": {
+        "th": "ยอะตอะ-อินทรอิยอะ-มอะนอะหะ-พอุทธอิหะ",
+        "zh-TW": "亞阿塔阿-伊那達拉伊亞阿-瑪阿那阿哈-巴烏達達伊哈",
+        "ja": "ヤアタア-イナダライヤア-マアナアハ-バウダダイハ",
+        "ko": "야아타아-이나다라이야아-마아나아하-바우다다이하"
+      }
+    },
+    "18702": {
+      "meaning": {
+        "th": "Of the sannyāsīs",
+        "zh-TW": "Of the sannyāsīs",
+        "ja": "Of the sannyāsīs",
+        "ko": "Of the sannyāsīs"
+      },
+      "transliteration": {
+        "th": "ยอะตอีนอาม",
+        "zh-TW": "亞阿塔伊那阿瑪",
+        "ja": "ヤアタイーナアーマ",
+        "ko": "야아타이나아마"
+      }
+    },
+    "18605": {
+      "meaning": {
+        "th": "of those for whom",
+        "zh-TW": "of those for whom",
+        "ja": "of those for whom",
+        "ko": "of those for whom"
+      },
+      "transliteration": {
+        "th": "ยเอษอาม",
+        "zh-TW": "亞埃夏阿瑪",
+        "ja": "ヤエシャアーマ",
+        "ko": "야에샤아마"
+      }
+    },
+    "18562": {
+      "meaning": {
+        "th": "A niṣkām karma-yogī one engaged in the โยคะ of selfless การกระทำ",
+        "zh-TW": "A niṣkām karma-yogī one engaged in the 瑜伽 of selfless 行動",
+        "ja": "A niṣkām karma-yogī one engaged in the ヨーガ of selfless 行為",
+        "ko": "A niṣkām karma-yogī one engaged in the 요가 of selfless 행위"
+      },
+      "transliteration": {
+        "th": "ยอุกตอะหะ",
+        "zh-TW": "亞烏卡塔阿哈",
+        "ja": "ヤウクタアハ",
+        "ko": "야우크타아하"
+      }
+    },
+    "18669": {
+      "meaning": {
+        "th": "they begin and end",
+        "zh-TW": "they begin and end",
+        "ja": "they begin and end",
+        "ko": "they begin and end"
+      },
+      "transliteration": {
+        "th": "อาทอิ-อะนตอะวอะนตอะหะ",
+        "zh-TW": "阿達伊-阿那塔阿瓦阿那塔阿哈",
+        "ja": "アーダイ-アナタアヴァアナタアハ",
+        "ko": "아다이-아나타아바아나타아하"
+      }
+    },
+    "18613": {
+      "meaning": {
+        "th": "like the sun that dispels darkness",
+        "zh-TW": "like the sun that dispels darkness",
+        "ja": "like the sun that dispels darkness",
+        "ko": "like the sun that dispels darkness"
+      },
+      "transliteration": {
+        "th": "อาทอิตยอะวอะต",
+        "zh-TW": "阿達伊塔亞阿瓦阿塔",
+        "ja": "アーダイタヤアヴァアタ",
+        "ko": "아다이타야아바아타"
+      }
+    },
+    "18561": {
+      "meaning": {
+        "th": "for purification of the heart self-purification",
+        "zh-TW": "for purification of the heart self-purification",
+        "ja": "for purification of the heart self-purification",
+        "ko": "for purification of the heart self-purification"
+      },
+      "transliteration": {
+        "th": "อาตมอะ-ศอุทธอะยเอ",
+        "zh-TW": "阿塔瑪阿-夏烏達達阿亞埃",
+        "ja": "アータマア-シャウダダアヤエ",
+        "ko": "아타마아-샤우다다아야에"
+      }
+    },
+    "18608": {
+      "meaning": {
+        "th": "by self-knowledge by the Lord’s superior potency",
+        "zh-TW": "by self-knowledge by the Lord’s superior potency",
+        "ja": "by self-knowledge by the Lord’s superior potency",
+        "ko": "by self-knowledge by the Lord’s superior potency"
+      },
+      "transliteration": {
+        "th": "อาตมอะนอะหะ ชญอานเอนอะ",
+        "zh-TW": "阿塔瑪阿那阿哈 佳尼阿那埃那阿",
+        "ja": "アータマアナアハ ジャニャアーナエナア",
+        "ko": "아타마아나아하 자냐아나에나아"
+      }
+    },
+    "18675": {
+      "meaning": {
+        "th": "is able by the โยคะ of selfless การกระทำ",
+        "zh-TW": "is able by the 瑜伽 of selfless 行動",
+        "ja": "is able by the ヨーガ of selfless 行為",
+        "ko": "is able by the 요가 of selfless 행위"
+      },
+      "transliteration": {
+        "th": "ศอะกนโอตอิ",
+        "zh-TW": "夏阿卡那奧塔伊",
+        "ja": "シャアクナオタイ",
+        "ko": "샤아크나오타이"
+      }
+    },
+    "18680": {
+      "meaning": {
+        "th": "leaving the ร่างกาย",
+        "zh-TW": "leaving the 身體",
+        "ja": "leaving the 身体",
+        "ko": "leaving the 육체"
+      },
+      "transliteration": {
+        "th": "ศอะรอีรอะ-วอิมโอกษอะณอาต",
+        "zh-TW": "夏阿拉伊拉阿-瓦伊瑪奧卡夏阿那阿塔",
+        "ja": "シャアライーラア-ヴァイマオクシャアナアータ",
+        "ko": "샤아라이라아-바이마오크샤아나아타"
+      }
+    },
+    "18730": {
+      "meaning": {
+        "th": "the joy of his original divine identity",
+        "zh-TW": "the joy of his original divine identity",
+        "ja": "the joy of his original divine identity",
+        "ko": "the joy of his original divine identity"
+      },
+      "transliteration": {
+        "th": "ศอานตอิม",
+        "zh-TW": "夏阿那塔伊瑪",
+        "ja": "シャアーナタイマ",
+        "ko": "샤아나타이마"
+      }
+    },
+    "2811": {
+      "meaning": {
+        "th": "невежеством",
+        "zh-TW": "невежеством",
+        "ja": "невежеством",
+        "ko": "невежеством"
+      },
+      "transliteration": {
+        "th": "а-джн̃а̄нена",
+        "zh-TW": "а-джн̃а̄нена",
+        "ja": "а-джн̃а̄нена",
+        "ko": "а-джн̃а̄нена"
+      }
+    },
+    "2690": {
+      "meaning": {
+        "th": "не действуя бескорыстно",
+        "zh-TW": "не действуя бескорыстно",
+        "ja": "не действуя бескорыстно",
+        "ko": "не действуя бескорыстно"
+      },
+      "transliteration": {
+        "th": "а-йогатах̣",
+        "zh-TW": "а-йогатах̣",
+        "ja": "а-йогатах̣",
+        "ko": "а-йогатах̣"
+      }
+    },
+    "2767": {
+      "meaning": {
+        "th": "действующий ради выгоды",
+        "zh-TW": "действующий ради выгоды",
+        "ja": "действующий ради выгоды",
+        "ko": "действующий ради выгоды"
+      },
+      "transliteration": {
+        "th": "а-йуктах̣",
+        "zh-TW": "а-йуктах̣",
+        "ja": "а-йуктах̣",
+        "ko": "а-йуктах̣"
+      }
+    },
+    "2894": {
+      "meaning": {
+        "th": "бесконечное",
+        "zh-TW": "бесконечное",
+        "ja": "бесконечное",
+        "ko": "бесконечное"
+      },
+      "transliteration": {
+        "th": "а-кш̣айам",
+        "zh-TW": "а-кш̣айам",
+        "ja": "а-кш̣айам",
+        "ko": "а-кш̣айам"
+      }
+    },
+    "2877": {
+      "meaning": {
+        "th": "нежелательное",
+        "zh-TW": "нежелательное",
+        "ja": "нежелательное",
+        "ko": "нежелательное"
+      },
+      "transliteration": {
+        "th": "а-прийам",
+        "zh-TW": "а-прийам",
+        "ja": "а-прийам",
+        "ko": "а-прийам"
+      }
+    },
+    "2884": {
+      "meaning": {
+        "th": "непривязанная душа",
+        "zh-TW": "непривязанная душа",
+        "ja": "непривязанная душа",
+        "ko": "непривязанная душа"
+      },
+      "transliteration": {
+        "th": "а-сакта-а̄тма",
+        "zh-TW": "а-сакта-а̄тма",
+        "ja": "а-сакта-а̄тма",
+        "ko": "а-сакта-а̄тма"
+      }
+    },
+    "2879": {
+      "meaning": {
+        "th": "свободный от заблуждений",
+        "zh-TW": "свободный от заблуждений",
+        "ja": "свободный от заблуждений",
+        "ko": "свободный от заблуждений"
+      },
+      "transliteration": {
+        "th": "а-сам-м̇ӯд̣хах̣",
+        "zh-TW": "а-сам-м̇ӯд̣хах̣",
+        "ja": "а-сам-м̇ӯд̣хах̣",
+        "ko": "а-сам-м̇ӯд̣хах̣"
+      }
+    },
+    "2812": {
+      "meaning": {
+        "th": "покрыто",
+        "zh-TW": "покрыто",
+        "ja": "покрыто",
+        "ko": "покрыто"
+      },
+      "transliteration": {
+        "th": "а̄вр̣там",
+        "zh-TW": "а̄вр̣там",
+        "ja": "а̄вр̣там",
+        "ko": "а̄вр̣там"
+      }
+    },
+    "2803": {
+      "meaning": {
+        "th": "ответственен",
+        "zh-TW": "ответственен",
+        "ja": "ответственен",
+        "ko": "ответственен"
+      },
+      "transliteration": {
+        "th": "а̄датте",
+        "zh-TW": "а̄датте",
+        "ja": "а̄датте",
+        "ko": "а̄датте"
+      }
+    },
+    "2903": {
+      "meaning": {
+        "th": "имеют начало и конец",
+        "zh-TW": "имеют начало и конец",
+        "ja": "имеют начало и конец",
+        "ko": "имеют начало и конец"
+      },
+      "transliteration": {
+        "th": "а̄ди-анта-вантах̣",
+        "zh-TW": "а̄ди-анта-вантах̣",
+        "ja": "а̄ди-анта-вантах̣",
+        "ko": "а̄ди-анта-вантах̣"
+      }
+    },
+    "2825": {
+      "meaning": {
+        "th": "подобно восходящему солнцу",
+        "zh-TW": "подобно восходящему солнцу",
+        "ja": "подобно восходящему солнцу",
+        "ko": "подобно восходящему солнцу"
+      },
+      "transliteration": {
+        "th": "а̄дитйа-ват",
+        "zh-TW": "а̄дитйа-ват",
+        "ja": "а̄дитйа-ват",
+        "ko": "а̄дитйа-ват"
+      }
+    },
+    "2734": {
+      "meaning": {
+        "th": "совершая",
+        "zh-TW": "совершая",
+        "ja": "совершая",
+        "ko": "совершая"
+      },
+      "transliteration": {
+        "th": "а̄дха̄йа",
+        "zh-TW": "а̄дха̄йа",
+        "ja": "а̄дха̄йа",
+        "ko": "а̄дха̄йа"
+      }
+    },
+    "2765": {
+      "meaning": {
+        "th": "обретает",
+        "zh-TW": "обретает",
+        "ja": "обретает",
+        "ko": "обретает"
+      },
+      "transliteration": {
+        "th": "а̄пноти",
+        "zh-TW": "а̄пноти",
+        "ja": "а̄пноти",
+        "ko": "а̄пноти"
+      }
+    },
+    "2689": {
+      "meaning": {
+        "th": "приносит",
+        "zh-TW": "приносит",
+        "ja": "приносит",
+        "ko": "приносит"
+      },
+      "transliteration": {
+        "th": "а̄птум",
+        "zh-TW": "а̄птум",
+        "ja": "а̄птум",
+        "ko": "а̄птум"
+      }
+    },
+    "2776": {
+      "meaning": {
+        "th": "пребывает",
+        "zh-TW": "пребывает",
+        "ja": "пребывает",
+        "ko": "пребывает"
+      },
+      "transliteration": {
+        "th": "а̄сте",
+        "zh-TW": "а̄сте",
+        "ja": "а̄сте",
+        "ko": "а̄сте"
+      }
+    },
+    "2663": {
+      "meaning": {
+        "th": "следующий",
+        "zh-TW": "следующий",
+        "ja": "следующий",
+        "ko": "следующий"
+      },
+      "transliteration": {
+        "th": "а̄стхитах̣",
+        "zh-TW": "а̄стхитах̣",
+        "ja": "а̄стхитах̣",
+        "ko": "а̄стхитах̣"
+      }
+    },
+    "2758": {
+      "meaning": {
+        "th": "сознания",
+        "zh-TW": "сознания",
+        "ja": "сознания",
+        "ko": "сознания"
+      },
+      "transliteration": {
+        "th": "а̄тма",
+        "zh-TW": "а̄тма",
+        "ja": "а̄тма",
+        "ko": "а̄тма"
+      }
+    },
+    "2952": {
+      "meaning": {
+        "th": "свою духовную природу",
+        "zh-TW": "свою духовную природу",
+        "ja": "свою духовную природу",
+        "ko": "свою духовную природу"
+      },
+      "transliteration": {
+        "th": "а̄тмана̄м",
+        "zh-TW": "а̄тмана̄м",
+        "ja": "а̄тмана̄м",
+        "ko": "а̄тмана̄м"
+      }
+    },
+    "2823": {
+      "meaning": {
+        "th": "живого существа",
+        "zh-TW": "живого существа",
+        "ja": "живого существа",
+        "ko": "живого существа"
+      },
+      "transliteration": {
+        "th": "а̄тманах̣",
+        "zh-TW": "а̄тманах̣",
+        "ja": "а̄тманах̣",
+        "ko": "а̄тманах̣"
+      }
+    },
+    "2886": {
+      "meaning": {
+        "th": "в осознании себя душой",
+        "zh-TW": "в осознании себя душой",
+        "ja": "в осознании себя душой",
+        "ko": "в осознании себя душой"
+      },
+      "transliteration": {
+        "th": "а̄тмани",
+        "zh-TW": "а̄тмани",
+        "ja": "а̄тмани",
+        "ko": "а̄тмани"
+      }
+    },
+    "2948": {
+      "meaning": {
+        "th": "в любом случае",
+        "zh-TW": "в любом случае",
+        "ja": "в любом случае",
+        "ko": "в любом случае"
+      },
+      "transliteration": {
+        "th": "абхитах̣",
+        "zh-TW": "абхитах̣",
+        "ja": "абхитах̣",
+        "ko": "абхитах̣"
+      }
+    },
+    "2820": {
+      "meaning": {
+        "th": "невежество",
+        "zh-TW": "невежество",
+        "ja": "невежество",
+        "ko": "невежество"
+      },
+      "transliteration": {
+        "th": "аджн̃а̄нам",
+        "zh-TW": "аджн̃а̄нам",
+        "ja": "аджн̃а̄нам",
+        "ko": "аджн̃а̄нам"
+      }
+    },
+    "2695": {
+      "meaning": {
+        "th": "достигает",
+        "zh-TW": "достигает",
+        "ja": "достигает",
+        "ko": "достигает"
+      },
+      "transliteration": {
+        "th": "адхи-гаччхати",
+        "zh-TW": "адхи-гаччхати",
+        "ja": "адхи-гаччхати",
+        "ko": "адхи-гаччхати"
+      }
+    },
+    "2934": {
+      "meaning": {
+        "th": "обретает",
+        "zh-TW": "обретает",
+        "ja": "обретает",
+        "ko": "обретает"
+      },
+      "transliteration": {
+        "th": "адхигаччхати",
+        "zh-TW": "адхигаччхати",
+        "ja": "адхигаччхати",
+        "ko": "адхигаччхати"
+      }
+    },
+    "2746": {
+      "meaning": {
+        "th": "водой",
+        "zh-TW": "водой",
+        "ja": "водой",
+        "ko": "водой"
+      },
+      "transliteration": {
+        "th": "амбхаса̄",
+        "zh-TW": "амбхаса̄",
+        "ja": "амбхаса̄",
+        "ko": "амбхаса̄"
+      }
+    },
+    "2959": {
+      "meaning": {
+        "th": "между",
+        "zh-TW": "между",
+        "ja": "между",
+        "ko": "между"
+      },
+      "transliteration": {
+        "th": "антаре",
+        "zh-TW": "антаре",
+        "ja": "антаре",
+        "ko": "антаре"
+      }
+    },
+    "2926": {
+      "meaning": {
+        "th": "черпает блаженство в себе",
+        "zh-TW": "черпает блаженство в себе",
+        "ja": "черпает блаженство в себе",
+        "ko": "черпает блаженство в себе"
+      },
+      "transliteration": {
+        "th": "антах̣-а̄ра̄мах̣",
+        "zh-TW": "антах̣-а̄ра̄мах̣",
+        "ja": "антах̣-а̄ра̄мах̣",
+        "ko": "антах̣-а̄ра̄мах̣"
+      }
+    },
+    "2928": {
+      "meaning": {
+        "th": "просветлен изнутри",
+        "zh-TW": "просветлен изнутри",
+        "ja": "просветлен изнутри",
+        "ko": "просветлен изнутри"
+      },
+      "transliteration": {
+        "th": "антах̣-джйотих̣",
+        "zh-TW": "антах̣-джйотих̣",
+        "ja": "антах̣-джйотих̣",
+        "ko": "антах̣-джйотих̣"
+      }
+    },
+    "2925": {
+      "meaning": {
+        "th": "внутренне счастлив",
+        "zh-TW": "внутренне счастлив",
+        "ja": "внутренне счастлив",
+        "ko": "внутренне счастлив"
+      },
+      "transliteration": {
+        "th": "антах̣-сукхах̣",
+        "zh-TW": "антах̣-сукхах̣",
+        "ja": "антах̣-сукхах̣",
+        "ko": "антах̣-сукхах̣"
+      }
+    },
+    "2752": {
+      "meaning": {
+        "th": "также",
+        "zh-TW": "также",
+        "ja": "также",
+        "ko": "также"
+      },
+      "transliteration": {
+        "th": "апи",
+        "zh-TW": "апи",
+        "ja": "апи",
+        "ko": "апи"
+      }
+    },
+    "2835": {
+      "meaning": {
+        "th": "освобождения от рождений и смертей",
+        "zh-TW": "освобождения от рождений и смертей",
+        "ja": "освобождения от рождений и смертей",
+        "ko": "освобождения от рождений и смертей"
+      },
+      "transliteration": {
+        "th": "апунах̣-а̄вр̣ттим",
+        "zh-TW": "апунах̣-а̄вр̣ттим",
+        "ja": "апунах̣-а̄вр̣ттим",
+        "ko": "апунах̣-а̄вр̣ттим"
+      }
+    },
+    "2613": {
+      "meaning": {
+        "th": "Арджуна",
+        "zh-TW": "Арджуна",
+        "ja": "Арджуна",
+        "ko": "Арджуна"
+      },
+      "transliteration": {
+        "th": "арджунах̣",
+        "zh-TW": "арджунах̣",
+        "ja": "арджунах̣",
+        "ko": "арджунах̣"
+      }
+    },
+    "2718": {
+      "meaning": {
+        "th": "потребляет пищу",
+        "zh-TW": "потребляет пищу",
+        "ja": "потребляет пищу",
+        "ko": "потребляет пищу"
+      },
+      "transliteration": {
+        "th": "аш́нан",
+        "zh-TW": "аш́нан",
+        "ja": "аш́нан",
+        "ko": "аш́нан"
+      }
+    },
+    "2895": {
+      "meaning": {
+        "th": "вкушает",
+        "zh-TW": "вкушает",
+        "ja": "вкушает",
+        "ko": "вкушает"
+      },
+      "transliteration": {
+        "th": "аш́нуте",
+        "zh-TW": "аш́нуте",
+        "ja": "аш́нуте",
+        "ko": "аш́нуте"
+      }
+    },
+    "2657": {
+      "meaning": {
+        "th": "глупцы",
+        "zh-TW": "глупцы",
+        "ja": "глупцы",
+        "ko": "глупцы"
+      },
+      "transliteration": {
+        "th": "ба̄ла̄х̣",
+        "zh-TW": "ба̄ла̄х̣",
+        "ja": "ба̄ла̄х̣",
+        "ko": "ба̄ла̄х̣"
+      }
+    },
+    "2883": {
+      "meaning": {
+        "th": "наслаждение внешним миром",
+        "zh-TW": "наслаждение внешним миром",
+        "ja": "наслаждение внешним миром",
+        "ko": "наслаждение внешним миром"
+      },
+      "transliteration": {
+        "th": "ба̄хйа-спарш́еш̣у",
+        "zh-TW": "ба̄хйа-спарш́еш̣у",
+        "ja": "ба̄хйа-спарш́еш̣у",
+        "ko": "ба̄хйа-спарш́еш̣у"
+      }
+    },
+    "2955": {
+      "meaning": {
+        "th": "внешние",
+        "zh-TW": "внешние",
+        "ja": "внешние",
+        "ko": "внешние"
+      },
+      "transliteration": {
+        "th": "ба̄хйа̄н",
+        "zh-TW": "ба̄хйа̄н",
+        "ja": "ба̄хйа̄н",
+        "ko": "ба̄хйа̄н"
+      }
+    },
+    "2652": {
+      "meaning": {
+        "th": "из материального рабства",
+        "zh-TW": "из материального рабства",
+        "ja": "из материального рабства",
+        "ko": "из материального рабства"
+      },
+      "transliteration": {
+        "th": "бандха̄т",
+        "zh-TW": "бандха̄т",
+        "ja": "бандха̄т",
+        "ko": "бандха̄т"
+      }
+    },
+    "2842": {
+      "meaning": {
+        "th": "в бра̄хман̣е",
+        "zh-TW": "в бра̄хман̣е",
+        "ja": "в бра̄хман̣е",
+        "ko": "в бра̄хман̣е"
+      },
+      "transliteration": {
+        "th": "бра̄хман̣е",
+        "zh-TW": "бра̄хман̣е",
+        "ja": "бра̄хман̣е",
+        "ko": "бра̄хман̣е"
+      }
+    },
+    "2890": {
+      "meaning": {
+        "th": "с надмирной Истиной",
+        "zh-TW": "с надмирной Истиной",
+        "ja": "с надмирной Истиной",
+        "ko": "с надмирной Истиной"
+      },
+      "transliteration": {
+        "th": "брахма",
+        "zh-TW": "брахма",
+        "ja": "брахма",
+        "ko": "брахма"
+      }
+    },
+    "2933": {
+      "meaning": {
+        "th": "осознание себя душой",
+        "zh-TW": "осознание себя душой",
+        "ja": "осознание себя душой",
+        "ko": "осознание себя душой"
+      },
+      "transliteration": {
+        "th": "брахма-бхӯтах̣",
+        "zh-TW": "брахма-бхӯтах̣",
+        "ja": "брахма-бхӯтах̣",
+        "ko": "брахма-бхӯтах̣"
+      }
+    },
+    "2880": {
+      "meaning": {
+        "th": "познавший надмирную истину",
+        "zh-TW": "познавший надмирную истину",
+        "ja": "познавший надмирную истину",
+        "ko": "познавший надмирную истину"
+      },
+      "transliteration": {
+        "th": "брахма-вит",
+        "zh-TW": "брахма-вит",
+        "ja": "брахма-вит",
+        "ko": "брахма-вит"
+      }
+    },
+    "2949": {
+      "meaning": {
+        "th": "освобождение",
+        "zh-TW": "освобождение",
+        "ja": "освобождение",
+        "ko": "освобождение"
+      },
+      "transliteration": {
+        "th": "брахма-нирва̄н̣ам",
+        "zh-TW": "брахма-нирва̄н̣ам",
+        "ja": "брахма-нирва̄н̣ам",
+        "ko": "брахма-нирва̄н̣ам"
+      }
+    },
+    "2881": {
+      "meaning": {
+        "th": "в Брахмане",
+        "zh-TW": "в Брахмане",
+        "ja": "в Брахмане",
+        "ko": "в Брахмане"
+      },
+      "transliteration": {
+        "th": "брахман̣и",
+        "zh-TW": "брахман̣и",
+        "ja": "брахман̣и",
+        "ko": "брахман̣и"
+      }
+    },
+    "2628": {
+      "meaning": {
+        "th": "скажи",
+        "zh-TW": "скажи",
+        "ja": "скажи",
+        "ko": "скажи"
+      },
+      "transliteration": {
+        "th": "брӯхи",
+        "zh-TW": "брӯхи",
+        "ja": "брӯхи",
+        "ko": "брӯхи"
+      }
+    },
+    "2969": {
+      "meaning": {
+        "th": "разум",
+        "zh-TW": "разум",
+        "ja": "разум",
+        "ko": "разум"
+      },
+      "transliteration": {
+        "th": "буддхих̣",
+        "zh-TW": "буддхих̣",
+        "ja": "буддхих̣",
+        "ko": "буддхих̣"
+      }
+    },
+    "2749": {
+      "meaning": {
+        "th": "разумом",
+        "zh-TW": "разумом",
+        "ja": "разумом",
+        "ko": "разумом"
+      },
+      "transliteration": {
+        "th": "буддхйа̄",
+        "zh-TW": "буддхйа̄",
+        "ja": "буддхйа̄",
+        "ko": "буддхйа̄"
+      }
+    },
+    "2908": {
+      "meaning": {
+        "th": "истинно мудрый",
+        "zh-TW": "истинно мудрый",
+        "ja": "истинно мудрый",
+        "ko": "истинно мудрый"
+      },
+      "transliteration": {
+        "th": "будхах̣",
+        "zh-TW": "будхах̣",
+        "ja": "будхах̣",
+        "ko": "будхах̣"
+      }
+    },
+    "2974": {
+      "meaning": {
+        "th": "страха",
+        "zh-TW": "страха",
+        "ja": "страха",
+        "ko": "страха"
+      },
+      "transliteration": {
+        "th": "бхайа",
+        "zh-TW": "бхайа",
+        "ja": "бхайа",
+        "ko": "бхайа"
+      }
+    },
+    "2899": {
+      "meaning": {
+        "th": "наслаждения",
+        "zh-TW": "наслаждения",
+        "ja": "наслаждения",
+        "ko": "наслаждения"
+      },
+      "transliteration": {
+        "th": "бхога̄х̣",
+        "zh-TW": "бхога̄х̣",
+        "ja": "бхога̄х̣",
+        "ko": "бхога̄х̣"
+      }
+    },
+    "2981": {
+      "meaning": {
+        "th": "наслаждающийся",
+        "zh-TW": "наслаждающийся",
+        "ja": "наслаждающийся",
+        "ko": "наслаждающийся"
+      },
+      "transliteration": {
+        "th": "бхокта̄рам",
+        "zh-TW": "бхокта̄рам",
+        "ja": "бхокта̄рам",
+        "ko": "бхокта̄рам"
+      }
+    },
+    "2960": {
+      "meaning": {
+        "th": "бровями",
+        "zh-TW": "бровями",
+        "ja": "бровями",
+        "ko": "бровями"
+      },
+      "transliteration": {
+        "th": "бхрувох̣",
+        "zh-TW": "бхрувох̣",
+        "ja": "бхрувох̣",
+        "ko": "бхрувох̣"
+      }
+    },
+    "2701": {
+      "meaning": {
+        "th": "единый душой с ними",
+        "zh-TW": "единый душой с ними",
+        "ja": "единый душой с ними",
+        "ko": "единый душой с ними"
+      },
+      "transliteration": {
+        "th": "бхӯта-а̄тма",
+        "zh-TW": "бхӯта-а̄тма",
+        "ja": "бхӯта-а̄тма",
+        "ko": "бхӯта-а̄тма"
+      }
+    },
+    "2988": {
+      "meaning": {
+        "th": "живых существ",
+        "zh-TW": "живых существ",
+        "ja": "живых существ",
+        "ko": "живых существ"
+      },
+      "transliteration": {
+        "th": "бхӯта̄на̄м",
+        "zh-TW": "бхӯта̄на̄м",
+        "ja": "бхӯта̄на̄м",
+        "ko": "бхӯта̄на̄м"
+      }
+    },
+    "2730": {
+      "meaning": {
+        "th": "взаимодействуют",
+        "zh-TW": "взаимодействуют",
+        "ja": "взаимодействуют",
+        "ko": "взаимодействуют"
+      },
+      "transliteration": {
+        "th": "вартанте",
+        "zh-TW": "вартанте",
+        "ja": "вартанте",
+        "ko": "вартанте"
+      }
+    },
+    "2950": {
+      "meaning": {
+        "th": "происходит",
+        "zh-TW": "происходит",
+        "ja": "происходит",
+        "ko": "происходит"
+      },
+      "transliteration": {
+        "th": "вартате",
+        "zh-TW": "вартате",
+        "ja": "вартате",
+        "ko": "вартате"
+      }
+    },
+    "2778": {
+      "meaning": {
+        "th": "контролирующая чувства",
+        "zh-TW": "контролирующая чувства",
+        "ja": "контролирующая чувства",
+        "ko": "контролирующая чувства"
+      },
+      "transliteration": {
+        "th": "ваш́ӣ",
+        "zh-TW": "ваш́ӣ",
+        "ja": "ваш́ӣ",
+        "ko": "ваш́ӣ"
+      }
+    },
+    "2918": {
+      "meaning": {
+        "th": "побуждения",
+        "zh-TW": "побуждения",
+        "ja": "побуждения",
+        "ko": "побуждения"
+      },
+      "transliteration": {
+        "th": "вегам",
+        "zh-TW": "вегам",
+        "ja": "вегам",
+        "ko": "вегам"
+      }
+    },
+    "2810": {
+      "meaning": {
+        "th": "всемогущий Господь",
+        "zh-TW": "всемогущий Господь",
+        "ja": "всемогущий Господь",
+        "ko": "всемогущий Господь"
+      },
+      "transliteration": {
+        "th": "ви-бхух̣",
+        "zh-TW": "ви-бхух̣",
+        "ja": "ви-бхух̣",
+        "ko": "ви-бхух̣"
+      }
+    },
+    "2641": {
+      "meaning": {
+        "th": "имеет неоспоримое превосходство",
+        "zh-TW": "имеет неоспоримое превосходство",
+        "ja": "имеет неоспоримое превосходство",
+        "ko": "имеет неоспоримое превосходство"
+      },
+      "transliteration": {
+        "th": "ви-ш́иш̣йате",
+        "zh-TW": "ви-ш́иш̣йате",
+        "ja": "ви-ш́иш̣йате",
+        "ko": "ви-ш́иш̣йате"
+      }
+    },
+    "2972": {
+      "meaning": {
+        "th": "свободный от",
+        "zh-TW": "свободный от",
+        "ja": "свободный от",
+        "ko": "свободный от"
+      },
+      "transliteration": {
+        "th": "вигата",
+        "zh-TW": "вигата",
+        "ja": "вигата",
+        "ko": "вигата"
+      }
+    },
+    "2698": {
+      "meaning": {
+        "th": "обуздавший ум",
+        "zh-TW": "обуздавший ум",
+        "ja": "обуздавший ум",
+        "ko": "обуздавший ум"
+      },
+      "transliteration": {
+        "th": "виджита-а̄тма̄",
+        "zh-TW": "виджита-а̄тма̄",
+        "ja": "виджита-а̄тма̄",
+        "ko": "виджита-а̄тма̄"
+      }
+    },
+    "2951": {
+      "meaning": {
+        "th": "осознавшие",
+        "zh-TW": "осознавшие",
+        "ja": "осознавшие",
+        "ko": "осознавшие"
+      },
+      "transliteration": {
+        "th": "видита",
+        "zh-TW": "видита",
+        "ja": "видита",
+        "ko": "видита"
+      }
+    },
+    "2839": {
+      "meaning": {
+        "th": "знанием",
+        "zh-TW": "знанием",
+        "ja": "знанием",
+        "ko": "знанием"
+      },
+      "transliteration": {
+        "th": "видйа̄",
+        "zh-TW": "видйа̄",
+        "ja": "видйа̄",
+        "ko": "видйа̄"
+      }
+    },
+    "2945": {
+      "meaning": {
+        "th": "свободные",
+        "zh-TW": "свободные",
+        "ja": "свободные",
+        "ko": "свободные"
+      },
+      "transliteration": {
+        "th": "вимукта̄на̄м",
+        "zh-TW": "вимукта̄на̄м",
+        "ja": "вимукта̄на̄м",
+        "ko": "вимукта̄на̄м"
+      }
+    },
+    "2840": {
+      "meaning": {
+        "th": "смирением",
+        "zh-TW": "смирением",
+        "ja": "смирением",
+        "ko": "смирением"
+      },
+      "transliteration": {
+        "th": "винайа",
+        "zh-TW": "винайа",
+        "ja": "винайа",
+        "ko": "винайа"
+      }
+    },
+    "2666": {
+      "meaning": {
+        "th": "достигает",
+        "zh-TW": "достигает",
+        "ja": "достигает",
+        "ko": "достигает"
+      },
+      "transliteration": {
+        "th": "виндате",
+        "zh-TW": "виндате",
+        "ja": "виндате",
+        "ko": "виндате"
+      }
+    },
+    "2885": {
+      "meaning": {
+        "th": "достигает",
+        "zh-TW": "достигает",
+        "ja": "достигает",
+        "ko": "достигает"
+      },
+      "transliteration": {
+        "th": "виндати",
+        "zh-TW": "виндати",
+        "ja": "виндати",
+        "ko": "виндати"
+      }
+    },
+    "2723": {
+      "meaning": {
+        "th": "опорожняет кишечник",
+        "zh-TW": "опорожняет кишечник",
+        "ja": "опорожняет кишечник",
+        "ko": "опорожняет кишечник"
+      },
+      "transliteration": {
+        "th": "виср̣джан",
+        "zh-TW": "виср̣джан",
+        "ja": "виср̣джан",
+        "ko": "виср̣джан"
+      }
+    },
+    "2697": {
+      "meaning": {
+        "th": "чистый сердцем",
+        "zh-TW": "чистый сердцем",
+        "ja": "чистый сердцем",
+        "ko": "чистый сердцем"
+      },
+      "transliteration": {
+        "th": "виш́уддха-а̄тма̄",
+        "zh-TW": "виш́уддха-а̄тма̄",
+        "ja": "виш́уддха-а̄тма̄",
+        "ko": "виш́уддха-а̄тма̄"
+      }
+    },
+    "2843": {
+      "meaning": {
+        "th": "в корове",
+        "zh-TW": "в корове",
+        "ja": "в корове",
+        "ko": "в корове"
+      },
+      "transliteration": {
+        "th": "гави",
+        "zh-TW": "гави",
+        "ja": "гави",
+        "ko": "гави"
+      }
+    },
+    "2675": {
+      "meaning": {
+        "th": "достигается",
+        "zh-TW": "достигается",
+        "ja": "достигается",
+        "ko": "достигается"
+      },
+      "transliteration": {
+        "th": "гамйате",
+        "zh-TW": "гамйате",
+        "ja": "гамйате",
+        "ko": "гамйате"
+      }
+    },
+    "2719": {
+      "meaning": {
+        "th": "двигается",
+        "zh-TW": "двигается",
+        "ja": "двигается",
+        "ko": "двигается"
+      },
+      "transliteration": {
+        "th": "гаччхан",
+        "zh-TW": "гаччхан",
+        "ja": "гаччхан",
+        "ko": "гаччхан"
+      }
+    },
+    "2834": {
+      "meaning": {
+        "th": "достигают",
+        "zh-TW": "достигают",
+        "ja": "достигают",
+        "ko": "достигают"
+      },
+      "transliteration": {
+        "th": "гаччханти",
+        "zh-TW": "гаччханти",
+        "ja": "гаччханти",
+        "ko": "гаччханти"
+      }
+    },
+    "2724": {
+      "meaning": {
+        "th": "берет",
+        "zh-TW": "берет",
+        "ja": "берет",
+        "ko": "берет"
+      },
+      "transliteration": {
+        "th": "гр̣хн̣ан",
+        "zh-TW": "гр̣хн̣ан",
+        "ja": "гр̣хн̣ан",
+        "ko": "гр̣хн̣ан"
+      }
+    },
+    "2780": {
+      "meaning": {
+        "th": "вратами",
+        "zh-TW": "вратами",
+        "ja": "вратами",
+        "ko": "вратами"
+      },
+      "transliteration": {
+        "th": "два̄ре",
+        "zh-TW": "два̄ре",
+        "ja": "два̄ре",
+        "ko": "два̄ре"
+      }
+    },
+    "2782": {
+      "meaning": {
+        "th": "воплощенная душа",
+        "zh-TW": "воплощенная душа",
+        "ja": "воплощенная душа",
+        "ko": "воплощенная душа"
+      },
+      "transliteration": {
+        "th": "дехӣ",
+        "zh-TW": "дехӣ",
+        "ja": "дехӣ",
+        "ko": "дехӣ"
+      }
+    },
+    "2816": {
+      "meaning": {
+        "th": "живых существ",
+        "zh-TW": "живых существ",
+        "ja": "живых существ",
+        "ko": "живых существ"
+      },
+      "transliteration": {
+        "th": "джантавах̣",
+        "zh-TW": "джантавах̣",
+        "ja": "джантавах̣",
+        "ko": "джантавах̣"
+      }
+    },
+    "2717": {
+      "meaning": {
+        "th": "обоняет",
+        "zh-TW": "обоняет",
+        "ja": "обоняет",
+        "ko": "обоняет"
+      },
+      "transliteration": {
+        "th": "джигхран",
+        "zh-TW": "джигхран",
+        "ja": "джигхран",
+        "ko": "джигхран"
+      }
+    },
+    "2699": {
+      "meaning": {
+        "th": "подчинивший чувства",
+        "zh-TW": "подчинивший чувства",
+        "ja": "подчинивший чувства",
+        "ko": "подчинивший чувства"
+      },
+      "transliteration": {
+        "th": "джита-индрийах̣",
+        "zh-TW": "джита-индрийах̣",
+        "ja": "джита-индрийах̣",
+        "ko": "джита-индрийах̣"
+      }
+    },
+    "2855": {
+      "meaning": {
+        "th": "побежден",
+        "zh-TW": "побежден",
+        "ja": "побежден",
+        "ko": "побежден"
+      },
+      "transliteration": {
+        "th": "джитах̣",
+        "zh-TW": "джитах̣",
+        "ja": "джитах̣",
+        "ko": "джитах̣"
+      }
+    },
+    "2836": {
+      "meaning": {
+        "th": "благодаря духовному знанию",
+        "zh-TW": "благодаря духовному знанию",
+        "ja": "благодаря духовному знанию",
+        "ko": "благодаря духовному знанию"
+      },
+      "transliteration": {
+        "th": "джн̃а̄на",
+        "zh-TW": "джн̃а̄на",
+        "ja": "джн̃а̄на",
+        "ko": "джн̃а̄на"
+      }
+    },
+    "2826": {
+      "meaning": {
+        "th": "свет истины",
+        "zh-TW": "свет истины",
+        "ja": "свет истины",
+        "ko": "свет истины"
+      },
+      "transliteration": {
+        "th": "джн̃а̄нам",
+        "zh-TW": "джн̃а̄нам",
+        "ja": "джн̃а̄нам",
+        "ko": "джн̃а̄нам"
+      }
+    },
+    "2817": {
+      "meaning": {
+        "th": "духовным знанием",
+        "zh-TW": "духовным знанием",
+        "ja": "духовным знанием",
+        "ko": "духовным знанием"
+      },
+      "transliteration": {
+        "th": "джн̃а̄нена",
+        "zh-TW": "джн̃а̄нена",
+        "ja": "джн̃а̄нена",
+        "ko": "джн̃а̄нена"
+      }
+    },
+    "2989": {
+      "meaning": {
+        "th": "зная",
+        "zh-TW": "зная",
+        "ja": "зная",
+        "ko": "зная"
+      },
+      "transliteration": {
+        "th": "джн̃а̄тва̄",
+        "zh-TW": "джн̃а̄тва̄",
+        "ja": "джн̃а̄тва̄",
+        "ko": "джн̃а̄тва̄"
+      }
+    },
+    "2642": {
+      "meaning": {
+        "th": "следует знать что",
+        "zh-TW": "следует знать что",
+        "ja": "следует знать что",
+        "ko": "следует знать что"
+      },
+      "transliteration": {
+        "th": "джн̃ейах̣",
+        "zh-TW": "джн̃ейах̣",
+        "ja": "джн̃ейах̣",
+        "ko": "джн̃ейах̣"
+      }
+    },
+    "2900": {
+      "meaning": {
+        "th": "источник страданий",
+        "zh-TW": "источник страданий",
+        "ja": "источник страданий",
+        "ko": "источник страданий"
+      },
+      "transliteration": {
+        "th": "дух̣кха-йонайах̣",
+        "zh-TW": "дух̣кха-йонайах̣",
+        "ja": "дух̣кха-йонайах̣",
+        "ko": "дух̣кха-йонайах̣"
+      }
+    },
+    "2688": {
+      "meaning": {
+        "th": "скорбь",
+        "zh-TW": "скорбь",
+        "ja": "скорбь",
+        "ko": "скорбь"
+      },
+      "transliteration": {
+        "th": "дух̣кхам",
+        "zh-TW": "дух̣кхам",
+        "ja": "дух̣кхам",
+        "ko": "дух̣кхам"
+      }
+    },
+    "2732": {
+      "meaning": {
+        "th": "осознает",
+        "zh-TW": "осознает",
+        "ja": "осознает",
+        "ko": "осознает"
+      },
+      "transliteration": {
+        "th": "дха̄райан",
+        "zh-TW": "дха̄райан",
+        "ja": "дха̄райан",
+        "ko": "дха̄райан"
+      }
+    },
+    "2745": {
+      "meaning": {
+        "th": "как",
+        "zh-TW": "как",
+        "ja": "как",
+        "ko": "как"
+      },
+      "transliteration": {
+        "th": "ива",
+        "zh-TW": "ива",
+        "ja": "ива",
+        "ko": "ива"
+      }
+    },
+    "2967": {
+      "meaning": {
+        "th": "свои чувства",
+        "zh-TW": "свои чувства",
+        "ja": "свои чувства",
+        "ko": "свои чувства"
+      },
+      "transliteration": {
+        "th": "индрийа",
+        "zh-TW": "индрийа",
+        "ja": "индрийа",
+        "ko": "индрийа"
+      }
+    },
+    "2729": {
+      "meaning": {
+        "th": "со своими объектами",
+        "zh-TW": "со своими объектами",
+        "ja": "со своими объектами",
+        "ko": "со своими объектами"
+      },
+      "transliteration": {
+        "th": "индрийа-артхеш̣у",
+        "zh-TW": "индрийа-артхеш̣у",
+        "ja": "индрийа-артхеш̣у",
+        "ko": "индрийа-артхеш̣у"
+      }
+    },
+    "2728": {
+      "meaning": {
+        "th": "чувства",
+        "zh-TW": "чувства",
+        "ja": "чувства",
+        "ko": "чувства"
+      },
+      "transliteration": {
+        "th": "индрийа̄н̣и",
+        "zh-TW": "индрийа̄н̣и",
+        "ja": "индрийа̄н̣и",
+        "ko": "индрийа̄н̣и"
+      }
+    },
+    "2751": {
+      "meaning": {
+        "th": "чувствами",
+        "zh-TW": "чувствами",
+        "ja": "чувствами",
+        "ko": "чувствами"
+      },
+      "transliteration": {
+        "th": "индрийаих̣",
+        "zh-TW": "индрийаих̣",
+        "ja": "индрийаих̣",
+        "ko": "индрийаих̣"
+      }
+    },
+    "2731": {
+      "meaning": {
+        "th": "так",
+        "zh-TW": "так",
+        "ja": "так",
+        "ko": "так"
+      },
+      "transliteration": {
+        "th": "ити",
+        "zh-TW": "ити",
+        "ja": "ити",
+        "ko": "ити"
+      }
+    },
+    "2852": {
+      "meaning": {
+        "th": "в этой жизни",
+        "zh-TW": "в этой жизни",
+        "ja": "в этой жизни",
+        "ko": "в этой жизни"
+      },
+      "transliteration": {
+        "th": "иха",
+        "zh-TW": "иха",
+        "ja": "иха",
+        "ko": "иха"
+      }
+    },
+    "2910": {
+      "meaning": {
+        "th": "еще при жизни",
+        "zh-TW": "еще при жизни",
+        "ja": "еще при жизни",
+        "ko": "еще при жизни"
+      },
+      "transliteration": {
+        "th": "иха эва",
+        "zh-TW": "иха эва",
+        "ja": "иха эва",
+        "ko": "иха эва"
+      }
+    },
+    "2973": {
+      "meaning": {
+        "th": "желаний",
+        "zh-TW": "желаний",
+        "ja": "желаний",
+        "ko": "желаний"
+      },
+      "transliteration": {
+        "th": "иччха̄",
+        "zh-TW": "иччха̄",
+        "ja": "иччха̄",
+        "ko": "иччха̄"
+      }
+    },
+    "2982": {
+      "meaning": {
+        "th": "всеми жертвоприношениями",
+        "zh-TW": "всеми жертвоприношениями",
+        "ja": "всеми жертвоприношениями",
+        "ko": "всеми жертвоприношениями"
+      },
+      "transliteration": {
+        "th": "йаджн̃а",
+        "zh-TW": "йаджн̃а",
+        "ja": "йаджн̃а",
+        "ko": "йаджн̃а"
+      }
+    },
+    "2887": {
+      "meaning": {
+        "th": "тот кто",
+        "zh-TW": "тот кто",
+        "ja": "тот кто",
+        "ko": "тот кто"
+      },
+      "transliteration": {
+        "th": "йат",
+        "zh-TW": "йат",
+        "ja": "йат",
+        "ko": "йат"
+      }
+    },
+    "2966": {
+      "meaning": {
+        "th": "контролирующий",
+        "zh-TW": "контролирующий",
+        "ja": "контролирующий",
+        "ko": "контролирующий"
+      },
+      "transliteration": {
+        "th": "йата",
+        "zh-TW": "йата",
+        "ja": "йата",
+        "ko": "йата"
+      }
+    },
+    "2940": {
+      "meaning": {
+        "th": "обуздавшие себя",
+        "zh-TW": "обуздавшие себя",
+        "ja": "обуздавшие себя",
+        "ko": "обуздавшие себя"
+      },
+      "transliteration": {
+        "th": "йата-а̄тма̄нах̣",
+        "zh-TW": "йата-а̄тма̄нах̣",
+        "ja": "йата-а̄тма̄нах̣",
+        "ko": "йата-а̄тма̄нах̣"
+      }
+    },
+    "2947": {
+      "meaning": {
+        "th": "обуздавшие ум",
+        "zh-TW": "обуздавшие ум",
+        "ja": "обуздавшие ум",
+        "ko": "обуздавшие ум"
+      },
+      "transliteration": {
+        "th": "йата-четаса̄м",
+        "zh-TW": "йата-четаса̄м",
+        "ja": "йата-четаса̄м",
+        "ko": "йата-четаса̄м"
+      }
+    },
+    "2946": {
+      "meaning": {
+        "th": "отреченные личности",
+        "zh-TW": "отреченные личности",
+        "ja": "отреченные личности",
+        "ko": "отреченные личности"
+      },
+      "transliteration": {
+        "th": "йатӣна̄м",
+        "zh-TW": "йатӣна̄м",
+        "ja": "йатӣна̄м",
+        "ko": "йатӣна̄м"
+      }
+    },
+    "2976": {
+      "meaning": {
+        "th": "тот кто",
+        "zh-TW": "тот кто",
+        "ja": "тот кто",
+        "ko": "тот кто"
+      },
+      "transliteration": {
+        "th": "йах̣",
+        "zh-TW": "йах̣",
+        "ja": "йах̣",
+        "ko": "йах̣"
+      }
+    },
+    "2896": {
+      "meaning": {
+        "th": "которые",
+        "zh-TW": "которые",
+        "ja": "которые",
+        "ko": "которые"
+      },
+      "transliteration": {
+        "th": "йе",
+        "zh-TW": "йе",
+        "ja": "йе",
+        "ko": "йе"
+      }
+    },
+    "2857": {
+      "meaning": {
+        "th": "для тех кто",
+        "zh-TW": "для тех кто",
+        "ja": "для тех кто",
+        "ko": "для тех кто"
+      },
+      "transliteration": {
+        "th": "йеш̣а̄м",
+        "zh-TW": "йеш̣а̄м",
+        "ja": "йеш̣а̄м",
+        "ko": "йеш̣а̄м"
+      }
+    },
+    "2891": {
+      "meaning": {
+        "th": "связанный",
+        "zh-TW": "связанный",
+        "ja": "связанный",
+        "ko": "связанный"
+      },
+      "transliteration": {
+        "th": "йога",
+        "zh-TW": "йога",
+        "ja": "йога",
+        "ko": "йога"
+      }
+    },
+    "2696": {
+      "meaning": {
+        "th": "занятый в йоге",
+        "zh-TW": "занятый в йоге",
+        "ja": "занятый в йоге",
+        "ko": "занятый в йоге"
+      },
+      "transliteration": {
+        "th": "йога-йуктах̣",
+        "zh-TW": "йога-йуктах̣",
+        "ja": "йога-йуктах̣",
+        "ko": "йога-йуктах̣"
+      }
+    },
+    "2673": {
+      "meaning": {
+        "th": "благодаря карма-йоге пути бескорыстных деяний",
+        "zh-TW": "благодаря карма-йоге пути бескорыстных деяний",
+        "ja": "благодаря карма-йоге пути бескорыстных деяний",
+        "ko": "благодаря карма-йоге пути бескорыстных деяний"
+      },
+      "transliteration": {
+        "th": "йогаих̣",
+        "zh-TW": "йогаих̣",
+        "ja": "йогаих̣",
+        "ko": "йогаих̣"
+      }
+    },
+    "2679": {
+      "meaning": {
+        "th": "карма-йогу",
+        "zh-TW": "карма-йогу",
+        "ja": "карма-йогу",
+        "ko": "карма-йогу"
+      },
+      "transliteration": {
+        "th": "йогам",
+        "zh-TW": "йогам",
+        "ja": "йогам",
+        "ko": "йогам"
+      }
+    },
+    "2655": {
+      "meaning": {
+        "th": "путь бескорыстных деяний",
+        "zh-TW": "путь бескорыстных деяний",
+        "ja": "путь бескорыстных деяний",
+        "ko": "путь бескорыстных деяний"
+      },
+      "transliteration": {
+        "th": "йогау",
+        "zh-TW": "йогау",
+        "ja": "йогау",
+        "ko": "йогау"
+      }
+    },
+    "2753": {
+      "meaning": {
+        "th": "йог",
+        "zh-TW": "йог",
+        "ja": "йог",
+        "ko": "йог"
+      },
+      "transliteration": {
+        "th": "йогинах̣",
+        "zh-TW": "йогинах̣",
+        "ja": "йогинах̣",
+        "ko": "йогинах̣"
+      }
+    },
+    "2892": {
+      "meaning": {
+        "th": "погрузившийся в созерцание",
+        "zh-TW": "погрузившийся в созерцание",
+        "ja": "погрузившийся в созерцание",
+        "ko": "погрузившийся в созерцание"
+      },
+      "transliteration": {
+        "th": "йукта-а̄тма̄",
+        "zh-TW": "йукта-а̄тма̄",
+        "ja": "йукта-а̄тма̄",
+        "ko": "йукта-а̄тма̄"
+      }
+    },
+    "2920": {
+      "meaning": {
+        "th": "практикуя йогу",
+        "zh-TW": "практикуя йогу",
+        "ja": "практикуя йогу",
+        "ko": "практикуя йогу"
+      },
+      "transliteration": {
+        "th": "йуктах̣",
+        "zh-TW": "йуктах̣",
+        "ja": "йуктах̣",
+        "ko": "йуктах̣"
+      }
+    },
+    "2747": {
+      "meaning": {
+        "th": "телом",
+        "zh-TW": "телом",
+        "ja": "телом",
+        "ko": "телом"
+      },
+      "transliteration": {
+        "th": "ка̄йена",
+        "zh-TW": "ка̄йена",
+        "ja": "ка̄йена",
+        "ko": "ка̄йена"
+      }
+    },
+    "2943": {
+      "meaning": {
+        "th": "от мирских желаний",
+        "zh-TW": "от мирских желаний",
+        "ja": "от мирских желаний",
+        "ko": "от мирских желаний"
+      },
+      "transliteration": {
+        "th": "ка̄ма",
+        "zh-TW": "ка̄ма",
+        "ja": "ка̄ма",
+        "ko": "ка̄ма"
+      }
+    },
+    "2768": {
+      "meaning": {
+        "th": "стремящийся исполнить мирские желания",
+        "zh-TW": "стремящийся исполнить мирские желания",
+        "ja": "стремящийся исполнить мирские желания",
+        "ko": "стремящийся исполнить мирские желания"
+      },
+      "transliteration": {
+        "th": "ка̄ма-ка̄рен̣а",
+        "zh-TW": "ка̄ма-ка̄рен̣а",
+        "ja": "ка̄ма-ка̄рен̣а",
+        "ko": "ка̄ма-ка̄рен̣а"
+      }
+    },
+    "2787": {
+      "meaning": {
+        "th": "побуждает к деятельности",
+        "zh-TW": "побуждает к деятельности",
+        "ja": "побуждает к деятельности",
+        "ko": "побуждает к деятельности"
+      },
+      "transliteration": {
+        "th": "ка̄райан",
+        "zh-TW": "ка̄райан",
+        "ja": "ка̄райан",
+        "ko": "ка̄райан"
+      }
+    },
+    "2838": {
+      "meaning": {
+        "th": "всю материальную скверну",
+        "zh-TW": "всю материальную скверну",
+        "ja": "всю материальную скверну",
+        "ko": "всю материальную скверну"
+      },
+      "transliteration": {
+        "th": "калмаш̣а̄х̣",
+        "zh-TW": "калмаш̣а̄х̣",
+        "ja": "калмаш̣а̄х̣",
+        "ko": "калмаш̣а̄х̣"
+      }
+    },
+    "2789": {
+      "meaning": {
+        "th": "желание действовать",
+        "zh-TW": "желание действовать",
+        "ja": "желание действовать",
+        "ko": "желание действовать"
+      },
+      "transliteration": {
+        "th": "кар-тр̣-твам",
+        "zh-TW": "кар-тр̣-твам",
+        "ja": "кар-тр̣-твам",
+        "ko": "кар-тр̣-твам"
+      }
+    },
+    "2796": {
+      "meaning": {
+        "th": "деятельности",
+        "zh-TW": "деятельности",
+        "ja": "деятельности",
+        "ko": "деятельности"
+      },
+      "transliteration": {
+        "th": "карма",
+        "zh-TW": "карма",
+        "ja": "карма",
+        "ko": "карма"
+      }
+    },
+    "2640": {
+      "meaning": {
+        "th": "путь бескорыстных деяний",
+        "zh-TW": "путь бескорыстных деяний",
+        "ja": "путь бескорыстных деяний",
+        "ko": "путь бескорыстных деяний"
+      },
+      "transliteration": {
+        "th": "карма-йогах̣",
+        "zh-TW": "карма-йогах̣",
+        "ja": "карма-йогах̣",
+        "ko": "карма-йогах̣"
+      }
+    },
+    "2639": {
+      "meaning": {
+        "th": "нежели отречение от деятельности",
+        "zh-TW": "нежели отречение от деятельности",
+        "ja": "нежели отречение от деятельности",
+        "ko": "нежели отречение от деятельности"
+      },
+      "transliteration": {
+        "th": "карма-саннйа̄са̄т",
+        "zh-TW": "карма-саннйа̄са̄т",
+        "ja": "карма-саннйа̄са̄т",
+        "ko": "карма-саннйа̄са̄т"
+      }
+    },
+    "2791": {
+      "meaning": {
+        "th": "поступки",
+        "zh-TW": "поступки",
+        "ja": "поступки",
+        "ko": "поступки"
+      },
+      "transliteration": {
+        "th": "карма̄н̣и",
+        "zh-TW": "карма̄н̣и",
+        "ja": "карма̄н̣и",
+        "ko": "карма̄н̣и"
+      }
+    },
+    "2616": {
+      "meaning": {
+        "th": "от деятельности",
+        "zh-TW": "от деятельности",
+        "ja": "от деятельности",
+        "ko": "от деятельности"
+      },
+      "transliteration": {
+        "th": "карман̣а̄м",
+        "zh-TW": "карман̣а̄м",
+        "ja": "карман̣а̄м",
+        "ko": "карман̣а̄м"
+      }
+    },
+    "2709": {
+      "meaning": {
+        "th": "делаю",
+        "zh-TW": "делаю",
+        "ja": "делаю",
+        "ko": "делаю"
+      },
+      "transliteration": {
+        "th": "кароми",
+        "zh-TW": "кароми",
+        "ja": "кароми",
+        "ko": "кароми"
+      }
+    },
+    "2738": {
+      "meaning": {
+        "th": "действует",
+        "zh-TW": "действует",
+        "ja": "действует",
+        "ko": "действует"
+      },
+      "transliteration": {
+        "th": "кароти",
+        "zh-TW": "кароти",
+        "ja": "кароти",
+        "ko": "кароти"
+      }
+    },
+    "2804": {
+      "meaning": {
+        "th": "кого-либо",
+        "zh-TW": "кого-либо",
+        "ja": "кого-либо",
+        "ko": "кого-либо"
+      },
+      "transliteration": {
+        "th": "касйачит",
+        "zh-TW": "касйачит",
+        "ja": "касйачит",
+        "ko": "касйачит"
+      }
+    },
+    "2904": {
+      "meaning": {
+        "th": "Арджуна сын Кунтӣ",
+        "zh-TW": "Арджуна сын Кунтӣ",
+        "ja": "Арджуна сын Кунтӣ",
+        "ko": "Арджуна сын Кунтӣ"
+      },
+      "transliteration": {
+        "th": "каунтейа",
+        "zh-TW": "каунтейа",
+        "ja": "каунтейа",
+        "ko": "каунтейа"
+      }
+    },
+    "2750": {
+      "meaning": {
+        "th": "исключительно",
+        "zh-TW": "исключительно",
+        "ja": "исключительно",
+        "ko": "исключительно"
+      },
+      "transliteration": {
+        "th": "кевалаих̣",
+        "zh-TW": "кевалаих̣",
+        "ja": "кевалаих̣",
+        "ko": "кевалаих̣"
+      }
+    },
+    "2708": {
+      "meaning": {
+        "th": "что-либо",
+        "zh-TW": "что-либо",
+        "ja": "что-либо",
+        "ko": "что-либо"
+      },
+      "transliteration": {
+        "th": "ким-чит",
+        "zh-TW": "ким-чит",
+        "ja": "ким-чит",
+        "ko": "ким-чит"
+      }
+    },
+    "2963": {
+      "meaning": {
+        "th": "приводя",
+        "zh-TW": "приводя",
+        "ja": "приводя",
+        "ko": "приводя"
+      },
+      "transliteration": {
+        "th": "кр̣тва̄",
+        "zh-TW": "кр̣тва̄",
+        "ja": "кр̣тва̄",
+        "ko": "кр̣тва̄"
+      }
+    },
+    "2954": {
+      "meaning": {
+        "th": "изгоняет прочь",
+        "zh-TW": "изгоняет прочь",
+        "ja": "изгоняет прочь",
+        "ko": "изгоняет прочь"
+      },
+      "transliteration": {
+        "th": "кр̣тва̄ бахих̣",
+        "zh-TW": "кр̣тва̄ бахих̣",
+        "ja": "кр̣тва̄ бахих̣",
+        "ko": "кр̣тва̄ бахих̣"
+      }
+    },
+    "2617": {
+      "meaning": {
+        "th": "о Кр̣ш̣н̣а",
+        "zh-TW": "о Кр̣ш̣н̣а",
+        "ja": "о Кр̣ш̣н̣а",
+        "ko": "о Кр̣ш̣н̣а"
+      },
+      "transliteration": {
+        "th": "кр̣ш̣н̣а",
+        "zh-TW": "кр̣ш̣н̣а",
+        "ja": "кр̣ш̣н̣а",
+        "ko": "кр̣ш̣н̣а"
+      }
+    },
+    "2944": {
+      "meaning": {
+        "th": "гнева",
+        "zh-TW": "гнева",
+        "ja": "гнева",
+        "ko": "гнева"
+      },
+      "transliteration": {
+        "th": "кродха",
+        "zh-TW": "кродха",
+        "ja": "кродха",
+        "ko": "кродха"
+      }
+    },
+    "2975": {
+      "meaning": {
+        "th": "гнева",
+        "zh-TW": "гнева",
+        "ja": "гнева",
+        "ko": "гнева"
+      },
+      "transliteration": {
+        "th": "кродхах̣",
+        "zh-TW": "кродхах̣",
+        "ja": "кродхах̣",
+        "ko": "кродхах̣"
+      }
+    },
+    "2785": {
+      "meaning": {
+        "th": "действует",
+        "zh-TW": "действует",
+        "ja": "действует",
+        "ko": "действует"
+      },
+      "transliteration": {
+        "th": "курван",
+        "zh-TW": "курван",
+        "ja": "курван",
+        "ko": "курван"
+      }
+    },
+    "2755": {
+      "meaning": {
+        "th": "совершая",
+        "zh-TW": "совершая",
+        "ja": "совершая",
+        "ko": "совершая"
+      },
+      "transliteration": {
+        "th": "курванти",
+        "zh-TW": "курванти",
+        "ja": "курванти",
+        "ko": "курванти"
+      }
+    },
+    "2938": {
+      "meaning": {
+        "th": "безгрешные",
+        "zh-TW": "безгрешные",
+        "ja": "безгрешные",
+        "ko": "безгрешные"
+      },
+      "transliteration": {
+        "th": "кш̣ӣн̣а-калмаш̣а̄х̣",
+        "zh-TW": "кш̣ӣн̣а-калмаш̣а̄х̣",
+        "ja": "кш̣ӣн̣а-калмаш̣а̄х̣",
+        "ko": "кш̣ӣн̣а-калмаш̣а̄х̣"
+      }
+    },
+    "2935": {
+      "meaning": {
+        "th": "достигают",
+        "zh-TW": "достигают",
+        "ja": "достигают",
+        "ko": "достигают"
+      },
+      "transliteration": {
+        "th": "лабханте",
+        "zh-TW": "лабханте",
+        "ja": "лабханте",
+        "ko": "лабханте"
+      }
+    },
+    "2740": {
+      "meaning": {
+        "th": "затрагивается",
+        "zh-TW": "затрагивается",
+        "ja": "затрагивается",
+        "ko": "затрагивается"
+      },
+      "transliteration": {
+        "th": "липйате",
+        "zh-TW": "липйате",
+        "ja": "липйате",
+        "ko": "липйате"
+      }
+    },
+    "2792": {
+      "meaning": {
+        "th": "людей",
+        "zh-TW": "людей",
+        "ja": "людей",
+        "ko": "людей"
+      },
+      "transliteration": {
+        "th": "локасйа",
+        "zh-TW": "локасйа",
+        "ja": "локасйа",
+        "ko": "локасйа"
+      }
+    },
+    "2990": {
+      "meaning": {
+        "th": "Меня",
+        "zh-TW": "Меня",
+        "ja": "Меня",
+        "ko": "Меня"
+      },
+      "transliteration": {
+        "th": "ма̄м",
+        "zh-TW": "ма̄м",
+        "ja": "ма̄м",
+        "ko": "ма̄м"
+      }
+    },
+    "2774": {
+      "meaning": {
+        "th": "умом",
+        "zh-TW": "умом",
+        "ja": "умом",
+        "ko": "умом"
+      },
+      "transliteration": {
+        "th": "манаса̄",
+        "zh-TW": "манаса̄",
+        "ja": "манаса̄",
+        "ko": "манаса̄"
+      }
+    },
+    "2968": {
+      "meaning": {
+        "th": "ум",
+        "zh-TW": "ум",
+        "ja": "ум",
+        "ko": "ум"
+      },
+      "transliteration": {
+        "th": "манах̣",
+        "zh-TW": "манах̣",
+        "ja": "манах̣",
+        "ko": "манах̣"
+      }
+    },
+    "2712": {
+      "meaning": {
+        "th": "ощущает",
+        "zh-TW": "ощущает",
+        "ja": "ощущает",
+        "ko": "ощущает"
+      },
+      "transliteration": {
+        "th": "манйета",
+        "zh-TW": "манйета",
+        "ja": "манйета",
+        "ko": "манйета"
+      }
+    },
+    "2687": {
+      "meaning": {
+        "th": "сильнорукий Арджуна",
+        "zh-TW": "сильнорукий Арджуна",
+        "ja": "сильнорукий Арджуна",
+        "ko": "сильнорукий Арджуна"
+      },
+      "transliteration": {
+        "th": "маха̄-ба̄хо",
+        "zh-TW": "маха̄-ба̄хо",
+        "ja": "маха̄-ба̄хо",
+        "ko": "маха̄-ба̄хо"
+      }
+    },
+    "2985": {
+      "meaning": {
+        "th": "верховный Владыка",
+        "zh-TW": "верховный Владыка",
+        "ja": "верховный Владыка",
+        "ko": "верховный Владыка"
+      },
+      "transliteration": {
+        "th": "маха̄-ӣш́варам",
+        "zh-TW": "маха̄-ӣш́варам",
+        "ja": "маха̄-ӣш́варам",
+        "ko": "маха̄-ӣш́варам"
+      }
+    },
+    "2627": {
+      "meaning": {
+        "th": "мне",
+        "zh-TW": "мне",
+        "ja": "мне",
+        "ko": "мне"
+      },
+      "transliteration": {
+        "th": "ме",
+        "zh-TW": "ме",
+        "ja": "ме",
+        "ko": "ме"
+      }
+    },
+    "2971": {
+      "meaning": {
+        "th": "стремящийся к достижению освобождения",
+        "zh-TW": "стремящийся к достижению освобождения",
+        "ja": "стремящийся к достижению освобождения",
+        "ko": "стремящийся к достижению освобождения"
+      },
+      "transliteration": {
+        "th": "мокш̣а-пара̄йан̣ах̣",
+        "zh-TW": "мокш̣а-пара̄йан̣ах̣",
+        "ja": "мокш̣а-пара̄йан̣ах̣",
+        "ko": "мокш̣а-пара̄йан̣ах̣"
+      }
+    },
+    "2978": {
+      "meaning": {
+        "th": "свободен",
+        "zh-TW": "свободен",
+        "ja": "свободен",
+        "ko": "свободен"
+      },
+      "transliteration": {
+        "th": "мукта",
+        "zh-TW": "мукта",
+        "ja": "мукта",
+        "ko": "мукта"
+      }
+    },
+    "2970": {
+      "meaning": {
+        "th": "мудрец",
+        "zh-TW": "мудрец",
+        "ja": "мудрец",
+        "ko": "мудрец"
+      },
+      "transliteration": {
+        "th": "муних̣",
+        "zh-TW": "муних̣",
+        "ja": "муних̣",
+        "ko": "муних̣"
+      }
+    },
+    "2815": {
+      "meaning": {
+        "th": "введенных в заблуждение",
+        "zh-TW": "введенных в заблуждение",
+        "ja": "введенных в заблуждение",
+        "ko": "введенных в заблуждение"
+      },
+      "transliteration": {
+        "th": "мухйанти",
+        "zh-TW": "мухйанти",
+        "ja": "мухйанти",
+        "ko": "мухйанти"
+      }
+    },
+    "2905": {
+      "meaning": {
+        "th": "не",
+        "zh-TW": "не",
+        "ja": "не",
+        "ko": "не"
+      },
+      "transliteration": {
+        "th": "на",
+        "zh-TW": "на",
+        "ja": "на",
+        "ko": "на"
+      }
+    },
+    "2646": {
+      "meaning": {
+        "th": "не испытывает неприязни",
+        "zh-TW": "не испытывает неприязни",
+        "ja": "не испытывает неприязни",
+        "ko": "не испытывает неприязни"
+      },
+      "transliteration": {
+        "th": "на двеш̣т̣и",
+        "zh-TW": "на двеш̣т̣и",
+        "ja": "на двеш̣т̣и",
+        "ko": "на двеш̣т̣и"
+      }
+    },
+    "2647": {
+      "meaning": {
+        "th": "не желает",
+        "zh-TW": "не желает",
+        "ja": "не желает",
+        "ko": "не желает"
+      },
+      "transliteration": {
+        "th": "на ка̄н̇кш̣ати",
+        "zh-TW": "на ка̄н̇кш̣ати",
+        "ja": "на ка̄н̇кш̣ати",
+        "ko": "на ка̄н̇кш̣ати"
+      }
+    },
+    "2694": {
+      "meaning": {
+        "th": "незамедлительно",
+        "zh-TW": "незамедлительно",
+        "ja": "незамедлительно",
+        "ko": "незамедлительно"
+      },
+      "transliteration": {
+        "th": "на чирен̣а",
+        "zh-TW": "на чирен̣а",
+        "ja": "на чирен̣а",
+        "ko": "на чирен̣а"
+      }
+    },
+    "2964": {
+      "meaning": {
+        "th": "в ноздрях",
+        "zh-TW": "в ноздрях",
+        "ja": "в ноздрях",
+        "ko": "в ноздрях"
+      },
+      "transliteration": {
+        "th": "на̄са̄-абхйантара",
+        "zh-TW": "на̄са̄-абхйантара",
+        "ja": "на̄са̄-абхйантара",
+        "ko": "на̄са̄-абхйантара"
+      }
+    },
+    "2822": {
+      "meaning": {
+        "th": "разрушено",
+        "zh-TW": "разрушено",
+        "ja": "разрушено",
+        "ko": "разрушено"
+      },
+      "transliteration": {
+        "th": "на̄ш́итам",
+        "zh-TW": "на̄ш́итам",
+        "ja": "на̄ш́итам",
+        "ko": "на̄ш́итам"
+      }
+    },
+    "2779": {
+      "meaning": {
+        "th": "с девятью",
+        "zh-TW": "с девятью",
+        "ja": "с девятью",
+        "ko": "с девятью"
+      },
+      "transliteration": {
+        "th": "нава",
+        "zh-TW": "нава",
+        "ja": "нава",
+        "ko": "нава"
+      }
+    },
+    "2766": {
+      "meaning": {
+        "th": "непрерывное",
+        "zh-TW": "непрерывное",
+        "ja": "непрерывное",
+        "ko": "непрерывное"
+      },
+      "transliteration": {
+        "th": "наиш̣т̣хикӣм",
+        "zh-TW": "наиш̣т̣хикӣм",
+        "ja": "наиш̣т̣хикӣм",
+        "ko": "наиш̣т̣хикӣм"
+      }
+    },
+    "2923": {
+      "meaning": {
+        "th": "этот человек",
+        "zh-TW": "этот человек",
+        "ja": "этот человек",
+        "ko": "этот человек"
+      },
+      "transliteration": {
+        "th": "нарах̣",
+        "zh-TW": "нарах̣",
+        "ja": "нарах̣",
+        "ko": "нарах̣"
+      }
+    },
+    "2771": {
+      "meaning": {
+        "th": "связывается",
+        "zh-TW": "связывается",
+        "ja": "связывается",
+        "ko": "связывается"
+      },
+      "transliteration": {
+        "th": "нибадхйате",
+        "zh-TW": "нибадхйате",
+        "ja": "нибадхйате",
+        "ko": "нибадхйате"
+      }
+    },
+    "2726": {
+      "meaning": {
+        "th": "закрывает глаза",
+        "zh-TW": "закрывает глаза",
+        "ja": "закрывает глаза",
+        "ko": "закрывает глаза"
+      },
+      "transliteration": {
+        "th": "нимиш̣ан",
+        "zh-TW": "нимиш̣ан",
+        "ja": "нимиш̣ан",
+        "ko": "нимиш̣ан"
+      }
+    },
+    "2861": {
+      "meaning": {
+        "th": "не оскверняются",
+        "zh-TW": "не оскверняются",
+        "ja": "не оскверняются",
+        "ko": "не оскверняются"
+      },
+      "transliteration": {
+        "th": "нир-дош̣ам",
+        "zh-TW": "нир-дош̣ам",
+        "ja": "нир-дош̣ам",
+        "ko": "нир-дош̣ам"
+      }
+    },
+    "2837": {
+      "meaning": {
+        "th": "устраняющему",
+        "zh-TW": "устраняющему",
+        "ja": "устраняющему",
+        "ko": "устраняющему"
+      },
+      "transliteration": {
+        "th": "нирдхӯта",
+        "zh-TW": "нирдхӯта",
+        "ja": "нирдхӯта",
+        "ko": "нирдхӯта"
+      }
+    },
+    "2644": {
+      "meaning": {
+        "th": "всегда воистину отрешен",
+        "zh-TW": "всегда воистину отрешен",
+        "ja": "всегда воистину отрешен",
+        "ko": "всегда воистину отрешен"
+      },
+      "transliteration": {
+        "th": "нитйа-саннйа̄сӣ",
+        "zh-TW": "нитйа-саннйа̄сӣ",
+        "ja": "нитйа-саннйа̄сӣ",
+        "ko": "нитйа-саннйа̄сӣ"
+      }
+    },
+    "2648": {
+      "meaning": {
+        "th": "вне двойственности",
+        "zh-TW": "вне двойственности",
+        "ja": "вне двойственности",
+        "ko": "вне двойственности"
+      },
+      "transliteration": {
+        "th": "них̣-двандвах̣",
+        "zh-TW": "них̣-двандвах̣",
+        "ja": "них̣-двандвах̣",
+        "ko": "них̣-двандвах̣"
+      }
+    },
+    "2635": {
+      "meaning": {
+        "th": "даруют великое благо",
+        "zh-TW": "даруют великое благо",
+        "ja": "даруют великое благо",
+        "ko": "даруют великое благо"
+      },
+      "transliteration": {
+        "th": "них̣ш́рейаса-карау",
+        "zh-TW": "них̣ш́рейаса-карау",
+        "ja": "них̣ш́рейаса-карау",
+        "ko": "них̣ш́рейаса-карау"
+      }
+    },
+    "2805": {
+      "meaning": {
+        "th": "греховный поступок",
+        "zh-TW": "греховный поступок",
+        "ja": "греховный поступок",
+        "ko": "греховный поступок"
+      },
+      "transliteration": {
+        "th": "па̄пам",
+        "zh-TW": "па̄пам",
+        "ja": "па̄пам",
+        "ko": "па̄пам"
+      }
+    },
+    "2743": {
+      "meaning": {
+        "th": "грехом",
+        "zh-TW": "грехом",
+        "ja": "грехом",
+        "ko": "грехом"
+      },
+      "transliteration": {
+        "th": "па̄пена",
+        "zh-TW": "па̄пена",
+        "ja": "па̄пена",
+        "ko": "па̄пена"
+      }
+    },
+    "2744": {
+      "meaning": {
+        "th": "цветок лотоса",
+        "zh-TW": "цветок лотоса",
+        "ja": "цветок лотоса",
+        "ko": "цветок лотоса"
+      },
+      "transliteration": {
+        "th": "падма-патрам",
+        "zh-TW": "падма-патрам",
+        "ja": "падма-патрам",
+        "ko": "падма-патрам"
+      }
+    },
+    "2850": {
+      "meaning": {
+        "th": "мудрец",
+        "zh-TW": "мудрец",
+        "ja": "мудрец",
+        "ko": "мудрец"
+      },
+      "transliteration": {
+        "th": "пан̣д̣ита̄х̣",
+        "zh-TW": "пан̣д̣ита̄х̣",
+        "ja": "пан̣д̣ита̄х̣",
+        "ko": "пан̣д̣ита̄х̣"
+      }
+    },
+    "2829": {
+      "meaning": {
+        "th": "Высшую Реальность",
+        "zh-TW": "Высшую Реальность",
+        "ja": "Высшую Реальность",
+        "ko": "Высшую Реальность"
+      },
+      "transliteration": {
+        "th": "парам",
+        "zh-TW": "парам",
+        "ja": "парам",
+        "ko": "парам"
+      }
+    },
+    "2714": {
+      "meaning": {
+        "th": "видит",
+        "zh-TW": "видит",
+        "ja": "видит",
+        "ko": "видит"
+      },
+      "transliteration": {
+        "th": "паш́йан",
+        "zh-TW": "паш́йан",
+        "ja": "паш́йан",
+        "ko": "паш́йан"
+      }
+    },
+    "2684": {
+      "meaning": {
+        "th": "видит истину",
+        "zh-TW": "видит истину",
+        "ja": "видит истину",
+        "ko": "видит истину"
+      },
+      "transliteration": {
+        "th": "паш́йати",
+        "zh-TW": "паш́йати",
+        "ja": "паш́йати",
+        "ko": "паш́йати"
+      }
+    },
+    "2656": {
+      "meaning": {
+        "th": "различны",
+        "zh-TW": "различны",
+        "ja": "различны",
+        "ko": "различны"
+      },
+      "transliteration": {
+        "th": "пр̣тхак",
+        "zh-TW": "пр̣тхак",
+        "ja": "пр̣тхак",
+        "ko": "пр̣тхак"
+      }
+    },
+    "2670": {
+      "meaning": {
+        "th": "достигается",
+        "zh-TW": "достигается",
+        "ja": "достигается",
+        "ko": "достигается"
+      },
+      "transliteration": {
+        "th": "пра-а̄пйате",
+        "zh-TW": "пра-а̄пйате",
+        "ja": "пра-а̄пйате",
+        "ko": "пра-а̄пйате"
+      }
+    },
+    "2658": {
+      "meaning": {
+        "th": "говорят",
+        "zh-TW": "говорят",
+        "ja": "говорят",
+        "ko": "говорят"
+      },
+      "transliteration": {
+        "th": "пра-ваданти",
+        "zh-TW": "пра-ваданти",
+        "ja": "пра-ваданти",
+        "ko": "пра-ваданти"
+      }
+    },
+    "2801": {
+      "meaning": {
+        "th": "приводит в действие",
+        "zh-TW": "приводит в действие",
+        "ja": "приводит в действие",
+        "ko": "приводит в действие"
+      },
+      "transliteration": {
+        "th": "пра-вартате",
+        "zh-TW": "пра-вартате",
+        "ja": "пра-вартате",
+        "ko": "пра-вартате"
+      }
+    },
+    "2827": {
+      "meaning": {
+        "th": "являет",
+        "zh-TW": "являет",
+        "ja": "являет",
+        "ko": "являет"
+      },
+      "transliteration": {
+        "th": "пра-ка̄ш́айати",
+        "zh-TW": "пра-ка̄ш́айати",
+        "ja": "пра-ка̄ш́айати",
+        "ko": "пра-ка̄ш́айати"
+      }
+    },
+    "2653": {
+      "meaning": {
+        "th": "освобождается",
+        "zh-TW": "освобождается",
+        "ja": "освобождается",
+        "ko": "освобождается"
+      },
+      "transliteration": {
+        "th": "пра-мучйате",
+        "zh-TW": "пра-мучйате",
+        "ja": "пра-мучйате",
+        "ko": "пра-мучйате"
+      }
+    },
+    "2870": {
+      "meaning": {
+        "th": "ликует",
+        "zh-TW": "ликует",
+        "ja": "ликует",
+        "ko": "ликует"
+      },
+      "transliteration": {
+        "th": "пра-хр̣ш̣йет",
+        "zh-TW": "пра-хр̣ш̣йет",
+        "ja": "пра-хр̣ш̣йет",
+        "ko": "пра-хр̣ш̣йет"
+      }
+    },
+    "2913": {
+      "meaning": {
+        "th": "прежде",
+        "zh-TW": "прежде",
+        "ja": "прежде",
+        "ko": "прежде"
+      },
+      "transliteration": {
+        "th": "пра̄к",
+        "zh-TW": "пра̄к",
+        "ja": "пра̄к",
+        "ko": "пра̄к"
+      }
+    },
+    "2961": {
+      "meaning": {
+        "th": "вдыхая и выдыхая",
+        "zh-TW": "вдыхая и выдыхая",
+        "ja": "вдыхая и выдыхая",
+        "ko": "вдыхая и выдыхая"
+      },
+      "transliteration": {
+        "th": "пра̄н̣а-апа̄нау",
+        "zh-TW": "пра̄н̣а-апа̄нау",
+        "ja": "пра̄н̣а-апа̄нау",
+        "ko": "пра̄н̣а-апа̄нау"
+      }
+    },
+    "2875": {
+      "meaning": {
+        "th": "обретя",
+        "zh-TW": "обретя",
+        "ja": "обретя",
+        "ko": "обретя"
+      },
+      "transliteration": {
+        "th": "пра̄пйа",
+        "zh-TW": "пра̄пйа",
+        "ja": "пра̄пйа",
+        "ko": "пра̄пйа"
+      }
+    },
+    "2794": {
+      "meaning": {
+        "th": "Господь",
+        "zh-TW": "Господь",
+        "ja": "Господь",
+        "ko": "Господь"
+      },
+      "transliteration": {
+        "th": "прабхух̣",
+        "zh-TW": "прабхух̣",
+        "ja": "прабхух̣",
+        "ko": "прабхух̣"
+      }
+    },
+    "2722": {
+      "meaning": {
+        "th": "говорит",
+        "zh-TW": "говорит",
+        "ja": "говорит",
+        "ko": "говорит"
+      },
+      "transliteration": {
+        "th": "пралапан",
+        "zh-TW": "пралапан",
+        "ja": "пралапан",
+        "ko": "пралапан"
+      }
+    },
+    "2871": {
+      "meaning": {
+        "th": "желаемое",
+        "zh-TW": "желаемое",
+        "ja": "желаемое",
+        "ko": "желаемое"
+      },
+      "transliteration": {
+        "th": "прийам",
+        "zh-TW": "прийам",
+        "ja": "прийам",
+        "ko": "прийам"
+      }
+    },
+    "2618": {
+      "meaning": {
+        "th": "затем снова",
+        "zh-TW": "затем снова",
+        "ja": "затем снова",
+        "ko": "затем снова"
+      },
+      "transliteration": {
+        "th": "пунах̣",
+        "zh-TW": "пунах̣",
+        "ja": "пунах̣",
+        "ko": "пунах̣"
+      }
+    },
+    "2781": {
+      "meaning": {
+        "th": "в городе",
+        "zh-TW": "в городе",
+        "ja": "в городе",
+        "ko": "в городе"
+      },
+      "transliteration": {
+        "th": "пуре",
+        "zh-TW": "пуре",
+        "ja": "пуре",
+        "ko": "пуре"
+      }
+    },
+    "2797": {
+      "meaning": {
+        "th": "плоды",
+        "zh-TW": "плоды",
+        "ja": "плоды",
+        "ko": "плоды"
+      },
+      "transliteration": {
+        "th": "пхала",
+        "zh-TW": "пхала",
+        "ja": "пхала",
+        "ko": "пхала"
+      }
+    },
+    "2762": {
+      "meaning": {
+        "th": "от плодов",
+        "zh-TW": "от плодов",
+        "ja": "от плодов",
+        "ko": "от плодов"
+      },
+      "transliteration": {
+        "th": "пхалам",
+        "zh-TW": "пхалам",
+        "ja": "пхалам",
+        "ko": "пхалам"
+      }
+    },
+    "2769": {
+      "meaning": {
+        "th": "к плодам",
+        "zh-TW": "к плодам",
+        "ja": "к плодам",
+        "ko": "к плодам"
+      },
+      "transliteration": {
+        "th": "пхале",
+        "zh-TW": "пхале",
+        "ja": "пхале",
+        "ko": "пхале"
+      }
+    },
+    "2992": {
+      "meaning": {
+        "th": "достигает",
+        "zh-TW": "достигает",
+        "ja": "достигает",
+        "ko": "достигает"
+      },
+      "transliteration": {
+        "th": "р̣ччхати",
+        "zh-TW": "р̣ччхати",
+        "ja": "р̣ччхати",
+        "ko": "р̣ччхати"
+      }
+    },
+    "2937": {
+      "meaning": {
+        "th": "провидцы истины",
+        "zh-TW": "провидцы истины",
+        "ja": "провидцы истины",
+        "ko": "провидцы истины"
+      },
+      "transliteration": {
+        "th": "р̣ш̣айах̣",
+        "zh-TW": "р̣ш̣айах̣",
+        "ja": "р̣ш̣айах̣",
+        "ko": "р̣ш̣айах̣"
+      }
+    },
+    "2907": {
+      "meaning": {
+        "th": "наслаждается",
+        "zh-TW": "наслаждается",
+        "ja": "наслаждается",
+        "ko": "наслаждается"
+      },
+      "transliteration": {
+        "th": "рамате",
+        "zh-TW": "рамате",
+        "ja": "рамате",
+        "ko": "рамате"
+      }
+    },
+    "2858": {
+      "meaning": {
+        "th": "уравновешен",
+        "zh-TW": "уравновешен",
+        "ja": "уравновешен",
+        "ko": "уравновешен"
+      },
+      "transliteration": {
+        "th": "са̄мйе",
+        "zh-TW": "са̄мйе",
+        "ja": "са̄мйе",
+        "ko": "са̄мйе"
+      }
+    },
+    "2654": {
+      "meaning": {
+        "th": "путь философского познания духа и материи",
+        "zh-TW": "путь философского познания духа и материи",
+        "ja": "путь философского познания духа и материи",
+        "ko": "путь философского познания духа и материи"
+      },
+      "transliteration": {
+        "th": "са̄н̇кхйа",
+        "zh-TW": "са̄н̇кхйа",
+        "ja": "са̄н̇кхйа",
+        "ko": "са̄н̇кхйа"
+      }
+    },
+    "2669": {
+      "meaning": {
+        "th": "благодаря са̄н̇кхйа-йоге пути философского познания духа и материи",
+        "zh-TW": "благодаря са̄н̇кхйа-йоге пути философского познания духа и материи",
+        "ja": "благодаря са̄н̇кхйа-йоге пути философского познания духа и материи",
+        "ko": "благодаря са̄н̇кхйа-йоге пути философского познания духа и материи"
+      },
+      "transliteration": {
+        "th": "са̄н̇кхйаих̣",
+        "zh-TW": "са̄н̇кхйаих̣",
+        "ja": "са̄н̇кхйаих̣",
+        "ko": "са̄н̇кхйаих̣"
+      }
+    },
+    "2677": {
+      "meaning": {
+        "th": "са̄н̇кхйа-йогу",
+        "zh-TW": "са̄н̇кхйа-йогу",
+        "ja": "са̄н̇кхйа-йогу",
+        "ko": "са̄н̇кхйа-йогу"
+      },
+      "transliteration": {
+        "th": "са̄н̇кхйам",
+        "zh-TW": "са̄н̇кхйам",
+        "ja": "са̄н̇кхйам",
+        "ko": "са̄н̇кхйам"
+      }
+    },
+    "2977": {
+      "meaning": {
+        "th": "всегда",
+        "zh-TW": "всегда",
+        "ja": "всегда",
+        "ko": "всегда"
+      },
+      "transliteration": {
+        "th": "сада̄",
+        "zh-TW": "сада̄",
+        "ja": "сада̄",
+        "ko": "сада̄"
+      }
+    },
+    "2770": {
+      "meaning": {
+        "th": "привязанностью",
+        "zh-TW": "привязанностью",
+        "ja": "привязанностью",
+        "ko": "привязанностью"
+      },
+      "transliteration": {
+        "th": "сактах̣",
+        "zh-TW": "сактах̣",
+        "ja": "сактах̣",
+        "ko": "сактах̣"
+      }
+    },
+    "2775": {
+      "meaning": {
+        "th": "полностью отрешенный",
+        "zh-TW": "полностью отрешенный",
+        "ja": "полностью отрешенный",
+        "ko": "полностью отрешенный"
+      },
+      "transliteration": {
+        "th": "сам-нйа̄сйа",
+        "zh-TW": "сам-нйа̄сйа",
+        "ja": "сам-нйа̄сйа",
+        "ko": "сам-нйа̄сйа"
+      }
+    },
+    "2798": {
+      "meaning": {
+        "th": "связан",
+        "zh-TW": "связан",
+        "ja": "связан",
+        "ko": "связан"
+      },
+      "transliteration": {
+        "th": "сам̇йогам",
+        "zh-TW": "сам̇йогам",
+        "ja": "сам̇йогам",
+        "ko": "сам̇йогам"
+      }
+    },
+    "2898": {
+      "meaning": {
+        "th": "рождены из взаимодействия чувств с их объектами",
+        "zh-TW": "рождены из взаимодействия чувств с их объектами",
+        "ja": "рождены из взаимодействия чувств с их объектами",
+        "ko": "рождены из взаимодействия чувств с их объектами"
+      },
+      "transliteration": {
+        "th": "сам̇спарш́а-джа̄х̣",
+        "zh-TW": "сам̇спарш́а-джа̄х̣",
+        "ja": "сам̇спарш́а-джа̄х̣",
+        "ko": "сам̇спарш́а-джа̄х̣"
+      }
+    },
+    "2851": {
+      "meaning": {
+        "th": "видит единую духовную природу",
+        "zh-TW": "видит единую духовную природу",
+        "ja": "видит единую духовную природу",
+        "ko": "видит единую духовную природу"
+      },
+      "transliteration": {
+        "th": "сама-дарш́инах̣",
+        "zh-TW": "сама-дарш́инах̣",
+        "ja": "сама-дарш́инах̣",
+        "ko": "сама-дарш́инах̣"
+      }
+    },
+    "2863": {
+      "meaning": {
+        "th": "невозмутим",
+        "zh-TW": "невозмутим",
+        "ja": "невозмутим",
+        "ko": "невозмутим"
+      },
+      "transliteration": {
+        "th": "самам",
+        "zh-TW": "самам",
+        "ja": "самам",
+        "ko": "самам"
+      }
+    },
+    "2962": {
+      "meaning": {
+        "th": "в равновесие",
+        "zh-TW": "в равновесие",
+        "ja": "в равновесие",
+        "ko": "в равновесие"
+      },
+      "transliteration": {
+        "th": "самау",
+        "zh-TW": "самау",
+        "ja": "самау",
+        "ko": "самау"
+      }
+    },
+    "2664": {
+      "meaning": {
+        "th": "совершенным образом",
+        "zh-TW": "совершенным образом",
+        "ja": "совершенным образом",
+        "ko": "совершенным образом"
+      },
+      "transliteration": {
+        "th": "самйак",
+        "zh-TW": "самйак",
+        "ja": "самйак",
+        "ko": "самйак"
+      }
+    },
+    "2841": {
+      "meaning": {
+        "th": "украшенный",
+        "zh-TW": "украшенный",
+        "ja": "украшенный",
+        "ko": "украшенный"
+      },
+      "transliteration": {
+        "th": "сампанне",
+        "zh-TW": "сампанне",
+        "ja": "сампанне",
+        "ko": "сампанне"
+      }
+    },
+    "2756": {
+      "meaning": {
+        "th": "привязанность",
+        "zh-TW": "привязанность",
+        "ja": "привязанность",
+        "ko": "привязанность"
+      },
+      "transliteration": {
+        "th": "сан̇гам",
+        "zh-TW": "сан̇гам",
+        "ja": "сан̇гам",
+        "ko": "сан̇гам"
+      }
+    },
+    "2615": {
+      "meaning": {
+        "th": "отречение",
+        "zh-TW": "отречение",
+        "ja": "отречение",
+        "ko": "отречение"
+      },
+      "transliteration": {
+        "th": "саннйа̄сам",
+        "zh-TW": "саннйа̄сам",
+        "ja": "саннйа̄сам",
+        "ko": "саннйа̄сам"
+      }
+    },
+    "2685": {
+      "meaning": {
+        "th": "отречение",
+        "zh-TW": "отречение",
+        "ja": "отречение",
+        "ko": "отречение"
+      },
+      "transliteration": {
+        "th": "саннйа̄сах̣",
+        "zh-TW": "саннйа̄сах̣",
+        "ja": "саннйа̄сах̣",
+        "ko": "саннйа̄сах̣"
+      }
+    },
+    "2987": {
+      "meaning": {
+        "th": "всех",
+        "zh-TW": "всех",
+        "ja": "всех",
+        "ko": "всех"
+      },
+      "transliteration": {
+        "th": "сарва",
+        "zh-TW": "сарва",
+        "ja": "сарва",
+        "ko": "сарва"
+      }
+    },
+    "2941": {
+      "meaning": {
+        "th": "всех живых существ",
+        "zh-TW": "всех живых существ",
+        "ja": "всех живых существ",
+        "ko": "всех живых существ"
+      },
+      "transliteration": {
+        "th": "сарва-бхӯта",
+        "zh-TW": "сарва-бхӯта",
+        "ja": "сарва-бхӯта",
+        "ko": "сарва-бхӯта"
+      }
+    },
+    "2700": {
+      "meaning": {
+        "th": "дорог всем живым существам",
+        "zh-TW": "дорог всем живым существам",
+        "ja": "дорог всем живым существам",
+        "ko": "дорог всем живым существам"
+      },
+      "transliteration": {
+        "th": "сарва-бхӯта-а̄тма",
+        "zh-TW": "сарва-бхӯта-а̄тма",
+        "ja": "сарва-бхӯта-а̄тма",
+        "ko": "сарва-бхӯта-а̄тма"
+      }
+    },
+    "2984": {
+      "meaning": {
+        "th": "всех миров с их обитателями",
+        "zh-TW": "всех миров с их обитателями",
+        "ja": "всех миров с их обитателями",
+        "ko": "всех миров с их обитателями"
+      },
+      "transliteration": {
+        "th": "сарва-лока",
+        "zh-TW": "сарва-лока",
+        "ja": "сарва-лока",
+        "ko": "сарва-лока"
+      }
+    },
+    "2856": {
+      "meaning": {
+        "th": "мир рождений и смертей",
+        "zh-TW": "мир рождений и смертей",
+        "ja": "мир рождений и смертей",
+        "ko": "мир рождений и смертей"
+      },
+      "transliteration": {
+        "th": "саргах̣",
+        "zh-TW": "саргах̣",
+        "ja": "саргах̣",
+        "ko": "саргах̣"
+      }
+    },
+    "2980": {
+      "meaning": {
+        "th": "он",
+        "zh-TW": "он",
+        "ja": "он",
+        "ko": "он"
+      },
+      "transliteration": {
+        "th": "сах̣",
+        "zh-TW": "сах̣",
+        "ja": "сах̣",
+        "ko": "сах̣"
+      }
+    },
+    "2931": {
+      "meaning": {
+        "th": "пребывает в йоге",
+        "zh-TW": "пребывает в йоге",
+        "ja": "пребывает в йоге",
+        "ko": "пребывает в йоге"
+      },
+      "transliteration": {
+        "th": "сах̣ йогӣ",
+        "zh-TW": "сах̣ йогӣ",
+        "ja": "сах̣ йогӣ",
+        "ko": "сах̣ йогӣ"
+      }
+    },
+    "2799": {
+      "meaning": {
+        "th": "склонность самих душ",
+        "zh-TW": "склонность самих душ",
+        "ja": "склонность самих душ",
+        "ko": "склонность самих душ"
+      },
+      "transliteration": {
+        "th": "сва-бха̄вах̣",
+        "zh-TW": "сва-бха̄вах̣",
+        "ja": "сва-бха̄вах̣",
+        "ko": "сва-бха̄вах̣"
+      }
+    },
+    "2848": {
+      "meaning": {
+        "th": "собакоеде неприкасаемом",
+        "zh-TW": "собакоеде неприкасаемом",
+        "ja": "собакоеде неприкасаемом",
+        "ko": "собакоеде неприкасаемом"
+      },
+      "transliteration": {
+        "th": "сва-па̄ке",
+        "zh-TW": "сва-па̄ке",
+        "ja": "сва-па̄ке",
+        "ko": "сва-па̄ке"
+      }
+    },
+    "2720": {
+      "meaning": {
+        "th": "спит",
+        "zh-TW": "спит",
+        "ja": "спит",
+        "ko": "спит"
+      },
+      "transliteration": {
+        "th": "свапан",
+        "zh-TW": "свапан",
+        "ja": "свапан",
+        "ko": "свапан"
+      }
+    },
+    "2912": {
+      "meaning": {
+        "th": "обуздывать",
+        "zh-TW": "обуздывать",
+        "ja": "обуздывать",
+        "ko": "обуздывать"
+      },
+      "transliteration": {
+        "th": "сод̣хум",
+        "zh-TW": "сод̣хум",
+        "ja": "сод̣хум",
+        "ko": "сод̣хум"
+      }
+    },
+    "2953": {
+      "meaning": {
+        "th": "объекты чувств",
+        "zh-TW": "объекты чувств",
+        "ja": "объекты чувств",
+        "ko": "объекты чувств"
+      },
+      "transliteration": {
+        "th": "спарш́а̄н",
+        "zh-TW": "спарш́а̄н",
+        "ja": "спарш́а̄н",
+        "ko": "спарш́а̄н"
+      }
+    },
+    "2716": {
+      "meaning": {
+        "th": "осязает",
+        "zh-TW": "осязает",
+        "ja": "осязает",
+        "ko": "осязает"
+      },
+      "transliteration": {
+        "th": "спр̣ш́ан",
+        "zh-TW": "спр̣ш́ан",
+        "ja": "спр̣ш́ан",
+        "ko": "спр̣ш́ан"
+      }
+    },
+    "2793": {
+      "meaning": {
+        "th": "создает",
+        "zh-TW": "создает",
+        "ja": "создает",
+        "ko": "создает"
+      },
+      "transliteration": {
+        "th": "ср̣джати",
+        "zh-TW": "ср̣джати",
+        "ja": "ср̣джати",
+        "ko": "ср̣джати"
+      }
+    },
+    "2671": {
+      "meaning": {
+        "th": "состояние",
+        "zh-TW": "состояние",
+        "ja": "состояние",
+        "ko": "состояние"
+      },
+      "transliteration": {
+        "th": "стха̄нам",
+        "zh-TW": "стха̄нам",
+        "ja": "стха̄нам",
+        "ko": "стха̄нам"
+      }
+    },
+    "2878": {
+      "meaning": {
+        "th": "наделенный непоколебимым разумом",
+        "zh-TW": "наделенный непоколебимым разумом",
+        "ja": "наделенный непоколебимым разумом",
+        "ko": "наделенный непоколебимым разумом"
+      },
+      "transliteration": {
+        "th": "стхира-буддхих̣",
+        "zh-TW": "стхира-буддхих̣",
+        "ja": "стхира-буддхих̣",
+        "ko": "стхира-буддхих̣"
+      }
+    },
+    "2868": {
+      "meaning": {
+        "th": "пребывают",
+        "zh-TW": "пребывают",
+        "ja": "пребывают",
+        "ko": "пребывают"
+      },
+      "transliteration": {
+        "th": "стхита̄х̣",
+        "zh-TW": "стхита̄х̣",
+        "ja": "стхита̄х̣",
+        "ko": "стхита̄х̣"
+      }
+    },
+    "2859": {
+      "meaning": {
+        "th": "пребывает",
+        "zh-TW": "пребывает",
+        "ja": "пребывает",
+        "ko": "пребывает"
+      },
+      "transliteration": {
+        "th": "стхитам",
+        "zh-TW": "стхитам",
+        "ja": "стхитам",
+        "ko": "стхитам"
+      }
+    },
+    "2882": {
+      "meaning": {
+        "th": "пребывает",
+        "zh-TW": "пребывает",
+        "ja": "пребывает",
+        "ko": "пребывает"
+      },
+      "transliteration": {
+        "th": "стхитах̣",
+        "zh-TW": "стхитах̣",
+        "ja": "стхитах̣",
+        "ko": "стхитах̣"
+      }
+    },
+    "2809": {
+      "meaning": {
+        "th": "праведный поступок",
+        "zh-TW": "праведный поступок",
+        "ja": "праведный поступок",
+        "ko": "праведный поступок"
+      },
+      "transliteration": {
+        "th": "сукр̣там",
+        "zh-TW": "сукр̣там",
+        "ja": "сукр̣там",
+        "ko": "сукр̣там"
+      }
+    },
+    "2893": {
+      "meaning": {
+        "th": "блаженство",
+        "zh-TW": "блаженство",
+        "ja": "блаженство",
+        "ko": "блаженство"
+      },
+      "transliteration": {
+        "th": "сукхам",
+        "zh-TW": "сукхам",
+        "ja": "сукхам",
+        "ko": "сукхам"
+      }
+    },
+    "2922": {
+      "meaning": {
+        "th": "испытывает духовное блаженство",
+        "zh-TW": "испытывает духовное блаженство",
+        "ja": "испытывает духовное блаженство",
+        "ko": "испытывает духовное блаженство"
+      },
+      "transliteration": {
+        "th": "сукхӣ",
+        "zh-TW": "сукхӣ",
+        "ja": "сукхӣ",
+        "ko": "сукхӣ"
+      }
+    },
+    "2629": {
+      "meaning": {
+        "th": "определенно",
+        "zh-TW": "определенно",
+        "ja": "определенно",
+        "ko": "определенно"
+      },
+      "transliteration": {
+        "th": "суниш́читам",
+        "zh-TW": "суниш́читам",
+        "ja": "суниш́читам",
+        "ko": "суниш́читам"
+      }
+    },
+    "2986": {
+      "meaning": {
+        "th": "друг",
+        "zh-TW": "друг",
+        "ja": "друг",
+        "ko": "друг"
+      },
+      "transliteration": {
+        "th": "сухр̣дам",
+        "zh-TW": "сухр̣дам",
+        "ja": "сухр̣дам",
+        "ko": "сухр̣дам"
+      }
+    },
+    "2854": {
+      "meaning": {
+        "th": "теми",
+        "zh-TW": "теми",
+        "ja": "теми",
+        "ko": "теми"
+      },
+      "transliteration": {
+        "th": "таих̣",
+        "zh-TW": "таих̣",
+        "ja": "таих̣",
+        "ko": "таих̣"
+      }
+    },
+    "2637": {
+      "meaning": {
+        "th": "из них",
+        "zh-TW": "из них",
+        "ja": "из них",
+        "ko": "из них"
+      },
+      "transliteration": {
+        "th": "тайох̣",
+        "zh-TW": "тайох̣",
+        "ja": "тайох̣",
+        "ko": "тайох̣"
+      }
+    },
+    "2983": {
+      "meaning": {
+        "th": "и аскезами",
+        "zh-TW": "и аскезами",
+        "ja": "и аскезами",
+        "ko": "и аскезами"
+      },
+      "transliteration": {
+        "th": "тапаса̄м",
+        "zh-TW": "тапаса̄м",
+        "ja": "тапаса̄м",
+        "ko": "тапаса̄м"
+      }
+    },
+    "2865": {
+      "meaning": {
+        "th": "поэтому",
+        "zh-TW": "поэтому",
+        "ja": "поэтому",
+        "ko": "поэтому"
+      },
+      "transliteration": {
+        "th": "тасма̄т",
+        "zh-TW": "тасма̄т",
+        "ja": "тасма̄т",
+        "ko": "тасма̄т"
+      }
+    },
+    "2828": {
+      "meaning": {
+        "th": "то",
+        "zh-TW": "то",
+        "ja": "то",
+        "ko": "то"
+      },
+      "transliteration": {
+        "th": "тат",
+        "zh-TW": "тат",
+        "ja": "тат",
+        "ko": "тат"
+      }
+    },
+    "2831": {
+      "meaning": {
+        "th": "обратившие к Господу ум",
+        "zh-TW": "обратившие к Господу ум",
+        "ja": "обратившие к Господу ум",
+        "ko": "обратившие к Господу ум"
+      },
+      "transliteration": {
+        "th": "тат-а̄тма̄нах̣",
+        "zh-TW": "тат-а̄тма̄нах̣",
+        "ja": "тат-а̄тма̄нах̣",
+        "ko": "тат-а̄тма̄нах̣"
+      }
+    },
+    "2830": {
+      "meaning": {
+        "th": "устремившие разум к Всевышнему",
+        "zh-TW": "устремившие разум к Всевышнему",
+        "ja": "устремившие разум к Всевышнему",
+        "ko": "устремившие разум к Всевышнему"
+      },
+      "transliteration": {
+        "th": "тат-буддхайах̣",
+        "zh-TW": "тат-буддхайах̣",
+        "ja": "тат-буддхайах̣",
+        "ko": "тат-буддхайах̣"
+      }
+    },
+    "2832": {
+      "meaning": {
+        "th": "твердо убежденные в истинности пути служения Кришне",
+        "zh-TW": "твердо убежденные в истинности пути служения Кришне",
+        "ja": "твердо убежденные в истинности пути служения Кришне",
+        "ko": "твердо убежденные в истинности пути служения Кришне"
+      },
+      "transliteration": {
+        "th": "тат-ниш̣т̣ха̄х̣",
+        "zh-TW": "тат-ниш̣т̣ха̄х̣",
+        "ja": "тат-ниш̣т̣ха̄х̣",
+        "ko": "тат-ниш̣т̣ха̄х̣"
+      }
+    },
+    "2833": {
+      "meaning": {
+        "th": "во всем уповающие на Бога",
+        "zh-TW": "во всем уповающие на Бога",
+        "ja": "во всем уповающие на Бога",
+        "ko": "во всем уповающие на Бога"
+      },
+      "transliteration": {
+        "th": "тат-пара̄йан̣а̄х̣",
+        "zh-TW": "тат-пара̄йан̣а̄х̣",
+        "ja": "тат-пара̄йан̣а̄х̣",
+        "ko": "тат-пара̄йан̣а̄х̣"
+      }
+    },
+    "2713": {
+      "meaning": {
+        "th": "познавший сущность бытия",
+        "zh-TW": "познавший сущность бытия",
+        "ja": "познавший сущность бытия",
+        "ko": "познавший сущность бытия"
+      },
+      "transliteration": {
+        "th": "таттва-вит",
+        "zh-TW": "таттва-вит",
+        "ja": "таттва-вит",
+        "ko": "таттва-вит"
+      }
+    },
+    "2927": {
+      "meaning": {
+        "th": "и",
+        "zh-TW": "и",
+        "ja": "и",
+        "ko": "и"
+      },
+      "transliteration": {
+        "th": "татха̄",
+        "zh-TW": "татха̄",
+        "ja": "татха̄",
+        "ko": "татха̄"
+      }
+    },
+    "2902": {
+      "meaning": {
+        "th": "они",
+        "zh-TW": "они",
+        "ja": "они",
+        "ko": "они"
+      },
+      "transliteration": {
+        "th": "те",
+        "zh-TW": "те",
+        "ja": "те",
+        "ko": "те"
+      }
+    },
+    "2814": {
+      "meaning": {
+        "th": "ибо",
+        "zh-TW": "ибо",
+        "ja": "ибо",
+        "ko": "ибо"
+      },
+      "transliteration": {
+        "th": "тена",
+        "zh-TW": "тена",
+        "ja": "тена",
+        "ko": "тена"
+      }
+    },
+    "2824": {
+      "meaning": {
+        "th": "им",
+        "zh-TW": "им",
+        "ja": "им",
+        "ko": "им"
+      },
+      "transliteration": {
+        "th": "теш̣а̄м",
+        "zh-TW": "теш̣а̄м",
+        "ja": "теш̣а̄м",
+        "ko": "теш̣а̄м"
+      }
+    },
+    "2906": {
+      "meaning": {
+        "th": "ими",
+        "zh-TW": "ими",
+        "ja": "ими",
+        "ko": "ими"
+      },
+      "transliteration": {
+        "th": "теш̣у",
+        "zh-TW": "теш̣у",
+        "ja": "теш̣у",
+        "ko": "теш̣у"
+      }
+    },
+    "2763": {
+      "meaning": {
+        "th": "отрешаясь",
+        "zh-TW": "отрешаясь",
+        "ja": "отрешаясь",
+        "ko": "отрешаясь"
+      },
+      "transliteration": {
+        "th": "тйактва̄",
+        "zh-TW": "тйактва̄",
+        "ja": "тйактва̄",
+        "ko": "тйактва̄"
+      }
+    },
+    "2818": {
+      "meaning": {
+        "th": "но",
+        "zh-TW": "но",
+        "ja": "но",
+        "ko": "но"
+      },
+      "transliteration": {
+        "th": "ту",
+        "zh-TW": "ту",
+        "ja": "ту",
+        "ko": "ту"
+      }
+    },
+    "2665": {
+      "meaning": {
+        "th": "обоих путей",
+        "zh-TW": "обоих путей",
+        "ja": "обоих путей",
+        "ko": "обоих путей"
+      },
+      "transliteration": {
+        "th": "убхайох̣",
+        "zh-TW": "убхайох̣",
+        "ja": "убхайох̣",
+        "ko": "убхайох̣"
+      }
+    },
+    "2636": {
+      "meaning": {
+        "th": "оба",
+        "zh-TW": "оба",
+        "ja": "оба",
+        "ko": "оба"
+      },
+      "transliteration": {
+        "th": "убхау",
+        "zh-TW": "убхау",
+        "ja": "убхау",
+        "ko": "убхау"
+      }
+    },
+    "2631": {
+      "meaning": {
+        "th": "сказал",
+        "zh-TW": "сказал",
+        "ja": "сказал",
+        "ko": "сказал"
+      },
+      "transliteration": {
+        "th": "ува̄ча",
+        "zh-TW": "ува̄ча",
+        "ja": "ува̄ча",
+        "ko": "ува̄ча"
+      }
+    },
+    "2874": {
+      "meaning": {
+        "th": "скорбит",
+        "zh-TW": "скорбит",
+        "ja": "скорбит",
+        "ko": "скорбит"
+      },
+      "transliteration": {
+        "th": "уд-виджет",
+        "zh-TW": "уд-виджет",
+        "ja": "уд-виджет",
+        "ko": "уд-виджет"
+      }
+    },
+    "2917": {
+      "meaning": {
+        "th": "возникающие",
+        "zh-TW": "возникающие",
+        "ja": "возникающие",
+        "ko": "возникающие"
+      },
+      "transliteration": {
+        "th": "удбхавам",
+        "zh-TW": "удбхавам",
+        "ja": "удбхавам",
+        "ko": "удбхавам"
+      }
+    },
+    "2725": {
+      "meaning": {
+        "th": "открывает",
+        "zh-TW": "открывает",
+        "ja": "открывает",
+        "ko": "открывает"
+      },
+      "transliteration": {
+        "th": "унмиш̣ан",
+        "zh-TW": "унмиш̣ан",
+        "ja": "унмиш̣ан",
+        "ko": "унмиш̣ан"
+      }
+    },
+    "2844": {
+      "meaning": {
+        "th": "в слоне",
+        "zh-TW": "в слоне",
+        "ja": "в слоне",
+        "ko": "в слоне"
+      },
+      "transliteration": {
+        "th": "хастини",
+        "zh-TW": "хастини",
+        "ja": "хастини",
+        "ko": "хастини"
+      }
+    },
+    "2897": {
+      "meaning": {
+        "th": "лишь",
+        "zh-TW": "лишь",
+        "ja": "лишь",
+        "ko": "лишь"
+      },
+      "transliteration": {
+        "th": "хи",
+        "zh-TW": "хи",
+        "ja": "хи",
+        "ko": "хи"
+      }
+    },
+    "2942": {
+      "meaning": {
+        "th": "действующие ради блага",
+        "zh-TW": "действующие ради блага",
+        "ja": "действующие ради блага",
+        "ko": "действующие ради блага"
+      },
+      "transliteration": {
+        "th": "хите-рата̄х̣",
+        "zh-TW": "хите-рата̄х̣",
+        "ja": "хите-рата̄х̣",
+        "ko": "хите-рата̄х̣"
+      }
+    },
+    "2957": {
+      "meaning": {
+        "th": "и",
+        "zh-TW": "и",
+        "ja": "и",
+        "ko": "и"
+      },
+      "transliteration": {
+        "th": "ча",
+        "zh-TW": "ча",
+        "ja": "ча",
+        "ko": "ча"
+      }
+    },
+    "2965": {
+      "meaning": {
+        "th": "происходящее",
+        "zh-TW": "происходящее",
+        "ja": "происходящее",
+        "ko": "происходящее"
+      },
+      "transliteration": {
+        "th": "ча̄рин̣ау",
+        "zh-TW": "ча̄рин̣ау",
+        "ja": "ча̄рин̣ау",
+        "ko": "ча̄рин̣ау"
+      }
+    },
+    "2956": {
+      "meaning": {
+        "th": "взгляд",
+        "zh-TW": "взгляд",
+        "ja": "взгляд",
+        "ko": "взгляд"
+      },
+      "transliteration": {
+        "th": "чакш̣ух̣",
+        "zh-TW": "чакш̣ух̣",
+        "ja": "чакш̣ух̣",
+        "ko": "чакш̣ух̣"
+      }
+    },
+    "2939": {
+      "meaning": {
+        "th": "свободные от двойственности",
+        "zh-TW": "свободные от двойственности",
+        "ja": "свободные от двойственности",
+        "ko": "свободные от двойственности"
+      },
+      "transliteration": {
+        "th": "чхинна-дваидха̄х̣",
+        "zh-TW": "чхинна-дваидха̄х̣",
+        "ja": "чхинна-дваидха̄х̣",
+        "ko": "чхинна-дваидха̄х̣"
+      }
+    },
+    "2991": {
+      "meaning": {
+        "th": "подлинное умиротворение",
+        "zh-TW": "подлинное умиротворение",
+        "ja": "подлинное умиротворение",
+        "ko": "подлинное умиротворение"
+      },
+      "transliteration": {
+        "th": "ш́а̄нтим",
+        "zh-TW": "ш́а̄нтим",
+        "ja": "ш́а̄нтим",
+        "ko": "ш́а̄нтим"
+      }
+    },
+    "2909": {
+      "meaning": {
+        "th": "способен",
+        "zh-TW": "способен",
+        "ja": "способен",
+        "ko": "способен"
+      },
+      "transliteration": {
+        "th": "ш́акноти",
+        "zh-TW": "ш́акноти",
+        "ja": "ш́акноти",
+        "ko": "ш́акноти"
+      }
+    },
+    "2621": {
+      "meaning": {
+        "th": "превозносишь",
+        "zh-TW": "превозносишь",
+        "ja": "превозносишь",
+        "ko": "превозносишь"
+      },
+      "transliteration": {
+        "th": "ш́ам̇саси",
+        "zh-TW": "ш́ам̇саси",
+        "ja": "ш́ам̇саси",
+        "ko": "ш́ам̇саси"
+      }
+    },
+    "2914": {
+      "meaning": {
+        "th": "оставления тела",
+        "zh-TW": "оставления тела",
+        "ja": "оставления тела",
+        "ko": "оставления тела"
+      },
+      "transliteration": {
+        "th": "ш́арӣра-вимокш̣ан̣а̄т",
+        "zh-TW": "ш́арӣра-вимокш̣ан̣а̄т",
+        "ja": "ш́арӣра-вимокш̣ан̣а̄т",
+        "ko": "ш́арӣра-вимокш̣ан̣а̄т"
+      }
+    },
+    "2721": {
+      "meaning": {
+        "th": "дышит",
+        "zh-TW": "дышит",
+        "ja": "дышит",
+        "ko": "дышит"
+      },
+      "transliteration": {
+        "th": "ш́васан",
+        "zh-TW": "ш́васан",
+        "ja": "ш́васан",
+        "ko": "ш́васан"
+      }
+    },
+    "2715": {
+      "meaning": {
+        "th": "слышит",
+        "zh-TW": "слышит",
+        "ja": "слышит",
+        "ko": "слышит"
+      },
+      "transliteration": {
+        "th": "ш́р̣н̣ван",
+        "zh-TW": "ш́р̣н̣ван",
+        "ja": "ш́р̣н̣ван",
+        "ko": "ш́р̣н̣ван"
+      }
+    },
+    "2623": {
+      "meaning": {
+        "th": "наиболее благоприятен",
+        "zh-TW": "наиболее благоприятен",
+        "ja": "наиболее благоприятен",
+        "ko": "наиболее благоприятен"
+      },
+      "transliteration": {
+        "th": "ш́рейах̣",
+        "zh-TW": "ш́рейах̣",
+        "ja": "ш́рейах̣",
+        "ko": "ш́рейах̣"
+      }
+    },
+    "2630": {
+      "meaning": {
+        "th": "Всевышний",
+        "zh-TW": "Всевышний",
+        "ja": "Всевышний",
+        "ko": "Всевышний"
+      },
+      "transliteration": {
+        "th": "ш́рӣ бхагава̄н",
+        "zh-TW": "ш́рӣ бхагава̄н",
+        "ja": "ш́рӣ бхагава̄н",
+        "ko": "ш́рӣ бхагава̄н"
+      }
+    },
+    "2759": {
+      "meaning": {
+        "th": "ради очищения",
+        "zh-TW": "ради очищения",
+        "ja": "ради очищения",
+        "ko": "ради очищения"
+      },
+      "transliteration": {
+        "th": "ш́уддхайе",
+        "zh-TW": "ш́уддхайе",
+        "ja": "ш́уддхайе",
+        "ko": "ш́уддхайе"
+      }
+    },
+    "2845": {
+      "meaning": {
+        "th": "в собаке",
+        "zh-TW": "в собаке",
+        "ja": "в собаке",
+        "ko": "в собаке"
+      },
+      "transliteration": {
+        "th": "ш́уни",
+        "zh-TW": "ш́уни",
+        "ja": "ш́уни",
+        "ko": "ш́уни"
+      }
+    },
+    "2979": {
+      "meaning": {
+        "th": "воистину",
+        "zh-TW": "воистину",
+        "ja": "воистину",
+        "ko": "воистину"
+      },
+      "transliteration": {
+        "th": "эва",
+        "zh-TW": "эва",
+        "ja": "эва",
+        "ko": "эва"
+      }
+    },
+    "2676": {
+      "meaning": {
+        "th": "как одно",
+        "zh-TW": "как одно",
+        "ja": "как одно",
+        "ko": "как одно"
+      },
+      "transliteration": {
+        "th": "экам",
+        "zh-TW": "экам",
+        "ja": "экам",
+        "ko": "экам"
+      }
+    },
+    "2624": {
+      "meaning": {
+        "th": "из этих двух путей",
+        "zh-TW": "из этих двух путей",
+        "ja": "из этих двух путей",
+        "ko": "из этих двух путей"
+      },
+      "transliteration": {
+        "th": "этайох̣",
+        "zh-TW": "этайох̣",
+        "ja": "этайох̣",
+        "ko": "этайох̣"
+      }
+    }
+  }
+}
