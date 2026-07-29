@@ -14,7 +14,9 @@ dependencies:
     sdk: flutter
 
   flutter_versegrid:
-    flutter_versegrid: ^0.1.0
+    git:
+      url: https://github.com/libsFlutter/flutter_versegrid
+      ref: 349d56db769e02cf2c1d9f6dfefcd5d5dbe30e41
 
   cupertino_icons: ^1.0.8
 
