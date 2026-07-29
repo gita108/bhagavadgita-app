@@ -1,43 +1,17 @@
-# Bhagavad Gita Book (Бхагавад-гита)
+# bhagavadgita_book
 
-[![Русский](https://img.shields.io/badge/lang-ru-red.svg)](#)
-[![English](https://img.shields.io/badge/lang-en-blue.svg)](README_en.md)
-[![Thai](https://img.shields.io/badge/lang-th-green.svg)](README_th.md)
+A new Flutter project.
 
-Мультиплатформенное мобильное приложение для изучения Бхагавад-гиты на разных языках с глубоким анализом санскрита.
+## Getting Started
 
-## О проекте
+This project is a starting point for a Flutter application.
 
-Этот проект представляет собой современное приложение для чтения и изучения Бхагавад-гиты. Основное внимание уделяется точности перевода, удобству интерфейса и возможности офлайн-доступа к священному тексту.
+A few resources to get you started if this is your first Flutter project:
 
-### Основные возможности
-*   **Многоязычность**: Поддержка множества языков, включая русский, английский, немецкий, испанский и тайский.
-*   **Санскрит**: Оригинальные стихи на санскрите с транслитерацией и пословным переводом.
-*   **Офлайн-режим**: Все данные хранятся локально (SQLite/Drift).
-*   **Современный стек**: Разработано на Flutter для работы на Android, iOS и других платформах.
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-## Технологический стек
-
-*   **Framework**: [Flutter](https://flutter.dev) (Dart)
-*   **База данных**: [Drift](https://drift.simonbinder.eu/) (SQLite)
-*   **Архитектура**: Spec-Driven Development (SDD), Document-Driven Development (DDD).
-*   **Данные**: JSON-структуры для текстов и словарей.
-
-## Структура проекта
-
-*   `app/`: Исходный код Flutter-приложений.
-*   `data/`: Тексты Бхагавад-гиты, переводы, схемы и метаданные.
-*   `flows/`: Документация процессов разработки и архитектурные решения.
-*   `scripts/`: Вспомогательные скрипты для аудита контента.
-*   `legacy/`: Устаревшие версии проекта на Java и Swift.
-
-## Доступные языки
-
-Проект поддерживает широкий спектр языков:
-*   **Оригинал**: Санскрит (संस्कृतम्)
-*   **Основные**: Русский, English, Deutsch, Español
-*   **Переводы**: Тайский (ไทย), Корейский (한국어), Китайский (简体/繁體), Японский (日本語) и другие.
-
----
-
-[English Version](README_en.md) | [ภาษาไทย](README_th.md)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<dimen name="toolbar_top_padding">0dp</dimen>
-	<dimen name="guide_image_margin_top">60dp</dimen>
-	<dimen name="divider_height">1dp</dimen>
-	<dimen name="book_swipe_padding">64dp</dimen>
-	<dimen name="screen_offset">0dp</dimen>
-</resources>

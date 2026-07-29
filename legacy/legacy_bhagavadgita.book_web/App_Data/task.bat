@@ -1,2 +1,0 @@
-schtasks /create /tn "Gita Quotes" /tr "powershell -ExecutionPolicy unrestricted -Command \"(New-Object Net.WebClient).DownloadString(\\\"http://app.bhagavadgitaapp.online/api/Admin/DayQuotes\\\")\"" /sc DAILY /st 10:00:00 /ru System
-@pause

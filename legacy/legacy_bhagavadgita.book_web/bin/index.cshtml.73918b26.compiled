@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/Areas/Admin/Views/Admin/Index.cshtml" hash="ffffffff90bea92b" filehash="308a6605f50b" flags="110000" assembly="Gita.Web.Publish" type="ASP._Page_Areas_Admin_Views_Admin_Index_cshtml">
-  <filedeps>
-    <filedep name="/Areas/Admin/Views/Admin/Index.cshtml" />
-  </filedeps>
-</preserve>

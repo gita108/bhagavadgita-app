@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/Areas/Admin/Views/Languages/Edit.cshtml" hash="ffffffff90bea92b" filehash="ffffc3df005a9aec" flags="110000" assembly="Gita.Web.Publish" type="ASP._Page_Areas_Admin_Views_Languages_Edit_cshtml">
-  <filedeps>
-    <filedep name="/Areas/Admin/Views/Languages/Edit.cshtml" />
-  </filedeps>
-</preserve>
