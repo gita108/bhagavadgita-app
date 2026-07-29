@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer name="container_weight">7</integer>
+	<integer name="container_right_weight">3</integer>
+</resources>

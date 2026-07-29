@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="AppTheme.NavBar">
+		<item name="android:windowDrawsSystemBarBackgrounds">true</item>
+		<item name="android:statusBarColor">@android:color/transparent</item>
+		<item name="android:windowTranslucentStatus">true</item>
+	</style>
+
+	<style name="AppTheme.GrayStatusBar">
+		<item name="android:statusBarColor">@color/black_20</item>
+	</style>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content">
+
+	<RelativeLayout
+		android:id="@+id/rl_name"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+		<com.ironwaterstudio.controls.TextViewEx
+			android:id="@+id/tv_initials"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerVertical="true"
+			android:layout_marginStart="16dp"
+			android:layout_marginTop="13dp"
+			android:background="@drawable/circlre_initials"
+			android:gravity="center"
+			android:textColor="@color/red_1"
+			android:textSize="12sp"
+			app:fontEx="boldItalic" />
+
+		<com.ironwaterstudio.controls.TextViewEx
+			android:id="@+id/tv_name"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginBottom="8dp"
+			android:layout_marginEnd="16dp"
+			android:layout_marginStart="8dp"
+			android:layout_toEndOf="@id/tv_initials"
+			android:textColor="@color/gray_2"
+			android:textSize="16sp" />
+
+	</RelativeLayout>
+
+	<com.ironwaterstudio.controls.TextViewEx
+		android:id="@+id/tv_commentary"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/rl_name"
+		android:layout_centerHorizontal="true"
+		android:layout_marginBottom="24dp"
+		android:layout_marginLeft="16dp"
+		android:layout_marginRight="16dp"
+		android:textColor="@color/gray_1"
+		android:textSize="16sp" />
+</RelativeLayout>
