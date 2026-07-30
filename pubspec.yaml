@@ -58,6 +58,15 @@ flutter:
     - assets/icons/icn_guide_1.png
     - assets/icons/icn_guide_2.png
     - assets/icons/icn_guide_3.png
+    - assets/icons/icn_check.png
+    - assets/icons/divider.png
+    - assets/icons/ic_share.png
+    - assets/icons/ic_bookmarks.png
+    - assets/icons/arrow_show.png
+    - assets/icons/ic_bookmark_small.png
+    - assets/icons/ic_settings.png
+    - assets/icons/ic_search.png
+    - assets/icons/icn_empty.png
 
   fonts:
     - family: PTSans

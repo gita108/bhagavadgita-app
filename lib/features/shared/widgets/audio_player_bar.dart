@@ -86,13 +86,12 @@ class AudioPlayerBar extends StatelessWidget {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              _SeekBar(
-                enabled: enabled,
-                progress: progress,
-                onSeek: onSeek,
-              ),
+              _SeekBar(enabled: enabled, progress: progress, onSeek: onSeek),
               Container(
-                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                padding: const EdgeInsets.symmetric(
+                  horizontal: 16,
+                  vertical: 8,
+                ),
                 decoration: const BoxDecoration(
                   border: Border(top: BorderSide(color: AppColors.gray4)),
                 ),
@@ -111,12 +110,16 @@ class AudioPlayerBar extends StatelessWidget {
                         children: [
                           Text(
                             title,
-                            style: AppText.label().copyWith(color: AppColors.gray1),
+                            style: AppText.label().copyWith(
+                              color: AppColors.gray1,
+                            ),
                           ),
                           Text(
                             '$positionLabel / $durationLabel',
                             style: AppText.caption().copyWith(
-                              fontFeatures: const [FontFeature.tabularFigures()],
+                              fontFeatures: const [
+                                FontFeature.tabularFigures(),
+                              ],
                             ),
                           ),
                         ],
@@ -172,13 +175,17 @@ class _SeekBar extends StatelessWidget {
               ? null
               : (d) {
                   final x = d.localPosition.dx.clamp(0.0, constraints.maxWidth);
-                  onSeek!(constraints.maxWidth <= 0 ? 0 : (x / constraints.maxWidth));
+                  onSeek!(
+                    constraints.maxWidth <= 0 ? 0 : (x / constraints.maxWidth),
+                  );
                 },
           onHorizontalDragUpdate: (!enabled || onSeek == null)
               ? null
               : (d) {
                   final x = d.localPosition.dx.clamp(0.0, constraints.maxWidth);
-                  onSeek!(constraints.maxWidth <= 0 ? 0 : (x / constraints.maxWidth));
+                  onSeek!(
+                    constraints.maxWidth <= 0 ? 0 : (x / constraints.maxWidth),
+                  );
                 },
           child: LinearProgressIndicator(
             value: p,

@@ -1,9 +1,16 @@
 import 'package:drift/drift.dart' hide Column;
 import 'package:flutter/material.dart';
 
+import '../../app/quote/quote_of_day_controller.dart';
+import '../../data/local/app_database.dart';
+import '../../data/local/user_data_repository.dart';
+import '../../data/remote/dto/quote_dto.dart';
+import '../../l10n/l10n.dart';
 import '../../ui/theme/app_colors.dart';
 import '../../ui/theme/app_text.dart';
-import '../../data/local/app_database.dart';
+import '../bookmarks/bookmarks_screen.dart';
+import '../quote/quote_screen.dart';
+import '../shared/services/share_service.dart';
 import '../shared/widgets/quote_card.dart';
 import '../reader/sloka_screen.dart';
 import '../search/search_screen.dart';
@@ -43,46 +50,69 @@ class _PhoneContents extends StatefulWidget {
 class _PhoneContentsState extends State<_PhoneContents> {
   int? _expandedChapterId;
   int? _selectedSlokaId;
+  late final UserDataRepository _userData = UserDataRepository(widget.db);
 
   static final GlobalKey _searchKey = GlobalKey();
 
   @override
   Widget build(BuildContext context) {
-    final chaptersQuery = (widget.db.select(widget.db.chapters)..where((t) => t.bookId.equals(1)))
-      ..orderBy([(t) => OrderingTerm.asc(t.position)]);
+    final l10n = context.l10n;
+    final chaptersQuery =
+        (widget.db.select(widget.db.chapters)..where((t) => t.bookId.equals(1)))
+          ..orderBy([(t) => OrderingTerm.asc(t.position)]);
 
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: AppColors.red1,
-        foregroundColor: AppColors.white,
-        title: Text('Бхагавад Гита', style: AppText.navTitle()),
+        leading: IconButton(
+          tooltip: l10n.settingsTitle,
+          icon: Image.asset(
+            'assets/icons/ic_settings.png',
+            width: 22,
+            height: 22,
+            color: AppColors.white,
+          ),
+          onPressed: () {
+            Navigator.of(context).push(
+              MaterialPageRoute(builder: (context) => const SettingsScreen()),
+            );
+          },
+        ),
+        title: Text(l10n.contentsTitle, style: AppText.navTitle()),
         actions: [
           IconButton(
-            key: _searchKey,
-            tooltip: 'Search',
-            icon: const Icon(Icons.search),
+            icon: Image.asset(
+              'assets/icons/ic_bookmarks.png',
+              width: 22,
+              height: 22,
+              color: AppColors.white,
+            ),
             onPressed: () {
-              final renderBox =
-                  _searchKey.currentContext?.findRenderObject() as RenderBox?;
-              final center = renderBox == null
-                  ? (MediaQuery.of(context).size.center(Offset.zero))
-                  : renderBox.localToGlobal(
-                      renderBox.size.center(Offset.zero),
-                    );
               Navigator.of(context).push(
-                CircularRevealPageRoute(
-                  center: center,
-                  builder: (context) => SearchScreen(db: widget.db),
+                MaterialPageRoute(
+                  builder: (context) => BookmarksScreen(db: widget.db),
                 ),
               );
             },
           ),
           IconButton(
-            tooltip: 'Reader settings',
-            icon: const Icon(Icons.tune),
+            key: _searchKey,
+            icon: Image.asset(
+              'assets/icons/ic_search.png',
+              width: 22,
+              height: 22,
+              color: AppColors.white,
+            ),
             onPressed: () {
+              final renderBox =
+                  _searchKey.currentContext?.findRenderObject() as RenderBox?;
+              final center = renderBox == null
+                  ? (MediaQuery.of(context).size.center(Offset.zero))
+                  : renderBox.localToGlobal(renderBox.size.center(Offset.zero));
               Navigator.of(context).push(
-                MaterialPageRoute(builder: (context) => const SettingsScreen()),
+                CircularRevealPageRoute(
+                  center: center,
+                  builder: (context) => SearchScreen(db: widget.db),
+                ),
               );
             },
           ),
@@ -92,7 +122,8 @@ class _PhoneContentsState extends State<_PhoneContents> {
         stream: chaptersQuery.watch(),
         builder: (context, snap) {
           final chapters = snap.data ?? const [];
-          if (snap.connectionState == ConnectionState.waiting && chapters.isEmpty) {
+          if (snap.connectionState == ConnectionState.waiting &&
+              chapters.isEmpty) {
             return const Center(child: CircularProgressIndicator());
           }
           if (chapters.isEmpty) {
@@ -108,17 +139,12 @@ class _PhoneContentsState extends State<_PhoneContents> {
                       color: AppColors.gray2.withValues(alpha: 0.5),
                     ),
                     const SizedBox(height: 14),
-                    Text(
-                      'No chapters found',
-                      style: AppText.heading(),
-                    ),
+                    Text('No chapters found', style: AppText.heading()),
                     const SizedBox(height: 6),
                     Text(
                       'Please check your connection and try again.',
                       textAlign: TextAlign.center,
-                      style: AppText.body().copyWith(
-                        color: AppColors.gray2,
-                      ),
+                      style: AppText.body().copyWith(color: AppColors.gray2),
                     ),
                     const SizedBox(height: 14),
                     FilledButton(
@@ -139,22 +165,34 @@ class _PhoneContentsState extends State<_PhoneContents> {
 
           return ListView.separated(
             itemCount: chapters.length + 1,
-            padding: const EdgeInsets.only(bottom: 12),
+            padding: EdgeInsets.zero,
             separatorBuilder: (context, index) => const Divider(height: 1),
             itemBuilder: (context, index) {
               if (index == 0) {
-                return FutureBuilder<Sloka?>(
-                  // Simple way to get a "random" sloka for today using bookId=1
-                  future: (widget.db.select(widget.db.slokas)
-                        ..where((t) => t.chapterId.isBetweenValues(1, 18))
-                        ..limit(1, offset: DateTime.now().day * 7 % 700))
-                      .getSingleOrNull(),
-                  builder: (context, snap) {
-                    final s = snap.data;
-                    if (s == null) return const SizedBox.shrink();
+                return ValueListenableBuilder<QuoteDto?>(
+                  valueListenable: quoteOfDayController,
+                  builder: (context, quote, _) {
+                    // Optional section — omitted entirely if no quote has
+                    // been fetched yet, matching legacy behavior.
+                    if (quote?.text == null || quote?.author == null) {
+                      return const SizedBox.shrink();
+                    }
                     return QuoteCard(
-                      quote: s.translation ?? s.slokaText ?? '',
-                      author: 'Гита ${s.name}',
+                      quote: quote!.text!,
+                      author: quote.author,
+                      onTap: () {
+                        Navigator.of(context).push(
+                          MaterialPageRoute(
+                            builder: (context) => QuoteScreen(quote: quote),
+                          ),
+                        );
+                      },
+                      onShare: () {
+                        ShareService().shareQuote(
+                          text: quote.text!,
+                          author: quote.author!,
+                        );
+                      },
                     );
                   },
                 );
@@ -163,10 +201,11 @@ class _PhoneContentsState extends State<_PhoneContents> {
               final isExpanded = _expandedChapterId == c.id;
 
               return StreamBuilder<List<Sloka>>(
-                stream: (widget.db.select(widget.db.slokas)
-                      ..where((t) => t.chapterId.equals(c.id))
-                      ..orderBy([(t) => OrderingTerm.asc(t.position)]))
-                    .watch(),
+                stream:
+                    (widget.db.select(widget.db.slokas)
+                          ..where((t) => t.chapterId.equals(c.id))
+                          ..orderBy([(t) => OrderingTerm.asc(t.position)]))
+                        .watch(),
                 builder: (context, slokaSnap) {
                   final slokas = slokaSnap.data ?? const [];
                   return ChapterExpandableTile(
@@ -174,6 +213,7 @@ class _PhoneContentsState extends State<_PhoneContents> {
                     slokas: slokas,
                     isExpanded: isExpanded,
                     selectedSlokaId: _selectedSlokaId,
+                    userData: _userData,
                     onExpansionChanged: (expanded) {
                       setState(() {
                         _expandedChapterId = expanded ? c.id : null;

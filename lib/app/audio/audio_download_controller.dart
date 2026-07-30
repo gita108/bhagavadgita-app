@@ -19,11 +19,11 @@ class AudioDownloadState {
   });
 
   const AudioDownloadState.idle()
-      : isDownloading = false,
-        track = null,
-        currentLabel = null,
-        progress = null,
-        errorMessage = null;
+    : isDownloading = false,
+      track = null,
+      currentLabel = null,
+      progress = null,
+      errorMessage = null;
 
   final bool isDownloading;
   final AudioTrack? track;
@@ -50,8 +50,8 @@ class AudioDownloadState {
 
 class AudioDownloadController extends ValueNotifier<AudioDownloadState> {
   AudioDownloadController({AudioVedaClient? client})
-      : _client = client ?? AudioVedaClient(),
-        super(const AudioDownloadState.idle());
+    : _client = client ?? AudioVedaClient(),
+      super(const AudioDownloadState.idle());
 
   final AudioVedaClient _client;
   Completer<void>? _active;
@@ -142,11 +142,14 @@ class AudioDownloadController extends ValueNotifier<AudioDownloadState> {
     final s = url.toString();
     final m = RegExp(r'chapter_(\d+)_', caseSensitive: false).firstMatch(s);
     if (m != null) return int.tryParse(m.group(1) ?? '');
-    final m2 = RegExp(r'chapter[^\d]?(\d+)', caseSensitive: false).firstMatch(s);
+    final m2 = RegExp(
+      r'chapter[^\d]?(\d+)',
+      caseSensitive: false,
+    ).firstMatch(s);
     if (m2 != null) return int.tryParse(m2.group(1) ?? '');
     return null;
   }
 }
 
-final AudioDownloadController audioDownloadController = AudioDownloadController();
-
+final AudioDownloadController audioDownloadController =
+    AudioDownloadController();

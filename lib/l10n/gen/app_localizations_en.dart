@@ -82,6 +82,9 @@ class AppLocalizationsEn extends AppLocalizations {
   String get confirmYes => 'Yes';
 
   @override
+  String get confirmNo => 'No';
+
+  @override
   String get confirmDownloadAudioTranslation =>
       'Would you like to download audio translation?';
 
@@ -99,6 +102,92 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get loadingEllipsis => 'Loading…';
+
+  @override
+  String get retry => 'Retry';
+
+  @override
+  String get splashAppName => 'Bhagavad Gita';
+
+  @override
+  String get splashAudioDownloadPrompt =>
+      'Would you like to download audio right now? You can do it later.';
+
+  @override
+  String get splashConnectionError =>
+      'Connection to the server can not establish. Please, check the settings of Internet connection or try again later.';
+
+  @override
+  String get guideSkip => 'Skip';
+
+  @override
+  String get guideBack => 'Back';
+
+  @override
+  String get guideNext => 'Next';
+
+  @override
+  String get guideTitle1 => 'What to do?';
+
+  @override
+  String get guideText1 =>
+      'Answers to this question mankind sought long before Chernyshevsky. “Bhagavad-gita” - one of the oldest spiritual scriptures on Earth - offers answers to it.';
+
+  @override
+  String get guideTitle2 => 'Ancient knowledge for modern people';
+
+  @override
+  String get guideText2 =>
+      'The book is a living dialogue between Krishna and Arjuna. Before the greatest battle, Krsna instructs his friend, explaining what to do to live successfully and happily in this world, and also reveals various aspects of spiritual life.';
+
+  @override
+  String get guideChecklist1 => 'Read as it’s convenient for you';
+
+  @override
+  String get guideChecklist2 => 'Compare interpretations and translations';
+
+  @override
+  String get guideChecklist3 => 'Study comments';
+
+  @override
+  String get guideChecklist4 => 'Listen';
+
+  @override
+  String get guideChecklist5 => 'Make notes';
+
+  @override
+  String get contentsTitle => 'Bhagavad Gita';
+
+  @override
+  String get contentsQuoteTitle => 'Quote of the Day';
+
+  @override
+  String chapterLabel(int number) {
+    return 'Chapter $number';
+  }
+
+  @override
+  String shlokaCount(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count shlokas',
+      one: '$count shloka',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get searchPlaceholder => 'Search';
+
+  @override
+  String get searchNotFound => 'Not found';
+
+  @override
+  String get noteTitle => 'Note';
+
+  @override
+  String get save => 'Save';
 
   @override
   String get languageName_en => 'English';

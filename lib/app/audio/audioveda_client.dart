@@ -4,10 +4,7 @@ import 'dart:io';
 import 'package:dio/dio.dart';
 
 class AudioVedaCredentials {
-  const AudioVedaCredentials({
-    required this.username,
-    required this.password,
-  });
+  const AudioVedaCredentials({required this.username, required this.password});
 
   final String username;
   final String password;
@@ -22,17 +19,21 @@ class AudioVedaClient {
 
   Options _options(AudioVedaCredentials creds) {
     if (!creds.isUsable) return Options();
-    final basic = base64Encode(utf8.encode('${creds.username}:${creds.password}'));
+    final basic = base64Encode(
+      utf8.encode('${creds.username}:${creds.password}'),
+    );
     return Options(headers: {'Authorization': 'Basic $basic'});
   }
 
-  Future<List<Uri>> listMp3Urls(Uri page, {required AudioVedaCredentials creds}) async {
+  Future<List<Uri>> listMp3Urls(
+    Uri page, {
+    required AudioVedaCredentials creds,
+  }) async {
     final res = await _dio.get<Object?>(
       page.toString(),
-      options: _options(creds).copyWith(
-        responseType: ResponseType.plain,
-        followRedirects: true,
-      ),
+      options: _options(
+        creds,
+      ).copyWith(responseType: ResponseType.plain, followRedirects: true),
     );
 
     final body = res.data?.toString() ?? '';
@@ -120,4 +121,3 @@ class AudioVedaClient {
     }
   }
 }
-

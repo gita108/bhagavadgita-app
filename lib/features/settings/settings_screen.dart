@@ -70,7 +70,10 @@ class SettingsScreen extends StatelessWidget {
                 ),
               ),
               SwitchListTile(
-                title: Text(l10n.settingsShowTransliteration, style: AppText.body()),
+                title: Text(
+                  l10n.settingsShowTransliteration,
+                  style: AppText.body(),
+                ),
                 value: reader.showTransliteration,
                 activeTrackColor: AppColors.red1,
                 onChanged: (v) => readerSettingsController.update(
@@ -78,7 +81,10 @@ class SettingsScreen extends StatelessWidget {
                 ),
               ),
               SwitchListTile(
-                title: Text(l10n.settingsShowTranslation, style: AppText.body()),
+                title: Text(
+                  l10n.settingsShowTranslation,
+                  style: AppText.body(),
+                ),
                 value: reader.showTranslation,
                 activeTrackColor: AppColors.red1,
                 onChanged: (v) => readerSettingsController.update(
@@ -105,7 +111,10 @@ class SettingsScreen extends StatelessWidget {
               const SizedBox(height: 10),
               _SectionHeader(text: l10n.settingsSectionAudio),
               SwitchListTile(
-                title: Text(l10n.settingsAudioTranslation, style: AppText.body()),
+                title: Text(
+                  l10n.settingsAudioTranslation,
+                  style: AppText.body(),
+                ),
                 value: audio.useTranslationAudio,
                 activeTrackColor: AppColors.red1,
                 onChanged: (v) async {
@@ -153,9 +162,9 @@ class SettingsScreen extends StatelessWidget {
                     if (dl.errorMessage != null)
                       Text(
                         dl.errorMessage!,
-                        style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                              color: Colors.red,
-                            ),
+                        style: Theme.of(
+                          context,
+                        ).textTheme.bodySmall?.copyWith(color: Colors.red),
                       ),
                     const SizedBox(height: 6),
                     FilledButton.icon(
@@ -166,7 +175,8 @@ class SettingsScreen extends StatelessWidget {
                                 AudioTrack.translation,
                               );
                             },
-                      icon: audioDownloadController.isBusy &&
+                      icon:
+                          audioDownloadController.isBusy &&
                               dl.track == AudioTrack.translation
                           ? const SizedBox(
                               width: 18,
@@ -190,7 +200,8 @@ class SettingsScreen extends StatelessWidget {
                                 AudioTrack.sanskrit,
                               );
                             },
-                      icon: audioDownloadController.isBusy &&
+                      icon:
+                          audioDownloadController.isBusy &&
                               dl.track == AudioTrack.sanskrit
                           ? const SizedBox(
                               width: 18,
@@ -199,7 +210,8 @@ class SettingsScreen extends StatelessWidget {
                             )
                           : const Icon(Icons.download),
                       label: Text(
-                        audioDownloadController.isBusy && dl.track == AudioTrack.sanskrit
+                        audioDownloadController.isBusy &&
+                                dl.track == AudioTrack.sanskrit
                             ? 'Downloading Sanskrit…'
                             : 'Download Sanskrit (AudioVeda)',
                       ),
@@ -211,9 +223,8 @@ class SettingsScreen extends StatelessWidget {
                         const SizedBox(height: 6),
                         Text(
                           dl.currentLabel!,
-                          style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                                color: AppColors.gray2,
-                              ),
+                          style: Theme.of(context).textTheme.bodySmall
+                              ?.copyWith(color: AppColors.gray2),
                         ),
                       ],
                     ],
@@ -238,18 +249,19 @@ class SettingsScreen extends StatelessWidget {
     ContentLanguagesSettings settings,
   ) {
     final l10n = context.l10n;
-    final labels = settings.selectedCodes
-        .map(
-          (code) => switch (code) {
-            'en' => l10n.languageName_en,
-            'ru' => l10n.languageName_ru,
-            'de' => l10n.languageName_de,
-            'spa' => l10n.languageName_spa,
-            _ => code,
-          },
-        )
-        .toList()
-      ..sort();
+    final labels =
+        settings.selectedCodes
+            .map(
+              (code) => switch (code) {
+                'en' => l10n.languageName_en,
+                'ru' => l10n.languageName_ru,
+                'de' => l10n.languageName_de,
+                'spa' => l10n.languageName_spa,
+                _ => code,
+              },
+            )
+            .toList()
+          ..sort();
     return labels.join(', ');
   }
 
@@ -331,8 +343,9 @@ class SettingsScreen extends StatelessWidget {
       (title: 'Visvanath Cakravarti (VC)', code: 'en', downloaded: false),
       (title: 'As It Is (SP)', code: 'en', downloaded: false),
     ];
-    final filtered =
-        items.where((b) => contentLangs.selectedCodes.contains(b.code)).toList();
+    final filtered = items
+        .where((b) => contentLangs.selectedCodes.contains(b.code))
+        .toList();
 
     if (filtered.isEmpty) {
       return [
@@ -367,4 +380,3 @@ class _SectionHeader extends StatelessWidget {
     );
   }
 }
-

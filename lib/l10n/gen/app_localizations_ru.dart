@@ -82,6 +82,9 @@ class AppLocalizationsRu extends AppLocalizations {
   String get confirmYes => 'Да';
 
   @override
+  String get confirmNo => 'Нет';
+
+  @override
   String get confirmDownloadAudioTranslation => 'Скачать аудио перевод?';
 
   @override
@@ -95,6 +98,94 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get loadingEllipsis => 'Загрузка…';
+
+  @override
+  String get retry => 'Повторить';
+
+  @override
+  String get splashAppName => 'Бхагавад Гита';
+
+  @override
+  String get splashAudioDownloadPrompt =>
+      'Хотите ли вы скачать аудио сейчас? Это можно будет сделать позднее.';
+
+  @override
+  String get splashConnectionError =>
+      'Соединение с сервером не может быть установлено. Пожалуйста, проверьте настройки интернет-соединения или повторите попытку чуть позже.';
+
+  @override
+  String get guideSkip => 'Пропустить';
+
+  @override
+  String get guideBack => 'Назад';
+
+  @override
+  String get guideNext => 'Вперед';
+
+  @override
+  String get guideTitle1 => 'Что делать?';
+
+  @override
+  String get guideText1 =>
+      'Ответы на этот вопрос человечество искало еще задолго до Чернышевского. «Бхагавад-гита» — одно из древнейших духовных писаний на Земле — предлагает ответы на него.';
+
+  @override
+  String get guideTitle2 => 'Древнее знание для современных людей';
+
+  @override
+  String get guideText2 =>
+      'Книга представляет собой живой диалог между Кришной и Арджуной. Перед величайшей битвой Кришна дает наставления своему другу, объясняя, что делать, чтобы успешно и счастливо жить в этом мире, а также раскрывает различные аспекты духовной жизни.';
+
+  @override
+  String get guideChecklist1 => 'Читайте так, как вам удобно';
+
+  @override
+  String get guideChecklist2 => 'Сравнивайте трактовки и переводы';
+
+  @override
+  String get guideChecklist3 => 'Изучайте комментарии';
+
+  @override
+  String get guideChecklist4 => 'Слушайте';
+
+  @override
+  String get guideChecklist5 => 'Записывайте заметки';
+
+  @override
+  String get contentsTitle => 'Бхагавад Гита';
+
+  @override
+  String get contentsQuoteTitle => 'Цитата дня';
+
+  @override
+  String chapterLabel(int number) {
+    return 'Глава $number';
+  }
+
+  @override
+  String shlokaCount(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count шлок',
+      many: '$count шлок',
+      few: '$count шлоки',
+      one: '$count шлока',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get searchPlaceholder => 'Поиск';
+
+  @override
+  String get searchNotFound => 'Поиск не дал результатов';
+
+  @override
+  String get noteTitle => 'Заметка';
+
+  @override
+  String get save => 'Сохранить';
 
   @override
   String get languageName_en => 'English';

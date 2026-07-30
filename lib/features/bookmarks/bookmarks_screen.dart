@@ -34,9 +34,7 @@ class _BookmarksScreenState extends State<BookmarksScreen> {
     final q = _query.trim();
 
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Bookmarks'),
-      ),
+      appBar: AppBar(title: const Text('Bookmarks')),
       body: Column(
         children: [
           Padding(
@@ -65,14 +63,16 @@ class _BookmarksScreenState extends State<BookmarksScreen> {
               stream: _watchBookmarksWithSlokas(widget.db, q),
               builder: (context, snap) {
                 final rows = snap.data ?? const [];
-                if (snap.connectionState == ConnectionState.waiting && rows.isEmpty) {
+                if (snap.connectionState == ConnectionState.waiting &&
+                    rows.isEmpty) {
                   return const Center(child: CircularProgressIndicator());
                 }
                 if (rows.isEmpty) return const _EmptyBookmarks();
 
                 return ListView.separated(
                   itemCount: rows.length,
-                  separatorBuilder: (context, index) => const Divider(height: 1),
+                  separatorBuilder: (context, index) =>
+                      const Divider(height: 1),
                   itemBuilder: (context, i) {
                     final (bookmark, sloka, note) = rows[i];
                     final hasNote = note != null && note.note.trim().isNotEmpty;
@@ -82,7 +82,8 @@ class _BookmarksScreenState extends State<BookmarksScreen> {
                         motion: const ScrollMotion(),
                         children: [
                           SlidableAction(
-                            onPressed: (_) => userData.setBookmark(sloka.id, false),
+                            onPressed: (_) =>
+                                userData.setBookmark(sloka.id, false),
                             backgroundColor: AppColors.red1,
                             foregroundColor: AppColors.white,
                             icon: Icons.delete,
@@ -94,10 +95,14 @@ class _BookmarksScreenState extends State<BookmarksScreen> {
                         title: HighlightedText(
                           text: sloka.name,
                           query: q,
-                          style: AppText.body().copyWith(fontWeight: FontWeight.w700),
+                          style: AppText.body().copyWith(
+                            fontWeight: FontWeight.w700,
+                          ),
                           highlightStyle: AppText.body().copyWith(
                             fontWeight: FontWeight.w700,
-                            backgroundColor: AppColors.red2.withValues(alpha: 0.3),
+                            backgroundColor: AppColors.red2.withValues(
+                              alpha: 0.3,
+                            ),
                           ),
                         ),
                         subtitle: Column(
@@ -110,14 +115,20 @@ class _BookmarksScreenState extends State<BookmarksScreen> {
                               overflow: TextOverflow.ellipsis,
                               style: AppText.body(),
                               highlightStyle: AppText.body().copyWith(
-                                backgroundColor: AppColors.red2.withValues(alpha: 0.3),
+                                backgroundColor: AppColors.red2.withValues(
+                                  alpha: 0.3,
+                                ),
                               ),
                             ),
                             if (hasNote) ...[
                               const SizedBox(height: 4),
                               Row(
                                 children: [
-                                  Icon(Icons.note, size: 14, color: AppColors.gray2),
+                                  Icon(
+                                    Icons.note,
+                                    size: 14,
+                                    color: AppColors.gray2,
+                                  ),
                                   const SizedBox(width: 4),
                                   Expanded(
                                     child: Text(
@@ -173,10 +184,7 @@ class _EmptyBookmarks extends StatelessWidget {
               color: AppColors.red1.withValues(alpha: 0.4),
             ),
             const SizedBox(height: 16),
-            Text(
-              'No bookmarks yet',
-              style: AppText.heading(),
-            ),
+            Text('No bookmarks yet', style: AppText.heading()),
             const SizedBox(height: 8),
             Text(
               'Tap the bookmark icon on any sloka to save it here.',
@@ -190,7 +198,10 @@ class _EmptyBookmarks extends StatelessWidget {
   }
 }
 
-Stream<List<(Bookmark, Sloka, Note?)>> _watchBookmarksWithSlokas(AppDatabase db, String query) {
+Stream<List<(Bookmark, Sloka, Note?)>> _watchBookmarksWithSlokas(
+  AppDatabase db,
+  String query,
+) {
   final q = db.select(db.bookmarks).join([
     innerJoin(db.slokas, db.slokas.id.equalsExp(db.bookmarks.slokaId)),
     leftOuterJoin(db.notes, db.notes.slokaId.equalsExp(db.bookmarks.slokaId)),
@@ -210,12 +221,14 @@ Stream<List<(Bookmark, Sloka, Note?)>> _watchBookmarksWithSlokas(AppDatabase db,
   q.orderBy([OrderingTerm.desc(db.bookmarks.createdAtMs)]);
 
   return q.watch().map((rows) {
-    return rows.map((r) {
-      return (
-        r.readTable(db.bookmarks),
-        r.readTable(db.slokas),
-        r.readTableOrNull(db.notes),
-      );
-    }).toList(growable: false);
+    return rows
+        .map((r) {
+          return (
+            r.readTable(db.bookmarks),
+            r.readTable(db.slokas),
+            r.readTableOrNull(db.notes),
+          );
+        })
+        .toList(growable: false);
   });
 }

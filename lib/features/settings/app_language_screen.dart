@@ -54,4 +54,3 @@ class AppLanguageScreen extends StatelessWidget {
     };
   }
 }
-

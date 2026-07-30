@@ -20,7 +20,9 @@ class ContentLanguagesScreen extends StatelessWidget {
                 title: Text(_labelFor(context, option)),
                 value: settings.selectedCodes.contains(option.code),
                 onChanged: (_) async {
-                  final ok = await contentLanguagesController.toggle(option.code);
+                  final ok = await contentLanguagesController.toggle(
+                    option.code,
+                  );
                   if (!ok && context.mounted) {
                     await showDialog<void>(
                       context: context,
@@ -55,4 +57,3 @@ class ContentLanguagesScreen extends StatelessWidget {
     };
   }
 }
-

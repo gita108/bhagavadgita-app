@@ -12,36 +12,50 @@ class SeedInstaller {
   static const String _seedAssetPath = 'assets/seed/seed_v1_minimal.json';
 
   Future<bool> installIfNeeded(AppDatabase db) async {
-    final latestMeta = await (db.select(db.snapshotMeta)
-          ..orderBy([(t) => OrderingTerm.desc(t.fetchedAtMs)])
-          ..limit(1))
-        .getSingleOrNull();
+    final latestMeta =
+        await (db.select(db.snapshotMeta)
+              ..orderBy([(t) => OrderingTerm.desc(t.fetchedAtMs)])
+              ..limit(1))
+            .getSingleOrNull();
 
     // We need the seed contentHash to decide whether installing/refreshing is necessary.
     // Avoid parsing the whole huge JSON when content matches.
     final raw = await rootBundle.loadString(_seedAssetPath);
-    final schemaVersionMatch = RegExp(r'"schemaVersion"\s*:\s*(\d+)').firstMatch(raw);
-    final contentHashMatch = RegExp(r'"contentHash"\s*:\s*"([^"]*)"').firstMatch(raw);
+    final schemaVersionMatch = RegExp(
+      r'"schemaVersion"\s*:\s*(\d+)',
+    ).firstMatch(raw);
+    final contentHashMatch = RegExp(
+      r'"contentHash"\s*:\s*"([^"]*)"',
+    ).firstMatch(raw);
 
     if (schemaVersionMatch == null || contentHashMatch == null) {
-      throw StateError('Seed asset is missing schemaVersion/contentHash metadata.');
+      throw StateError(
+        'Seed asset is missing schemaVersion/contentHash metadata.',
+      );
     }
 
     final schemaVersion = int.parse(schemaVersionMatch.group(1)!);
     final contentHash = contentHashMatch.group(1)!;
 
-    if (latestMeta != null && latestMeta.contentHash == contentHash && latestMeta.schemaVersion == schemaVersion) {
+    if (latestMeta != null &&
+        latestMeta.contentHash == contentHash &&
+        latestMeta.schemaVersion == schemaVersion) {
       return false;
     }
 
     final json = jsonDecode(raw) as Map<String, Object?>;
     final nowMs = DateTime.now().millisecondsSinceEpoch;
 
-    final languageJson = (json['languages'] as List<Object?>? ?? const []).cast<Map<String, Object?>>();
-    final bookJson = (json['books'] as List<Object?>? ?? const []).cast<Map<String, Object?>>();
-    final chapterJson = (json['chapters'] as List<Object?>? ?? const []).cast<Map<String, Object?>>();
-    final slokaJson = (json['slokas'] as List<Object?>? ?? const []).cast<Map<String, Object?>>();
-    final vocabularyJson = (json['vocabularies'] as List<Object?>? ?? const []).cast<Map<String, Object?>>();
+    final languageJson = (json['languages'] as List<Object?>? ?? const [])
+        .cast<Map<String, Object?>>();
+    final bookJson = (json['books'] as List<Object?>? ?? const [])
+        .cast<Map<String, Object?>>();
+    final chapterJson = (json['chapters'] as List<Object?>? ?? const [])
+        .cast<Map<String, Object?>>();
+    final slokaJson = (json['slokas'] as List<Object?>? ?? const [])
+        .cast<Map<String, Object?>>();
+    final vocabularyJson = (json['vocabularies'] as List<Object?>? ?? const [])
+        .cast<Map<String, Object?>>();
 
     final languages = languageJson
         .map(
@@ -125,4 +139,3 @@ class SeedInstaller {
     return true;
   }
 }
-

@@ -7,4 +7,3 @@ LazyDatabase openConnection() {
     return WebDatabase('bhagavadgita');
   });
 }
-

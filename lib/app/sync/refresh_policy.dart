@@ -1,9 +1,7 @@
 import '../../data/local/snapshot_repository.dart';
 
 class RefreshPolicy {
-  const RefreshPolicy({
-    this.maxSnapshotAge = const Duration(hours: 6),
-  });
+  const RefreshPolicy({this.maxSnapshotAge = const Duration(hours: 6)});
 
   final Duration maxSnapshotAge;
 
@@ -16,4 +14,3 @@ class RefreshPolicy {
     return age >= maxSnapshotAge;
   }
 }
-

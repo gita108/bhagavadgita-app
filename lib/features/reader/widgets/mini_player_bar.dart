@@ -42,7 +42,12 @@ class MiniPlayerBar extends StatelessWidget {
                     mainAxisSize: MainAxisSize.min,
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text(slokaName, style: AppText.caption().copyWith(fontWeight: FontWeight.w700)),
+                      Text(
+                        slokaName,
+                        style: AppText.caption().copyWith(
+                          fontWeight: FontWeight.w700,
+                        ),
+                      ),
                       const SizedBox(height: 4),
                       LinearProgressIndicator(
                         value: progress,

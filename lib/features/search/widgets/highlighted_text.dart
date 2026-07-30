@@ -21,12 +21,7 @@ class HighlightedText extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     if (query.isEmpty || !text.toLowerCase().contains(query.toLowerCase())) {
-      return Text(
-        text,
-        style: style,
-        maxLines: maxLines,
-        overflow: overflow,
-      );
+      return Text(text, style: style, maxLines: maxLines, overflow: overflow);
     }
 
     final spans = <TextSpan>[];
@@ -45,10 +40,12 @@ class HighlightedText extends StatelessWidget {
         spans.add(TextSpan(text: text.substring(start, index), style: style));
       }
 
-      spans.add(TextSpan(
-        text: text.substring(index, index + query.length),
-        style: highlightStyle,
-      ));
+      spans.add(
+        TextSpan(
+          text: text.substring(index, index + query.length),
+          style: highlightStyle,
+        ),
+      );
 
       start = index + query.length;
     }

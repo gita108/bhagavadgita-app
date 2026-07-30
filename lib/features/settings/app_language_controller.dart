@@ -4,9 +4,12 @@ import 'package:shared_preferences/shared_preferences.dart';
 enum AppLanguageMode { system, explicit }
 
 class AppLanguageSettings {
-  const AppLanguageSettings.system() : mode = AppLanguageMode.system, code = null;
+  const AppLanguageSettings.system()
+    : mode = AppLanguageMode.system,
+      code = null;
 
-  const AppLanguageSettings.explicit(this.code) : mode = AppLanguageMode.explicit;
+  const AppLanguageSettings.explicit(this.code)
+    : mode = AppLanguageMode.explicit;
 
   final AppLanguageMode mode;
   final String? code;
@@ -34,14 +37,17 @@ class AppLanguageController extends ValueNotifier<AppLanguageSettings> {
     final modeStr = prefs.getString(_keyMode);
     final code = prefs.getString(_keyCode);
 
-    final mode =
-        modeStr == 'explicit' ? AppLanguageMode.explicit : AppLanguageMode.system;
+    final mode = modeStr == 'explicit'
+        ? AppLanguageMode.explicit
+        : AppLanguageMode.system;
 
-    final next =
-        mode == AppLanguageMode.explicit ? AppLanguageSettings.explicit(code) : const AppLanguageSettings.system();
+    final next = mode == AppLanguageMode.explicit
+        ? AppLanguageSettings.explicit(code)
+        : const AppLanguageSettings.system();
 
     final effective = next.effectiveLocale;
-    if (effective != null && !supported.any((l) => l.languageCode == effective.languageCode)) {
+    if (effective != null &&
+        !supported.any((l) => l.languageCode == effective.languageCode)) {
       value = const AppLanguageSettings.system();
       await prefs.setString(_keyMode, 'system');
       await prefs.remove(_keyCode);
@@ -67,4 +73,3 @@ class AppLanguageController extends ValueNotifier<AppLanguageSettings> {
 }
 
 final AppLanguageController appLanguageController = AppLanguageController();
-

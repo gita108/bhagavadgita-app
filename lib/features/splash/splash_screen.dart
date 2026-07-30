@@ -2,9 +2,15 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
+import '../../app/audio/audio_download_controller.dart';
+import '../../app/audio/audio_track.dart';
 import '../../app/bootstrap/bootstrap_coordinator.dart';
+import '../../app/quote/quote_of_day_controller.dart';
+import '../../l10n/l10n.dart';
 import '../../ui/theme/app_colors.dart';
+import '../../ui/theme/app_spacing.dart';
 import '../../ui/theme/app_text.dart';
+import '../../ui/widgets/om_logo.dart';
 import '../../data/local/app_database.dart';
 import '../contents/contents_screen.dart';
 import '../onboarding/onboarding_screen.dart';
@@ -21,8 +27,7 @@ class SplashScreen extends StatefulWidget {
 
 class _SplashScreenState extends State<SplashScreen> {
   late Future<BootstrapResult> _future;
-  double _simulatedProgress = 0.0;
-  Timer? _progressTimer;
+  double _progress = 0.0;
   bool _showDownloadDialog = false;
   bool _downloadDialogDismissed = false;
 
@@ -30,68 +35,50 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
     _future = _bootstrap();
-    _startSimulatedProgress();
-  }
-
-  void _startSimulatedProgress() {
-    _progressTimer?.cancel();
-    _simulatedProgress = 0.0;
-    _progressTimer = Timer.periodic(const Duration(milliseconds: 50), (timer) {
-      setState(() {
-        if (_simulatedProgress < 0.95) {
-          _simulatedProgress += 0.02;
-        }
-      });
-    });
-  }
-
-  @override
-  void dispose() {
-    _progressTimer?.cancel();
-    super.dispose();
   }
 
   Future<BootstrapResult> _bootstrap() async {
-    final result = await BootstrapCoordinator(db: widget.db).run();
-    if (mounted) {
-      setState(() {
-        _simulatedProgress = 1.0;
-      });
-      _progressTimer?.cancel();
+    _progress = 0.0;
+    final result = await BootstrapCoordinator(db: widget.db).run(
+      onProgress: (fraction) {
+        if (mounted) setState(() => _progress = fraction);
+      },
+    );
+    if (result.hasSnapshot) {
+      unawaited(quoteOfDayController.refreshIfStale());
     }
     return result;
   }
 
   @override
   Widget build(BuildContext context) {
+    final l10n = context.l10n;
     return FutureBuilder<BootstrapResult>(
       future: _future,
       builder: (context, snap) {
         if (snap.connectionState != ConnectionState.done) {
           return _SplashScaffold(
-            title: 'BHAGAVAD GITA',
-            subtitle: 'Initializing local storage…',
+            title: l10n.splashAppName,
+            subtitle: '',
             showProgress: true,
-            progress: _simulatedProgress,
+            progress: _progress,
           );
         }
         if (snap.hasError) {
           return _SplashScaffold(
-            title: 'BHAGAVAD GITA',
-            subtitle: 'Startup failed. Tap to retry.',
+            title: l10n.splashAppName,
+            subtitle: l10n.splashConnectionError,
             showProgress: false,
-            onTap: () {
-              _startSimulatedProgress();
-              setState(() => _future = _bootstrap());
-            },
+            retryLabel: l10n.retry,
+            onTap: () => setState(() => _future = _bootstrap()),
           );
         }
 
         final result = snap.requireData;
         if (!result.hasSnapshot) {
-          return const _SplashScaffold(
-            title: 'BHAGAVAD GITA',
-            subtitle: 'No local snapshot is available.',
+          return _SplashScaffold(
+            title: l10n.splashAppName,
+            subtitle: l10n.splashConnectionError,
             showProgress: false,
           );
         }
@@ -105,16 +92,28 @@ class _SplashScreenState extends State<SplashScreen> {
 
         if (_showDownloadDialog) {
           return _SplashScaffold(
-            title: 'BHAGAVAD GITA',
+            title: l10n.splashAppName,
             subtitle: '',
             showProgress: false,
             dialog: _AudioDownloadDialog(
+              prompt: l10n.splashAudioDownloadPrompt,
+              yesLabel: l10n.confirmYes,
+              noLabel: l10n.confirmNo,
               onYes: () {
                 setState(() {
                   _showDownloadDialog = false;
                   _downloadDialogDismissed = true;
                 });
-                // TODO: Trigger audio download via AudioDownloadController
+                unawaited(
+                  audioDownloadController.downloadAllChapters(
+                    AudioTrack.translation,
+                  ),
+                );
+                unawaited(
+                  audioDownloadController.downloadAllChapters(
+                    AudioTrack.sanskrit,
+                  ),
+                );
               },
               onNo: () {
                 setState(() {
@@ -146,6 +145,7 @@ class _SplashScaffold extends StatelessWidget {
     required this.subtitle,
     required this.showProgress,
     this.progress = 0.0,
+    this.retryLabel,
     this.onTap,
     this.dialog,
   });
@@ -154,6 +154,7 @@ class _SplashScaffold extends StatelessWidget {
   final String subtitle;
   final bool showProgress;
   final double progress;
+  final String? retryLabel;
   final VoidCallback? onTap;
   final Widget? dialog;
 
@@ -171,58 +172,63 @@ class _SplashScaffold extends StatelessWidget {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Text(
-                  'OM',
-                  style: AppText.splashTitle().copyWith(
-                    fontWeight: FontWeight.w700,
-                  ),
-                ),
-                const SizedBox(height: 16),
+                const OmLogo(size: 96),
+                const SizedBox(height: 30),
                 Text(
                   title,
                   textAlign: TextAlign.center,
                   style: AppText.splashTitle(),
                 ),
-                const SizedBox(height: 12),
-                Text(
-                  subtitle,
-                  textAlign: TextAlign.center,
-                  style: AppText.body().copyWith(
-                    color: AppColors.white.withValues(alpha: 0.92),
+                if (subtitle.isNotEmpty) ...[
+                  const SizedBox(height: 16),
+                  Text(
+                    subtitle,
+                    textAlign: TextAlign.center,
+                    style: AppText.body().copyWith(
+                      color: AppColors.white.withValues(alpha: 0.92),
+                    ),
                   ),
-                ),
+                ],
+                if (retryLabel != null) ...[
+                  const SizedBox(height: 16),
+                  Text(
+                    retryLabel!,
+                    style: AppText.body().copyWith(
+                      color: AppColors.white,
+                      fontWeight: FontWeight.w700,
+                      decoration: TextDecoration.underline,
+                    ),
+                  ),
+                ],
                 if (showProgress) ...[
-                  const SizedBox(height: 32),
+                  const SizedBox(height: 41),
                   SizedBox(
                     width: 240,
                     child: Column(
                       children: [
+                        Text(
+                          '${(progress * 100).toInt()}%',
+                          style: AppText.body().copyWith(
+                            color: AppColors.white,
+                          ),
+                        ),
+                        const SizedBox(height: 12),
                         ClipRRect(
                           borderRadius: BorderRadius.circular(999),
                           child: LinearProgressIndicator(
                             value: progress,
-                            minHeight: 8,
-                            backgroundColor: AppColors.white30,
-                            valueColor:
-                                const AlwaysStoppedAnimation(AppColors.white),
-                          ),
-                        ),
-                        const SizedBox(height: 12),
-                        Text(
-                          '${(progress * 100).toInt()}%',
-                          style: AppText.caption().copyWith(
-                            color: AppColors.white,
-                            fontWeight: FontWeight.w600,
+                            minHeight: 4,
+                            backgroundColor: AppColors.red2,
+                            valueColor: const AlwaysStoppedAnimation(
+                              AppColors.white,
+                            ),
                           ),
                         ),
                       ],
                     ),
                   ),
                 ],
-                if (dialog != null) ...[
-                  const SizedBox(height: 32),
-                  dialog!,
-                ],
+                if (dialog != null) ...[const SizedBox(height: 32), dialog!],
               ],
             ),
           ),
@@ -234,10 +240,16 @@ class _SplashScaffold extends StatelessWidget {
 
 class _AudioDownloadDialog extends StatelessWidget {
   const _AudioDownloadDialog({
+    required this.prompt,
+    required this.yesLabel,
+    required this.noLabel,
     required this.onYes,
     required this.onNo,
   });
 
+  final String prompt;
+  final String yesLabel;
+  final String noLabel;
   final VoidCallback onYes;
   final VoidCallback onNo;
 
@@ -248,27 +260,16 @@ class _AudioDownloadDialog extends StatelessWidget {
       padding: const EdgeInsets.all(20),
       decoration: BoxDecoration(
         color: AppColors.white,
-        borderRadius: BorderRadius.circular(12),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withValues(alpha: 0.2),
-            blurRadius: 16,
-            offset: const Offset(0, 4),
-          ),
-        ],
+        borderRadius: BorderRadius.circular(AppRadius.card),
+        boxShadow: AppEffects.shadowCard,
       ),
       child: Column(
         mainAxisSize: MainAxisSize.min,
         children: [
           Text(
-            'Download audio files?',
-            style: AppText.heading(),
-          ),
-          const SizedBox(height: 12),
-          Text(
-            'Sanskrit and translation audio (~150 MB)',
+            prompt,
             textAlign: TextAlign.center,
-            style: AppText.body().copyWith(color: AppColors.gray2),
+            style: AppText.body().copyWith(color: AppColors.gray1),
           ),
           const SizedBox(height: 20),
           Row(
@@ -279,20 +280,15 @@ class _AudioDownloadDialog extends StatelessWidget {
                 style: OutlinedButton.styleFrom(
                   foregroundColor: AppColors.gray1,
                   side: const BorderSide(color: AppColors.gray3),
-                  padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 24,
+                    vertical: 12,
+                  ),
                 ),
-                child: const Text('No'),
+                child: Text(noLabel),
               ),
               const SizedBox(width: 16),
-              FilledButton(
-                onPressed: onYes,
-                style: FilledButton.styleFrom(
-                  backgroundColor: AppColors.red1,
-                  foregroundColor: AppColors.white,
-                  padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-                ),
-                child: const Text('Yes'),
-              ),
+              FilledButton(onPressed: onYes, child: Text(yesLabel)),
             ],
           ),
         ],

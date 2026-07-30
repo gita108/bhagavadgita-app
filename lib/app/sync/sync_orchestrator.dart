@@ -13,10 +13,10 @@ class SyncOrchestrator {
     LegacyApiClient? apiClient,
     SnapshotRepository? snapshotRepository,
     RefreshPolicy? refreshPolicy,
-  })  : _db = db,
-        _apiClient = apiClient ?? LegacyApiClient(),
-        _snapshotRepository = snapshotRepository ?? SnapshotRepository(db),
-        _refreshPolicy = refreshPolicy ?? const RefreshPolicy();
+  }) : _db = db,
+       _apiClient = apiClient ?? LegacyApiClient(),
+       _snapshotRepository = snapshotRepository ?? SnapshotRepository(db),
+       _refreshPolicy = refreshPolicy ?? const RefreshPolicy();
 
   final AppDatabase _db;
   final LegacyApiClient _apiClient;
@@ -24,7 +24,9 @@ class SyncOrchestrator {
   final RefreshPolicy _refreshPolicy;
 
   Future<SyncResult> startupSync() async {
-    final shouldRefresh = await _refreshPolicy.shouldRefresh(_snapshotRepository);
+    final shouldRefresh = await _refreshPolicy.shouldRefresh(
+      _snapshotRepository,
+    );
     if (!shouldRefresh) return const SyncResult.skipped();
     return refreshNow();
   }
@@ -32,7 +34,8 @@ class SyncOrchestrator {
   Future<SyncResult> refreshNow() async {
     try {
       final languages = await _apiClient.getLanguages();
-      if (languages.isEmpty) return const SyncResult.failed('Empty languages payload.');
+      if (languages.isEmpty)
+        return const SyncResult.failed('Empty languages payload.');
 
       final languageIds = languages.map((e) => e.id).toList(growable: false);
       final books = await _apiClient.getBooks(languageIds);
@@ -47,7 +50,9 @@ class SyncOrchestrator {
           .map(
             (l) => LanguagesCompanion(
               id: Value(l.id),
-              code: Value((l.code == null || l.code!.isEmpty) ? 'lang-${l.id}' : l.code!),
+              code: Value(
+                (l.code == null || l.code!.isEmpty) ? 'lang-${l.id}' : l.code!,
+              ),
               name: Value(l.name),
               nativeName: const Value(null),
               script: const Value(null),
@@ -62,7 +67,9 @@ class SyncOrchestrator {
             (b) => BooksCompanion(
               id: Value(b.id),
               languageId: Value(b.languageId),
-              name: Value((b.name == null || b.name!.isEmpty) ? 'Book ${b.id}' : b.name!),
+              name: Value(
+                (b.name == null || b.name!.isEmpty) ? 'Book ${b.id}' : b.name!,
+              ),
               initials: Value(b.initials),
             ),
           )
@@ -79,7 +86,11 @@ class SyncOrchestrator {
             ChaptersCompanion(
               id: Value(chapter.id),
               bookId: Value(book.id),
-              name: Value((chapter.name == null || chapter.name!.isEmpty) ? 'Chapter ${chapter.id}' : chapter.name!),
+              name: Value(
+                (chapter.name == null || chapter.name!.isEmpty)
+                    ? 'Chapter ${chapter.id}'
+                    : chapter.name!,
+              ),
               position: Value(chapter.order ?? 0),
             ),
           );
@@ -120,7 +131,9 @@ class SyncOrchestrator {
     return SlokasCompanion(
       id: Value(s.id),
       chapterId: Value(chapterId),
-      name: Value((s.name == null || s.name!.isEmpty) ? 'Sloka ${s.id}' : s.name!),
+      name: Value(
+        (s.name == null || s.name!.isEmpty) ? 'Sloka ${s.id}' : s.name!,
+      ),
       slokaText: Value(s.text),
       transcription: Value(s.transcription),
       translation: Value(s.translation),
@@ -137,7 +150,9 @@ class SyncOrchestrator {
           (v) => VocabulariesCompanion(
             id: Value(v.id),
             slokaId: Value(s.id),
-            tokenText: Value((v.text == null || v.text!.isEmpty) ? 'token-${v.id}' : v.text!),
+            tokenText: Value(
+              (v.text == null || v.text!.isEmpty) ? 'token-${v.id}' : v.text!,
+            ),
             translation: Value(v.translation ?? ''),
             position: const Value(null),
           ),
@@ -157,19 +172,19 @@ class SyncResult {
   });
 
   const SyncResult.skipped()
-      : didSync = false,
-        message = 'Skipped by refresh policy.',
-        languages = 0,
-        books = 0,
-        chapters = 0,
-        slokas = 0;
+    : didSync = false,
+      message = 'Skipped by refresh policy.',
+      languages = 0,
+      books = 0,
+      chapters = 0,
+      slokas = 0;
 
   const SyncResult.failed(this.message)
-      : didSync = false,
-        languages = 0,
-        books = 0,
-        chapters = 0,
-        slokas = 0;
+    : didSync = false,
+      languages = 0,
+      books = 0,
+      chapters = 0,
+      slokas = 0;
 
   factory SyncResult.success({
     required int languages,
@@ -194,4 +209,3 @@ class SyncResult {
   final int chapters;
   final int slokas;
 }
-

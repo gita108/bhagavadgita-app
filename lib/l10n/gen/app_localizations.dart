@@ -242,6 +242,12 @@ abstract class AppLocalizations {
   /// **'Yes'**
   String get confirmYes;
 
+  /// No description provided for @confirmNo.
+  ///
+  /// In en, this message translates to:
+  /// **'No'**
+  String get confirmNo;
+
   /// No description provided for @confirmDownloadAudioTranslation.
   ///
   /// In en, this message translates to:
@@ -271,6 +277,150 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Loading…'**
   String get loadingEllipsis;
+
+  /// No description provided for @retry.
+  ///
+  /// In en, this message translates to:
+  /// **'Retry'**
+  String get retry;
+
+  /// No description provided for @splashAppName.
+  ///
+  /// In en, this message translates to:
+  /// **'Bhagavad Gita'**
+  String get splashAppName;
+
+  /// No description provided for @splashAudioDownloadPrompt.
+  ///
+  /// In en, this message translates to:
+  /// **'Would you like to download audio right now? You can do it later.'**
+  String get splashAudioDownloadPrompt;
+
+  /// No description provided for @splashConnectionError.
+  ///
+  /// In en, this message translates to:
+  /// **'Connection to the server can not establish. Please, check the settings of Internet connection or try again later.'**
+  String get splashConnectionError;
+
+  /// No description provided for @guideSkip.
+  ///
+  /// In en, this message translates to:
+  /// **'Skip'**
+  String get guideSkip;
+
+  /// No description provided for @guideBack.
+  ///
+  /// In en, this message translates to:
+  /// **'Back'**
+  String get guideBack;
+
+  /// No description provided for @guideNext.
+  ///
+  /// In en, this message translates to:
+  /// **'Next'**
+  String get guideNext;
+
+  /// No description provided for @guideTitle1.
+  ///
+  /// In en, this message translates to:
+  /// **'What to do?'**
+  String get guideTitle1;
+
+  /// No description provided for @guideText1.
+  ///
+  /// In en, this message translates to:
+  /// **'Answers to this question mankind sought long before Chernyshevsky. “Bhagavad-gita” - one of the oldest spiritual scriptures on Earth - offers answers to it.'**
+  String get guideText1;
+
+  /// No description provided for @guideTitle2.
+  ///
+  /// In en, this message translates to:
+  /// **'Ancient knowledge for modern people'**
+  String get guideTitle2;
+
+  /// No description provided for @guideText2.
+  ///
+  /// In en, this message translates to:
+  /// **'The book is a living dialogue between Krishna and Arjuna. Before the greatest battle, Krsna instructs his friend, explaining what to do to live successfully and happily in this world, and also reveals various aspects of spiritual life.'**
+  String get guideText2;
+
+  /// No description provided for @guideChecklist1.
+  ///
+  /// In en, this message translates to:
+  /// **'Read as it’s convenient for you'**
+  String get guideChecklist1;
+
+  /// No description provided for @guideChecklist2.
+  ///
+  /// In en, this message translates to:
+  /// **'Compare interpretations and translations'**
+  String get guideChecklist2;
+
+  /// No description provided for @guideChecklist3.
+  ///
+  /// In en, this message translates to:
+  /// **'Study comments'**
+  String get guideChecklist3;
+
+  /// No description provided for @guideChecklist4.
+  ///
+  /// In en, this message translates to:
+  /// **'Listen'**
+  String get guideChecklist4;
+
+  /// No description provided for @guideChecklist5.
+  ///
+  /// In en, this message translates to:
+  /// **'Make notes'**
+  String get guideChecklist5;
+
+  /// No description provided for @contentsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Bhagavad Gita'**
+  String get contentsTitle;
+
+  /// No description provided for @contentsQuoteTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Quote of the Day'**
+  String get contentsQuoteTitle;
+
+  /// No description provided for @chapterLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Chapter {number}'**
+  String chapterLabel(int number);
+
+  /// No description provided for @shlokaCount.
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, one{{count} shloka} other{{count} shlokas}}'**
+  String shlokaCount(int count);
+
+  /// No description provided for @searchPlaceholder.
+  ///
+  /// In en, this message translates to:
+  /// **'Search'**
+  String get searchPlaceholder;
+
+  /// No description provided for @searchNotFound.
+  ///
+  /// In en, this message translates to:
+  /// **'Not found'**
+  String get searchNotFound;
+
+  /// No description provided for @noteTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Note'**
+  String get noteTitle;
+
+  /// No description provided for @save.
+  ///
+  /// In en, this message translates to:
+  /// **'Save'**
+  String get save;
 
   /// No description provided for @languageName_en.
   ///

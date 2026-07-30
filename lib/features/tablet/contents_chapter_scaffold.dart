@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import '../../ui/theme/app_colors.dart';
 import '../../ui/theme/app_text.dart';
 import '../../data/local/app_database.dart';
+import '../../data/local/user_data_repository.dart';
 import '../contents/widgets/chapter_expandable_tile.dart';
 import '../reader/sloka_screen.dart';
 import '../search/search_route.dart';
@@ -28,12 +29,12 @@ class _TabletContentsChapterScaffoldState
 
   static final GlobalKey _searchKey = GlobalKey();
   final GlobalKey<NavigatorState> _detailNavKey = GlobalKey();
+  late final UserDataRepository _userData = UserDataRepository(widget.db);
 
   @override
   Widget build(BuildContext context) {
     final chaptersQuery =
-        (widget.db.select(widget.db.chapters)
-              ..where((t) => t.bookId.equals(1)))
+        (widget.db.select(widget.db.chapters)..where((t) => t.bookId.equals(1)))
           ..orderBy([(t) => OrderingTerm.asc(t.position)]);
 
     return Scaffold(
@@ -69,9 +70,7 @@ class _TabletContentsChapterScaffoldState
                   _searchKey.currentContext?.findRenderObject() as RenderBox?;
               final center = renderBox == null
                   ? (MediaQuery.of(context).size.center(Offset.zero))
-                  : renderBox.localToGlobal(
-                      renderBox.size.center(Offset.zero),
-                    );
+                  : renderBox.localToGlobal(renderBox.size.center(Offset.zero));
               Navigator.of(context).push(
                 CircularRevealPageRoute(
                   center: center,
@@ -85,9 +84,7 @@ class _TabletContentsChapterScaffoldState
             icon: const Icon(Icons.tune),
             onPressed: () {
               Navigator.of(context).push(
-                MaterialPageRoute(
-                  builder: (context) => const SettingsScreen(),
-                ),
+                MaterialPageRoute(builder: (context) => const SettingsScreen()),
               );
             },
           ),
@@ -123,17 +120,27 @@ class _TabletContentsChapterScaffoldState
                     final isExpanded = c.id == _selectedChapterId;
 
                     return StreamBuilder<List<Sloka>>(
-                      stream: (widget.db.select(widget.db.slokas)
-                            ..where((t) => t.chapterId.equals(c.id))
-                            ..orderBy([(t) => OrderingTerm.asc(t.position)]))
-                          .watch(),
+                      stream:
+                          (widget.db.select(widget.db.slokas)
+                                ..where((t) => t.chapterId.equals(c.id))
+                                ..orderBy([
+                                  (t) => OrderingTerm.asc(t.position),
+                                ]))
+                              .watch(),
                       builder: (context, slokaSnap) {
                         final slokas = slokaSnap.data ?? const [];
                         return Container(
                           decoration: BoxDecoration(
-                            color: isExpanded ? AppColors.red1.withValues(alpha: 0.08) : null,
+                            color: isExpanded
+                                ? AppColors.red1.withValues(alpha: 0.08)
+                                : null,
                             border: isExpanded
-                                ? const Border(left: BorderSide(color: AppColors.red1, width: 3))
+                                ? const Border(
+                                    left: BorderSide(
+                                      color: AppColors.red1,
+                                      width: 3,
+                                    ),
+                                  )
                                 : null,
                           ),
                           child: ChapterExpandableTile(
@@ -141,10 +148,13 @@ class _TabletContentsChapterScaffoldState
                             slokas: slokas,
                             isExpanded: isExpanded,
                             selectedSlokaId: null,
+                            userData: _userData,
                             onExpansionChanged: (expanded) {
                               setState(() {
                                 _selectedChapterId = expanded ? c.id : null;
-                                _selectedChapterTitle = expanded ? 'Chapter ${c.position}' : null;
+                                _selectedChapterTitle = expanded
+                                    ? 'Chapter ${c.position}'
+                                    : null;
                               });
                             },
                             onSlokaTap: (s) {
@@ -216,5 +226,3 @@ class _EmptyDetailPane extends StatelessWidget {
     );
   }
 }
-
-

@@ -13,8 +13,22 @@ class ShareService {
     await Share.share('Read Chapter $chapter of the Bhagavad Gita: $url');
   }
 
-  Future<void> shareCustom(String path, Map<String, String> queryParameters) async {
-    final uri = Uri.parse('$_baseUrl$path').replace(queryParameters: queryParameters);
+  Future<void> shareCustom(
+    String path,
+    Map<String, String> queryParameters,
+  ) async {
+    final uri = Uri.parse(
+      '$_baseUrl$path',
+    ).replace(queryParameters: queryParameters);
     await Share.share('Explore Bhagavad Gita: ${uri.toString()}');
+  }
+
+  /// Shares raw quote text + author, matching legacy's share-sheet payload
+  /// exactly (no URL wrapping, unlike [shareVerse]/[shareChapter]/[shareCustom]).
+  Future<void> shareQuote({
+    required String text,
+    required String author,
+  }) async {
+    await Share.share('$text\n$author');
   }
 }

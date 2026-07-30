@@ -2,38 +2,28 @@ import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class ContentLanguageOption {
-  const ContentLanguageOption({
-    required this.code,
-    required this.nameKey,
-  });
+  const ContentLanguageOption({required this.code, required this.nameKey});
 
   final String code;
   final String nameKey; // l10n key lookup handled in UI
 }
 
 class ContentLanguagesSettings {
-  const ContentLanguagesSettings({
-    required this.selectedCodes,
-  });
+  const ContentLanguagesSettings({required this.selectedCodes});
 
   final Set<String> selectedCodes;
 
-  ContentLanguagesSettings copyWith({
-    Set<String>? selectedCodes,
-  }) {
+  ContentLanguagesSettings copyWith({Set<String>? selectedCodes}) {
     return ContentLanguagesSettings(
       selectedCodes: selectedCodes ?? this.selectedCodes,
     );
   }
 }
 
-class ContentLanguagesController extends ValueNotifier<ContentLanguagesSettings> {
+class ContentLanguagesController
+    extends ValueNotifier<ContentLanguagesSettings> {
   ContentLanguagesController()
-    : super(
-        ContentLanguagesSettings(
-          selectedCodes: {..._defaults},
-        ),
-      ) {
+    : super(ContentLanguagesSettings(selectedCodes: {..._defaults})) {
     _load();
   }
 
@@ -53,8 +43,9 @@ class ContentLanguagesController extends ValueNotifier<ContentLanguagesSettings>
     final stored = prefs.getStringList(_keySelected);
     if (stored == null || stored.isEmpty) return;
 
-    final normalized =
-        stored.where((c) => available.any((o) => o.code == c)).toSet();
+    final normalized = stored
+        .where((c) => available.any((o) => o.code == c))
+        .toSet();
     if (normalized.isEmpty) return;
 
     value = value.copyWith(selectedCodes: normalized);
@@ -77,4 +68,3 @@ class ContentLanguagesController extends ValueNotifier<ContentLanguagesSettings>
 
 final ContentLanguagesController contentLanguagesController =
     ContentLanguagesController();
-

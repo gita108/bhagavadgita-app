@@ -20,4 +20,5 @@ class AppOnboardingController extends ValueNotifier<bool> {
   }
 }
 
-final AppOnboardingController appOnboardingController = AppOnboardingController();
+final AppOnboardingController appOnboardingController =
+    AppOnboardingController();

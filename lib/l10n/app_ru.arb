@@ -29,6 +29,7 @@
   "confirmCancel": "Отмена",
   "confirmOk": "OK",
   "confirmYes": "Да",
+  "confirmNo": "Нет",
 
   "confirmDownloadAudioTranslation": "Скачать аудио перевод?",
   "confirmDownloadAudioSanskrit": "Скачать аудио санскрит?",
@@ -36,6 +37,33 @@
   "confirmDeleteAudioSanskrit": "Удалить аудио санскрит?",
 
   "loadingEllipsis": "Загрузка…",
+  "retry": "Повторить",
+
+  "splashAppName": "Бхагавад Гита",
+  "splashAudioDownloadPrompt": "Хотите ли вы скачать аудио сейчас? Это можно будет сделать позднее.",
+  "splashConnectionError": "Соединение с сервером не может быть установлено. Пожалуйста, проверьте настройки интернет-соединения или повторите попытку чуть позже.",
+
+  "guideSkip": "Пропустить",
+  "guideBack": "Назад",
+  "guideNext": "Вперед",
+  "guideTitle1": "Что делать?",
+  "guideText1": "Ответы на этот вопрос человечество искало еще задолго до Чернышевского. «Бхагавад-гита» — одно из древнейших духовных писаний на Земле — предлагает ответы на него.",
+  "guideTitle2": "Древнее знание для современных людей",
+  "guideText2": "Книга представляет собой живой диалог между Кришной и Арджуной. Перед величайшей битвой Кришна дает наставления своему другу, объясняя, что делать, чтобы успешно и счастливо жить в этом мире, а также раскрывает различные аспекты духовной жизни.",
+  "guideChecklist1": "Читайте так, как вам удобно",
+  "guideChecklist2": "Сравнивайте трактовки и переводы",
+  "guideChecklist3": "Изучайте комментарии",
+  "guideChecklist4": "Слушайте",
+  "guideChecklist5": "Записывайте заметки",
+
+  "contentsTitle": "Бхагавад Гита",
+  "contentsQuoteTitle": "Цитата дня",
+  "chapterLabel": "Глава {number}",
+  "shlokaCount": "{count, plural, one{{count} шлока} few{{count} шлоки} many{{count} шлок} other{{count} шлок}}",
+  "searchPlaceholder": "Поиск",
+  "searchNotFound": "Поиск не дал результатов",
+  "noteTitle": "Заметка",
+  "save": "Сохранить",
 
   "languageName_en": "English",
   "languageName_ru": "Русский",

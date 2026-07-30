@@ -86,7 +86,9 @@ class AudioController extends ChangeNotifier {
       await _player.play();
       _setState(_state.copyWith(isPlaying: true, errorMessage: () => null));
     } catch (e) {
-      _setState(_state.copyWith(isPlaying: false, errorMessage: () => e.toString()));
+      _setState(
+        _state.copyWith(isPlaying: false, errorMessage: () => e.toString()),
+      );
     }
   }
 
@@ -137,12 +139,7 @@ class AudioController extends ChangeNotifier {
 
     // Detect completed track (similar intent to legacy iOS AudioManager didCompletedTrack).
     if (ps.processingState == ProcessingState.completed) {
-      _setState(
-        _state.copyWith(
-          isPlaying: false,
-          position: _state.duration,
-        ),
-      );
+      _setState(_state.copyWith(isPlaying: false, position: _state.duration));
       onCompleted?.call();
       return;
     }
@@ -177,4 +174,3 @@ String formatDuration(Duration d) {
   final seconds = totalSeconds % 60;
   return '$minutes:${seconds.toString().padLeft(2, '0')}';
 }
-

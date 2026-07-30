@@ -70,5 +70,5 @@ class AudioSettingsController extends ValueNotifier<AudioSettings> {
   }
 }
 
-final AudioSettingsController audioSettingsController = AudioSettingsController();
-
+final AudioSettingsController audioSettingsController =
+    AudioSettingsController();

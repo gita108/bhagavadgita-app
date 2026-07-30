@@ -4,22 +4,22 @@ enum AudioSourceType { none, networkUrl, localFile, asset }
 
 class AudioSourceRef {
   const AudioSourceRef.none()
-      : type = AudioSourceType.none,
-        uri = null,
-        assetPath = null,
-        label = null;
+    : type = AudioSourceType.none,
+      uri = null,
+      assetPath = null,
+      label = null;
 
   const AudioSourceRef.network(this.uri, {this.label})
-      : type = AudioSourceType.networkUrl,
-        assetPath = null;
+    : type = AudioSourceType.networkUrl,
+      assetPath = null;
 
   const AudioSourceRef.file(this.uri, {this.label})
-      : type = AudioSourceType.localFile,
-        assetPath = null;
+    : type = AudioSourceType.localFile,
+      assetPath = null;
 
   const AudioSourceRef.asset(this.assetPath, {this.label})
-      : type = AudioSourceType.asset,
-        uri = null;
+    : type = AudioSourceType.asset,
+      uri = null;
 
   final AudioSourceType type;
   final Uri? uri;
@@ -42,13 +42,13 @@ class AudioState {
   });
 
   const AudioState.idle()
-      : track = AudioTrack.sanskrit,
-        isPlaying = false,
-        position = Duration.zero,
-        duration = Duration.zero,
-        sourceSanskrit = const AudioSourceRef.none(),
-        sourceTranslation = const AudioSourceRef.none(),
-        errorMessage = null;
+    : track = AudioTrack.sanskrit,
+      isPlaying = false,
+      position = Duration.zero,
+      duration = Duration.zero,
+      sourceSanskrit = const AudioSourceRef.none(),
+      sourceTranslation = const AudioSourceRef.none(),
+      errorMessage = null;
 
   final AudioTrack track;
   final bool isPlaying;
@@ -87,4 +87,3 @@ class AudioState {
     );
   }
 }
-

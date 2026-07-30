@@ -27,10 +27,7 @@ class CircularReveal extends StatelessWidget {
 }
 
 class _CircularRevealClipper extends CustomClipper<Path> {
-  _CircularRevealClipper({
-    required this.fraction,
-    required this.center,
-  });
+  _CircularRevealClipper({required this.fraction, required this.center});
 
   final double fraction;
   final Offset center;
@@ -59,4 +56,3 @@ class _CircularRevealClipper extends CustomClipper<Path> {
     return oldClipper.fraction != fraction || oldClipper.center != center;
   }
 }
-

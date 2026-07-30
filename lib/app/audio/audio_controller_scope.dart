@@ -10,10 +10,9 @@ class AudioControllerScope extends InheritedNotifier<AudioController> {
   }) : super(notifier: controller);
 
   static AudioController of(BuildContext context) {
-    final scope =
-        context.dependOnInheritedWidgetOfExactType<AudioControllerScope>();
+    final scope = context
+        .dependOnInheritedWidgetOfExactType<AudioControllerScope>();
     assert(scope != null, 'AudioControllerScope not found in widget tree.');
     return scope!.notifier!;
   }
 }
-

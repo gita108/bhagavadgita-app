@@ -29,6 +29,7 @@
   "confirmCancel": "Cancel",
   "confirmOk": "OK",
   "confirmYes": "Yes",
+  "confirmNo": "No",
 
   "confirmDownloadAudioTranslation": "Would you like to download audio translation?",
   "confirmDownloadAudioSanskrit": "Would you like to download audio sanskrit?",
@@ -36,6 +37,39 @@
   "confirmDeleteAudioSanskrit": "Would you like to delete audio sanskrit?",
 
   "loadingEllipsis": "Loading…",
+  "retry": "Retry",
+
+  "splashAppName": "Bhagavad Gita",
+  "splashAudioDownloadPrompt": "Would you like to download audio right now? You can do it later.",
+  "splashConnectionError": "Connection to the server can not establish. Please, check the settings of Internet connection or try again later.",
+
+  "guideSkip": "Skip",
+  "guideBack": "Back",
+  "guideNext": "Next",
+  "guideTitle1": "What to do?",
+  "guideText1": "Answers to this question mankind sought long before Chernyshevsky. “Bhagavad-gita” - one of the oldest spiritual scriptures on Earth - offers answers to it.",
+  "guideTitle2": "Ancient knowledge for modern people",
+  "guideText2": "The book is a living dialogue between Krishna and Arjuna. Before the greatest battle, Krsna instructs his friend, explaining what to do to live successfully and happily in this world, and also reveals various aspects of spiritual life.",
+  "guideChecklist1": "Read as it’s convenient for you",
+  "guideChecklist2": "Compare interpretations and translations",
+  "guideChecklist3": "Study comments",
+  "guideChecklist4": "Listen",
+  "guideChecklist5": "Make notes",
+
+  "contentsTitle": "Bhagavad Gita",
+  "contentsQuoteTitle": "Quote of the Day",
+  "chapterLabel": "Chapter {number}",
+  "@chapterLabel": {
+    "placeholders": { "number": { "type": "int" } }
+  },
+  "shlokaCount": "{count, plural, one{{count} shloka} other{{count} shlokas}}",
+  "@shlokaCount": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+  "searchPlaceholder": "Search",
+  "searchNotFound": "Not found",
+  "noteTitle": "Note",
+  "save": "Save",
 
   "languageName_en": "English",
   "languageName_ru": "Русский",

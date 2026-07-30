@@ -8,20 +8,25 @@ class UserDataRepository {
   final AppDatabase _db;
 
   Stream<bool> watchBookmark(int slokaId) {
-    final q = _db.select(_db.bookmarks)..where((t) => t.slokaId.equals(slokaId));
+    final q = _db.select(_db.bookmarks)
+      ..where((t) => t.slokaId.equals(slokaId));
     return q.watchSingleOrNull().map((row) => row != null);
   }
 
   Future<void> setBookmark(int slokaId, bool value) async {
     if (value) {
-      await _db.into(_db.bookmarks).insertOnConflictUpdate(
+      await _db
+          .into(_db.bookmarks)
+          .insertOnConflictUpdate(
             BookmarksCompanion(
               slokaId: Value(slokaId),
               createdAtMs: Value(DateTime.now().millisecondsSinceEpoch),
             ),
           );
     } else {
-      await (_db.delete(_db.bookmarks)..where((t) => t.slokaId.equals(slokaId))).go();
+      await (_db.delete(
+        _db.bookmarks,
+      )..where((t) => t.slokaId.equals(slokaId))).go();
     }
   }
 
@@ -33,11 +38,15 @@ class UserDataRepository {
   Future<void> saveNote(int slokaId, String note) async {
     final trimmed = note.trim();
     if (trimmed.isEmpty) {
-      await (_db.delete(_db.notes)..where((t) => t.slokaId.equals(slokaId))).go();
+      await (_db.delete(
+        _db.notes,
+      )..where((t) => t.slokaId.equals(slokaId))).go();
       return;
     }
 
-    await _db.into(_db.notes).insertOnConflictUpdate(
+    await _db
+        .into(_db.notes)
+        .insertOnConflictUpdate(
           NotesCompanion(
             slokaId: Value(slokaId),
             note: Value(trimmed),
@@ -46,4 +55,3 @@ class UserDataRepository {
         );
   }
 }
-

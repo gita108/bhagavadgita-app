@@ -58,4 +58,3 @@ class _GitaBookAppState extends State<GitaBookApp> {
     );
   }
 }
-

@@ -15,14 +15,27 @@ class BootstrapCoordinator {
   final SeedInstaller seedInstaller;
   final SyncOrchestrator Function(AppDatabase db) syncOrchestratorFactory;
 
-  Future<BootstrapResult> run() async {
+  /// [onProgress] is called with a monotonically increasing fraction in
+  /// `[0, 1]` as bootstrap proceeds, ending at exactly `1.0`. Reporting is
+  /// coarse (3 stages) rather than byte-level, since installing the bundled
+  /// seed has no finer-grained progress hook today (`SeedInstaller` exposes
+  /// a single opaque `Future<bool>`) — this replaces Splash's previous
+  /// simulated timer with real, if coarse, progress.
+  Future<BootstrapResult> run({
+    void Function(double fraction)? onProgress,
+  }) async {
+    onProgress?.call(0.0);
     final meta = await db.select(db.snapshotMeta).get();
+
+    onProgress?.call(0.3);
     final installedSeed = await seedInstaller.installIfNeeded(db);
 
+    onProgress?.call(0.9);
     // Remote sync is independent from bundled seed install/update:
     // startupSync() itself decides whether to refresh based on RefreshPolicy.
     unawaited(syncOrchestratorFactory(db).startupSync());
 
+    onProgress?.call(1.0);
     return BootstrapResult(
       hasSnapshot: meta.isNotEmpty || installedSeed,
       installedSeed: installedSeed,
@@ -31,7 +44,8 @@ class BootstrapCoordinator {
   }
 }
 
-SyncOrchestrator _defaultSyncOrchestratorFactory(AppDatabase db) => SyncOrchestrator(db: db);
+SyncOrchestrator _defaultSyncOrchestratorFactory(AppDatabase db) =>
+    SyncOrchestrator(db: db);
 
 class BootstrapResult {
   const BootstrapResult({
@@ -44,4 +58,3 @@ class BootstrapResult {
   final bool installedSeed;
   final bool syncScheduled;
 }
-

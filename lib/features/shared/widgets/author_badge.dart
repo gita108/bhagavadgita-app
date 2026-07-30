@@ -17,9 +17,7 @@ class AuthorBadge extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final textStyle = AppText.label().copyWith(
-      color: AppColors.red1,
-    );
+    final textStyle = AppText.label().copyWith(color: AppColors.red1);
 
     final badge = Container(
       width: size,
@@ -51,4 +49,3 @@ class AuthorBadge extends StatelessWidget {
     );
   }
 }
-

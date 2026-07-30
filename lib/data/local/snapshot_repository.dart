@@ -40,14 +40,25 @@ class SnapshotRepository {
       await (_db.delete(_db.snapshotMeta)).go();
 
       await _db.batch((batch) {
-        batch.insertAll(_db.languages, languages, mode: InsertMode.insertOrReplace);
+        batch.insertAll(
+          _db.languages,
+          languages,
+          mode: InsertMode.insertOrReplace,
+        );
         batch.insertAll(_db.books, books, mode: InsertMode.insertOrReplace);
-        batch.insertAll(_db.chapters, chapters, mode: InsertMode.insertOrReplace);
+        batch.insertAll(
+          _db.chapters,
+          chapters,
+          mode: InsertMode.insertOrReplace,
+        );
         batch.insertAll(_db.slokas, slokas, mode: InsertMode.insertOrReplace);
-        batch.insertAll(_db.vocabularies, vocabularies, mode: InsertMode.insertOrReplace);
+        batch.insertAll(
+          _db.vocabularies,
+          vocabularies,
+          mode: InsertMode.insertOrReplace,
+        );
         batch.insert(_db.snapshotMeta, meta, mode: InsertMode.insertOrReplace);
       });
     });
   }
 }
-
