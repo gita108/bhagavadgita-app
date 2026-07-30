@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import 'app_colors.dart';
+import 'app_spacing.dart';
 import 'app_text.dart';
 
 /// Builds the global [ThemeData] for the Bhagavad Gita app.
@@ -26,6 +27,12 @@ ThemeData buildAppTheme() {
     ),
     dividerColor: AppColors.gray3,
     canvasColor: AppColors.white,
+    // Hover/press/focus only ever manifest on platforms with mouse/keyboard
+    // input (web/desktop) — Flutter doesn't surface hovered/focused Material
+    // states for touch input, so no extra platform gating is needed here.
+    hoverColor: AppColors.hoverTint,
+    highlightColor: AppColors.pressTint,
+    focusColor: AppColors.focusRing,
   );
 
   return base.copyWith(
@@ -75,18 +82,17 @@ ThemeData buildAppTheme() {
     inputDecorationTheme: InputDecorationTheme(
       filled: true,
       fillColor: AppColors.gray5,
-      contentPadding:
-          const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
+      contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
       border: OutlineInputBorder(
-        borderRadius: BorderRadius.circular(8),
+        borderRadius: BorderRadius.circular(AppRadius.control),
         borderSide: const BorderSide(color: AppColors.gray3),
       ),
       enabledBorder: OutlineInputBorder(
-        borderRadius: BorderRadius.circular(8),
+        borderRadius: BorderRadius.circular(AppRadius.control),
         borderSide: const BorderSide(color: AppColors.gray3),
       ),
       focusedBorder: OutlineInputBorder(
-        borderRadius: BorderRadius.circular(8),
+        borderRadius: BorderRadius.circular(AppRadius.control),
         borderSide: const BorderSide(color: AppColors.red1, width: 1.5),
       ),
       hintStyle: AppText.body().copyWith(color: AppColors.gray2),
@@ -97,7 +103,9 @@ ThemeData buildAppTheme() {
         foregroundColor: AppColors.white,
         textStyle: AppText.body().copyWith(fontWeight: FontWeight.w700),
         padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 24),
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(AppRadius.control),
+        ),
       ),
     ),
     outlinedButtonTheme: OutlinedButtonThemeData(
@@ -105,7 +113,9 @@ ThemeData buildAppTheme() {
         foregroundColor: AppColors.red1,
         side: const BorderSide(color: AppColors.red1),
         textStyle: AppText.body().copyWith(fontWeight: FontWeight.w700),
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(AppRadius.control),
+        ),
       ),
     ),
     textButtonTheme: TextButtonThemeData(
