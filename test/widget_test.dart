@@ -14,6 +14,6 @@ void main() {
     await tester.pumpWidget(const GitaBookApp());
     await tester.pump();
 
-    expect(find.text('BHAGAVAD GITA'), findsOneWidget);
+    expect(find.text('Bhagavad Gita'), findsOneWidget);
   });
 }

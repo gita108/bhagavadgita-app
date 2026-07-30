@@ -1,5 +1,6 @@
 import 'package:drift/drift.dart';
 
+import '../remote/dto/book_dto.dart';
 import '../remote/legacy_api_client.dart';
 import 'app_database.dart';
 
@@ -42,8 +43,19 @@ class BookRepository {
   /// Fetches the full book list and upserts the local catalog. Existing
   /// `isDownloaded` flags are preserved; the default book is always marked
   /// downloaded (it's the one the snapshot pipeline already maintains).
+  ///
+  /// Called unawaited from Splash's bootstrap-success path — network/parse
+  /// failures are swallowed (same resilience rule as
+  /// `QuoteOfDayController`), so a flaky connection at cold start doesn't
+  /// surface as an unhandled exception. Settings' Interpretations list
+  /// simply stays empty/stale until the next successful refresh.
   Future<void> refreshCatalog() async {
-    final books = await _api.getBooks(const []);
+    List<BookDto> books;
+    try {
+      books = await _api.getBooks(const []);
+    } catch (_) {
+      return;
+    }
     if (books.isEmpty) return;
 
     final existing = await _db.select(_db.interpretationBooks).get();

@@ -8,6 +8,7 @@ import '../../ui/theme/app_colors.dart';
 import '../../ui/theme/app_text.dart';
 import '../../data/local/app_database.dart';
 import '../../data/local/user_data_repository.dart';
+import '../bookmarks/bookmarks_screen.dart';
 import '../contents/widgets/chapter_expandable_tile.dart';
 import '../quote/quote_screen.dart';
 import '../reader/sloka_screen.dart';
@@ -32,7 +33,7 @@ class _TabletContentsChapterScaffoldState
   int? _selectedChapterId;
   String? _selectedChapterTitle;
 
-  static final GlobalKey _searchKey = GlobalKey();
+  final GlobalKey _searchKey = GlobalKey();
   final GlobalKey<NavigatorState> _detailNavKey = GlobalKey();
   late final UserDataRepository _userData = UserDataRepository(widget.db);
 
@@ -82,7 +83,24 @@ class _TabletContentsChapterScaffoldState
         ),
         actions: [
           IconButton(
+            tooltip: l10n.bookmarksTitle,
+            icon: Image.asset(
+              'assets/icons/ic_bookmarks.png',
+              width: 22,
+              height: 22,
+              color: AppColors.white,
+            ),
+            onPressed: () {
+              Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (context) => BookmarksScreen(db: widget.db),
+                ),
+              );
+            },
+          ),
+          IconButton(
             key: _searchKey,
+            tooltip: l10n.searchPlaceholder,
             icon: Image.asset(
               'assets/icons/ic_search.png',
               width: 22,

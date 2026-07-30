@@ -52,7 +52,7 @@ class _PhoneContentsState extends State<_PhoneContents> {
   int? _selectedSlokaId;
   late final UserDataRepository _userData = UserDataRepository(widget.db);
 
-  static final GlobalKey _searchKey = GlobalKey();
+  final GlobalKey _searchKey = GlobalKey();
 
   @override
   Widget build(BuildContext context) {
@@ -82,6 +82,7 @@ class _PhoneContentsState extends State<_PhoneContents> {
         title: Text(l10n.contentsTitle, style: AppText.navTitle()),
         actions: [
           IconButton(
+            tooltip: l10n.bookmarksTitle,
             icon: Image.asset(
               'assets/icons/ic_bookmarks.png',
               width: 22,
@@ -98,6 +99,7 @@ class _PhoneContentsState extends State<_PhoneContents> {
           ),
           IconButton(
             key: _searchKey,
+            tooltip: l10n.searchPlaceholder,
             icon: Image.asset(
               'assets/icons/ic_search.png',
               width: 22,
