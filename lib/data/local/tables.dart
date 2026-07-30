@@ -85,3 +85,41 @@ class Notes extends Table {
   @override
   Set<Column> get primaryKey => {slokaId};
 }
+
+// Multi-book/multi-interpretation catalog + downloaded editions. Deliberately
+// isolated from SnapshotRepository.replaceSnapshot (same reasoning as
+// Bookmarks/Notes above) — replaceSnapshot unconditionally wipes the
+// snapshot-owned `Books`/`Chapters`/`Slokas` tables on every seed/sync, which
+// would silently delete a user's downloaded extra editions if they lived
+// there instead. Named `InterpretationBooks` (not `Books`) to avoid
+// colliding with the existing snapshot-owned `Books` table above, which
+// continues to hold only the single default/bundled book's catalog row.
+class InterpretationBooks extends Table {
+  IntColumn get id => integer()(); // matches backend Books.Id
+  IntColumn get languageId => integer()();
+  TextColumn get name => text()();
+  TextColumn get initials => text().nullable()();
+  BoolColumn get isDefault => boolean().withDefault(const Constant(false))();
+  BoolColumn get isDownloaded => boolean().withDefault(const Constant(false))();
+
+  @override
+  Set<Column> get primaryKey => {id};
+}
+
+// One row per (verse, book) — that book's translation+comment for the verse
+// identified by `defaultSlokaId` (a row id in the snapshot-owned `Slokas`
+// table, always sourced from the default book). Matched to the fetched
+// book's own (independently-numbered) sloka by `Sloka.Name` (e.g. "2.47") —
+// there is no shared verse id across books' own Chapters/Slokas rows.
+class SlokaEditions extends Table {
+  IntColumn get id => integer().autoIncrement()();
+  IntColumn get defaultSlokaId => integer()();
+  IntColumn get bookId => integer()();
+  TextColumn get translation => text().nullable()();
+  TextColumn get comment => text().nullable()();
+
+  @override
+  List<Set<Column>> get uniqueKeys => [
+    {defaultSlokaId, bookId},
+  ];
+}

@@ -67,6 +67,7 @@ flutter:
     - assets/icons/ic_settings.png
     - assets/icons/ic_search.png
     - assets/icons/icn_empty.png
+    - assets/icons/ic_note_small.png
 
   fonts:
     - family: PTSans

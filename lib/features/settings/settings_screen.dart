@@ -2,17 +2,48 @@ import 'package:flutter/material.dart';
 
 import '../../app/audio/audio_download_controller.dart';
 import '../../app/audio/audio_track.dart';
+import '../../data/local/app_database.dart';
+import '../../data/local/book_repository.dart';
 import '../../ui/theme/app_colors.dart';
 import '../../ui/theme/app_text.dart';
 import '../../l10n/l10n.dart';
+import '../shared/widgets/section_header.dart';
 import 'app_language_screen.dart';
 import 'audio_settings_controller.dart';
 import 'content_languages_controller.dart';
 import 'content_languages_screen.dart';
 import 'reader_settings.dart';
 
-class SettingsScreen extends StatelessWidget {
-  const SettingsScreen({super.key});
+class SettingsScreen extends StatefulWidget {
+  const SettingsScreen({super.key, required this.db});
+
+  final AppDatabase db;
+
+  @override
+  State<SettingsScreen> createState() => _SettingsScreenState();
+}
+
+class _SettingsScreenState extends State<SettingsScreen> {
+  late final BookRepository _books = BookRepository(widget.db);
+  final Set<int> _busyBookIds = {};
+
+  Future<void> _download(int bookId) async {
+    setState(() => _busyBookIds.add(bookId));
+    try {
+      await _books.downloadBook(bookId);
+    } finally {
+      if (mounted) setState(() => _busyBookIds.remove(bookId));
+    }
+  }
+
+  Future<void> _delete(int bookId) async {
+    setState(() => _busyBookIds.add(bookId));
+    try {
+      await _books.deleteBook(bookId);
+    } finally {
+      if (mounted) setState(() => _busyBookIds.remove(bookId));
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -35,7 +66,7 @@ class SettingsScreen extends StatelessWidget {
           return ListView(
             children: [
               const SizedBox(height: 6),
-              _SectionHeader(text: l10n.settingsSectionLanguages),
+              SectionHeader(l10n.settingsSectionLanguages, settingsStyle: true),
               ListTile(
                 title: Text(l10n.settingsContentLanguagesTitle),
                 subtitle: Text(_contentLanguagesSummary(context, contentLangs)),
@@ -59,8 +90,7 @@ class SettingsScreen extends StatelessWidget {
                 ),
               ),
 
-              const SizedBox(height: 10),
-              _SectionHeader(text: l10n.settingsSectionDisplay),
+              SectionHeader(l10n.settingsSectionDisplay, settingsStyle: true),
               SwitchListTile(
                 title: Text(l10n.settingsShowSanskrit, style: AppText.body()),
                 value: reader.showSanskrit,
@@ -108,8 +138,7 @@ class SettingsScreen extends StatelessWidget {
                 ),
               ),
 
-              const SizedBox(height: 10),
-              _SectionHeader(text: l10n.settingsSectionAudio),
+              SectionHeader(l10n.settingsSectionAudio, settingsStyle: true),
               SwitchListTile(
                 title: Text(
                   l10n.settingsAudioTranslation,
@@ -232,9 +261,51 @@ class SettingsScreen extends StatelessWidget {
                 ),
               ),
 
-              const SizedBox(height: 10),
-              _SectionHeader(text: l10n.settingsSectionInterpretations),
-              ..._placeholderBooks(context, contentLangs),
+              SectionHeader(
+                l10n.settingsSectionInterpretations,
+                settingsStyle: true,
+              ),
+              StreamBuilder<List<InterpretationBook>>(
+                stream: _books.watchCatalog(
+                  languageCodes: contentLangs.selectedCodes,
+                ),
+                builder: (context, snap) {
+                  final books = snap.data ?? const <InterpretationBook>[];
+                  if (books.isEmpty) {
+                    return ListTile(title: Text(l10n.loadingEllipsis));
+                  }
+                  return Column(
+                    children: [
+                      for (final book in books)
+                        ListTile(
+                          title: Text(book.name, style: AppText.body()),
+                          trailing: _busyBookIds.contains(book.id)
+                              ? const SizedBox(
+                                  width: 20,
+                                  height: 20,
+                                  child: CircularProgressIndicator(
+                                    strokeWidth: 2,
+                                  ),
+                                )
+                              : book.isDefault
+                              ? const Icon(Icons.check, color: AppColors.red1)
+                              : book.isDownloaded
+                              ? IconButton(
+                                  icon: const Icon(
+                                    Icons.check,
+                                    color: AppColors.red1,
+                                  ),
+                                  onPressed: () => _delete(book.id),
+                                )
+                              : TextButton(
+                                  onPressed: () => _download(book.id),
+                                  child: Text(l10n.confirmDownloadTitle),
+                                ),
+                        ),
+                    ],
+                  );
+                },
+              ),
 
               const SizedBox(height: 20),
             ],
@@ -330,53 +401,5 @@ class SettingsScreen extends StatelessWidget {
           ),
         )) ??
         false;
-  }
-
-  List<Widget> _placeholderBooks(
-    BuildContext context,
-    ContentLanguagesSettings contentLangs,
-  ) {
-    final l10n = context.l10n;
-    final items = <({String title, String code, bool downloaded})>[
-      (title: 'Hidden Treasure (SM)', code: 'en', downloaded: true),
-      (title: 'Жемчужина мудрости Востока (ШМ)', code: 'ru', downloaded: true),
-      (title: 'Visvanath Cakravarti (VC)', code: 'en', downloaded: false),
-      (title: 'As It Is (SP)', code: 'en', downloaded: false),
-    ];
-    final filtered = items
-        .where((b) => contentLangs.selectedCodes.contains(b.code))
-        .toList();
-
-    if (filtered.isEmpty) {
-      return [
-        ListTile(
-          title: Text(l10n.loadingEllipsis),
-          subtitle: const Text('No books for selected languages'),
-        ),
-      ];
-    }
-
-    return [
-      for (final b in filtered)
-        ListTile(
-          title: Text(b.title),
-          trailing: Icon(b.downloaded ? Icons.check : Icons.download),
-          onTap: () {},
-        ),
-    ];
-  }
-}
-
-class _SectionHeader extends StatelessWidget {
-  const _SectionHeader({required this.text});
-
-  final String text;
-
-  @override
-  Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.fromLTRB(16, 18, 16, 8),
-      child: Text(text.toUpperCase(), style: AppText.label()),
-    );
   }
 }

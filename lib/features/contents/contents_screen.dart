@@ -73,7 +73,9 @@ class _PhoneContentsState extends State<_PhoneContents> {
           ),
           onPressed: () {
             Navigator.of(context).push(
-              MaterialPageRoute(builder: (context) => const SettingsScreen()),
+              MaterialPageRoute(
+                builder: (context) => SettingsScreen(db: widget.db),
+              ),
             );
           },
         ),

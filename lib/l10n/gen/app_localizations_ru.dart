@@ -188,6 +188,31 @@ class AppLocalizationsRu extends AppLocalizations {
   String get save => 'Сохранить';
 
   @override
+  String get readerToContents => 'К оглавлению';
+
+  @override
+  String get readerToBookmarks => 'К закладкам';
+
+  @override
+  String get readerMinimize => 'Свернуть';
+
+  @override
+  String readerMoreComments(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'ещё $count комментариев',
+      many: 'ещё $count комментариев',
+      few: 'ещё $count комментария',
+      one: 'ещё $count комментарий',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get bookmarksTitle => 'Закладки';
+
+  @override
   String get languageName_en => 'English';
 
   @override

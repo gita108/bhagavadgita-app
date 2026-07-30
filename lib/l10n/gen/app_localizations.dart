@@ -422,6 +422,36 @@ abstract class AppLocalizations {
   /// **'Save'**
   String get save;
 
+  /// No description provided for @readerToContents.
+  ///
+  /// In en, this message translates to:
+  /// **'To contents'**
+  String get readerToContents;
+
+  /// No description provided for @readerToBookmarks.
+  ///
+  /// In en, this message translates to:
+  /// **'To bookmarks'**
+  String get readerToBookmarks;
+
+  /// No description provided for @readerMinimize.
+  ///
+  /// In en, this message translates to:
+  /// **'Minimize'**
+  String get readerMinimize;
+
+  /// No description provided for @readerMoreComments.
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, one{{count} more comment} other{{count} more comments}}'**
+  String readerMoreComments(int count);
+
+  /// No description provided for @bookmarksTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Bookmarks'**
+  String get bookmarksTitle;
+
   /// No description provided for @languageName_en.
   ///
   /// In en, this message translates to:

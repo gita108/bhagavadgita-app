@@ -1,15 +1,20 @@
 import 'package:drift/drift.dart' hide Column;
 import 'package:flutter/material.dart';
 
+import '../../app/quote/quote_of_day_controller.dart';
+import '../../data/remote/dto/quote_dto.dart';
+import '../../l10n/l10n.dart';
 import '../../ui/theme/app_colors.dart';
 import '../../ui/theme/app_text.dart';
 import '../../data/local/app_database.dart';
 import '../../data/local/user_data_repository.dart';
 import '../contents/widgets/chapter_expandable_tile.dart';
+import '../quote/quote_screen.dart';
 import '../reader/sloka_screen.dart';
 import '../search/search_route.dart';
 import '../search/search_screen.dart';
 import '../settings/settings_screen.dart';
+import '../shared/services/share_service.dart';
 import '../shared/widgets/quote_card.dart';
 
 class TabletContentsChapterScaffold extends StatefulWidget {
@@ -33,26 +38,41 @@ class _TabletContentsChapterScaffoldState
 
   @override
   Widget build(BuildContext context) {
+    final l10n = context.l10n;
     final chaptersQuery =
         (widget.db.select(widget.db.chapters)..where((t) => t.bookId.equals(1)))
           ..orderBy([(t) => OrderingTerm.asc(t.position)]);
 
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: AppColors.red1,
-        foregroundColor: AppColors.white,
+        leading: IconButton(
+          tooltip: l10n.settingsTitle,
+          icon: Image.asset(
+            'assets/icons/ic_settings.png',
+            width: 22,
+            height: 22,
+            color: AppColors.white,
+          ),
+          onPressed: () {
+            Navigator.of(context).push(
+              MaterialPageRoute(
+                builder: (context) => SettingsScreen(db: widget.db),
+              ),
+            );
+          },
+        ),
         title: Row(
           children: [
             Expanded(
               child: Text(
-                'Contents',
+                l10n.contentsTitle,
                 style: AppText.navTitle(),
                 overflow: TextOverflow.ellipsis,
               ),
             ),
             Expanded(
               child: Text(
-                _selectedChapterTitle ?? 'Chapter',
+                _selectedChapterTitle ?? '',
                 style: AppText.navTitle(),
                 textAlign: TextAlign.end,
                 overflow: TextOverflow.ellipsis,
@@ -63,8 +83,12 @@ class _TabletContentsChapterScaffoldState
         actions: [
           IconButton(
             key: _searchKey,
-            tooltip: 'Search',
-            icon: const Icon(Icons.search),
+            icon: Image.asset(
+              'assets/icons/ic_search.png',
+              width: 22,
+              height: 22,
+              color: AppColors.white,
+            ),
             onPressed: () {
               final renderBox =
                   _searchKey.currentContext?.findRenderObject() as RenderBox?;
@@ -76,15 +100,6 @@ class _TabletContentsChapterScaffoldState
                   center: center,
                   builder: (context) => SearchScreen(db: widget.db),
                 ),
-              );
-            },
-          ),
-          IconButton(
-            tooltip: 'Reader settings',
-            icon: const Icon(Icons.tune),
-            onPressed: () {
-              Navigator.of(context).push(
-                MaterialPageRoute(builder: (context) => const SettingsScreen()),
               );
             },
           ),
@@ -110,10 +125,31 @@ class _TabletContentsChapterScaffoldState
                   itemCount: chapters.length + 1,
                   itemBuilder: (context, index) {
                     if (index == 0) {
-                      return const QuoteCard(
-                        quote:
-                            '“You have a right to perform your prescribed duty…”',
-                        author: 'Bhagavad Gita',
+                      return ValueListenableBuilder<QuoteDto?>(
+                        valueListenable: quoteOfDayController,
+                        builder: (context, quote, _) {
+                          if (quote?.text == null || quote?.author == null) {
+                            return const SizedBox.shrink();
+                          }
+                          return QuoteCard(
+                            quote: quote!.text!,
+                            author: quote.author,
+                            onTap: () {
+                              Navigator.of(context).push(
+                                MaterialPageRoute(
+                                  builder: (context) =>
+                                      QuoteScreen(quote: quote),
+                                ),
+                              );
+                            },
+                            onShare: () {
+                              ShareService().shareQuote(
+                                text: quote.text!,
+                                author: quote.author!,
+                              );
+                            },
+                          );
+                        },
                       );
                     }
                     final c = chapters[index - 1];
@@ -153,7 +189,7 @@ class _TabletContentsChapterScaffoldState
                               setState(() {
                                 _selectedChapterId = expanded ? c.id : null;
                                 _selectedChapterTitle = expanded
-                                    ? 'Chapter ${c.position}'
+                                    ? l10n.chapterLabel(c.position)
                                     : null;
                               });
                             },

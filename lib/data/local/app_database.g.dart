@@ -2818,6 +2818,778 @@ class NotesCompanion extends UpdateCompanion<Note> {
   }
 }
 
+class $InterpretationBooksTable extends InterpretationBooks
+    with TableInfo<$InterpretationBooksTable, InterpretationBook> {
+  @override
+  final GeneratedDatabase attachedDatabase;
+  final String? _alias;
+  $InterpretationBooksTable(this.attachedDatabase, [this._alias]);
+  static const VerificationMeta _idMeta = const VerificationMeta('id');
+  @override
+  late final GeneratedColumn<int> id = GeneratedColumn<int>(
+    'id',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+  );
+  static const VerificationMeta _languageIdMeta = const VerificationMeta(
+    'languageId',
+  );
+  @override
+  late final GeneratedColumn<int> languageId = GeneratedColumn<int>(
+    'language_id',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _nameMeta = const VerificationMeta('name');
+  @override
+  late final GeneratedColumn<String> name = GeneratedColumn<String>(
+    'name',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _initialsMeta = const VerificationMeta(
+    'initials',
+  );
+  @override
+  late final GeneratedColumn<String> initials = GeneratedColumn<String>(
+    'initials',
+    aliasedName,
+    true,
+    type: DriftSqlType.string,
+    requiredDuringInsert: false,
+  );
+  static const VerificationMeta _isDefaultMeta = const VerificationMeta(
+    'isDefault',
+  );
+  @override
+  late final GeneratedColumn<bool> isDefault = GeneratedColumn<bool>(
+    'is_default',
+    aliasedName,
+    false,
+    type: DriftSqlType.bool,
+    requiredDuringInsert: false,
+    defaultConstraints: GeneratedColumn.constraintIsAlways(
+      'CHECK ("is_default" IN (0, 1))',
+    ),
+    defaultValue: const Constant(false),
+  );
+  static const VerificationMeta _isDownloadedMeta = const VerificationMeta(
+    'isDownloaded',
+  );
+  @override
+  late final GeneratedColumn<bool> isDownloaded = GeneratedColumn<bool>(
+    'is_downloaded',
+    aliasedName,
+    false,
+    type: DriftSqlType.bool,
+    requiredDuringInsert: false,
+    defaultConstraints: GeneratedColumn.constraintIsAlways(
+      'CHECK ("is_downloaded" IN (0, 1))',
+    ),
+    defaultValue: const Constant(false),
+  );
+  @override
+  List<GeneratedColumn> get $columns => [
+    id,
+    languageId,
+    name,
+    initials,
+    isDefault,
+    isDownloaded,
+  ];
+  @override
+  String get aliasedName => _alias ?? actualTableName;
+  @override
+  String get actualTableName => $name;
+  static const String $name = 'interpretation_books';
+  @override
+  VerificationContext validateIntegrity(
+    Insertable<InterpretationBook> instance, {
+    bool isInserting = false,
+  }) {
+    final context = VerificationContext();
+    final data = instance.toColumns(true);
+    if (data.containsKey('id')) {
+      context.handle(_idMeta, id.isAcceptableOrUnknown(data['id']!, _idMeta));
+    }
+    if (data.containsKey('language_id')) {
+      context.handle(
+        _languageIdMeta,
+        languageId.isAcceptableOrUnknown(data['language_id']!, _languageIdMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_languageIdMeta);
+    }
+    if (data.containsKey('name')) {
+      context.handle(
+        _nameMeta,
+        name.isAcceptableOrUnknown(data['name']!, _nameMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_nameMeta);
+    }
+    if (data.containsKey('initials')) {
+      context.handle(
+        _initialsMeta,
+        initials.isAcceptableOrUnknown(data['initials']!, _initialsMeta),
+      );
+    }
+    if (data.containsKey('is_default')) {
+      context.handle(
+        _isDefaultMeta,
+        isDefault.isAcceptableOrUnknown(data['is_default']!, _isDefaultMeta),
+      );
+    }
+    if (data.containsKey('is_downloaded')) {
+      context.handle(
+        _isDownloadedMeta,
+        isDownloaded.isAcceptableOrUnknown(
+          data['is_downloaded']!,
+          _isDownloadedMeta,
+        ),
+      );
+    }
+    return context;
+  }
+
+  @override
+  Set<GeneratedColumn> get $primaryKey => {id};
+  @override
+  InterpretationBook map(Map<String, dynamic> data, {String? tablePrefix}) {
+    final effectivePrefix = tablePrefix != null ? '$tablePrefix.' : '';
+    return InterpretationBook(
+      id: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}id'],
+      )!,
+      languageId: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}language_id'],
+      )!,
+      name: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}name'],
+      )!,
+      initials: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}initials'],
+      ),
+      isDefault: attachedDatabase.typeMapping.read(
+        DriftSqlType.bool,
+        data['${effectivePrefix}is_default'],
+      )!,
+      isDownloaded: attachedDatabase.typeMapping.read(
+        DriftSqlType.bool,
+        data['${effectivePrefix}is_downloaded'],
+      )!,
+    );
+  }
+
+  @override
+  $InterpretationBooksTable createAlias(String alias) {
+    return $InterpretationBooksTable(attachedDatabase, alias);
+  }
+}
+
+class InterpretationBook extends DataClass
+    implements Insertable<InterpretationBook> {
+  final int id;
+  final int languageId;
+  final String name;
+  final String? initials;
+  final bool isDefault;
+  final bool isDownloaded;
+  const InterpretationBook({
+    required this.id,
+    required this.languageId,
+    required this.name,
+    this.initials,
+    required this.isDefault,
+    required this.isDownloaded,
+  });
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    map['id'] = Variable<int>(id);
+    map['language_id'] = Variable<int>(languageId);
+    map['name'] = Variable<String>(name);
+    if (!nullToAbsent || initials != null) {
+      map['initials'] = Variable<String>(initials);
+    }
+    map['is_default'] = Variable<bool>(isDefault);
+    map['is_downloaded'] = Variable<bool>(isDownloaded);
+    return map;
+  }
+
+  InterpretationBooksCompanion toCompanion(bool nullToAbsent) {
+    return InterpretationBooksCompanion(
+      id: Value(id),
+      languageId: Value(languageId),
+      name: Value(name),
+      initials: initials == null && nullToAbsent
+          ? const Value.absent()
+          : Value(initials),
+      isDefault: Value(isDefault),
+      isDownloaded: Value(isDownloaded),
+    );
+  }
+
+  factory InterpretationBook.fromJson(
+    Map<String, dynamic> json, {
+    ValueSerializer? serializer,
+  }) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return InterpretationBook(
+      id: serializer.fromJson<int>(json['id']),
+      languageId: serializer.fromJson<int>(json['languageId']),
+      name: serializer.fromJson<String>(json['name']),
+      initials: serializer.fromJson<String?>(json['initials']),
+      isDefault: serializer.fromJson<bool>(json['isDefault']),
+      isDownloaded: serializer.fromJson<bool>(json['isDownloaded']),
+    );
+  }
+  @override
+  Map<String, dynamic> toJson({ValueSerializer? serializer}) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return <String, dynamic>{
+      'id': serializer.toJson<int>(id),
+      'languageId': serializer.toJson<int>(languageId),
+      'name': serializer.toJson<String>(name),
+      'initials': serializer.toJson<String?>(initials),
+      'isDefault': serializer.toJson<bool>(isDefault),
+      'isDownloaded': serializer.toJson<bool>(isDownloaded),
+    };
+  }
+
+  InterpretationBook copyWith({
+    int? id,
+    int? languageId,
+    String? name,
+    Value<String?> initials = const Value.absent(),
+    bool? isDefault,
+    bool? isDownloaded,
+  }) => InterpretationBook(
+    id: id ?? this.id,
+    languageId: languageId ?? this.languageId,
+    name: name ?? this.name,
+    initials: initials.present ? initials.value : this.initials,
+    isDefault: isDefault ?? this.isDefault,
+    isDownloaded: isDownloaded ?? this.isDownloaded,
+  );
+  InterpretationBook copyWithCompanion(InterpretationBooksCompanion data) {
+    return InterpretationBook(
+      id: data.id.present ? data.id.value : this.id,
+      languageId: data.languageId.present
+          ? data.languageId.value
+          : this.languageId,
+      name: data.name.present ? data.name.value : this.name,
+      initials: data.initials.present ? data.initials.value : this.initials,
+      isDefault: data.isDefault.present ? data.isDefault.value : this.isDefault,
+      isDownloaded: data.isDownloaded.present
+          ? data.isDownloaded.value
+          : this.isDownloaded,
+    );
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('InterpretationBook(')
+          ..write('id: $id, ')
+          ..write('languageId: $languageId, ')
+          ..write('name: $name, ')
+          ..write('initials: $initials, ')
+          ..write('isDefault: $isDefault, ')
+          ..write('isDownloaded: $isDownloaded')
+          ..write(')'))
+        .toString();
+  }
+
+  @override
+  int get hashCode =>
+      Object.hash(id, languageId, name, initials, isDefault, isDownloaded);
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+      (other is InterpretationBook &&
+          other.id == this.id &&
+          other.languageId == this.languageId &&
+          other.name == this.name &&
+          other.initials == this.initials &&
+          other.isDefault == this.isDefault &&
+          other.isDownloaded == this.isDownloaded);
+}
+
+class InterpretationBooksCompanion extends UpdateCompanion<InterpretationBook> {
+  final Value<int> id;
+  final Value<int> languageId;
+  final Value<String> name;
+  final Value<String?> initials;
+  final Value<bool> isDefault;
+  final Value<bool> isDownloaded;
+  const InterpretationBooksCompanion({
+    this.id = const Value.absent(),
+    this.languageId = const Value.absent(),
+    this.name = const Value.absent(),
+    this.initials = const Value.absent(),
+    this.isDefault = const Value.absent(),
+    this.isDownloaded = const Value.absent(),
+  });
+  InterpretationBooksCompanion.insert({
+    this.id = const Value.absent(),
+    required int languageId,
+    required String name,
+    this.initials = const Value.absent(),
+    this.isDefault = const Value.absent(),
+    this.isDownloaded = const Value.absent(),
+  }) : languageId = Value(languageId),
+       name = Value(name);
+  static Insertable<InterpretationBook> custom({
+    Expression<int>? id,
+    Expression<int>? languageId,
+    Expression<String>? name,
+    Expression<String>? initials,
+    Expression<bool>? isDefault,
+    Expression<bool>? isDownloaded,
+  }) {
+    return RawValuesInsertable({
+      if (id != null) 'id': id,
+      if (languageId != null) 'language_id': languageId,
+      if (name != null) 'name': name,
+      if (initials != null) 'initials': initials,
+      if (isDefault != null) 'is_default': isDefault,
+      if (isDownloaded != null) 'is_downloaded': isDownloaded,
+    });
+  }
+
+  InterpretationBooksCompanion copyWith({
+    Value<int>? id,
+    Value<int>? languageId,
+    Value<String>? name,
+    Value<String?>? initials,
+    Value<bool>? isDefault,
+    Value<bool>? isDownloaded,
+  }) {
+    return InterpretationBooksCompanion(
+      id: id ?? this.id,
+      languageId: languageId ?? this.languageId,
+      name: name ?? this.name,
+      initials: initials ?? this.initials,
+      isDefault: isDefault ?? this.isDefault,
+      isDownloaded: isDownloaded ?? this.isDownloaded,
+    );
+  }
+
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    if (id.present) {
+      map['id'] = Variable<int>(id.value);
+    }
+    if (languageId.present) {
+      map['language_id'] = Variable<int>(languageId.value);
+    }
+    if (name.present) {
+      map['name'] = Variable<String>(name.value);
+    }
+    if (initials.present) {
+      map['initials'] = Variable<String>(initials.value);
+    }
+    if (isDefault.present) {
+      map['is_default'] = Variable<bool>(isDefault.value);
+    }
+    if (isDownloaded.present) {
+      map['is_downloaded'] = Variable<bool>(isDownloaded.value);
+    }
+    return map;
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('InterpretationBooksCompanion(')
+          ..write('id: $id, ')
+          ..write('languageId: $languageId, ')
+          ..write('name: $name, ')
+          ..write('initials: $initials, ')
+          ..write('isDefault: $isDefault, ')
+          ..write('isDownloaded: $isDownloaded')
+          ..write(')'))
+        .toString();
+  }
+}
+
+class $SlokaEditionsTable extends SlokaEditions
+    with TableInfo<$SlokaEditionsTable, SlokaEdition> {
+  @override
+  final GeneratedDatabase attachedDatabase;
+  final String? _alias;
+  $SlokaEditionsTable(this.attachedDatabase, [this._alias]);
+  static const VerificationMeta _idMeta = const VerificationMeta('id');
+  @override
+  late final GeneratedColumn<int> id = GeneratedColumn<int>(
+    'id',
+    aliasedName,
+    false,
+    hasAutoIncrement: true,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultConstraints: GeneratedColumn.constraintIsAlways(
+      'PRIMARY KEY AUTOINCREMENT',
+    ),
+  );
+  static const VerificationMeta _defaultSlokaIdMeta = const VerificationMeta(
+    'defaultSlokaId',
+  );
+  @override
+  late final GeneratedColumn<int> defaultSlokaId = GeneratedColumn<int>(
+    'default_sloka_id',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _bookIdMeta = const VerificationMeta('bookId');
+  @override
+  late final GeneratedColumn<int> bookId = GeneratedColumn<int>(
+    'book_id',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _translationMeta = const VerificationMeta(
+    'translation',
+  );
+  @override
+  late final GeneratedColumn<String> translation = GeneratedColumn<String>(
+    'translation',
+    aliasedName,
+    true,
+    type: DriftSqlType.string,
+    requiredDuringInsert: false,
+  );
+  static const VerificationMeta _commentMeta = const VerificationMeta(
+    'comment',
+  );
+  @override
+  late final GeneratedColumn<String> comment = GeneratedColumn<String>(
+    'comment',
+    aliasedName,
+    true,
+    type: DriftSqlType.string,
+    requiredDuringInsert: false,
+  );
+  @override
+  List<GeneratedColumn> get $columns => [
+    id,
+    defaultSlokaId,
+    bookId,
+    translation,
+    comment,
+  ];
+  @override
+  String get aliasedName => _alias ?? actualTableName;
+  @override
+  String get actualTableName => $name;
+  static const String $name = 'sloka_editions';
+  @override
+  VerificationContext validateIntegrity(
+    Insertable<SlokaEdition> instance, {
+    bool isInserting = false,
+  }) {
+    final context = VerificationContext();
+    final data = instance.toColumns(true);
+    if (data.containsKey('id')) {
+      context.handle(_idMeta, id.isAcceptableOrUnknown(data['id']!, _idMeta));
+    }
+    if (data.containsKey('default_sloka_id')) {
+      context.handle(
+        _defaultSlokaIdMeta,
+        defaultSlokaId.isAcceptableOrUnknown(
+          data['default_sloka_id']!,
+          _defaultSlokaIdMeta,
+        ),
+      );
+    } else if (isInserting) {
+      context.missing(_defaultSlokaIdMeta);
+    }
+    if (data.containsKey('book_id')) {
+      context.handle(
+        _bookIdMeta,
+        bookId.isAcceptableOrUnknown(data['book_id']!, _bookIdMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_bookIdMeta);
+    }
+    if (data.containsKey('translation')) {
+      context.handle(
+        _translationMeta,
+        translation.isAcceptableOrUnknown(
+          data['translation']!,
+          _translationMeta,
+        ),
+      );
+    }
+    if (data.containsKey('comment')) {
+      context.handle(
+        _commentMeta,
+        comment.isAcceptableOrUnknown(data['comment']!, _commentMeta),
+      );
+    }
+    return context;
+  }
+
+  @override
+  Set<GeneratedColumn> get $primaryKey => {id};
+  @override
+  List<Set<GeneratedColumn>> get uniqueKeys => [
+    {defaultSlokaId, bookId},
+  ];
+  @override
+  SlokaEdition map(Map<String, dynamic> data, {String? tablePrefix}) {
+    final effectivePrefix = tablePrefix != null ? '$tablePrefix.' : '';
+    return SlokaEdition(
+      id: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}id'],
+      )!,
+      defaultSlokaId: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}default_sloka_id'],
+      )!,
+      bookId: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}book_id'],
+      )!,
+      translation: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}translation'],
+      ),
+      comment: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}comment'],
+      ),
+    );
+  }
+
+  @override
+  $SlokaEditionsTable createAlias(String alias) {
+    return $SlokaEditionsTable(attachedDatabase, alias);
+  }
+}
+
+class SlokaEdition extends DataClass implements Insertable<SlokaEdition> {
+  final int id;
+  final int defaultSlokaId;
+  final int bookId;
+  final String? translation;
+  final String? comment;
+  const SlokaEdition({
+    required this.id,
+    required this.defaultSlokaId,
+    required this.bookId,
+    this.translation,
+    this.comment,
+  });
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    map['id'] = Variable<int>(id);
+    map['default_sloka_id'] = Variable<int>(defaultSlokaId);
+    map['book_id'] = Variable<int>(bookId);
+    if (!nullToAbsent || translation != null) {
+      map['translation'] = Variable<String>(translation);
+    }
+    if (!nullToAbsent || comment != null) {
+      map['comment'] = Variable<String>(comment);
+    }
+    return map;
+  }
+
+  SlokaEditionsCompanion toCompanion(bool nullToAbsent) {
+    return SlokaEditionsCompanion(
+      id: Value(id),
+      defaultSlokaId: Value(defaultSlokaId),
+      bookId: Value(bookId),
+      translation: translation == null && nullToAbsent
+          ? const Value.absent()
+          : Value(translation),
+      comment: comment == null && nullToAbsent
+          ? const Value.absent()
+          : Value(comment),
+    );
+  }
+
+  factory SlokaEdition.fromJson(
+    Map<String, dynamic> json, {
+    ValueSerializer? serializer,
+  }) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return SlokaEdition(
+      id: serializer.fromJson<int>(json['id']),
+      defaultSlokaId: serializer.fromJson<int>(json['defaultSlokaId']),
+      bookId: serializer.fromJson<int>(json['bookId']),
+      translation: serializer.fromJson<String?>(json['translation']),
+      comment: serializer.fromJson<String?>(json['comment']),
+    );
+  }
+  @override
+  Map<String, dynamic> toJson({ValueSerializer? serializer}) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return <String, dynamic>{
+      'id': serializer.toJson<int>(id),
+      'defaultSlokaId': serializer.toJson<int>(defaultSlokaId),
+      'bookId': serializer.toJson<int>(bookId),
+      'translation': serializer.toJson<String?>(translation),
+      'comment': serializer.toJson<String?>(comment),
+    };
+  }
+
+  SlokaEdition copyWith({
+    int? id,
+    int? defaultSlokaId,
+    int? bookId,
+    Value<String?> translation = const Value.absent(),
+    Value<String?> comment = const Value.absent(),
+  }) => SlokaEdition(
+    id: id ?? this.id,
+    defaultSlokaId: defaultSlokaId ?? this.defaultSlokaId,
+    bookId: bookId ?? this.bookId,
+    translation: translation.present ? translation.value : this.translation,
+    comment: comment.present ? comment.value : this.comment,
+  );
+  SlokaEdition copyWithCompanion(SlokaEditionsCompanion data) {
+    return SlokaEdition(
+      id: data.id.present ? data.id.value : this.id,
+      defaultSlokaId: data.defaultSlokaId.present
+          ? data.defaultSlokaId.value
+          : this.defaultSlokaId,
+      bookId: data.bookId.present ? data.bookId.value : this.bookId,
+      translation: data.translation.present
+          ? data.translation.value
+          : this.translation,
+      comment: data.comment.present ? data.comment.value : this.comment,
+    );
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('SlokaEdition(')
+          ..write('id: $id, ')
+          ..write('defaultSlokaId: $defaultSlokaId, ')
+          ..write('bookId: $bookId, ')
+          ..write('translation: $translation, ')
+          ..write('comment: $comment')
+          ..write(')'))
+        .toString();
+  }
+
+  @override
+  int get hashCode =>
+      Object.hash(id, defaultSlokaId, bookId, translation, comment);
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+      (other is SlokaEdition &&
+          other.id == this.id &&
+          other.defaultSlokaId == this.defaultSlokaId &&
+          other.bookId == this.bookId &&
+          other.translation == this.translation &&
+          other.comment == this.comment);
+}
+
+class SlokaEditionsCompanion extends UpdateCompanion<SlokaEdition> {
+  final Value<int> id;
+  final Value<int> defaultSlokaId;
+  final Value<int> bookId;
+  final Value<String?> translation;
+  final Value<String?> comment;
+  const SlokaEditionsCompanion({
+    this.id = const Value.absent(),
+    this.defaultSlokaId = const Value.absent(),
+    this.bookId = const Value.absent(),
+    this.translation = const Value.absent(),
+    this.comment = const Value.absent(),
+  });
+  SlokaEditionsCompanion.insert({
+    this.id = const Value.absent(),
+    required int defaultSlokaId,
+    required int bookId,
+    this.translation = const Value.absent(),
+    this.comment = const Value.absent(),
+  }) : defaultSlokaId = Value(defaultSlokaId),
+       bookId = Value(bookId);
+  static Insertable<SlokaEdition> custom({
+    Expression<int>? id,
+    Expression<int>? defaultSlokaId,
+    Expression<int>? bookId,
+    Expression<String>? translation,
+    Expression<String>? comment,
+  }) {
+    return RawValuesInsertable({
+      if (id != null) 'id': id,
+      if (defaultSlokaId != null) 'default_sloka_id': defaultSlokaId,
+      if (bookId != null) 'book_id': bookId,
+      if (translation != null) 'translation': translation,
+      if (comment != null) 'comment': comment,
+    });
+  }
+
+  SlokaEditionsCompanion copyWith({
+    Value<int>? id,
+    Value<int>? defaultSlokaId,
+    Value<int>? bookId,
+    Value<String?>? translation,
+    Value<String?>? comment,
+  }) {
+    return SlokaEditionsCompanion(
+      id: id ?? this.id,
+      defaultSlokaId: defaultSlokaId ?? this.defaultSlokaId,
+      bookId: bookId ?? this.bookId,
+      translation: translation ?? this.translation,
+      comment: comment ?? this.comment,
+    );
+  }
+
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    if (id.present) {
+      map['id'] = Variable<int>(id.value);
+    }
+    if (defaultSlokaId.present) {
+      map['default_sloka_id'] = Variable<int>(defaultSlokaId.value);
+    }
+    if (bookId.present) {
+      map['book_id'] = Variable<int>(bookId.value);
+    }
+    if (translation.present) {
+      map['translation'] = Variable<String>(translation.value);
+    }
+    if (comment.present) {
+      map['comment'] = Variable<String>(comment.value);
+    }
+    return map;
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('SlokaEditionsCompanion(')
+          ..write('id: $id, ')
+          ..write('defaultSlokaId: $defaultSlokaId, ')
+          ..write('bookId: $bookId, ')
+          ..write('translation: $translation, ')
+          ..write('comment: $comment')
+          ..write(')'))
+        .toString();
+  }
+}
+
 abstract class _$AppDatabase extends GeneratedDatabase {
   _$AppDatabase(QueryExecutor e) : super(e);
   $AppDatabaseManager get managers => $AppDatabaseManager(this);
@@ -2829,6 +3601,9 @@ abstract class _$AppDatabase extends GeneratedDatabase {
   late final $VocabulariesTable vocabularies = $VocabulariesTable(this);
   late final $BookmarksTable bookmarks = $BookmarksTable(this);
   late final $NotesTable notes = $NotesTable(this);
+  late final $InterpretationBooksTable interpretationBooks =
+      $InterpretationBooksTable(this);
+  late final $SlokaEditionsTable slokaEditions = $SlokaEditionsTable(this);
   @override
   Iterable<TableInfo<Table, Object?>> get allTables =>
       allSchemaEntities.whereType<TableInfo<Table, Object?>>();
@@ -2842,6 +3617,8 @@ abstract class _$AppDatabase extends GeneratedDatabase {
     vocabularies,
     bookmarks,
     notes,
+    interpretationBooks,
+    slokaEditions,
   ];
 }
 
@@ -4375,6 +5152,437 @@ typedef $$NotesTableProcessedTableManager =
       Note,
       PrefetchHooks Function()
     >;
+typedef $$InterpretationBooksTableCreateCompanionBuilder =
+    InterpretationBooksCompanion Function({
+      Value<int> id,
+      required int languageId,
+      required String name,
+      Value<String?> initials,
+      Value<bool> isDefault,
+      Value<bool> isDownloaded,
+    });
+typedef $$InterpretationBooksTableUpdateCompanionBuilder =
+    InterpretationBooksCompanion Function({
+      Value<int> id,
+      Value<int> languageId,
+      Value<String> name,
+      Value<String?> initials,
+      Value<bool> isDefault,
+      Value<bool> isDownloaded,
+    });
+
+class $$InterpretationBooksTableFilterComposer
+    extends Composer<_$AppDatabase, $InterpretationBooksTable> {
+  $$InterpretationBooksTableFilterComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnFilters<int> get id => $composableBuilder(
+    column: $table.id,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get languageId => $composableBuilder(
+    column: $table.languageId,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get name => $composableBuilder(
+    column: $table.name,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get initials => $composableBuilder(
+    column: $table.initials,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<bool> get isDefault => $composableBuilder(
+    column: $table.isDefault,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<bool> get isDownloaded => $composableBuilder(
+    column: $table.isDownloaded,
+    builder: (column) => ColumnFilters(column),
+  );
+}
+
+class $$InterpretationBooksTableOrderingComposer
+    extends Composer<_$AppDatabase, $InterpretationBooksTable> {
+  $$InterpretationBooksTableOrderingComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnOrderings<int> get id => $composableBuilder(
+    column: $table.id,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get languageId => $composableBuilder(
+    column: $table.languageId,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get name => $composableBuilder(
+    column: $table.name,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get initials => $composableBuilder(
+    column: $table.initials,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<bool> get isDefault => $composableBuilder(
+    column: $table.isDefault,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<bool> get isDownloaded => $composableBuilder(
+    column: $table.isDownloaded,
+    builder: (column) => ColumnOrderings(column),
+  );
+}
+
+class $$InterpretationBooksTableAnnotationComposer
+    extends Composer<_$AppDatabase, $InterpretationBooksTable> {
+  $$InterpretationBooksTableAnnotationComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  GeneratedColumn<int> get id =>
+      $composableBuilder(column: $table.id, builder: (column) => column);
+
+  GeneratedColumn<int> get languageId => $composableBuilder(
+    column: $table.languageId,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<String> get name =>
+      $composableBuilder(column: $table.name, builder: (column) => column);
+
+  GeneratedColumn<String> get initials =>
+      $composableBuilder(column: $table.initials, builder: (column) => column);
+
+  GeneratedColumn<bool> get isDefault =>
+      $composableBuilder(column: $table.isDefault, builder: (column) => column);
+
+  GeneratedColumn<bool> get isDownloaded => $composableBuilder(
+    column: $table.isDownloaded,
+    builder: (column) => column,
+  );
+}
+
+class $$InterpretationBooksTableTableManager
+    extends
+        RootTableManager<
+          _$AppDatabase,
+          $InterpretationBooksTable,
+          InterpretationBook,
+          $$InterpretationBooksTableFilterComposer,
+          $$InterpretationBooksTableOrderingComposer,
+          $$InterpretationBooksTableAnnotationComposer,
+          $$InterpretationBooksTableCreateCompanionBuilder,
+          $$InterpretationBooksTableUpdateCompanionBuilder,
+          (
+            InterpretationBook,
+            BaseReferences<
+              _$AppDatabase,
+              $InterpretationBooksTable,
+              InterpretationBook
+            >,
+          ),
+          InterpretationBook,
+          PrefetchHooks Function()
+        > {
+  $$InterpretationBooksTableTableManager(
+    _$AppDatabase db,
+    $InterpretationBooksTable table,
+  ) : super(
+        TableManagerState(
+          db: db,
+          table: table,
+          createFilteringComposer: () =>
+              $$InterpretationBooksTableFilterComposer($db: db, $table: table),
+          createOrderingComposer: () =>
+              $$InterpretationBooksTableOrderingComposer(
+                $db: db,
+                $table: table,
+              ),
+          createComputedFieldComposer: () =>
+              $$InterpretationBooksTableAnnotationComposer(
+                $db: db,
+                $table: table,
+              ),
+          updateCompanionCallback:
+              ({
+                Value<int> id = const Value.absent(),
+                Value<int> languageId = const Value.absent(),
+                Value<String> name = const Value.absent(),
+                Value<String?> initials = const Value.absent(),
+                Value<bool> isDefault = const Value.absent(),
+                Value<bool> isDownloaded = const Value.absent(),
+              }) => InterpretationBooksCompanion(
+                id: id,
+                languageId: languageId,
+                name: name,
+                initials: initials,
+                isDefault: isDefault,
+                isDownloaded: isDownloaded,
+              ),
+          createCompanionCallback:
+              ({
+                Value<int> id = const Value.absent(),
+                required int languageId,
+                required String name,
+                Value<String?> initials = const Value.absent(),
+                Value<bool> isDefault = const Value.absent(),
+                Value<bool> isDownloaded = const Value.absent(),
+              }) => InterpretationBooksCompanion.insert(
+                id: id,
+                languageId: languageId,
+                name: name,
+                initials: initials,
+                isDefault: isDefault,
+                isDownloaded: isDownloaded,
+              ),
+          withReferenceMapper: (p0) => p0
+              .map((e) => (e.readTable(table), BaseReferences(db, table, e)))
+              .toList(),
+          prefetchHooksCallback: null,
+        ),
+      );
+}
+
+typedef $$InterpretationBooksTableProcessedTableManager =
+    ProcessedTableManager<
+      _$AppDatabase,
+      $InterpretationBooksTable,
+      InterpretationBook,
+      $$InterpretationBooksTableFilterComposer,
+      $$InterpretationBooksTableOrderingComposer,
+      $$InterpretationBooksTableAnnotationComposer,
+      $$InterpretationBooksTableCreateCompanionBuilder,
+      $$InterpretationBooksTableUpdateCompanionBuilder,
+      (
+        InterpretationBook,
+        BaseReferences<
+          _$AppDatabase,
+          $InterpretationBooksTable,
+          InterpretationBook
+        >,
+      ),
+      InterpretationBook,
+      PrefetchHooks Function()
+    >;
+typedef $$SlokaEditionsTableCreateCompanionBuilder =
+    SlokaEditionsCompanion Function({
+      Value<int> id,
+      required int defaultSlokaId,
+      required int bookId,
+      Value<String?> translation,
+      Value<String?> comment,
+    });
+typedef $$SlokaEditionsTableUpdateCompanionBuilder =
+    SlokaEditionsCompanion Function({
+      Value<int> id,
+      Value<int> defaultSlokaId,
+      Value<int> bookId,
+      Value<String?> translation,
+      Value<String?> comment,
+    });
+
+class $$SlokaEditionsTableFilterComposer
+    extends Composer<_$AppDatabase, $SlokaEditionsTable> {
+  $$SlokaEditionsTableFilterComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnFilters<int> get id => $composableBuilder(
+    column: $table.id,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get defaultSlokaId => $composableBuilder(
+    column: $table.defaultSlokaId,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get bookId => $composableBuilder(
+    column: $table.bookId,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get translation => $composableBuilder(
+    column: $table.translation,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get comment => $composableBuilder(
+    column: $table.comment,
+    builder: (column) => ColumnFilters(column),
+  );
+}
+
+class $$SlokaEditionsTableOrderingComposer
+    extends Composer<_$AppDatabase, $SlokaEditionsTable> {
+  $$SlokaEditionsTableOrderingComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnOrderings<int> get id => $composableBuilder(
+    column: $table.id,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get defaultSlokaId => $composableBuilder(
+    column: $table.defaultSlokaId,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get bookId => $composableBuilder(
+    column: $table.bookId,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get translation => $composableBuilder(
+    column: $table.translation,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get comment => $composableBuilder(
+    column: $table.comment,
+    builder: (column) => ColumnOrderings(column),
+  );
+}
+
+class $$SlokaEditionsTableAnnotationComposer
+    extends Composer<_$AppDatabase, $SlokaEditionsTable> {
+  $$SlokaEditionsTableAnnotationComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  GeneratedColumn<int> get id =>
+      $composableBuilder(column: $table.id, builder: (column) => column);
+
+  GeneratedColumn<int> get defaultSlokaId => $composableBuilder(
+    column: $table.defaultSlokaId,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<int> get bookId =>
+      $composableBuilder(column: $table.bookId, builder: (column) => column);
+
+  GeneratedColumn<String> get translation => $composableBuilder(
+    column: $table.translation,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<String> get comment =>
+      $composableBuilder(column: $table.comment, builder: (column) => column);
+}
+
+class $$SlokaEditionsTableTableManager
+    extends
+        RootTableManager<
+          _$AppDatabase,
+          $SlokaEditionsTable,
+          SlokaEdition,
+          $$SlokaEditionsTableFilterComposer,
+          $$SlokaEditionsTableOrderingComposer,
+          $$SlokaEditionsTableAnnotationComposer,
+          $$SlokaEditionsTableCreateCompanionBuilder,
+          $$SlokaEditionsTableUpdateCompanionBuilder,
+          (
+            SlokaEdition,
+            BaseReferences<_$AppDatabase, $SlokaEditionsTable, SlokaEdition>,
+          ),
+          SlokaEdition,
+          PrefetchHooks Function()
+        > {
+  $$SlokaEditionsTableTableManager(_$AppDatabase db, $SlokaEditionsTable table)
+    : super(
+        TableManagerState(
+          db: db,
+          table: table,
+          createFilteringComposer: () =>
+              $$SlokaEditionsTableFilterComposer($db: db, $table: table),
+          createOrderingComposer: () =>
+              $$SlokaEditionsTableOrderingComposer($db: db, $table: table),
+          createComputedFieldComposer: () =>
+              $$SlokaEditionsTableAnnotationComposer($db: db, $table: table),
+          updateCompanionCallback:
+              ({
+                Value<int> id = const Value.absent(),
+                Value<int> defaultSlokaId = const Value.absent(),
+                Value<int> bookId = const Value.absent(),
+                Value<String?> translation = const Value.absent(),
+                Value<String?> comment = const Value.absent(),
+              }) => SlokaEditionsCompanion(
+                id: id,
+                defaultSlokaId: defaultSlokaId,
+                bookId: bookId,
+                translation: translation,
+                comment: comment,
+              ),
+          createCompanionCallback:
+              ({
+                Value<int> id = const Value.absent(),
+                required int defaultSlokaId,
+                required int bookId,
+                Value<String?> translation = const Value.absent(),
+                Value<String?> comment = const Value.absent(),
+              }) => SlokaEditionsCompanion.insert(
+                id: id,
+                defaultSlokaId: defaultSlokaId,
+                bookId: bookId,
+                translation: translation,
+                comment: comment,
+              ),
+          withReferenceMapper: (p0) => p0
+              .map((e) => (e.readTable(table), BaseReferences(db, table, e)))
+              .toList(),
+          prefetchHooksCallback: null,
+        ),
+      );
+}
+
+typedef $$SlokaEditionsTableProcessedTableManager =
+    ProcessedTableManager<
+      _$AppDatabase,
+      $SlokaEditionsTable,
+      SlokaEdition,
+      $$SlokaEditionsTableFilterComposer,
+      $$SlokaEditionsTableOrderingComposer,
+      $$SlokaEditionsTableAnnotationComposer,
+      $$SlokaEditionsTableCreateCompanionBuilder,
+      $$SlokaEditionsTableUpdateCompanionBuilder,
+      (
+        SlokaEdition,
+        BaseReferences<_$AppDatabase, $SlokaEditionsTable, SlokaEdition>,
+      ),
+      SlokaEdition,
+      PrefetchHooks Function()
+    >;
 
 class $AppDatabaseManager {
   final _$AppDatabase _db;
@@ -4395,4 +5603,8 @@ class $AppDatabaseManager {
       $$BookmarksTableTableManager(_db, _db.bookmarks);
   $$NotesTableTableManager get notes =>
       $$NotesTableTableManager(_db, _db.notes);
+  $$InterpretationBooksTableTableManager get interpretationBooks =>
+      $$InterpretationBooksTableTableManager(_db, _db.interpretationBooks);
+  $$SlokaEditionsTableTableManager get slokaEditions =>
+      $$SlokaEditionsTableTableManager(_db, _db.slokaEditions);
 }

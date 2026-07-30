@@ -190,6 +190,29 @@ class AppLocalizationsEn extends AppLocalizations {
   String get save => 'Save';
 
   @override
+  String get readerToContents => 'To contents';
+
+  @override
+  String get readerToBookmarks => 'To bookmarks';
+
+  @override
+  String get readerMinimize => 'Minimize';
+
+  @override
+  String readerMoreComments(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count more comments',
+      one: '$count more comment',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get bookmarksTitle => 'Bookmarks';
+
+  @override
   String get languageName_en => 'English';
 
   @override

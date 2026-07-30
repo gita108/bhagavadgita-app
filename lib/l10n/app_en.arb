@@ -70,6 +70,14 @@
   "searchNotFound": "Not found",
   "noteTitle": "Note",
   "save": "Save",
+  "readerToContents": "To contents",
+  "readerToBookmarks": "To bookmarks",
+  "readerMinimize": "Minimize",
+  "readerMoreComments": "{count, plural, one{{count} more comment} other{{count} more comments}}",
+  "@readerMoreComments": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+  "bookmarksTitle": "Bookmarks",
 
   "languageName_en": "English",
   "languageName_ru": "Русский",

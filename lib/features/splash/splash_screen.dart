@@ -12,6 +12,7 @@ import '../../ui/theme/app_spacing.dart';
 import '../../ui/theme/app_text.dart';
 import '../../ui/widgets/om_logo.dart';
 import '../../data/local/app_database.dart';
+import '../../data/local/book_repository.dart';
 import '../contents/contents_screen.dart';
 import '../onboarding/onboarding_screen.dart';
 import '../onboarding/app_onboarding_controller.dart';
@@ -46,6 +47,7 @@ class _SplashScreenState extends State<SplashScreen> {
     );
     if (result.hasSnapshot) {
       unawaited(quoteOfDayController.refreshIfStale());
+      unawaited(BookRepository(widget.db).refreshCatalog());
     }
     return result;
   }

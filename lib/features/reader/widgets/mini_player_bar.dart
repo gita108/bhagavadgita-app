@@ -23,10 +23,8 @@ class MiniPlayerBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      decoration: const BoxDecoration(
-        color: AppColors.white,
-        border: Border(top: BorderSide(color: AppColors.gray4)),
-      ),
+      constraints: const BoxConstraints(minHeight: 57),
+      color: AppColors.gray5,
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
       child: SafeArea(
         top: false,

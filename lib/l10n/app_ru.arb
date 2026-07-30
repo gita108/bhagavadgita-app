@@ -64,6 +64,11 @@
   "searchNotFound": "Поиск не дал результатов",
   "noteTitle": "Заметка",
   "save": "Сохранить",
+  "readerToContents": "К оглавлению",
+  "readerToBookmarks": "К закладкам",
+  "readerMinimize": "Свернуть",
+  "readerMoreComments": "{count, plural, one{ещё {count} комментарий} few{ещё {count} комментария} many{ещё {count} комментариев} other{ещё {count} комментариев}}",
+  "bookmarksTitle": "Закладки",
 
   "languageName_en": "English",
   "languageName_ru": "Русский",

@@ -3,21 +3,43 @@ import 'package:flutter/material.dart';
 import 'package:flutter_versegrid/flutter_versegrid.dart';
 
 import '../../ui/theme/app_colors.dart';
+import '../../ui/theme/app_spacing.dart';
 import '../../ui/theme/app_text.dart';
 import '../../app/audio/audio_controller_scope.dart';
 import '../../app/audio/audio_state.dart';
 import '../../app/audio/audio_storage.dart';
 import '../../app/audio/audio_track.dart';
 import '../../data/local/app_database.dart';
+import '../../data/local/book_repository.dart';
 import '../../data/local/user_data_repository.dart';
+import '../../l10n/l10n.dart';
 import '../settings/audio_settings_controller.dart';
 import '../settings/reader_settings.dart';
 import '../shared/widgets/audio_player_bar.dart';
 import '../shared/widgets/author_badge.dart';
-import '../shared/widgets/section_header.dart';
+import 'note_screen.dart';
 import 'widgets/mini_player_bar.dart';
-import 'widgets/variant_pill.dart';
 import '../../ui/widgets/share_button.dart';
+
+/// Ornamental divider used between content sections, matching legacy's
+/// `divider.png` flourish (used instead of a plain hairline `Divider`).
+class _OrnamentalDivider extends StatelessWidget {
+  const _OrnamentalDivider();
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: AppSpacing.space3),
+      child: Center(
+        child: Image.asset(
+          'assets/icons/divider.png',
+          height: 12,
+          color: AppColors.red1,
+        ),
+      ),
+    );
+  }
+}
 
 class SlokaScreen extends StatefulWidget {
   const SlokaScreen({
@@ -28,6 +50,7 @@ class SlokaScreen extends StatefulWidget {
     this.position,
     this.embedded = false,
     this.isCompact = false,
+    this.cameFromBookmarks = false,
   });
 
   final AppDatabase db;
@@ -36,6 +59,7 @@ class SlokaScreen extends StatefulWidget {
   final int? position;
   final bool embedded;
   final bool isCompact;
+  final bool cameFromBookmarks;
 
   @override
   State<SlokaScreen> createState() => _SlokaScreenState();
@@ -43,21 +67,16 @@ class SlokaScreen extends StatefulWidget {
 
 class _SlokaScreenState extends State<SlokaScreen> {
   late final UserDataRepository _userData;
-  late final TextEditingController _noteController;
+  late final BookRepository _bookRepository;
   int? _boundSlokaId;
   bool _wiredCompletion = false;
-
-  int _translationVariant = 0;
-  int _commentaryVariant = 0;
-
-  static const _translationVariants = ['Ru'];
-  static const _commentaryVariants = ['BG'];
+  bool _commentsExpanded = false;
 
   @override
   void initState() {
     super.initState();
     _userData = UserDataRepository(widget.db);
-    _noteController = TextEditingController();
+    _bookRepository = BookRepository(widget.db);
   }
 
   @override
@@ -66,12 +85,6 @@ class _SlokaScreenState extends State<SlokaScreen> {
     if (_wiredCompletion) return;
     _wiredCompletion = true;
     AudioControllerScope.of(context).onCompleted = _handleAudioCompleted;
-  }
-
-  @override
-  void dispose() {
-    _noteController.dispose();
-    super.dispose();
   }
 
   static const _legacyHost = 'http://app.bhagavadgitaapp.online';
@@ -175,6 +188,46 @@ class _SlokaScreenState extends State<SlokaScreen> {
           slokaId: next.id,
           chapterId: chapterId,
           position: next.position,
+          cameFromBookmarks: widget.cameFromBookmarks,
+        ),
+      ),
+    );
+  }
+
+  Future<Sloka?> _fetchAdjacentSloka({required bool forward}) async {
+    final chapterId = widget.chapterId;
+    final position = widget.position;
+    if (chapterId == null || position == null) return null;
+    final query = widget.db.select(widget.db.slokas)
+      ..where(
+        (t) =>
+            t.chapterId.equals(chapterId) &
+            (forward
+                ? t.position.isBiggerThanValue(position)
+                : t.position.isSmallerThanValue(position)),
+      )
+      ..orderBy([
+        (t) => forward
+            ? OrderingTerm.asc(t.position)
+            : OrderingTerm.desc(t.position),
+      ])
+      ..limit(1);
+    return query.getSingleOrNull();
+  }
+
+  Future<void> _navigateAdjacent({required bool forward}) async {
+    final next = await _fetchAdjacentSloka(forward: forward);
+    if (!mounted || next == null) return;
+    Navigator.of(context).pushReplacement(
+      MaterialPageRoute(
+        builder: (_) => SlokaScreen(
+          db: widget.db,
+          slokaId: next.id,
+          chapterId: widget.chapterId,
+          position: next.position,
+          embedded: widget.embedded,
+          isCompact: widget.isCompact,
+          cameFromBookmarks: widget.cameFromBookmarks,
         ),
       ),
     );
@@ -182,6 +235,7 @@ class _SlokaScreenState extends State<SlokaScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final l10n = context.l10n;
     final slokaQuery = (widget.db.select(
       widget.db.slokas,
     )..where((t) => t.id.equals(widget.slokaId)))..limit(1);
@@ -204,176 +258,213 @@ class _SlokaScreenState extends State<SlokaScreen> {
         _bindAudioIfNeeded(sloka);
 
         return ListView(
-          padding: const EdgeInsets.all(16),
+          padding: const EdgeInsets.all(AppSpacing.gutter),
           children: [
-            if (widget.chapterId != null && widget.position != null) ...[
-              _SlokaNavigator(
-                db: widget.db,
-                chapterId: widget.chapterId!,
-                position: widget.position!,
-              ),
-              const SizedBox(height: 12),
-            ],
-            Center(
-              child: Text(sloka.position.toString(), style: AppText.caption()),
+            // Header: prev/next arrows flanking the verse number, chapter
+            // name below — matches legacy's fragment_sloka.xml layout.
+            Row(
+              children: [
+                _HeaderNavIcon(
+                  icon: Icons.chevron_left,
+                  onPressed: widget.chapterId == null || widget.position == null
+                      ? null
+                      : () => _navigateAdjacent(forward: false),
+                  futureEnabled: _fetchAdjacentSloka(forward: false),
+                ),
+                Expanded(
+                  child: Column(
+                    children: [
+                      Text(
+                        sloka.name,
+                        textAlign: TextAlign.center,
+                        style: AppText.heading().copyWith(fontSize: 24),
+                      ),
+                      const SizedBox(height: 4),
+                      StreamBuilder<Chapter?>(
+                        stream:
+                            (widget.db.select(widget.db.chapters)
+                                  ..where((t) => t.id.equals(sloka.chapterId)))
+                                .watchSingleOrNull(),
+                        builder: (context, chapterSnap) {
+                          final chapterName = chapterSnap.data?.name;
+                          if (chapterName == null) {
+                            return const SizedBox.shrink();
+                          }
+                          return Text(
+                            chapterName,
+                            textAlign: TextAlign.center,
+                            style: AppText.heading(),
+                          );
+                        },
+                      ),
+                    ],
+                  ),
+                ),
+                _HeaderNavIcon(
+                  icon: Icons.chevron_right,
+                  onPressed: widget.chapterId == null || widget.position == null
+                      ? null
+                      : () => _navigateAdjacent(forward: true),
+                  futureEnabled: _fetchAdjacentSloka(forward: true),
+                ),
+              ],
             ),
-            const SizedBox(height: 6),
-            Text(
-              sloka.name,
-              textAlign: TextAlign.center,
-              style: AppText.heading(),
-            ),
-            const SizedBox(height: 12),
             ValueListenableBuilder<ReaderSettings>(
               valueListenable: readerSettingsController,
               builder: (context, settings, _) {
-                final divider = const Padding(
-                  padding: EdgeInsets.symmetric(vertical: 10),
-                  child: Divider(),
-                );
                 return Column(
                   crossAxisAlignment: CrossAxisAlignment.stretch,
                   children: [
                     if (settings.showSanskrit &&
                         (sloka.slokaText ?? '').isNotEmpty) ...[
-                      const SectionHeader('Sanskrit'),
+                      const _OrnamentalDivider(),
                       VersePassage(
                         layout: VersePassageLayout.columnCenter,
                         primary: sloka.slokaText!,
                         primaryStyle: AppText.sanskrit(),
                         primaryTextAlign: TextAlign.center,
                       ),
-                      divider,
                     ],
                     if (settings.showTransliteration &&
                         (sloka.transcription ?? '').isNotEmpty) ...[
-                      const SectionHeader('Transcription'),
+                      const SizedBox(height: AppSpacing.space4),
                       VersePassage(
-                        layout: VersePassageLayout.columnStretch,
+                        layout: VersePassageLayout.columnCenter,
                         primary: sloka.transcription!,
                         primaryStyle: AppText.bodyItalic(),
-                        primaryTextAlign: TextAlign.start,
+                        primaryTextAlign: TextAlign.center,
                       ),
-                      divider,
-                    ],
-                    if (settings.showTranslation &&
-                        (sloka.translation ?? '').isNotEmpty) ...[
-                      const SectionHeader('Translation'),
-                      VariantPillRow(
-                        variants: _translationVariants,
-                        selectedIndex: _translationVariant,
-                        onSelect: (i) =>
-                            setState(() => _translationVariant = i),
-                      ),
-                      const SizedBox(height: 8),
-                      VersePassage(
-                        layout: VersePassageLayout.columnStretch,
-                        primary: sloka.translation!,
-                        primaryStyle: AppText.body(),
-                        primaryTextAlign: TextAlign.start,
-                      ),
-                      divider,
-                    ],
-                    if (settings.showComment &&
-                        (sloka.comment ?? '').isNotEmpty) ...[
-                      const SectionHeader('Commentary'),
-                      VariantPillRow(
-                        variants: _commentaryVariants,
-                        selectedIndex: _commentaryVariant,
-                        onSelect: (i) => setState(() => _commentaryVariant = i),
-                      ),
-                      const SizedBox(height: 8),
-                      Row(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          const AuthorBadge(
-                            initials: 'BG',
-                            name: 'Bhagavad Gita',
-                          ),
-                          const SizedBox(width: 10),
-                          Expanded(
-                            child: VersePassage(
-                              layout: VersePassageLayout.columnStretch,
-                              primary: sloka.comment!,
-                              primaryStyle: AppText.body(),
-                              primaryTextAlign: TextAlign.start,
-                            ),
-                          ),
-                        ],
-                      ),
-                      divider,
                     ],
                     if (settings.showVocabulary) ...[
-                      const SectionHeader('Vocabulary'),
                       StreamBuilder<List<Vocabulary>>(
                         stream: vocabQuery.watch(),
                         builder: (context, vocabSnap) {
                           final items = vocabSnap.data ?? const [];
-                          if (items.isEmpty) {
-                            return Text(
-                              'No vocabulary yet.',
-                              style: AppText.caption(),
-                            );
-                          }
+                          if (items.isEmpty) return const SizedBox.shrink();
                           return Column(
                             children: [
-                              for (final v in items)
-                                ListTile(
-                                  dense: true,
-                                  contentPadding: EdgeInsets.zero,
-                                  title: Text(
-                                    v.tokenText,
-                                    style: AppText.body().copyWith(
-                                      fontWeight: FontWeight.w600,
-                                    ),
-                                  ),
-                                  subtitle: Text(
-                                    v.translation,
-                                    style: AppText.body(),
-                                  ),
+                              const _OrnamentalDivider(),
+                              RichText(
+                                textAlign: TextAlign.center,
+                                text: TextSpan(
+                                  style: AppText.body(),
+                                  children: [
+                                    for (var i = 0; i < items.length; i++) ...[
+                                      TextSpan(
+                                        text: items[i].tokenText,
+                                        style: AppText.body().copyWith(
+                                          fontWeight: FontWeight.w700,
+                                          fontStyle: FontStyle.italic,
+                                        ),
+                                      ),
+                                      TextSpan(
+                                        text: ' — ${items[i].translation}',
+                                      ),
+                                      TextSpan(
+                                        text: i == items.length - 1
+                                            ? '.'
+                                            : '; ',
+                                      ),
+                                    ],
+                                  ],
                                 ),
+                              ),
                             ],
                           );
                         },
                       ),
                     ],
-                  ],
-                );
-              },
-            ),
-            const SizedBox(height: 20),
-            const SectionHeader('Note'),
-            const SizedBox(height: 8),
-            StreamBuilder<String?>(
-              stream: _userData.watchNote(widget.slokaId),
-              builder: (context, noteSnap) {
-                final note = noteSnap.data ?? '';
-                if (_noteController.text != note) {
-                  _noteController.text = note;
-                  _noteController.selection = TextSelection.collapsed(
-                    offset: _noteController.text.length,
-                  );
-                }
-
-                return Column(
-                  crossAxisAlignment: CrossAxisAlignment.stretch,
-                  children: [
-                    TextField(
-                      controller: _noteController,
-                      maxLines: null,
-                      decoration: const InputDecoration(
-                        border: OutlineInputBorder(),
-                        hintText: 'Write your note…',
+                    if (settings.showTranslation)
+                      StreamBuilder<List<SlokaEditionView>>(
+                        stream: _bookRepository.watchEditions(sloka.id),
+                        builder: (context, editionsSnap) {
+                          final editions = editionsSnap.data ?? const [];
+                          final translations = editions
+                              .where((e) => (e.translation ?? '').isNotEmpty)
+                              .toList();
+                          if (translations.isEmpty) {
+                            return const SizedBox.shrink();
+                          }
+                          return Column(
+                            crossAxisAlignment: CrossAxisAlignment.stretch,
+                            children: [
+                              for (final edition in translations) ...[
+                                const _OrnamentalDivider(),
+                                if (translations.length > 1) ...[
+                                  Center(
+                                    child: Text(
+                                      edition.bookInitials,
+                                      style: AppText.pillLabel(),
+                                    ),
+                                  ),
+                                  const SizedBox(height: AppSpacing.space2),
+                                ],
+                                VersePassage(
+                                  layout: VersePassageLayout.columnCenter,
+                                  primary: edition.translation!,
+                                  primaryStyle: AppText.body(),
+                                  primaryTextAlign: TextAlign.center,
+                                ),
+                              ],
+                            ],
+                          );
+                        },
                       ),
-                    ),
-                    const SizedBox(height: 10),
-                    FilledButton(
-                      onPressed: () => _userData.saveNote(
-                        widget.slokaId,
-                        _noteController.text,
+                    if (settings.showComment)
+                      StreamBuilder<List<SlokaEditionView>>(
+                        stream: _bookRepository.watchEditions(sloka.id),
+                        builder: (context, editionsSnap) {
+                          final editions = editionsSnap.data ?? const [];
+                          final comments = editions
+                              .where((e) => (e.comment ?? '').isNotEmpty)
+                              .toList();
+                          if (comments.isEmpty) return const SizedBox.shrink();
+                          final shown = _commentsExpanded
+                              ? comments
+                              : comments.take(1).toList();
+                          final moreCount = comments.length - 1;
+                          return Column(
+                            crossAxisAlignment: CrossAxisAlignment.stretch,
+                            children: [
+                              for (final edition in shown) ...[
+                                const _OrnamentalDivider(),
+                                Row(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    AuthorBadge(
+                                      initials: edition.bookInitials,
+                                      name: edition.bookName,
+                                    ),
+                                  ],
+                                ),
+                                const SizedBox(height: AppSpacing.space2),
+                                VersePassage(
+                                  layout: VersePassageLayout.columnStretch,
+                                  primary: edition.comment!,
+                                  primaryStyle: AppText.body(),
+                                  primaryTextAlign: TextAlign.start,
+                                ),
+                              ],
+                              if (moreCount > 0) ...[
+                                const SizedBox(height: AppSpacing.space3),
+                                Center(
+                                  child: FilledButton(
+                                    onPressed: () => setState(
+                                      () => _commentsExpanded =
+                                          !_commentsExpanded,
+                                    ),
+                                    child: Text(
+                                      _commentsExpanded
+                                          ? l10n.readerMinimize
+                                          : l10n.readerMoreComments(moreCount),
+                                    ),
+                                  ),
+                                ),
+                              ],
+                            ],
+                          );
+                        },
                       ),
-                      child: const Text('Save note'),
-                    ),
                   ],
                 );
               },
@@ -389,40 +480,41 @@ class _SlokaScreenState extends State<SlokaScreen> {
         ? Stack(
             children: [
               body,
-              Positioned(
-                top: MediaQuery.of(context).size.height * 0.45,
-                left: 12,
-                child: _RoundNavButton(
-                  icon: Icons.chevron_left,
-                  onPressed: () {},
+              if (widget.chapterId != null && widget.position != null) ...[
+                Positioned(
+                  top: MediaQuery.of(context).size.height * 0.45,
+                  left: 12,
+                  child: _RoundNavButton(
+                    icon: Icons.chevron_left,
+                    onPressed: () => _navigateAdjacent(forward: false),
+                  ),
                 ),
-              ),
-              Positioned(
-                top: MediaQuery.of(context).size.height * 0.45,
-                right: 12,
-                child: _RoundNavButton(
-                  icon: Icons.chevron_right,
-                  onPressed: () {},
+                Positioned(
+                  top: MediaQuery.of(context).size.height * 0.45,
+                  right: 12,
+                  child: _RoundNavButton(
+                    icon: Icons.chevron_right,
+                    onPressed: () => _navigateAdjacent(forward: true),
+                  ),
                 ),
-              ),
+              ],
             ],
           )
         : body;
 
+    final backTitle = widget.cameFromBookmarks
+        ? l10n.readerToBookmarks
+        : l10n.readerToContents;
+
     return Scaffold(
       appBar: widget.isCompact
           ? AppBar(
-              title: Text('К оглавлению', style: AppText.navTitle()),
+              title: Text(backTitle, style: AppText.navTitle()),
               backgroundColor: AppColors.white,
               foregroundColor: AppColors.gray1,
               elevation: 0,
               iconTheme: const IconThemeData(color: AppColors.gray1),
               actions: [
-                IconButton(
-                  icon: const Icon(Icons.mode_comment_outlined),
-                  onPressed: () {},
-                ),
-                ShareButton(chapter: widget.chapterId, verse: widget.slokaId),
                 StreamBuilder<bool>(
                   stream: _userData.watchBookmark(widget.slokaId),
                   builder: (context, snap) {
@@ -437,13 +529,59 @@ class _SlokaScreenState extends State<SlokaScreen> {
                     );
                   },
                 ),
+                StreamBuilder<String?>(
+                  stream: _userData.watchNote(widget.slokaId),
+                  builder: (context, snap) {
+                    final hasNote = (snap.data ?? '').isNotEmpty;
+                    return IconButton(
+                      icon: Icon(
+                        hasNote
+                            ? Icons.mode_comment
+                            : Icons.mode_comment_outlined,
+                        color: hasNote ? AppColors.red1 : AppColors.gray1,
+                      ),
+                      onPressed: () {
+                        Navigator.of(context).push(
+                          MaterialPageRoute(
+                            builder: (context) => NoteScreen(
+                              userData: _userData,
+                              slokaId: widget.slokaId,
+                            ),
+                          ),
+                        );
+                      },
+                    );
+                  },
+                ),
+                ShareButton(chapter: widget.chapterId, verse: widget.slokaId),
               ],
             )
           : AppBar(
-              title: Text('Sloka', style: AppText.navTitle()),
-              backgroundColor: AppColors.red1,
-              foregroundColor: AppColors.white,
+              title: Text(backTitle, style: AppText.navTitle()),
               actions: [
+                StreamBuilder<String?>(
+                  stream: _userData.watchNote(widget.slokaId),
+                  builder: (context, snap) {
+                    final hasNote = (snap.data ?? '').isNotEmpty;
+                    return IconButton(
+                      icon: Icon(
+                        hasNote
+                            ? Icons.mode_comment
+                            : Icons.mode_comment_outlined,
+                      ),
+                      onPressed: () {
+                        Navigator.of(context).push(
+                          MaterialPageRoute(
+                            builder: (context) => NoteScreen(
+                              userData: _userData,
+                              slokaId: widget.slokaId,
+                            ),
+                          ),
+                        );
+                      },
+                    );
+                  },
+                ),
                 ShareButton(chapter: widget.chapterId, verse: widget.slokaId),
                 StreamBuilder<bool>(
                   stream: _userData.watchBookmark(widget.slokaId),
@@ -486,6 +624,36 @@ class _SlokaScreenState extends State<SlokaScreen> {
   }
 }
 
+/// Prev/next chevron flanking the header verse number (phone/non-compact
+/// mode). Disabled at the first/last verse of the book, matching legacy.
+class _HeaderNavIcon extends StatelessWidget {
+  const _HeaderNavIcon({
+    required this.icon,
+    required this.onPressed,
+    required this.futureEnabled,
+  });
+
+  final IconData icon;
+  final VoidCallback? onPressed;
+  final Future<Sloka?> futureEnabled;
+
+  @override
+  Widget build(BuildContext context) {
+    if (onPressed == null) return const SizedBox(width: 40, height: 40);
+    return FutureBuilder<Sloka?>(
+      future: futureEnabled,
+      builder: (context, snap) {
+        final enabled = snap.data != null;
+        return IconButton(
+          icon: Icon(icon),
+          color: enabled ? AppColors.gray1 : AppColors.gray3,
+          onPressed: enabled ? onPressed : null,
+        );
+      },
+    );
+  }
+}
+
 class _RoundNavButton extends StatelessWidget {
   const _RoundNavButton({required this.icon, required this.onPressed});
   final IconData icon;
@@ -502,131 +670,6 @@ class _RoundNavButton extends StatelessWidget {
       child: IconButton(
         icon: Icon(icon, color: AppColors.gray1),
         onPressed: onPressed,
-      ),
-    );
-  }
-}
-
-class _SlokaNavigator extends StatelessWidget {
-  const _SlokaNavigator({
-    required this.db,
-    required this.chapterId,
-    required this.position,
-  });
-
-  final AppDatabase db;
-  final int chapterId;
-  final int position;
-
-  @override
-  Widget build(BuildContext context) {
-    final previousQuery =
-        (db.select(db.slokas)
-              ..where(
-                (t) =>
-                    t.chapterId.equals(chapterId) &
-                    t.position.isSmallerThanValue(position),
-              )
-              ..orderBy([(t) => OrderingTerm.desc(t.position)])
-              ..limit(1))
-            .watchSingleOrNull();
-    final nextQuery =
-        (db.select(db.slokas)
-              ..where(
-                (t) =>
-                    t.chapterId.equals(chapterId) &
-                    t.position.isBiggerThanValue(position),
-              )
-              ..orderBy([(t) => OrderingTerm.asc(t.position)])
-              ..limit(1))
-            .watchSingleOrNull();
-
-    return StreamBuilder<Sloka?>(
-      stream: previousQuery,
-      builder: (context, prevSnap) {
-        return StreamBuilder<Sloka?>(
-          stream: nextQuery,
-          builder: (context, nextSnap) {
-            final previous = prevSnap.data;
-            final next = nextSnap.data;
-            return Padding(
-              padding: const EdgeInsets.symmetric(vertical: 8),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  _NavButton(
-                    icon: Icons.chevron_left,
-                    onPressed: previous == null
-                        ? null
-                        : () => _navigateToSloka(context, previous),
-                  ),
-                  _NavButton(
-                    icon: Icons.chevron_right,
-                    onPressed: next == null
-                        ? null
-                        : () => _navigateToSloka(context, next),
-                  ),
-                ],
-              ),
-            );
-          },
-        );
-      },
-    );
-  }
-
-  void _navigateToSloka(BuildContext context, Sloka sloka) {
-    Navigator.of(context).pushReplacement(
-      MaterialPageRoute(
-        builder: (_) => SlokaScreen(
-          db: db,
-          slokaId: sloka.id,
-          chapterId: chapterId,
-          position: sloka.position,
-        ),
-      ),
-    );
-  }
-}
-
-class _NavButton extends StatelessWidget {
-  const _NavButton({required this.icon, required this.onPressed});
-
-  final IconData icon;
-  final VoidCallback? onPressed;
-
-  @override
-  Widget build(BuildContext context) {
-    return Material(
-      color: Colors.transparent,
-      child: InkWell(
-        onTap: onPressed,
-        customBorder: const CircleBorder(),
-        child: Container(
-          width: 48,
-          height: 48,
-          decoration: BoxDecoration(
-            color: AppColors.white,
-            shape: BoxShape.circle,
-            border: Border.all(
-              color: onPressed != null ? AppColors.red1 : AppColors.gray3,
-              width: 1.5,
-            ),
-            boxShadow: onPressed != null
-                ? [
-                    const BoxShadow(
-                      color: AppColors.black20,
-                      blurRadius: 4,
-                      offset: Offset(0, 2),
-                    ),
-                  ]
-                : null,
-          ),
-          child: Icon(
-            icon,
-            color: onPressed != null ? AppColors.red1 : AppColors.gray3,
-          ),
-        ),
       ),
     );
   }

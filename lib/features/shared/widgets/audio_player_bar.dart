@@ -79,8 +79,7 @@ class AudioPlayerBar extends StatelessWidget {
     return SafeArea(
       top: false,
       child: Material(
-        elevation: 8,
-        color: AppColors.white,
+        color: AppColors.gray5,
         child: Opacity(
           opacity: enabled ? 1 : 0.55,
           child: Column(
@@ -88,12 +87,10 @@ class AudioPlayerBar extends StatelessWidget {
             children: [
               _SeekBar(enabled: enabled, progress: progress, onSeek: onSeek),
               Container(
+                constraints: const BoxConstraints(minHeight: 57),
                 padding: const EdgeInsets.symmetric(
                   horizontal: 16,
-                  vertical: 8,
-                ),
-                decoration: const BoxDecoration(
-                  border: Border(top: BorderSide(color: AppColors.gray4)),
+                  vertical: 4,
                 ),
                 child: Row(
                   children: [
