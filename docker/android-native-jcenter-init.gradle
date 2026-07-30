@@ -1,0 +1,54 @@
+// Gradle init script for building native/android (legacy AGP 3.0.1 project) without editing its
+// own build.gradle files. Two jobs:
+//
+//   1. Add a JCenter-mirror fallback repository, since jcenter() itself has been fully shut down
+//      since 2021. Added *alongside* (not instead of) the project's own declared repositories.
+//   2. Inject a `release` signingConfig, since native/android/app/build.gradle's `release` build
+//      type has none — Play Console requires a signed APK/AAB. Values come from -P properties,
+//      themselves populated from the ANDROID_KEYSTORE_* GitHub secrets (see release.yml). If the
+//      properties are absent (no secrets configured), signing is skipped gracefully and the build
+//      stays unsigned/debug-equivalent — see AC #7 (optional/best-effort signing).
+//
+// Usage: gradle --init-script docker/android-native-jcenter-init.gradle -p native/android <task>
+//        [-PandroidKeystoreFile=... -PandroidKeystorePassword=... -PandroidKeyAlias=... -PandroidKeyPassword=...]
+
+allprojects {
+    buildscript {
+        repositories {
+            maven { url 'https://maven.aliyun.com/repository/jcenter' }
+        }
+    }
+    repositories {
+        maven { url 'https://maven.aliyun.com/repository/jcenter' }
+        google()
+        mavenCentral()
+    }
+}
+
+gradle.projectsEvaluated {
+    def appProject = rootProject.subprojects.find { it.name == 'app' }
+    if (appProject == null) {
+        return
+    }
+
+    def hasKeystoreProps = appProject.hasProperty('androidKeystoreFile') &&
+        appProject.hasProperty('androidKeystorePassword') &&
+        appProject.hasProperty('androidKeyAlias') &&
+        appProject.hasProperty('androidKeyPassword')
+
+    if (!hasKeystoreProps) {
+        appProject.logger.lifecycle('android-native-jcenter-init: no keystore -P properties supplied, ' +
+            'leaving `release` build type unsigned (optional/best-effort signing).')
+        return
+    }
+
+    appProject.android.signingConfigs {
+        release {
+            storeFile appProject.file(appProject.property('androidKeystoreFile'))
+            storePassword appProject.property('androidKeystorePassword')
+            keyAlias appProject.property('androidKeyAlias')
+            keyPassword appProject.property('androidKeyPassword')
+        }
+    }
+    appProject.android.buildTypes.release.signingConfig = appProject.android.signingConfigs.release
+}
