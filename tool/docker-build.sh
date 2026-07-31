@@ -23,7 +23,7 @@ case "$TARGET" in
   native)
     DOCKERFILE="docker/android-native-build.Dockerfile"
     IMAGE="bgita-native-build:local"
-    DEFAULT_CMD="gradle --init-script docker/android-native-jcenter-init.gradle -p native/android assembleDebug"
+    DEFAULT_CMD="gradle --init-script docker/android-native-jcenter-init.gradle -p native/android assembleLiveDebug"
     ;;
   *)
     echo "usage: $0 <flutter|native> [command...]" >&2

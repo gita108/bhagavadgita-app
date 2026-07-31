@@ -1,0 +1,112 @@
+name: Native Build (verify)
+
+# Fast, unsigned verification build — every push/PR. No signing secrets required. Covers the
+# Flutter-embedded Android/iOS variants and the native iOS variant (Xcode project parses/builds
+# fine — see native/ios/Gita.xcodeproj). native/android is deliberately NOT built here: its old
+# toolchain (JDK 8 + Gradle 4.4 + JCenter mirror) is too slow/fragile to duplicate outside Docker —
+# it's verified exclusively in docker-build.yml's docker-build-android-native job. See
+# flows/sdd-bhagavadgita-app-build/02-specifications.md Overview for the rationale.
+#
+# Real signed builds + store publishing live in release.yml (tag push / workflow_dispatch).
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: native-build-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  FLUTTER_VERSION: "3.44.6"
+
+jobs:
+  build-android-flutter:
+    name: Android (Flutter-embedded, debug)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+          cache: gradle
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          cache: true
+
+      - name: Flutter pub get
+        run: flutter pub get
+
+      - name: Flutter analyze
+        run: flutter analyze
+
+      - name: Build debug APK
+        run: flutter build apk --debug
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-flutter-debug
+          path: build/app/outputs/flutter-apk/app-debug.apk
+          retention-days: 14
+
+  build-ios-flutter:
+    name: iOS (Flutter-embedded, debug, unsigned)
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          cache: true
+
+      - name: Flutter pub get
+        run: flutter pub get
+
+      - name: Build debug IPA (no codesign)
+        run: flutter build ios --debug --no-codesign
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ios-flutter-debug
+          path: build/ios/iphoneos/Runner.app
+          retention-days: 14
+
+  build-ios-native:
+    name: iOS (native, debug, unsigned)
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build (no codesign)
+        working-directory: native/ios
+        run: |
+          xcodebuild -project Gita.xcodeproj -scheme Gita -configuration Debug \
+            CODE_SIGNING_ALLOWED=NO \
+            -derivedDataPath build \
+            build
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ios-native-debug
+          path: native/ios/build/Build/Products/Debug-iphoneos/Gita.app
+          retention-days: 14

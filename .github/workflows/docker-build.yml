@@ -1,0 +1,108 @@
+name: Docker Build (reproducibility)
+
+# Reproducible, containerized builds for both Android variants. This is the ONLY place
+# build-android-native runs — its old toolchain (JDK 8 + Gradle 4.4 + JCenter mirror) is too
+# slow/fragile for the fast push/PR layer (build.yml). No iOS job here: no Linux-container iOS
+# toolchain exists, matches the sdd-vpnclient-design-prototype-build precedent.
+#
+# KNOWN GAP (see docker/android-native-jcenter-init.gradle and
+# flows/sdd-bhagavadgita-app-build/04-implementation-log.md): docker-build-android-native currently
+# fails — one dependency (com.viewpagerindicator:library:2.4.1) cannot be resolved by any available
+# mirror, confirmed empirically. This job is expected to be red until that's addressed in a future,
+# explicitly-scoped spec (would require editing native/android/app/build.gradle).
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 3 * * *" # nightly, 03:00 UTC
+  release:
+    types: [published]
+
+permissions:
+  contents: write # only used to attach artifacts to a Release; read is enough otherwise
+
+concurrency:
+  group: docker-build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  docker-build-android-flutter:
+    name: Android (Flutter-embedded, Docker, release)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: docker/android-flutter-build.Dockerfile
+          tags: bgita-flutter-build:ci
+          load: true
+          cache-from: type=gha,scope=android-flutter-build
+          cache-to: type=gha,mode=max,scope=android-flutter-build
+
+      - name: Build release APK
+        run: |
+          docker run --rm -v "${{ github.workspace }}:/workspace" -w /workspace \
+            bgita-flutter-build:ci bash -c "flutter pub get && flutter build apk --release"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-flutter-release-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
+          retention-days: 90
+
+      - name: Attach to GitHub Release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: build/app/outputs/flutter-apk/app-release.apk
+
+  docker-build-android-native:
+    name: Android (native, Docker, debug)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: docker/android-native-build.Dockerfile
+          tags: bgita-native-build:ci
+          load: true
+          cache-from: type=gha,scope=android-native-build
+          cache-to: type=gha,mode=max,scope=android-native-build
+
+      - name: Build debug APK (live flavor)
+        # native/android/app/build.gradle declares flavorDimensions "server" (dev/live) — building
+        # the "live" flavor (production API) to match what release.yml eventually publishes.
+        run: |
+          docker run --rm -v "${{ github.workspace }}:/workspace" -w /workspace \
+            bgita-native-build:ci bash -c \
+            "gradle --init-script docker/android-native-jcenter-init.gradle -p native/android assembleLiveDebug"
+
+      - name: Upload artifact
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-native-debug-apk
+          path: native/android/app/build/outputs/apk/live/debug/app-live-debug.apk
+          retention-days: 90
+
+      - name: Attach to GitHub Release
+        if: github.event_name == 'release' && success()
+        uses: softprops/action-gh-release@v2
+        with:
+          files: native/android/app/build/outputs/apk/live/debug/app-live-debug.apk

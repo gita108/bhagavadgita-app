@@ -1,0 +1,409 @@
+name: Release (build, sign, publish)
+
+# Real signing + real store submission via fastlane, both platforms, both variants (Flutter-embedded
+# and native). Only one variant per platform is ever actually published for a given run — default is
+# `native` (widest device support), override via workflow_dispatch. All 4 jobs always build+sign
+# best-effort (so signed/unsigned artifacts exist regardless), but only the selected variant per
+# platform calls fastlane's real store-upload lane.
+#
+# Every signing/publish step degrades gracefully when its secrets aren't set (builds
+# unsigned/debug-equivalent, skips the store call, does not fail the job) — see fastlane/Fastfile and
+# docker/android-native-jcenter-init.gradle for the corresponding optional-secret handling.
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+    inputs:
+      android_variant:
+        description: Which Android variant actually publishes to Play Store
+        required: false
+        default: native
+        type: choice
+        options: [native, flutter]
+      ios_variant:
+        description: Which iOS variant actually publishes to App Store Connect
+        required: false
+        default: native
+        type: choice
+        options: [native, flutter]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  FLUTTER_VERSION: "3.44.6"
+  ANDROID_VARIANT: ${{ inputs.android_variant || 'native' }}
+  IOS_VARIANT: ${{ inputs.ios_variant || 'native' }}
+
+jobs:
+  release-android-flutter:
+    name: Android (Flutter-embedded) — build, sign, publish if selected
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+          cache: gradle
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          cache: true
+
+      - name: Flutter pub get
+        run: flutter pub get
+
+      - name: Materialize Android keystore (optional)
+        if: ${{ secrets.ANDROID_KEYSTORE_BASE64 != '' }}
+        env:
+          ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+        run: |
+          mkdir -p android/keystore
+          echo "$ANDROID_KEYSTORE_BASE64" | base64 --decode > android/keystore/release.jks
+
+      - name: Build release APK
+        env:
+          ANDROID_KEYSTORE_PATH: ${{ github.workspace }}/android/keystore/release.jks
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+        run: flutter build apk --release
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-flutter-release-${{ github.ref_name }}
+          path: build/app/outputs/flutter-apk/app-release.apk
+          retention-days: 90
+
+      - name: Set up Ruby / fastlane
+        if: ${{ env.ANDROID_VARIANT == 'flutter' }}
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: false
+
+      - name: Publish to Play Store (only if this variant is selected)
+        if: ${{ env.ANDROID_VARIANT == 'flutter' }}
+        env:
+          PLAY_STORE_JSON_KEY: ${{ secrets.PLAY_STORE_JSON_KEY }}
+        run: |
+          gem install fastlane --no-document
+          fastlane android publish platform_dir:android publish:true
+
+  release-android-native:
+    name: Android (native) — build, sign, publish if selected (default)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: docker/android-native-build.Dockerfile
+          tags: bgita-native-build:ci
+          load: true
+          cache-from: type=gha,scope=android-native-build
+          cache-to: type=gha,mode=max,scope=android-native-build
+
+      - name: Materialize Android keystore (optional)
+        if: ${{ secrets.ANDROID_KEYSTORE_BASE64 != '' }}
+        env:
+          ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+        run: |
+          mkdir -p native/android/keystore
+          echo "$ANDROID_KEYSTORE_BASE64" | base64 --decode > native/android/keystore/release.jks
+
+      - name: Materialize google-services.json override (optional)
+        if: ${{ secrets.ANDROID_GOOGLE_SERVICES_JSON_BASE64 != '' }}
+        env:
+          ANDROID_GOOGLE_SERVICES_JSON_BASE64: ${{ secrets.ANDROID_GOOGLE_SERVICES_JSON_BASE64 }}
+        run: echo "$ANDROID_GOOGLE_SERVICES_JSON_BASE64" | base64 --decode > native/android/app/google-services.json
+
+      - name: Build release (live flavor — see KNOWN GAP)
+        # native/android/app/build.gradle declares flavorDimensions "server" (dev/live) — the
+        # "live" flavor points at the production API (app.bhagavadgitaapp.online) and is the one
+        # meant for real publishing; "dev" is not built here. Task is assembleLiveRelease, not
+        # plain assembleRelease (which would build both flavors).
+        # NOTE: this currently fails, see docker/android-native-jcenter-init.gradle's header comment —
+        # com.viewpagerindicator:library:2.4.1 cannot be resolved by any available mirror. Left as a
+        # real (expected-red) step rather than silenced, per Specifications' edge-case handling.
+        env:
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+        run: |
+          KEYSTORE_ARGS=()
+          if [ -f native/android/keystore/release.jks ]; then
+            KEYSTORE_ARGS=(
+              -PandroidKeystoreFile=keystore/release.jks
+              -PandroidKeystorePassword="$ANDROID_KEYSTORE_PASSWORD"
+              -PandroidKeyAlias="$ANDROID_KEY_ALIAS"
+              -PandroidKeyPassword="$ANDROID_KEY_PASSWORD"
+            )
+          fi
+          docker run --rm -v "${{ github.workspace }}:/workspace" -w /workspace \
+            bgita-native-build:ci gradle --init-script docker/android-native-jcenter-init.gradle \
+            -p native/android assembleLiveRelease "${KEYSTORE_ARGS[@]}"
+
+      - name: Upload artifact
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-native-release-${{ github.ref_name }}
+          path: native/android/app/build/outputs/apk/live/release/app-live-release.apk
+          retention-days: 90
+
+      - name: Set up Ruby / fastlane
+        if: ${{ success() && env.ANDROID_VARIANT == 'native' }}
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: false
+
+      - name: Publish to Play Store (only if this variant is selected)
+        if: ${{ success() && env.ANDROID_VARIANT == 'native' }}
+        env:
+          PLAY_STORE_JSON_KEY: ${{ secrets.PLAY_STORE_JSON_KEY }}
+        run: |
+          gem install fastlane --no-document
+          fastlane android publish platform_dir:native/android publish:true
+
+  release-ios-flutter:
+    name: iOS (Flutter-embedded) — build, sign, publish if selected
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          cache: true
+
+      - name: Flutter pub get
+        run: flutter pub get
+
+      - name: Import signing certificate (.p12) (optional)
+        if: ${{ secrets.IOS_CERT_P12_BASE64 != '' }}
+        env:
+          IOS_CERT_P12_BASE64: ${{ secrets.IOS_CERT_P12_BASE64 }}
+          IOS_CERT_PASSWORD: ${{ secrets.IOS_CERT_PASSWORD }}
+        run: |
+          set -euo pipefail
+          CERT_PATH="$RUNNER_TEMP/cert.p12"
+          KEYCHAIN_PATH="$RUNNER_TEMP/build.keychain-db"
+          KEYCHAIN_PASSWORD="$(uuidgen)"
+          echo "$IOS_CERT_P12_BASE64" | base64 --decode > "$CERT_PATH"
+          security create-keychain -p "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
+          security set-keychain-settings -lut 21600 "$KEYCHAIN_PATH"
+          security unlock-keychain -p "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
+          security list-keychains -d user -s "$KEYCHAIN_PATH"
+          security import "$CERT_PATH" -P "$IOS_CERT_PASSWORD" -A -t cert -f pkcs12 -k "$KEYCHAIN_PATH"
+          security set-key-partition-list -S apple-tool:,apple: -s -k "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
+
+      - name: Install provisioning profile (optional)
+        if: ${{ secrets.IOS_PROVISIONING_PROFILE_BASE64 != '' }}
+        env:
+          IOS_PROVISIONING_PROFILE_BASE64: ${{ secrets.IOS_PROVISIONING_PROFILE_BASE64 }}
+        run: |
+          set -euo pipefail
+          PROFILE_DIR="$HOME/Library/MobileDevice/Provisioning Profiles"
+          mkdir -p "$PROFILE_DIR"
+          PROFILE_PATH="$RUNNER_TEMP/profile.mobileprovision"
+          echo "$IOS_PROVISIONING_PROFILE_BASE64" | base64 --decode > "$PROFILE_PATH"
+          PROFILE_PLIST="$(security cms -D -i "$PROFILE_PATH")"
+          UUID=$(/usr/libexec/PlistBuddy -c 'Print UUID' /dev/stdin <<< "$PROFILE_PLIST")
+          PROFILE_NAME=$(/usr/libexec/PlistBuddy -c 'Print Name' /dev/stdin <<< "$PROFILE_PLIST")
+          cp "$PROFILE_PATH" "$PROFILE_DIR/$UUID.mobileprovision"
+          echo "IOS_PROFILE_NAME=$PROFILE_NAME" >> "$GITHUB_ENV"
+
+      - name: Build IPA
+        if: ${{ secrets.IOS_CERT_P12_BASE64 != '' }}
+        env:
+          IOS_TEAM_ID: ${{ secrets.IOS_TEAM_ID }}
+        run: |
+          sed "s/__TEAM_ID__/${IOS_TEAM_ID}/g; s/__EXPORT_METHOD__/app-store/g; s/__PROFILE_NAME__/${IOS_PROFILE_NAME}/g" \
+            ios/ExportOptions.plist > "$RUNNER_TEMP/ExportOptions.plist"
+          flutter build ipa --release --export-options-plist="$RUNNER_TEMP/ExportOptions.plist"
+
+      - name: Build unsigned (no secrets)
+        if: ${{ secrets.IOS_CERT_P12_BASE64 == '' }}
+        run: flutter build ios --release --no-codesign
+
+      - name: Upload artifact
+        if: ${{ secrets.IOS_CERT_P12_BASE64 != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: ios-flutter-release-${{ github.ref_name }}
+          path: build/ios/ipa/*.ipa
+          retention-days: 90
+
+      - name: Set up Ruby / fastlane
+        if: ${{ secrets.IOS_CERT_P12_BASE64 != '' && env.IOS_VARIANT == 'flutter' }}
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: false
+
+      - name: Publish to App Store Connect (only if this variant is selected)
+        if: ${{ secrets.IOS_CERT_P12_BASE64 != '' && env.IOS_VARIANT == 'flutter' }}
+        run: |
+          gem install fastlane --no-document
+          fastlane ios publish platform_dir:ios publish:true
+
+  release-ios-native:
+    name: iOS (native) — build, sign, publish if selected (default)
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Import signing certificate (.p12) (optional)
+        if: ${{ secrets.IOS_CERT_P12_BASE64 != '' }}
+        env:
+          IOS_CERT_P12_BASE64: ${{ secrets.IOS_CERT_P12_BASE64 }}
+          IOS_CERT_PASSWORD: ${{ secrets.IOS_CERT_PASSWORD }}
+        run: |
+          set -euo pipefail
+          CERT_PATH="$RUNNER_TEMP/cert.p12"
+          KEYCHAIN_PATH="$RUNNER_TEMP/build.keychain-db"
+          KEYCHAIN_PASSWORD="$(uuidgen)"
+          echo "$IOS_CERT_P12_BASE64" | base64 --decode > "$CERT_PATH"
+          security create-keychain -p "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
+          security set-keychain-settings -lut 21600 "$KEYCHAIN_PATH"
+          security unlock-keychain -p "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
+          security list-keychains -d user -s "$KEYCHAIN_PATH"
+          security import "$CERT_PATH" -P "$IOS_CERT_PASSWORD" -A -t cert -f pkcs12 -k "$KEYCHAIN_PATH"
+          security set-key-partition-list -S apple-tool:,apple: -s -k "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
+
+      - name: Install provisioning profile (optional)
+        if: ${{ secrets.IOS_PROVISIONING_PROFILE_BASE64 != '' }}
+        env:
+          IOS_PROVISIONING_PROFILE_BASE64: ${{ secrets.IOS_PROVISIONING_PROFILE_BASE64 }}
+        run: |
+          set -euo pipefail
+          PROFILE_DIR="$HOME/Library/MobileDevice/Provisioning Profiles"
+          mkdir -p "$PROFILE_DIR"
+          PROFILE_PATH="$RUNNER_TEMP/profile.mobileprovision"
+          echo "$IOS_PROVISIONING_PROFILE_BASE64" | base64 --decode > "$PROFILE_PATH"
+          PROFILE_PLIST="$(security cms -D -i "$PROFILE_PATH")"
+          UUID=$(/usr/libexec/PlistBuddy -c 'Print UUID' /dev/stdin <<< "$PROFILE_PLIST")
+          PROFILE_NAME=$(/usr/libexec/PlistBuddy -c 'Print Name' /dev/stdin <<< "$PROFILE_PLIST")
+          cp "$PROFILE_PATH" "$PROFILE_DIR/$UUID.mobileprovision"
+          echo "IOS_PROFILE_NAME=$PROFILE_NAME" >> "$GITHUB_ENV"
+
+      - name: Archive + export IPA (signed)
+        if: ${{ secrets.IOS_CERT_P12_BASE64 != '' }}
+        working-directory: native/ios
+        env:
+          IOS_TEAM_ID: ${{ secrets.IOS_TEAM_ID }}
+        run: |
+          # DEVELOPMENT_TEAM/CODE_SIGN_IDENTITY overridden on the command line, not by editing
+          # Gita.xcodeproj/project.pbxproj (which hardcodes an old, stale identity) — see
+          # flows/sdd-bhagavadgita-app-build/02-specifications.md "native/ios signing overrides".
+          xcodebuild -project Gita.xcodeproj -scheme Gita -configuration Release \
+            DEVELOPMENT_TEAM="$IOS_TEAM_ID" -allowProvisioningUpdates \
+            -archivePath build/Gita.xcarchive archive
+          sed "s/__TEAM_ID__/${IOS_TEAM_ID}/g; s/__EXPORT_METHOD__/app-store/g; s/__PROFILE_NAME__/${IOS_PROFILE_NAME}/g" \
+            ExportOptions.plist > "$RUNNER_TEMP/ExportOptions.plist"
+          xcodebuild -exportArchive -archivePath build/Gita.xcarchive \
+            -exportOptionsPlist "$RUNNER_TEMP/ExportOptions.plist" -exportPath build
+
+      - name: Build unsigned (no secrets)
+        if: ${{ secrets.IOS_CERT_P12_BASE64 == '' }}
+        working-directory: native/ios
+        run: |
+          xcodebuild -project Gita.xcodeproj -scheme Gita -configuration Release \
+            CODE_SIGNING_ALLOWED=NO -derivedDataPath build build
+
+      - name: Upload artifact
+        if: ${{ secrets.IOS_CERT_P12_BASE64 != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: ios-native-release-${{ github.ref_name }}
+          path: native/ios/build/Gita.ipa
+          retention-days: 90
+
+      - name: Set up Ruby / fastlane
+        if: ${{ secrets.IOS_CERT_P12_BASE64 != '' && env.IOS_VARIANT == 'native' }}
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: false
+
+      - name: Publish to App Store Connect (only if this variant is selected)
+        if: ${{ secrets.IOS_CERT_P12_BASE64 != '' && env.IOS_VARIANT == 'native' }}
+        run: |
+          gem install fastlane --no-document
+          fastlane ios publish platform_dir:native/ios publish:true
+
+  release-windows:
+    # Carried over as-is from the superseded build-artifacts.yml (path fixed to repo root). No
+    # native Windows variant exists, no store to publish to (portable zip only) — out of scope for
+    # changes beyond that path fix, per requirements Won't-Have.
+    name: Windows (portable ZIP)
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          cache: true
+
+      - name: Enable Windows desktop
+        run: flutter config --enable-windows-desktop
+
+      - name: Flutter pub get
+        run: flutter pub get
+
+      - name: Flutter analyze
+        run: flutter analyze
+
+      - name: Build Windows release
+        run: flutter build windows --release
+
+      - name: Package portable zip
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = "Stop"
+          $refName = "${{ github.ref_name }}"
+          $sha = "${{ github.sha }}".Substring(0, 7)
+          $outDir = Join-Path $PWD "build\windows\x64\runner\Release"
+          if (!(Test-Path $outDir)) { throw "Windows build output not found: $outDir" }
+          $zipName = "bhagavadgita_book-windows-portable-$refName-$sha.zip"
+          $zipPath = Join-Path $env:RUNNER_TEMP $zipName
+          if (Test-Path $zipPath) { Remove-Item -Force $zipPath }
+          Compress-Archive -Path (Join-Path $outDir '*') -DestinationPath $zipPath
+          "WINDOWS_PORTABLE_ZIP=$zipPath" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+
+      - name: Upload Windows portable artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: windows-portable-${{ github.ref_name }}
+          path: ${{ env.WINDOWS_PORTABLE_ZIP }}
+          retention-days: 90

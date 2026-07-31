@@ -30,9 +30,12 @@ RUN curl -fsSL "https://storage.googleapis.com/flutter_infra_release/releases/st
     && tar -xJf /tmp/flutter.tar.xz -C /opt \
     && rm /tmp/flutter.tar.xz
 ENV PATH="/opt/flutter/bin:${PATH}"
-# Wildcard (not just /opt/flutter) since /workspace is also bind-mounted at `docker run` time with
-# host ownership, which trips the same git "dubious ownership" safety check.
-RUN git config --global --add safe.directory '*' \
+# --system (not --global): the image is built as root, but `docker run` uses --user <host uid> with
+# HOME=/tmp — a different user/HOME than build time, so a --global (per-user) config wouldn't be
+# read at runtime. --system writes /etc/gitconfig, read regardless of the active user. Wildcard (not
+# just /opt/flutter) since /workspace is also bind-mounted at `docker run` time with host ownership,
+# which trips the same git "dubious ownership" safety check.
+RUN git config --system --add safe.directory '*' \
     && flutter config --no-analytics && flutter precache --android
 
 # Android SDK — Flutter's own Gradle plugin resolves the exact compileSdk/build-tools versions it

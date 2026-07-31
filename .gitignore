@@ -43,4 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-.env
+# .env is intentionally tracked (see .env in the repo) — it's a placeholder with no real secrets,
+# committed so `flutter build` doesn't fail on the missing declared asset. Real per-environment
+# values, if ever needed, should come from a CI secret overwriting this file at build time, not by
+# re-ignoring and hand-editing it locally.
+!.env

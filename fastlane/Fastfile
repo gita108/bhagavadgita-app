@@ -32,11 +32,14 @@ platform :android do
     publish_to_store = options.fetch(:publish, false)
     track = options[:track] || "internal"
 
+    # native/android/app/build.gradle declares flavorDimensions "server" (dev/live) — "live" is the
+    # production-API flavor and what actually gets published; the Flutter-embedded build.gradle.kts
+    # has no flavors.
     apk_path =
       if platform_dir == "android"
         "#{platform_dir}/build/app/outputs/flutter-apk/app-release.apk"
       else
-        "#{platform_dir}/app/build/outputs/apk/release/app-release.apk"
+        "#{platform_dir}/app/build/outputs/apk/live/release/app-live-release.apk"
       end
 
     unless publish_to_store

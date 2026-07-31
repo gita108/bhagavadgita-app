@@ -1,13 +1,34 @@
 // Gradle init script for building native/android (legacy AGP 3.0.1 project) without editing its
-// own build.gradle files. Two jobs:
+// own build.gradle files.
 //
-//   1. Add a JCenter-mirror fallback repository, since jcenter() itself has been fully shut down
-//      since 2021. Added *alongside* (not instead of) the project's own declared repositories.
-//   2. Inject a `release` signingConfig, since native/android/app/build.gradle's `release` build
-//      type has none — Play Console requires a signed APK/AAB. Values come from -P properties,
-//      themselves populated from the ANDROID_KEYSTORE_* GitHub secrets (see release.yml). If the
-//      properties are absent (no secrets configured), signing is skipped gracefully and the build
-//      stays unsigned/debug-equivalent — see AC #7 (optional/best-effort signing).
+// Job 1 — fallback repositories. Empirically (see flows/sdd-bhagavadgita-app-build/04-implementation-log.md),
+// `jcenter.bintray.com` itself is still alive as a frozen, read-only mirror of the *central* JCenter
+// index — the vast majority of this project's old dependencies (AGP 3.0.1 itself, Kotlin stdlib,
+// asm, proguard, etc.) resolve from it just fine. An Aliyun JCenter mirror is added as an extra
+// fallback in case the frozen mirror ever goes away entirely.
+//
+// KNOWN UNRESOLVED GAP — `com.viewpagerindicator:library:2.4.1` (used by the onboarding/guide
+// screens) cannot be resolved by this image. Its origin was a *personal* Bintray repo
+// (`dl.bintray.com/populov/maven`, referenced in native/android/build.gradle's own
+// `allprojects.repositories`) — personal/org repos were deleted outright when Bintray shut down in
+// 2021, unlike the central JCenter index. The library itself is open-source (Jake Wharton's
+// ViewPagerIndicator) and JitPack still serves it under GitHub coordinates
+// (`com.github.JakeWharton:ViewPagerIndicator:2.4.1`) — but the app declares it with the old `@aar`
+// "artifact-only" dependency notation (`compile 'com.viewpagerindicator:library:2.4.1@aar'`), which
+// resolves through Gradle's legacy Ivy-style artifact path and does NOT go through the module
+// dependency graph at all — so Gradle's `resolutionStrategy.dependencySubstitution` (the no-source-edit
+// mechanism used elsewhere in this file, e.g. for signingConfig) cannot intercept it. Confirmed by
+// testing both an exact-version and a version-less `substitute module(...)` rule — both no-ops for
+// this specific dependency. Fixing this for real requires either editing the `@aar` declaration in
+// native/android/app/build.gradle (out of scope — "no changes to native/" — flag for a future,
+// explicitly-scoped spec) or vendoring the .aar as a local file-based Maven repo (not attempted here).
+// Accepted per flows/sdd-bhagavadgita-app-build/01-requirements.md Decision #9: `assembleDebug`/
+// `assembleRelease` fail on this one dependency; every other part of the old toolchain works.
+//
+// Job 2 — inject a `release` signingConfig (see gradle.projectsEvaluated below), since
+// native/android/app/build.gradle's `release` build type has none — Play Console requires a signed
+// APK/AAB. Values come from -P properties, populated from the ANDROID_KEYSTORE_* GitHub secrets (see
+// release.yml). If absent, signing is skipped gracefully — see AC #7 (optional/best-effort signing).
 //
 // Usage: gradle --init-script docker/android-native-jcenter-init.gradle -p native/android <task>
 //        [-PandroidKeystoreFile=... -PandroidKeystorePassword=... -PandroidKeyAlias=... -PandroidKeyPassword=...]
